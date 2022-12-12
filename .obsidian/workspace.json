@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "93ec0bd4f7492ab7",
+        "id": "75f8e5aed6370dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "5a0dedebf74ae70f",
+            "id": "3da2a0bbe86067db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Software Engineering/Git_Konfiguration.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,11 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a0dedebf74ae70f",
+  "active": "14a2ceeaaea00185",
   "lastOpenFiles": [
+    "Software Engineering/Git_Konfiguration.md",
     "Test.md",
     "未命名.md",
-    "Software Engineering/Git_Konfiguration.md",
     "Software Engineering/Notiz_Vorlesung_20221209.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Datenbanken/Notiz_DRL.md",
