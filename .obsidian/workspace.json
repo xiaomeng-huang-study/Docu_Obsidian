@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f0b1ded65ed1c8ca",
+        "id": "93ec0bd4f7492ab7",
         "type": "tabs",
         "children": [
           {
-            "id": "329b6b7b0e125cbd",
+            "id": "5a0dedebf74ae70f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,10 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "329b6b7b0e125cbd",
+  "active": "14a2ceeaaea00185",
   "lastOpenFiles": [
-    "未命名.md",
     "Test.md",
+    "未命名.md",
     "Software Engineering/Git_Konfiguration.md",
     "Software Engineering/Notiz_Vorlesung_20221209.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
