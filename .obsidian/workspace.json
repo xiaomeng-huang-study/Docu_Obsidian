@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md"
+                "file": "Test.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "active": "329b6b7b0e125cbd",
   "lastOpenFiles": [
+    "Software Engineering/Git_Konfiguration.md",
     "Test.md",
     "Software Engineering/Notiz_Vorlesung_20221209.md",
-    "Software Engineering/Git_Konfiguration.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Datenbanken/Notiz_DRL.md",
     "Datenbanken/Datenbanken_Notiz.md",
