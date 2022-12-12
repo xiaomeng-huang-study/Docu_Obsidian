@@ -1,7 +1,7 @@
 - SSH
 	- `cd C:\Users\User_Name\.ssh` 
 	- `git bash here` 
-	- `ssh-keygen -t rsa` SSH-Schlüssel zu erzeugen
+	- `ssh-keygen -t rsa` : SSH-Schlüssel zu erzeugen
 	- `touch config` : config zu erzeugen
 		```
 		# GITHUB
@@ -15,14 +15,11 @@
 		Host gitlab.com
 		   HostName gitlab.com
 		   PreferredAuthentications publickey
-		   IdentityFile ~/.ssh/id_rsa
+		   IdentityFile ~/.ssh/id_rsa_gitlab
 		```
+	- ".gitignore" erstellen
 	- SSH_pub in Git-Website hinzufügen 
 		- kann mit ssh -T git@github.com testen
-- Repository initializieren
-	- cd Repository 
-	- `git add .` 
-	- `git commit -m 'first commit'` 
 - Konfiguration über User
 	- Informationen für alle Repository gültig 
 		- `git config --global user.name "..."` 
@@ -33,5 +30,12 @@
 	- get User_name bzw. User_email
 		- `git config user.name `
 		- `git config user.email` 
-- clonen
-	- `git clone git@...` 
+- Repository initializieren
+	- cd Repository
+	- clonen/ add remote:
+		- clonen: `git clone git@...` 
+		- remote add: `git remote add origin https://...git` 
+		- kann mit `git remote -v` überprüfen
+	- `git add .` 
+	- `git commit -m 'initialization'` 
+	- `git push (-u origin master)` `//u:first time` 
