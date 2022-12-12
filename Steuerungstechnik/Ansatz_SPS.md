@@ -1,0 +1,32 @@
+- Taster und Schalter
+	- Taster: Impuls
+	- Schalter: Verbindung 
+- über Taster
+	- ==SETZEN==
+		- **Trigger** (0->1) 
+			- Taster/ EndlageSensor
+		- **& Bedingung**
+			- Startbedingung
+		- **& Maschine an**
+		- (**& $\neg$ Störung**)
+	- ==Rücksetzen==
+		- **Trigger** (0->1)
+			- Taster/ EndlageSensor
+		-  **& Bedingung**
+			- Endbedingung
+		- (**& $\neg$ Störung**)
+		- **& Maschiene an**
+		- **$\lor$ obere Bedingung**
+			- z.B. $\neg$ Automatik.Ein (Automatik.Ein deaktiviert -> Automatik.start auch deaktiviert)
+		- (**$\lor$ Störung**)
+	- Verriegelung
+		- wenn S=R=1
+			- Normalfall: pos. Flanke
+			- problematisch: ohne Flanke
+		- Priorität 
+- Zustand über Schalter
+	- **Trigger**
+		- Schalter 
+	- **&** <u>Verriegelung</u>
+	- **& Bedingung**
+	- (**& $\neg$ Störung**)

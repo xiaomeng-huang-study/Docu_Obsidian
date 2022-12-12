@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "7f8bc18273590ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0b1ded65ed1c8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "329b6b7b0e125cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Git_Konfiguration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54d7010efff03973",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec55c51a31193921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14a2ceeaaea00185",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10957690b838921d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ca32310b7b38b0f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0afab18862071791",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b5483ac791418e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a33e3d459144fe62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engineering/Git_Konfiguration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8921ea6e4d1fb914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Engineering/Git_Konfiguration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86e51cee7bc90d68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "948e3ace9acefd0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Engineering/Git_Konfiguration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "329b6b7b0e125cbd",
+  "lastOpenFiles": [
+    "Test.md",
+    "Software Engineering/Notiz_Vorlesung_20221209.md",
+    "Software Engineering/Git_Konfiguration.md",
+    "Elektronik2/AD-Umsetzungsverfahren.md",
+    "Datenbanken/Notiz_DRL.md",
+    "Datenbanken/Datenbanken_Notiz.md",
+    "Datenbanken/SQL-DML-DDL.md",
+    "Datenbanken/SQL-DML-DDL_kurzeÜbung_Datenmodell.md",
+    "Prüfungsplan_Entwurf.md",
+    "Camera_XHS_16657904774920302aa01kwjcx24tlwm010oyaa5c6bt2zd.jpg"
+  ]
+}
