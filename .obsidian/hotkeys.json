@@ -31,5 +31,13 @@
       ],
       "key": "C"
     }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
   ]
 }
