@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/Notiz_DDL.md",
+                "file": "Datenbanken/DDL_Create_Drop_Alter.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/Notiz_DDL.md",
+                "file": "Datenbanken/DDL_Create_Drop_Alter.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Notiz_DDL.md",
+                "file": "Datenbanken/DDL_Create_Drop_Alter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Notiz_DDL.md",
+                "file": "Datenbanken/DDL_Create_Drop_Alter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Notiz_DDL.md"
+                "file": "Datenbanken/DDL_Create_Drop_Alter.md"
               }
             }
           }
@@ -153,7 +153,7 @@
   "lastOpenFiles": [
     "Datenbanken/Datenbanken_Notiz.md",
     "Datenbanken/SQL常用函数与约束的使用.md",
-    "Datenbanken/Notiz_DDL.md",
+    "Datenbanken/DDL_Create_Drop_Alter.md",
     "Datentype_MySQL.md",
     "Email/Email_20221213_AGCO.md",
     "Email_20221213_AGCO_2.md",
