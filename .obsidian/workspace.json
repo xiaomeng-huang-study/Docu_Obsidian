@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f22165a211bb2da",
+            "id": "01cdfe6503494f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -136,8 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6f22165a211bb2da",
+  "active": "01cdfe6503494f62",
   "lastOpenFiles": [
+    "Medizin.md",
+    "Elektronik2/AD-Umsetzungsverfahren.md",
     "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
     "Datenbanken/Datenbanken_Notiz/SQL常用函数与约束的使用.md",
     "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
@@ -145,8 +147,6 @@
     "Datenbanken/Datenbanken_Notiz/DQL_Select.md",
     "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
     "Datenbanken/Datenbanken_Notiz/DML_Insert_Update_Delete.md",
-    "未命名思维导图.md",
-    "Email/Email_20221213_AGCO.md",
-    "Email/Email_20221213_AGCO_2.md"
+    "未命名思维导图.md"
   ]
 }
