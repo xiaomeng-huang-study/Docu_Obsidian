@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e0ca77778d4e386e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/DML_Insert_Update_Delete.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/DML_Insert_Update_Delete.md",
+                "file": "Datenbanken/DDL_Create_Drop_Alter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/DML_Insert_Update_Delete.md",
+                "file": "Datenbanken/DDL_Create_Drop_Alter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/DML_Insert_Update_Delete.md"
+                "file": "Datenbanken/DDL_Create_Drop_Alter.md"
               }
             }
           }
@@ -161,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e0ca77778d4e386e",
+  "active": "0a44e03c022f53b9",
   "lastOpenFiles": [
+    "未命名思维导图.md",
     "Datenbanken/DDL_Create_Drop_Alter.md",
+    "Datenbanken/DML_Insert_Update_Delete.md",
     "Datenbanken/Datenbanken_Notiz.md",
     "Datenbanken/SQL常用函数与约束的使用.md",
     "Datenbanken/Datentype_MySQL.md",
     "Email/Email_20221213_AGCO.md",
     "Email/Email_20221213_AGCO_2.md",
     "Software Engineering/Git_Konfiguration.md",
-    "Test.md",
-    "Software Engineering/Notiz_Vorlesung_20221209.md",
-    "Elektronik2/AD-Umsetzungsverfahren.md"
+    "Test.md"
   ]
 }

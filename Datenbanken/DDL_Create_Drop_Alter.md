@@ -1,3 +1,8 @@
+---
+
+mindmap-plugin: basic
+
+---
 - **CREATE** 
 	- **TABLE** 
 		```mysql
@@ -52,15 +57,10 @@
 			- **UNIQUE** : eindeutig 
 			- **DEFAULT**
 	- **VIEW** 
-		- erstellen
-			```mysql
-			create VIEW View_Name as
-			select ...
-			```
-		- löschen
-			```mysql
-			Drop VIEW View_Name
-			```
+		```mysql
+		create VIEW View_Name as
+		select ...
+		```
 
 - **ALTER** 
 	- Beispiel
@@ -68,6 +68,8 @@
 		alter TABLE Tabelle_Name
 		modify COLUMN Attribut_Name VARCHAR(30) NOT NULL;
 		```
+
+
 
 
 
