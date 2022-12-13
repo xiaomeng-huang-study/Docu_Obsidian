@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0ca77778d4e386e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/DML_Insert_Update_Delete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/DDL_Create_Drop_Alter.md",
+                "file": "Datenbanken/DML_Insert_Update_Delete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/DDL_Create_Drop_Alter.md",
+                "file": "Datenbanken/DML_Insert_Update_Delete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/DDL_Create_Drop_Alter.md"
+                "file": "Datenbanken/DML_Insert_Update_Delete.md"
               }
             }
           }
@@ -149,14 +161,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a44e03c022f53b9",
+  "active": "e0ca77778d4e386e",
   "lastOpenFiles": [
+    "Datenbanken/DDL_Create_Drop_Alter.md",
     "Datenbanken/Datenbanken_Notiz.md",
     "Datenbanken/SQL常用函数与约束的使用.md",
-    "Datenbanken/DDL_Create_Drop_Alter.md",
-    "Datentype_MySQL.md",
+    "Datenbanken/Datentype_MySQL.md",
     "Email/Email_20221213_AGCO.md",
-    "Email_20221213_AGCO_2.md",
+    "Email/Email_20221213_AGCO_2.md",
     "Software Engineering/Git_Konfiguration.md",
     "Test.md",
     "Software Engineering/Notiz_Vorlesung_20221209.md",
