@@ -9,7 +9,7 @@
 	- Constraints einsetzen 
 		- 1. Möglichkeit 
 			```mysql
-				create TABLE Tabelle_Name(
+			create TABLE Tabelle_Name(
 			Attribut1_Name Attribut1_Datentyp Constraint_Typ,
 			Attribut2_Name Attribut2_Datentyp
 			
@@ -23,7 +23,7 @@
 			Constraint pk_(Tabelle_Name) PRIMARY KEY (Attribut1_Name)
 			)
 			```
-	- Constraint_TYP
+	- Constraint_TYP ^constrainttyp
 		- NOT NULL
 		- PRIMARY KEY
 			- eindeutig 
@@ -33,4 +33,4 @@
 		- FOREIGN KEY
 		- UNIQUE
 		- DEFAULT
-	- 
+	
