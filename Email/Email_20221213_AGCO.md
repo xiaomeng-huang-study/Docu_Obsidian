@@ -1,9 +1,9 @@
 Guten Morgen Frau Renic,
 
-vielen Dank für für Ihre Mitteilung. Als nächstes können wir über die Unterzeichnung des Vertrags sprechen, oder?
+vielen Dank für Ihre Mitteilung. Als Nächstes können wir über die Unterzeichnung des Vertrags sprechen, oder?
 
 PS:
-Ich habe noch 2 Fragen über die Wohnungs- und Zimmerliste
+Ich habe noch 2 Fragen über die Wohnungs- und Zimmerliste:
 - In der 2. Spalte sehe ich "Studierende/ Angestellte". Als Student sind mir nur die Zeilen, die Studenten enthalten von Bedeutung, oder?
 - Was bedeutet gelbe Zeile?
 
