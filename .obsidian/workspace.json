@@ -11,8 +11,12 @@
             "id": "3da2a0bbe86067db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Email/Email_20221213_AGCO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Email/Email_20221213_AGCO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Email/Email_20221213_AGCO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Email/Email_20221213_AGCO.md"
+              }
             }
           }
         ]
@@ -128,11 +136,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14a2ceeaaea00185",
+  "active": "3da2a0bbe86067db",
   "lastOpenFiles": [
     "Software Engineering/Git_Konfiguration.md",
     "Test.md",
-    "未命名.md",
+    "Email/Email_20221213_AGCO.md",
     "Software Engineering/Notiz_Vorlesung_20221209.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Datenbanken/Notiz_DRL.md",
