@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/Notiz_DRL.md",
+                "file": "Datenbanken/Notiz_DDL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a44e03c022f53b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/Notiz_DDL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Notiz_DRL.md",
+                "file": "Datenbanken/Notiz_DDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Notiz_DRL.md",
+                "file": "Datenbanken/Notiz_DDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "948e3ace9acefd0c",
+            "id": "f3705b9277011f6c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Notiz_DRL.md"
+                "file": "Datenbanken/Notiz_DDL.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f2d1ec2565de48b",
+  "active": "0a44e03c022f53b9",
   "lastOpenFiles": [
+    "Datenbanken/Datenbanken_Notiz.md",
+    "Datenbanken/SQL常用函数与约束的使用.md",
+    "Datenbanken/Notiz_DDL.md",
     "Datentype_MySQL.md",
-    "Datenbanken/Notiz_DRL.md",
     "Email/Email_20221213_AGCO.md",
     "Email_20221213_AGCO_2.md",
     "Software Engineering/Git_Konfiguration.md",
     "Test.md",
     "Software Engineering/Notiz_Vorlesung_20221209.md",
-    "Elektronik2/AD-Umsetzungsverfahren.md",
-    "Datenbanken/Datenbanken_Notiz.md",
-    "Datenbanken/SQL-DML-DDL.md"
+    "Elektronik2/AD-Umsetzungsverfahren.md"
   ]
 }

@@ -4,5 +4,7 @@
   "obsidian-plantuml",
   "mousewheel-image-zoom",
   "remotely-save",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "cm-editor-syntax-highlight-obsidian"
 ]
