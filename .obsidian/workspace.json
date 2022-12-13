@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "07afb8f94a7f4c2e",
+        "id": "cf19829a8b961d27",
         "type": "tabs",
         "children": [
           {
-            "id": "91414ae3112626bb",
+            "id": "6f22165a211bb2da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d91147761cf37fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,16 +128,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9d91147761cf37fe",
+  "active": "6f22165a211bb2da",
   "lastOpenFiles": [
     "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
+    "Datenbanken/Datenbanken_Notiz/SQL常用函数与约束的使用.md",
     "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
     "Test.md",
     "Datenbanken/Datenbanken_Notiz/DQL_Select.md",
     "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
     "Datenbanken/Datenbanken_Notiz/DML_Insert_Update_Delete.md",
     "未命名思维导图.md",
-    "Datenbanken/Datenbanken_Notiz/SQL常用函数与约束的使用.md",
     "Email/Email_20221213_AGCO.md",
     "Email/Email_20221213_AGCO_2.md"
   ]
