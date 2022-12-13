@@ -1,8 +1,3 @@
----
-
-mindmap-plugin: basic
-
----
 - **CREATE** 
 	- **TABLE** 
 		```mysql
@@ -69,7 +64,16 @@ mindmap-plugin: basic
 		modify COLUMN Attribut_Name VARCHAR(30) NOT NULL;
 		```
 
-
-
-
-
+- **DROP** 
+	- **Table** 
+		```mysql
+		drop TABLE Tabelle_Name
+		```
+	- **Database** 
+		```mysql
+		drop DATABASE Datenbank_Name
+		```
+	- **View** 
+		```mysql
+		drop VIEW View_Name
+		```
