@@ -42,3 +42,5 @@
 		- remote add: `git remote add origin https://...git` 
 		- kann mit `git remote -v` überprüfen
 	- `git push (-u origin main)` `//u:first time` 
+
+![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Git_Konfiguration.png)

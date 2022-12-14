@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Software Engineering/Git_Konfiguration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Software Engineering/Git_Konfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Software Engineering/Git_Konfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Software Engineering/Git_Konfiguration.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "05975085e1965e6a",
   "lastOpenFiles": [
-    "Software Engineering/Git_Konfiguration.md",
     "Test.md",
+    "Software Engineering/Git_Konfiguration.md",
     "Elektronik2/AD-Umsetzungsverfahren.md"
   ]
 }
