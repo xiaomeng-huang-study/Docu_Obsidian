@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signalverarbeitung/Labor/1.Labor_FIR.md",
+                "file": "Software Engineering/Git_Konfiguration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signalverarbeitung/Labor/1.Labor_FIR.md",
+                "file": "Software Engineering/Git_Konfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signalverarbeitung/Labor/1.Labor_FIR.md",
+                "file": "Software Engineering/Git_Konfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signalverarbeitung/Labor/1.Labor_FIR.md"
+                "file": "Software Engineering/Git_Konfiguration.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "d9c44b6eac2fd0b9",
   "lastOpenFiles": [
-    "Email/Email_20221214_FANUC.md",
     "Signalverarbeitung/Labor/1.Labor_FIR.md",
+    "Email/Email_20221214_FANUC.md",
     "1.Labor.md",
     "Test.md",
     "Software Engineering/Git_Konfiguration.md",

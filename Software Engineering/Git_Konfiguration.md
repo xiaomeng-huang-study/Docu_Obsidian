@@ -22,8 +22,9 @@
 
 - Repository initializieren
 	- cd Repository
-	- `git init` 
-	- `touch .gitignore` 
+	- `git init` : .git zu erzeugen
+	- (`git branch -m master main` ): master -> main
+	- (`touch .gitignore` )
 	- Konfiguration über User
 		- Informationen für alle Repository gültig 
 			- `git config --global user.name "..."` 
@@ -34,13 +35,17 @@
 		- get User_name bzw. User_email
 			- `git config user.name `
 			- `git config user.email` 
+
+- remote Repository -> Stage
+	- `git remote add origin https://...git` (kann mit `git remote -v` überprüfen)
+	- `git fetch origin` 
+- upstream 
+	- `git branch -u origin/main main` : pull durch diese Branch(main)
+- `git rebase origin/main main` : die neue Entwicklung von origin/main zu bekommen
+- local Repository -> Stage
+	- (`git checkout myBranch`) 
 	- `git add .`
-	- `git commit -m 'initialization'` 
-	- `git branch -m Main` 
-	- clonen/ add remote:
-		- clonen: `git clone git@...` 
-		- remote add: `git remote add origin https://...git` 
-		- kann mit `git remote -v` überprüfen
-	- `git push (-u origin main)` `//u:first time` 
+	- `git commit -m 'init'` 
+- `git push (-u origin main)` `//u:first time` 
 
 ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Git_Konfiguration.png)
