@@ -4,7 +4,7 @@
 - URL_Abkürzung : origin
 - URL: https://...
 - Funktion: Zugang zu einem Server 
-- Beispiel: ==git remote add origin https://...== 
+- Beispiel: ==git remote add origin https://... ==
 - ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/git_remote_add.png)
 
 
