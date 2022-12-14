@@ -23,6 +23,7 @@
 - Repository initializieren
 	- cd Repository
 	- `git init` 
+	- `touch .gitignore` 
 	- Konfiguration über User
 		- Informationen für alle Repository gültig 
 			- `git config --global user.name "..."` 

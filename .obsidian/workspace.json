@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "7f8bc18273590ce2",
+    "id": "947e61735db53716",
     "type": "split",
     "children": [
       {
-        "id": "cf19829a8b961d27",
+        "id": "58d2d1f12083abd3",
         "type": "tabs",
         "children": [
           {
-            "id": "01cdfe6503494f62",
+            "id": "05975085e1965e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "54d7010efff03973",
+    "id": "f58ada6666441185",
     "type": "split",
     "children": [
       {
-        "id": "ec55c51a31193921",
+        "id": "f9a237f927ecebb0",
         "type": "tabs",
         "children": [
           {
-            "id": "14a2ceeaaea00185",
+            "id": "8c6a37a0aafca059",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "10957690b838921d",
+            "id": "7a3674a0e3acdef8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "5ca32310b7b38b0f",
+            "id": "01b48c56e27f254e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "0afab18862071791",
+    "id": "f20dd8ed232d0546",
     "type": "split",
     "children": [
       {
-        "id": "68b5483ac791418e",
+        "id": "945ca93059ad69b1",
         "type": "tabs",
         "children": [
           {
-            "id": "a33e3d459144fe62",
+            "id": "0c7e45d6ce040559",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "8921ea6e4d1fb914",
+            "id": "2e5041c03203a672",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "86e51cee7bc90d68",
+            "id": "8a499896676dcdaa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "f3705b9277011f6c",
+            "id": "fb97a0b48275a1f0",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -136,17 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01cdfe6503494f62",
+  "active": "05975085e1965e6a",
   "lastOpenFiles": [
-    "Elektronik2/AD-Umsetzungsverfahren.md",
-    "Medizin.md",
-    "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
-    "Datenbanken/Datenbanken_Notiz/SQL常用函数与约束的使用.md",
-    "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
     "Test.md",
-    "Datenbanken/Datenbanken_Notiz/DQL_Select.md",
-    "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
-    "Datenbanken/Datenbanken_Notiz/DML_Insert_Update_Delete.md",
-    "未命名思维导图.md"
+    "Software Engineering/Git_Konfiguration.md",
+    "Elektronik2/AD-Umsetzungsverfahren.md"
   ]
 }
