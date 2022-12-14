@@ -17,25 +17,27 @@
 		   PreferredAuthentications publickey
 		   IdentityFile ~/.ssh/id_rsa_gitlab
 		```
-	- ".gitignore" erstellen
 	- SSH_pub in Git-Website hinzufügen 
 		- kann mit ssh -T git@github.com testen
-- Konfiguration über User
-	- Informationen für alle Repository gültig 
-		- `git config --global user.name "..."` 
-		- `git config --global user.email "..."`  
-	- Informationen nur für diese Repository gültig 
-		- `git config user.name "..."` 
-		- `git config user.email "..." `
-	- get User_name bzw. User_email
-		- `git config user.name `
-		- `git config user.email` 
+
 - Repository initializieren
 	- cd Repository
+	- `git init` 
+	- Konfiguration über User
+		- Informationen für alle Repository gültig 
+			- `git config --global user.name "..."` 
+			- `git config --global user.email "..."`  
+		- Informationen nur für diese Repository gültig 
+			- `git config user.name "..."` 
+			- `git config user.email "..." `
+		- get User_name bzw. User_email
+			- `git config user.name `
+			- `git config user.email` 
+	- `git add .`
+	- `git commit -m 'initialization'` 
+	- `git branch -m Main` 
 	- clonen/ add remote:
 		- clonen: `git clone git@...` 
 		- remote add: `git remote add origin https://...git` 
 		- kann mit `git remote -v` überprüfen
-	- `git add .` 
-	- `git commit -m 'initialization'` 
-	- `git push (-u origin master)` `//u:first time` 
+	- `git push (-u origin main)` `//u:first time` 

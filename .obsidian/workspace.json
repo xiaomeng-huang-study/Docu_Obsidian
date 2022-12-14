@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik2/AD-Umsetzungsverfahren.md",
+                "file": "Software Engineering/Git_Konfiguration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronik2/AD-Umsetzungsverfahren.md",
+                "file": "Software Engineering/Git_Konfiguration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektronik2/AD-Umsetzungsverfahren.md",
+                "file": "Software Engineering/Git_Konfiguration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektronik2/AD-Umsetzungsverfahren.md"
+                "file": "Software Engineering/Git_Konfiguration.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "01cdfe6503494f62",
   "lastOpenFiles": [
-    "Medizin.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
+    "Medizin.md",
     "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
     "Datenbanken/Datenbanken_Notiz/SQL常用函数与约束的使用.md",
     "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
