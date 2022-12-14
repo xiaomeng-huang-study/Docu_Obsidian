@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signalverarbeitung_1.Labor.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signalverarbeitung_1.Labor.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signalverarbeitung_1.Labor.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signalverarbeitung_1.Labor.md"
+                "file": "Test.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "2a057e9507aeda6b",
   "lastOpenFiles": [
+    "Signalverarbeitung_1.Labor.md",
     "Software Engineering/Git_Konfiguration.md",
     "Test.md",
     "Medizin.md",
