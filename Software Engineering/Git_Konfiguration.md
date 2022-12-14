@@ -46,6 +46,6 @@
 	- (`git checkout myBranch`) 
 	- `git add .`
 	- `git commit -m 'init'` 
-- `git push (-u origin main)` `//u:first time` 
+	- `git push (-u origin main)` `//u:first time` 
 
 ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Git_Konfiguration.png)
