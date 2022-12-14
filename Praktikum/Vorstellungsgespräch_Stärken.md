@@ -1,0 +1,22 @@
+- ==Stärken==
+	- ???Warum arbeiten Kollegen gerne mit Ihnen?
+	- Ich nehme <u>Herausforderungen</u> gerne an. 
+		- Letzte Woche hat unser Team an einem Stück Code gearbeitet, aber nach einem Nachmittag ohne Ergebnis bzw. Erfolglos. Ich habe nicht aufgegeben und weiter daran gearbeitet. Schließlich habe ich unsere Gruppe vertreten, die Ergebnisse zu zeigen. Unsere Gruppe war die einzige Gruppe, die das Ziel erreicht hat.
+	-  <u>Selbstdisziplin/Selbstständigkeit</u> 
+		- Ich kann <u>Zeit und Fortschritt</u> selbst <u>organisieren</u>. Die andere brauchen mich nicht zu drängen.
+		- Ein Beispiel beim Studium: Nach dem Unterricht schaue ich mir <u>Materialien</u> von anderen Schulen oder Institutionen an, um mein Wissen zu vertiefen.
+	- <u>praxisnahe</u> Erfahrungen (vorteilhaft)
+		- Hochschulen sind in <u>Fachhochschule und Uni</u> eingeteilt. Ich habe mich für Fachhochschule entschieden. Dazu kann ich mehr Praxiserfahrung bekommen.
+		- Im Rahmen von meinem Studium habe ich viele Laborarbeiten durchgeführt 
+	- Zuverlässigkeit 
+		- Ich halte <u>Deadline</u> immer <u>ein</u> sogar noch <u>früher</u>.
+		- Man kann immer sich auf mich verlassen
+		- In stressigen Situationen kann ich einen <u>kühlen Kopf</u> bewahren.
+	- Teamfähigkeit 
+		- Ich kann gut mit Team <u>kommunizieren</u> und arbeiten. 
+		- <u>Streiten</u> kann ich angemessen lösen.
+	- Strukturiertes Vorgehen
+		- Ich bringe die aufkommenden Probleme nicht durcheinander, sondern wähle die <u>wichtigsten</u> aus und gehe Schritt für Schritt auf das <u>Ziel</u> zu.
+	- Lernbereitschaft
+	- Zielorientierung
+	- Anpassungsfähigkeit 

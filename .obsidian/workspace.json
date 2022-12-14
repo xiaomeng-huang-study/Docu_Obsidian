@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "947e61735db53716",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca1ef44e8b6fef37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8901d1491339b5c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f58ada6666441185",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9a237f927ecebb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c6a37a0aafca059",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a3674a0e3acdef8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01b48c56e27f254e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f20dd8ed232d0546",
+    "type": "split",
+    "children": [
+      {
+        "id": "945ca93059ad69b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c7e45d6ce040559",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e5041c03203a672",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a499896676dcdaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb97a0b48275a1f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8901d1491339b5c5",
+  "lastOpenFiles": [
+    "Test.md",
+    "Software Engineering/Git_Konfiguration.md",
+    "S127_Übung zu Ablaufsteuerungen_Reaktionsprozess.md",
+    "Elektronik2/AD-Umsetzungsverfahren.md"
+  ]
+}
