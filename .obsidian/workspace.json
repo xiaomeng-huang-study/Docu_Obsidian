@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76db7cb9797ec54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notiz_Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "Notiz_Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "Notiz_Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md"
+                "file": "Notiz_Git.md"
               }
             }
           }
@@ -136,13 +149,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9c44b6eac2fd0b9",
+  "active": "76db7cb9797ec54d",
   "lastOpenFiles": [
+    "Software Engineering/Git_Konfiguration.md",
+    "Notiz_Git.md",
     "Signalverarbeitung/Labor/1.Labor_FIR.md",
     "Email/Email_20221214_FANUC.md",
     "1.Labor.md",
     "Test.md",
-    "Software Engineering/Git_Konfiguration.md",
     "Medizin.md",
     "Software Engineering/Modell_Interface.md",
     "S127_Übung zu Ablaufsteuerungen_Reaktionsprozess.md",
