@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8aa7b8e7b13ee58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S127_Übung zu Ablaufsteuerungen_Reaktionsprozess.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "S127_Übung zu Ablaufsteuerungen_Reaktionsprozess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "S127_Übung zu Ablaufsteuerungen_Reaktionsprozess.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md"
+                "file": "S127_Übung zu Ablaufsteuerungen_Reaktionsprozess.md"
               }
             }
           }
@@ -136,10 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05975085e1965e6a",
+  "active": "a8aa7b8e7b13ee58",
   "lastOpenFiles": [
-    "Test.md",
     "Software Engineering/Git_Konfiguration.md",
+    "Test.md",
     "Elektronik2/AD-Umsetzungsverfahren.md"
   ]
 }
