@@ -51,3 +51,11 @@
 
 ## git rebase
 [git rebase详解（图解+最简单示例，一次就懂）_风中一匹狼v的博客-CSDN博客_git rebase](https://blog.csdn.net/weixin_42310154/article/details/119004977) 
+
+## git pull
+- git fetch+git merge
+
+## git clone
+- alle datei werden heruntergeladen
+- origin/master schon mit master(Server) synchronisiert
+- master wird sich schon auf origin/master gerichtet
