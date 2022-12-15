@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "8598ab28433485a0",
+        "id": "2258f70968051362",
         "type": "tabs",
         "children": [
           {
-            "id": "cb30b77a65ed62da",
+            "id": "dbf9370a78f1efef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md",
+                "file": "未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1863016dbc88b1c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59ace7edf3423863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -136,10 +155,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb30b77a65ed62da",
+  "active": "dbf9370a78f1efef",
   "lastOpenFiles": [
-    "Software Engineering/Git_Konfiguration.md",
     "Software Engineering/Notiz_Git.md",
+    "Software Engineering/Git_Konfiguration.md",
     "Signalverarbeitung/Labor/1.Labor_FIR.md",
     "Email/Email_20221214_FANUC.md",
     "1.Labor.md",
