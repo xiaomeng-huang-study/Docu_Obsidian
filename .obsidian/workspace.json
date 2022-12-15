@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "756427f928f0781a",
+        "id": "8598ab28433485a0",
         "type": "tabs",
         "children": [
           {
-            "id": "d9c44b6eac2fd0b9",
+            "id": "cb30b77a65ed62da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76db7cb9797ec54d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Notiz_Git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Software Engineering/Notiz_Git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76db7cb9797ec54d",
+  "active": "cb30b77a65ed62da",
   "lastOpenFiles": [
     "Software Engineering/Git_Konfiguration.md",
     "Software Engineering/Notiz_Git.md",
