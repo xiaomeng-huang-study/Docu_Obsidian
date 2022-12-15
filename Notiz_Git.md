@@ -24,7 +24,6 @@
 	- origin/branch_local wird zu branch_remote gepushed
 	- zwi. <u>origin/master</u> und <u>Server</u> 
 - Beispiel: ==git push origin myBranch== 
-- <font color="red">123 </font> 
 
 ## git checkout : <font color="red">origin/myBranch --> myBranch</font>
 #### **`git checkout -b <branch_local> <origin>/<branch_local>`** 
