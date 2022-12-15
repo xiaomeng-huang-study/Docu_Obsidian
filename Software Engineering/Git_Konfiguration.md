@@ -35,16 +35,17 @@
 		- get User_name bzw. User_email
 			- `git config user.name `
 			- `git config user.email` 
-
-- local Repository -> Stage
-	- `git add .`
-	- `git commit -m 'init'` 
 - remote Repository -> Stage
 	- `git remote add origin https://...git` (kann mit `git remote -v` überprüfen)
 	- `git fetch origin` 
 - upstream 
-	- `git branch -u origin/main main` : pull durch diese Branch(main)
+	- `git checkout -b main origin/main` 
 - `git rebase origin/main main` : die neue Entwicklung von origin/main zu bekommen
-- `git push (-u origin main)` //u:first time 
+
+- local Repository -> Stage
+	- `git checkout ...` 
+	- `git add .`
+	- `git commit -m 'init'` 
+	- `git push (-u origin main)` //u:first time 
 
 ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Git_Konfiguration.png)

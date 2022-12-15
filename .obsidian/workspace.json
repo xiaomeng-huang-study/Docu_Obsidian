@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notiz_Git.md",
+                "file": "Software Engineering/Notiz_Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notiz_Git.md",
+                "file": "Software Engineering/Notiz_Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notiz_Git.md",
+                "file": "Software Engineering/Notiz_Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notiz_Git.md"
+                "file": "Software Engineering/Notiz_Git.md"
               }
             }
           }
@@ -152,7 +152,7 @@
   "active": "76db7cb9797ec54d",
   "lastOpenFiles": [
     "Software Engineering/Git_Konfiguration.md",
-    "Notiz_Git.md",
+    "Software Engineering/Notiz_Git.md",
     "Signalverarbeitung/Labor/1.Labor_FIR.md",
     "Email/Email_20221214_FANUC.md",
     "1.Labor.md",

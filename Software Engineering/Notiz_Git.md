@@ -22,7 +22,7 @@
 - "`:<branch_remote>` "kann weggelassen , wenn die Namen entsprechen 
 - Funktion
 	- origin/branch_local wird zu branch_remote gepushed
-	- zwi. <u>origin/master</u> und <u>Server</u> 
+	- zwi. <u>origin/myBranch</u> und <u>myBranch(Server)</u> 
 - Beispiel: ==git push origin myBranch== 
 
 ## git checkout : <font color="red">origin/myBranch --> myBranch</font>
