@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b15b84cf3783044e",
+        "id": "f5fcb5c960bcb52c",
         "type": "tabs",
         "children": [
           {
-            "id": "678457b04ebeb3b7",
+            "id": "02e56b4576dc5da0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Email/Email_20221216_Kleemann.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
