@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2258f70968051362",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dbf9370a78f1efef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1863016dbc88b1c7",
         "type": "tabs",
         "children": [
@@ -155,7 +137,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbf9370a78f1efef",
+  "active": "59ace7edf3423863",
   "lastOpenFiles": [
     "Software Engineering/Notiz_Git.md",
     "Software Engineering/Git_Konfiguration.md",
