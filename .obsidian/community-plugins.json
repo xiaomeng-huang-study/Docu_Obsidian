@@ -7,5 +7,7 @@
   "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-mind-map",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "obsidian-annotator",
+  "convert-url-to-iframe"
 ]
