@@ -124,15 +124,23 @@
                 "file": "Email/Email_20221216_Kleemann.md"
               }
             }
+          },
+          {
+            "id": "cc65f5aeb374595f",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-mubu",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 708.5
   },
-  "active": "8c6a37a0aafca059",
+  "active": "cc65f5aeb374595f",
   "lastOpenFiles": [
     "Praktikum/Grenzebach/Vorstellungsgespräch_Grenzebach.md",
     "Email/Email_20221216_Kleemann.md",
