@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0e9876b161a4a4f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "6aefa04ebabf682c",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,9 +142,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 831.5
+    "width": 200,
+    "collapsed": true
   },
-  "active": "6aefa04ebabf682c",
+  "active": "cc65f5aeb374595f",
   "lastOpenFiles": [
     "Test.md",
     "Medizin.md",
