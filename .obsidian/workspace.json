@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "20014ebf19964669",
+        "id": "56273d290a5b12da",
         "type": "tabs",
         "children": [
           {
-            "id": "0dfceedf148d99b7",
+            "id": "2b62f37796b54c20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik2/AD-Umsetzungsverfahren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93be127537a79709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elektronik2/DA-Umsetzungsverfahren.md",
+                "file": "Prog C++/Zeiger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronik2/DA-Umsetzungsverfahren.md",
+                "file": "Prog C++/Zeiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektronik2/DA-Umsetzungsverfahren.md",
+                "file": "Prog C++/Zeiger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektronik2/DA-Umsetzungsverfahren.md"
+                "file": "Prog C++/Zeiger.md"
               }
             }
           },
@@ -164,19 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 676.5
+    "width": 676.5,
+    "collapsed": true
   },
-  "active": "93be127537a79709",
+  "active": "2b62f37796b54c20",
   "lastOpenFiles": [
+    "Prog C++/Little- and Big Endian.md",
+    "Prog C++/bitweise Operatoren.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
+    "Elektronik2/DA-Umsetzungsverfahren.md",
     "Email/Email_20221219_GROB.md",
     "Mathe3/Statistik/statistische Test.md",
-    "Prog C++/Little- and Big Endian.md",
     "Test.md",
     "Medizin.md",
     "Regelungstechnik/未命名.md",
-    "Praktikum/Grenzebach/Vorstellungsgespräch_Grenzebach.md",
-    "Email/Email_20221216_Kleemann.md",
-    "Software Engineering/Notiz_Git.md"
+    "Praktikum/Grenzebach/Vorstellungsgespräch_Grenzebach.md"
   ]
 }
