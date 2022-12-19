@@ -24,21 +24,61 @@
 				- 宽度=2Byte $\rightarrow$ `*((short*)(p+1))` 
 - array\[i] = \*(array+i)
 
-## char_Array
-	```c++
-	char str[6] = "Hello";
-	```
+## String
+### 1)char_Array als String
+```c++
+char str[6] = "Hello";
+```
 - intern
 | H   | e   | l   | l   | o   | \0  |
 | --- | --- | --- | --- | --- | --- |
 - Größe: `sizeof(str)` = 6
+- Beispiel
+	```c++
+	    char str[6] = "Hello";
+	    printf("%s",str);
+	    cout<<str<<endl;
+	```
 
-## Zeiger auf String
+### 2)Zeiger auf String
+```c++
+char *str = "Hello";
+```
+- <font color = "red">String in Datensegment(文字常量区) gespeichert</font> : nur lesbar
+- <font color = "red">str speichert nur die Adresse von erster char</font> 
+- Typ von str: char \* $\rightarrow$ `sizeof(str)` = 4 
+- Beispiel
 	```c++
 	char *str = "Hello";
+	printf("%s",str);
+	cout<<str<<endl;
 	```
-- Typ von str: char \* $\rightarrow$ `sizeof(str)` = 4
-- 
 
+### 3)Array of Pointer to String
+```c++
+char *arr[4]= {"Hello1","Hello2","Hello3","Hello4"};
+```
+- <font color = "red">ist ein Array</font> 
+- <font color = "red">jedes Element ist ein Zeiger(Typ: char \*)</font> 
+- `sizeof(arr)` = 4 $\cdot$ 4Byte 
+- Beispiel
+	```c++
+	char *arr[4]= {"Hello1","Hello2","Hello3","Hello4"};
+	printf("%s",arr[3]);    //keine * erforderlich
+	```
 
-
+## Array of Pointer
+```c++
+int a = 1, b = 2, c = 3, d = 4;
+int *arr[4] = {&a,&b,&c,&d};
+```
+- <font color = "red">ist ein Array</font> 
+- <font color = "red">jedes Element ist ein Zeiger(Typ: char \*)</font> 
+- `sizeof(arr)` = 4 $\cdot$ 4Byte 
+- Beispiel
+	```c++
+	int a = 1, b = 2, c = 3, d = 4;
+	int *arr[4] = {&a,&b,&c,&d};
+	printf("%d",*(arr[3]));     //* erforderlich
+	cout<<*(arr[3])<<endl;
+	```
