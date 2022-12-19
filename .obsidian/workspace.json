@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9439049df6e10e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prog C++/Speicherbereich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Zeiger.md",
+                "file": "Prog C++/Speicherbereich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Zeiger.md",
+                "file": "Prog C++/Speicherbereich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Zeiger.md"
+                "file": "Prog C++/Speicherbereich.md"
               }
             }
           },
@@ -153,8 +166,9 @@
     "width": 676.5,
     "collapsed": true
   },
-  "active": "2b62f37796b54c20",
+  "active": "a9439049df6e10e8",
   "lastOpenFiles": [
+    "Prog C++/Zeiger.md",
     "Prog C++/Little- and Big Endian.md",
     "Prog C++/bitweise Operatoren.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
@@ -163,7 +177,6 @@
     "Mathe3/Statistik/statistische Test.md",
     "Test.md",
     "Medizin.md",
-    "Regelungstechnik/未命名.md",
-    "Praktikum/Grenzebach/Vorstellungsgespräch_Grenzebach.md"
+    "Regelungstechnik/未命名.md"
   ]
 }
