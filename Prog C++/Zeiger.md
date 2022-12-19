@@ -22,3 +22,23 @@
 			- 0203 lesen
 				- 跨度=1Byte $\rightarrow$ `char *p = (char*)&num` 
 				- 宽度=2Byte $\rightarrow$ `*((short*)(p+1))` 
+- array\[i] = \*(array+i)
+
+## char_Array
+	```c++
+	char str[6] = "Hello";
+	```
+- intern
+| H   | e   | l   | l   | o   | \0  |
+| --- | --- | --- | --- | --- | --- |
+- Größe: `sizeof(str)` = 6
+
+## Zeiger auf String
+	```c++
+	char *str = "Hello";
+	```
+- Typ von str: char \* $\rightarrow$ `sizeof(str)` = 4
+- 
+
+
+
