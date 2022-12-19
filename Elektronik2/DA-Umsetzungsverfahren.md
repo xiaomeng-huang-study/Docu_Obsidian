@@ -1,0 +1,3 @@
+- Zählverfahren
+	- $\frac{u_{o}}{u_{o\ m a x}}=\frac{Z}{Z_{\mathrm{max}}}$
+	- 
