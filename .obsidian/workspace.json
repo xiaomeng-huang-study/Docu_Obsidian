@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a4a336333a7b1336",
+        "id": "20014ebf19964669",
         "type": "tabs",
         "children": [
           {
-            "id": "6b33bbda8000c1f0",
+            "id": "0dfceedf148d99b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8cfafd165d426988",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2411dac1816a8646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -104,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe3/Statistik/statistische Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,17 +139,17 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 676.5,
     "collapsed": true
   },
-  "active": "6b33bbda8000c1f0",
+  "active": "0dfceedf148d99b7",
   "lastOpenFiles": [
-    "Prog C++/Little- and Big Endian.md",
     "Mathe3/Statistik/statistische Test.md",
+    "Prog C++/Little- and Big Endian.md",
     "Test.md",
     "Medizin.md",
     "Regelungstechnik/未命名.md",
