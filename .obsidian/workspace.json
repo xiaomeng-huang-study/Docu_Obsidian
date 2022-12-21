@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15a5de583afe02a6",
+        "id": "935066a94c4a248a",
         "type": "tabs",
         "children": [
           {
-            "id": "29dea5cabf8ed42e",
+            "id": "42fa6a251d4ba9ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signalverarbeitung/Labor/2.Labor_IIR.md",
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signalverarbeitung/Labor/2.Labor_IIR.md",
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signalverarbeitung/Labor/2.Labor_IIR.md",
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signalverarbeitung/Labor/2.Labor_IIR.md"
+                "file": "Praktikum/AGCO/Wohnungssuche.md"
               }
             }
           },
@@ -170,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "29dea5cabf8ed42e",
+  "active": "42fa6a251d4ba9ab",
   "lastOpenFiles": [
-    "Signalverarbeitung/Labor/1.Labor_FIR.md",
+    "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
     "Signalverarbeitung/Labor/2.Labor_IIR.md",
+    "Signalverarbeitung/Labor/1.Labor_FIR.md",
     "Prog C++/Speicherbereich.md",
     "Prog C++/Little- and Big Endian.md",
     "Prog C++/Zeiger.md",
     "Prog C++/bitweise Operatoren.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Elektronik2/DA-Umsetzungsverfahren.md",
-    "Email/Email_20221219_GROB.md",
-    "Mathe3/Statistik/statistische Test.md"
+    "Email/Email_20221219_GROB.md"
   ]
 }
