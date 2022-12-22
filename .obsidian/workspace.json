@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d469c6f1a34ceb8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +175,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "42fa6a251d4ba9ab",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Wohnungssuche.md",
     "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
     "Signalverarbeitung/Labor/2.Labor_IIR.md",
     "Signalverarbeitung/Labor/1.Labor_FIR.md",
@@ -180,7 +186,6 @@
     "Prog C++/Zeiger.md",
     "Prog C++/bitweise Operatoren.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
-    "Elektronik2/DA-Umsetzungsverfahren.md",
-    "Email/Email_20221219_GROB.md"
+    "Elektronik2/DA-Umsetzungsverfahren.md"
   ]
 }
