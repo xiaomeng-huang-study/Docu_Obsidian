@@ -87,7 +87,25 @@ Xiaomeng Huang
 
 	- telefon
 
-- Zeile 
+- Zeile 59 Prio: sehr hoch 4min
+	- Bahnhofstraße 7
+	- Patricia u. Thomas Hamm, Tel. 08342/899636
+	- telefon
+
+- Zeile 52 Prio: mittel 18min
+	- Memelstraße
+	- Hr. Eberle, Tel. 08342/6959
+	- telefon
+
+- Zeile 48 Prio: niedrig 21min
+	- Am Rambogen 11
+	- Helmut Löfflad, Tel. 08342/1532 oder 01520/7031682
+	- whatsapp
+
+- Zeile 35 Prio: niedrig 20min
+	- Am Wildbann 1
+	- www.kulturhausilvia.de
+
 
 
 
