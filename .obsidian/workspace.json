@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42fa6a251d4ba9ab",
+            "id": "7d469c6f1a34ceb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7d469c6f1a34ceb8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md"
+              }
             }
           },
           {
@@ -175,8 +170,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "7d469c6f1a34ceb8",
   "lastOpenFiles": [
+    "未命名.md",
     "Praktikum/AGCO/Wohnungssuche.md",
     "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
     "Signalverarbeitung/Labor/2.Labor_IIR.md",
@@ -185,7 +181,6 @@
     "Prog C++/Little- and Big Endian.md",
     "Prog C++/Zeiger.md",
     "Prog C++/bitweise Operatoren.md",
-    "Elektronik2/AD-Umsetzungsverfahren.md",
-    "Elektronik2/DA-Umsetzungsverfahren.md"
+    "Elektronik2/AD-Umsetzungsverfahren.md"
   ]
 }
