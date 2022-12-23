@@ -22,12 +22,14 @@ Xiaomeng Huang
 	Reichshofstraße
 	
 	telefonieren
+	- keine gültige Nummer
 
 - Zeile 120 Prio: Ort unklar
 	Manfred Michel, Tel. 08342/3513
 	Marktoberdorf
 	
 	telefonieren
+	- keine gültige Nummer 
 
 - Zeile 93 Prio: sehr hoch 10min
 	Xaver-Martin-Straße 16
@@ -47,22 +49,26 @@ Xiaomeng Huang
 	- Fr. Jessen, Tel. 08342/40253
 
 	- telefon
+		- 12_23: keine Antwort
 
-- Zeile 65 Prio: niedrig
+- Zeile 65 Prio: mittel 16min
 	- Widumstr. 6
 	- Fam. Reichow, Tel. 08342/95751
 
 	- telefon
+		- keine gültige Nummer
 
 - Zeile 52 Prio: mittel 18min
 	- Memelstraße
 	- Hr. Eberle, Tel. 08342/6959
 	- telefon
+		- 12_23: keine Antwort
 
 - Zeile 48 Prio: niedrig 21min
 	- Am Rambogen 11
 	- Helmut Löfflad, Tel. 08342/1532 oder 01520/7031682
-	- whatsapp
+	- telefon
+		- 12_23: keine Antwort
 
 - Zeile 35 Prio: niedrig 20min
 	- Am Wildbann 1
