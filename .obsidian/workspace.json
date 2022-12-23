@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "70a7bb0a255f043e",
+        "id": "4db8df6c52672acb",
         "type": "tabs",
         "children": [
           {
-            "id": "888b0587b9be803e",
+            "id": "bfc0524224779138",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Signalverarbeitung/Labor/2.Labor_IIR.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signalverarbeitung/Labor/2.Labor_IIR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signalverarbeitung/Labor/2.Labor_IIR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Signalverarbeitung/Labor/2.Labor_IIR.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +162,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "888b0587b9be803e",
+  "active": "bfc0524224779138",
   "lastOpenFiles": [
+    "Signalverarbeitung/Labor/2.Labor_IIR.md",
     "Signalverarbeitung/Labor/1.Labor_FIR_Aufgabe1.md",
     "Signalverarbeitung/Labor/1.Labor_FIR_Aufgabe2.md",
     "Signalverarbeitung/Labor/1.Labor_FIR.md",
@@ -180,7 +173,6 @@
     "Praktikum/AGCO/Wohnungssuche.md",
     "未命名.md",
     "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
-    "Signalverarbeitung/Labor/2.Labor_IIR.md",
     "Prog C++/Speicherbereich.md"
   ]
 }
