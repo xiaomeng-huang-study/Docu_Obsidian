@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c09ead0ca9101789",
+            "id": "f158c5593f85781c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Elektronik2/idealer Operationsverstärker.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medikamente/Medikamente.md",
+                "file": "Elektronik2/idealer Operationsverstärker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medikamente/Medikamente.md",
+                "file": "Elektronik2/idealer Operationsverstärker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medikamente/Medikamente.md"
+                "file": "Elektronik2/idealer Operationsverstärker.md"
               }
             }
           },
@@ -166,8 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "f158c5593f85781c",
   "lastOpenFiles": [
+    "Elektronik2/AD-Umsetzungsverfahren.md",
+    "Medikamente/Medikamente.md",
     "未命名.md",
     "未命名.canvas",
     "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
@@ -175,8 +181,6 @@
     "Signalverarbeitung/Labor/1.Labor_FIR_Aufgabe1.md",
     "Signalverarbeitung/Labor/1.Labor_FIR_Aufgabe2.md",
     "Signalverarbeitung/Labor/1.Labor_FIR.md",
-    "Software Engineering/Git_Konfiguration.md",
-    "Software Engineering/Notiz_Git.md",
-    "Praktikum/AGCO/Wohnungssuche.md"
+    "Software Engineering/Git_Konfiguration.md"
   ]
 }
