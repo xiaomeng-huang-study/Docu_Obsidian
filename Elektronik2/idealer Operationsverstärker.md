@@ -1,23 +1,29 @@
 - invertierender Verstärker
 	- Schaltung ![|425](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/ETRO2_invertierender%20Verst%C3%A4rker.png)
 	- Ausgangsspannung $\frac{u_A}{u_E}=-\frac{R_2}{R_1}$ 
+---
 - nicht invertierender Verstärker
 	- Schaltung ![|450](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/ETRO2_nicht%20invertierender%20Verst%C3%A4rker.png)
 	- Ausgangsspannung $\frac{u_A}{u_E}=1+\frac{R_2}{R_1}$ 
+---
 - substrahierender Verstärker
 	- Schaltung ![|425](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/ETRO2_substrahierender%20Verst%C3%A4rker.png)
 	- Ausgangsspannung $\frac{u_{A}}{u_{E1}-u_{E2}}=\frac{R_{2}}{R_{1}}$ 
+---
 - summierender Verstärker
 	- Schaltung ![|475](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/ETRO2_summierender%20Verst%C3%A4rker.png)
 	- Ausgangsspannung $u_{A}=-R \cdot \sum\limits_{i=1}^{n} \frac{u_{E i}}{R_{i}}$ 
+---
 - Spannungsfolger/Impedanzwandler
 	- Schaltung ![|475](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/ETRO2_Spannungsfolger.png)
 	- Ausgangsspannung $u_A=u_E$ 
+---
 - Integrator
 	- Schaltung ![|400](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/ETRO2_Integrator.png)
 	- Ausgangsspannung
 		- im Frequenzbereich $\frac{u_{A}(j \omega)}{u_{E}(j \omega)}=-\frac{1}{j \omega R C}$ 
 		- im Zeitbereich $u_{A}(t)=-\frac{1}{R C} \int u_{E}(t) \mathrm{d} t$ 
+---
 - Differenzierer
 	- idealer
 		- Schaltung ![|400](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/ETRO2_idealer%20Differenzierer.png)
