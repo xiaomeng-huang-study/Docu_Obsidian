@@ -1,0 +1,1 @@
+$0\stackrel{a}{\longrightarrow}1$ 
