@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4db8df6c52672acb",
+        "id": "8b717c9e08c32e67",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc0524224779138",
+            "id": "c09ead0ca9101789",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Medikamente/Medikamente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Medikamente/Medikamente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Medikamente/Medikamente.md"
+              }
             }
           },
           {
@@ -162,17 +166,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bfc0524224779138",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名.canvas",
+    "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
     "Signalverarbeitung/Labor/2.Labor_IIR.md",
     "Signalverarbeitung/Labor/1.Labor_FIR_Aufgabe1.md",
     "Signalverarbeitung/Labor/1.Labor_FIR_Aufgabe2.md",
     "Signalverarbeitung/Labor/1.Labor_FIR.md",
     "Software Engineering/Git_Konfiguration.md",
     "Software Engineering/Notiz_Git.md",
-    "Praktikum/AGCO/Wohnungssuche.md",
-    "未命名.md",
-    "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
-    "Prog C++/Speicherbereich.md"
+    "Praktikum/AGCO/Wohnungssuche.md"
   ]
 }
