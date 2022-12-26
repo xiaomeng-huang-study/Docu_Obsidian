@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "074a3fd3520fa242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prog C++/Klassen/Konstruktor_2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,17 +183,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "edd89a3c98977157",
+  "active": "074a3fd3520fa242",
   "lastOpenFiles": [
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Prog C++/Klassen/flache- und tiefe Kopie.md",
+    "Prog C++/Klassen/Array of Objects.md",
     "Prog C++/Klassen/Konstruktor_2.md",
+    "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Prog C++/Zeiger.md",
     "Latex/Latex_Syntax.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Medikamente/Medikamente.md",
-    "未命名.md",
-    "未命名.canvas"
+    "未命名.md"
   ]
 }
