@@ -9,3 +9,7 @@
 - 匿名对象
 	- `Data();` 
 	- `Data(10);` 
+
+
+- Array of objects 
+	- `A arr[5] = {A(10),A(20),A(30),A(40),A(50)};` 
