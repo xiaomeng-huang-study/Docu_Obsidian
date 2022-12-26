@@ -57,3 +57,4 @@
 		    return data;
 		}
 		```
+	- ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Prog%20C++_Konstruktion-Destruktion.png)
