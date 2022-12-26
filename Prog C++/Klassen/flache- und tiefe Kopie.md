@@ -1,7 +1,7 @@
 - Typen
-	- ohne Zeiger $\Rightarrow$ flache Kopie
+	- ohne Zeiger $\Rightarrow$ flache Kopie : `ob1 = ob2;` 
 	- mit <font color = "red">dynamsichen Komponenten</font>(mit <font color = "red">Zeiger auf Heap</font>) $\Rightarrow$ <font color = "red">tiefe Kopie</font> erforderlich 
-		- Initialisierung + Zuweisung
+		- <font color = "red">Initialisierung + Zuweisung</font> 
 - Beispiele
 	- mit int\[\] 
 		- Vector.h
