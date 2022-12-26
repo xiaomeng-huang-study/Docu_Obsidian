@@ -1,0 +1,13 @@
+- Konstruktor
+	- keine Parameter: 
+		- Standardkonstruktor `Flugzeug f1;` 
+	- mit Parameter: 
+		- `Flugzeug f2("British Airways");` 
+	- Eigenschaften 
+		- kann überladen werden
+- Destruktor
+	- `~Flugzeug f3();` 
+	- `}` oder Prozess endet $\Rightarrow$ Destruktor aufgerufen
+	- Eigenschaften 
+		- darf nicht überladen werden
+		- Reihenfolge: FILO
