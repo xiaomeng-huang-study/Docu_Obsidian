@@ -8,7 +8,7 @@
 - Destruktor
 	- `~Flugzeug f3();` 
 	- `}` oder Prozess endet $\Rightarrow$ Destruktor aufgerufen
-	- mit Zeiger: Destruktor erforderlich 
+	- <u>mit Zeiger: Destruktor erforderlich</u>  
 	- Eigenschaften 
 		- darf nicht überladen werden
 		- Reihenfolge: FILO

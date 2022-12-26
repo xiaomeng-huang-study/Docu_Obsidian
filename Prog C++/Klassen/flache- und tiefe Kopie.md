@@ -1,0 +1,3 @@
+- ohne Zeiger $\Rightarrow$ flache Kopie
+- <u>mit Zeiger</u> $\Rightarrow$ <u>tiefe Kopie</u> erforderlich 
+- 
