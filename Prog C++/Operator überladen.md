@@ -1,0 +1,4 @@
+- links von Operator
+	- von mir definiert: 1 Parameter 
+	- nicht von mir definiert : 2 Parameter
+	- 
