@@ -14,3 +14,13 @@
 		}
 		```
 	- `>>` 
+		```c++
+		#include <iostream>
+		using namespace std;
+		
+		istream& operator<< (istream& strm, classB& cB)
+		{
+			strm>>cB.XXX;
+			return strm;
+		}
+		```
