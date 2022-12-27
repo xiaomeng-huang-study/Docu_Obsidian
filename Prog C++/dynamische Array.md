@@ -1,4 +1,3 @@
-- in C++
 ```c++
 int* arrayConcat(int* arr1,int length1, int* arr2, int length2)
 {
