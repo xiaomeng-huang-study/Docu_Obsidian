@@ -37,7 +37,7 @@
 	        }
 	
 	        //if(NULL==currentElement->next)
-	        currentElement->next = newPoint;
+	        currentElement->next = newPoint;//am Ende anschließen
 	    }
 	}
 	```
