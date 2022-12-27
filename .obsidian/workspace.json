@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cffdc0641c26a6ad",
+        "id": "9b0a3a954448cb45",
         "type": "tabs",
         "children": [
           {
-            "id": "7ad8bae4665dcf22",
+            "id": "5681ddf4dcdbadb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "f8657cca4c998b3c",
+            "id": "82c1c5e26f8f8839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Klassen/friend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2de332c6cc4e7233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog C++/Klassen/Reference.md",
+                "file": "Prog C++/Klassen/verkettetes List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Klassen/Reference.md",
+                "file": "Prog C++/Klassen/verkettetes List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Klassen/Reference.md",
+                "file": "Prog C++/Klassen/verkettetes List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Klassen/Reference.md"
+                "file": "Prog C++/Klassen/verkettetes List.md"
               }
             }
           },
@@ -195,17 +183,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2de332c6cc4e7233",
+  "active": "82c1c5e26f8f8839",
   "lastOpenFiles": [
-    "Prog C++/Klassen/friend.md",
     "Prog C++/Klassen/this-pointer.md",
+    "Prog C++/Klassen/Reference.md",
+    "Prog C++/Klassen/friend.md",
     "Prog C++/Klassen/Modell_OOP.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Klassen/Konstruktor_2.md",
     "Prog C++/Klassen/Array of Objects.md",
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Prog C++/Zeiger.md",
-    "Latex/Latex_Syntax.md",
-    "Elektronik2/idealer Operationsverstärker.md"
+    "Latex/Latex_Syntax.md"
   ]
 }
