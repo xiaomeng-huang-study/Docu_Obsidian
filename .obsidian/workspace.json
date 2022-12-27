@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ecc7a16c87c3d727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog C++/Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Template.md",
+                "file": "Prog C++/Polymorphie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Template.md",
+                "file": "Prog C++/Polymorphie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Template.md"
+                "file": "Prog C++/Polymorphie.md"
               }
             }
           },
@@ -183,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ecc7a16c87c3d727",
+  "active": "a03808b252aae1f4",
   "lastOpenFiles": [
+    "Prog C++/Klassen/Konstruktor-Destruktor.md",
+    "Prog C++/Template.md",
     "Prog C++/Polymorphie.md",
     "Software Engineering/Modell_Interface.md",
     "未命名.md",
     "Prog C++/dynamische Array.md",
     "Prog C++/verkettetes List.md",
     "Prog C++/Array of Objects.md",
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Zeiger.md",
-    "Prog C++/Speicherbereich.md",
-    "Prog C++/Operator überladen.md"
+    "Prog C++/Speicherbereich.md"
   ]
 }
