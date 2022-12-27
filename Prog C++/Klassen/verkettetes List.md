@@ -140,26 +140,26 @@
 	}
 	```
 - printList
-```c++
-void printList(Point* headofList){
-    //jedes Element durchlaufen
-
-    if(NULL == headofList)
-    {
-        //List leer
-        cout<<"Liste leer"<<endl;
-    }else{
-        //List nicht leer
-        Point* currentElement = NULL;
-        currentElement = headofList;
-
-        while(NULL!=currentElement)
-        {
-            cout<<"x: "<<(currentElement->x);
-            cout<<" y: "<<(currentElement->y)<<endl;
-            currentElement = currentElement->next;
-        }
-        cout<<"EOL"<<endl;
-    }
-}
-```
+	```c++
+	void printList(Point* headofList){
+	    //jedes Element durchlaufen
+	
+	    if(NULL == headofList)
+	    {
+	        //List leer
+	        cout<<"Liste leer"<<endl;
+	    }else{
+	        //List nicht leer
+	        Point* currentElement = NULL;
+	        currentElement = headofList;
+	
+	        while(NULL!=currentElement)
+	        {
+	            cout<<"x: "<<(currentElement->x);
+	            cout<<" y: "<<(currentElement->y)<<endl;
+	            currentElement = currentElement->next;
+	        }
+	        cout<<"EOL"<<endl;
+	    }
+	}
+	```
