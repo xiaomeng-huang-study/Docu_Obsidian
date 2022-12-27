@@ -11,8 +11,12 @@
             "id": "a27cf95f6e01ca92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prog C++/verkettetes List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prog C++/verkettetes List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prog C++/verkettetes List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prog C++/verkettetes List.md"
+              }
             }
           },
           {
@@ -164,10 +172,10 @@
   },
   "active": "a27cf95f6e01ca92",
   "lastOpenFiles": [
-    "Prog C++/Zeiger.md",
-    "Prog C++/Speicherbereich.md",
     "Prog C++/Array of Objects.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
+    "Prog C++/Zeiger.md",
+    "Prog C++/Speicherbereich.md",
     "Prog C++/Operator überladen.md",
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "未命名.md",

@@ -122,16 +122,19 @@
 	
 	        if(NULL==currentElement)
 	        {
+		        //am Ende einfügen
 	            previousElement->next = newPoint;
 	        }else
 	        {
 	            if(currentElement==previousElement)
 	            {
 	                //Suche bei 1.Element geblieben
+	                //vor 1.Element einfügen
 	                newPoint->next = (*headofList);
 	                *headofList = newPoint;
 	            }else if(currentElement!=previousElement)
 	            {
+		            //zwi. prev. und curr.
 	                newPoint->next = currentElement;
 	                previousElement->next = newPoint;
 	            }
