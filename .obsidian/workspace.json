@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9b0a3a954448cb45",
+        "id": "57905889e911ba25",
         "type": "tabs",
         "children": [
           {
-            "id": "5681ddf4dcdbadb3",
+            "id": "98d2d46602104965",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Klassen/this-pointer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82c1c5e26f8f8839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog C++/Klassen/verkettetes List.md",
+                "file": "Prog C++/Operator überladen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Klassen/verkettetes List.md",
+                "file": "Prog C++/Operator überladen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Klassen/verkettetes List.md",
+                "file": "Prog C++/Operator überladen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Klassen/verkettetes List.md"
+                "file": "Prog C++/Operator überladen.md"
               }
             }
           },
@@ -183,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "82c1c5e26f8f8839",
+  "active": "98d2d46602104965",
   "lastOpenFiles": [
-    "Prog C++/Klassen/this-pointer.md",
-    "Prog C++/Klassen/Reference.md",
-    "Prog C++/Klassen/friend.md",
-    "Prog C++/Klassen/Modell_OOP.md",
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Prog C++/Klassen/Konstruktor_2.md",
-    "Prog C++/Klassen/Array of Objects.md",
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
+    "Prog C++/Operator überladen.md",
     "Prog C++/Zeiger.md",
-    "Latex/Latex_Syntax.md"
+    "Prog C++/Array of Objects.md",
+    "未命名.md",
+    "Prog C++/Klassen/this-pointer.md",
+    "Prog C++/verkettetes List.md",
+    "Prog C++/Reference.md",
+    "Prog C++/Klassen/friend.md",
+    "Prog C++/Klassen/Modell_OOP.md"
   ]
 }
