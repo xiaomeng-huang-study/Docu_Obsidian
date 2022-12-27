@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "57905889e911ba25",
+        "id": "2b31e17979480422",
         "type": "tabs",
         "children": [
           {
-            "id": "98d2d46602104965",
+            "id": "a27cf95f6e01ca92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog C++/Operator überladen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Operator überladen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Operator überladen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prog C++/Operator überladen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,17 +162,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "98d2d46602104965",
+  "active": "a27cf95f6e01ca92",
   "lastOpenFiles": [
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Prog C++/Klassen/flache- und tiefe Kopie.md",
-    "Prog C++/Operator überladen.md",
     "Prog C++/Zeiger.md",
+    "Prog C++/Speicherbereich.md",
     "Prog C++/Array of Objects.md",
+    "Prog C++/Klassen/Konstruktor-Destruktor.md",
+    "Prog C++/Operator überladen.md",
+    "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "未命名.md",
     "Prog C++/Klassen/this-pointer.md",
     "Prog C++/verkettetes List.md",
-    "Prog C++/Reference.md",
-    "Prog C++/Klassen/friend.md"
+    "Prog C++/Reference.md"
   ]
 }
