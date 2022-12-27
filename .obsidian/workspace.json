@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Polymorphie.md",
+                "file": "Prog C++/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Polymorphie.md",
+                "file": "Prog C++/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Polymorphie.md",
+                "file": "Prog C++/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Polymorphie.md"
+                "file": "Prog C++/Template.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "a03808b252aae1f4",
   "lastOpenFiles": [
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Polymorphie.md",
+    "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Template.md",
     "Software Engineering/Modell_Interface.md",
     "未命名.md",
