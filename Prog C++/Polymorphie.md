@@ -12,4 +12,40 @@
 	- Instanzierung verboten
 	- Unterklasse muss alle virtuelle Methode überschreiben
 
-- außerhalb von Konstruktor sollen mit `virtual` beschrieben werden.
+- außer Konstruktor sollen mit `virtual` beschrieben werden.
+
+- Variante
+	- Variante1
+		```c++
+		Polygon *p = new Polygon;
+		p->draw();
+		delete p;
+		Polygon *p = new Tirangle;
+		p->draw();
+		delete p;
+		```
+	- Variante2
+		```c++
+		void painter(Polygon* p)
+		{
+			p->draw();
+			delete p;
+		}
+		
+		//in main()
+		painter(new Polygon);
+		painter(new Triangle);
+		```
+	- Variante3
+		```c++
+		void painter(Polygon& p)
+		{
+			p.draw();
+		}
+		
+		//in main()
+		Polygon p;
+		Triangle t;
+		painter(p);
+		painter(t);
+		```

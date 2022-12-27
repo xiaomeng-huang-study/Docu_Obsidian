@@ -1,3 +1,9 @@
+- Konstruktor bzw. Destruktor
+	- keine Implementierungsinhalt
+		- in .h: `classA(){};` 
+	- mit Implementierungsinhalt
+		- in .h: `classA();` 
+		- in .cpp: `classA::classA(){...}`
 - Konstruktor
 	- <font color = "red">Initialisierung von privaten Attributen</font> 
 		- keine Zeiger:
