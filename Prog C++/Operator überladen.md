@@ -1,7 +1,7 @@
 - links von Operator
-	- von mir definiert: 1 Parameter 
 	- nicht von mir definiert : 2 Parameter
-- globale Operator überladen
+	- von mir definiert: 1 Parameter 
+- globale Operator überladen: 2 Parameter
 	- `<<` 
 		```c++
 		#include <iostream>
@@ -13,6 +13,7 @@
 			return strm;
 		}
 		```
+		- in classA: `friend ostream& operator<< (ostream& strm, classA& cA);` 
 	- `>>` 
 		```c++
 		#include <iostream>
@@ -24,3 +25,45 @@
 			return strm;
 		}
 		```
+		- in classB: `friend istream& operator<< (istream& strm, classB& cB);` 
+- Operator überladen als Memberfunktion von class
+	- `+` 
+		```c++
+		//in classA.h
+		public:
+		classA operator+ (classA& cA);
+		//in classA.cpp
+		classA classA::operator+ (classA& cA)
+		{
+			classA temp;
+			temp.XXX = XXX + cA.XXX;
+			return temp;
+		}
+		```
+	- `==` 
+		- in classB: 
+			```c++
+			//in classB.h
+			public:
+			bool operator== (classB& cB);
+			//in classB.cpp
+			bool classB::operator== (classB& cB)
+			{
+				if(XXX == cB.XXX())
+				{
+					return true;
+				}else
+				{
+					return false;
+				}
+			}
+			```
+		- in main.cpp
+			```c++
+			cB B1();
+			cB B2();
+			if(B1==B2)    //B1.(oprator==) B2
+			{
+				cout<<"equal"<<endl;
+			}
+			```

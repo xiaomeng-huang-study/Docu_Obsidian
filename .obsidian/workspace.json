@@ -172,6 +172,7 @@
   },
   "active": "98d2d46602104965",
   "lastOpenFiles": [
+    "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Prog C++/Operator überladen.md",
     "Prog C++/Zeiger.md",
@@ -180,7 +181,6 @@
     "Prog C++/Klassen/this-pointer.md",
     "Prog C++/verkettetes List.md",
     "Prog C++/Reference.md",
-    "Prog C++/Klassen/friend.md",
-    "Prog C++/Klassen/Modell_OOP.md"
+    "Prog C++/Klassen/friend.md"
   ]
 }
