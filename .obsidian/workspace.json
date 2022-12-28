@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "997f3e7e25dec4e2",
+        "id": "905df4af161a7aaa",
         "type": "tabs",
         "children": [
           {
-            "id": "263ef4c96b76895e",
+            "id": "dba7188d7bd3d70c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "263ef4c96b76895e",
+  "active": "dba7188d7bd3d70c",
   "lastOpenFiles": [
+    "Email/Email_20221228_AGCO.md",
     "Prog C++/Zeiger.md",
     "Prog C++/Vererbung.md",
     "Prog C++/Klassen/friend.md",
@@ -172,7 +173,6 @@
     "Prog C++/Template.md",
     "Software Engineering/Modell_Interface.md",
     "未命名.md",
-    "Prog C++/dynamische Array.md",
-    "Prog C++/verkettetes List.md"
+    "Prog C++/dynamische Array.md"
   ]
 }
