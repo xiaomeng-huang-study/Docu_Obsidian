@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2b31e17979480422",
+        "id": "997f3e7e25dec4e2",
         "type": "tabs",
         "children": [
           {
-            "id": "a03808b252aae1f4",
+            "id": "263ef4c96b76895e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog C++/Zeiger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5400e8f2fecef6fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog C++/Vererbung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Vererbung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Vererbung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prog C++/Vererbung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,9 +162,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5400e8f2fecef6fc",
+  "active": "263ef4c96b76895e",
   "lastOpenFiles": [
     "Prog C++/Zeiger.md",
+    "Prog C++/Vererbung.md",
     "Prog C++/Klassen/friend.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
@@ -193,7 +173,6 @@
     "Software Engineering/Modell_Interface.md",
     "未命名.md",
     "Prog C++/dynamische Array.md",
-    "Prog C++/verkettetes List.md",
-    "Prog C++/Array of Objects.md"
+    "Prog C++/verkettetes List.md"
   ]
 }
