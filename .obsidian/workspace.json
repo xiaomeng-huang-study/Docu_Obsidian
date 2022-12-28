@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -173,15 +172,15 @@
   },
   "active": "dba7188d7bd3d70c",
   "lastOpenFiles": [
-    "Mathe3/MA3 Zusammenfassung.md",
+    "Mathe3/Statistik/statistische Test.md",
     "Mathe3/Statistik/Schätzen.md",
+    "Mathe3/MA3 Zusammenfassung.md",
     "Email/Email_20221228_AGCO.md",
     "Prog C++/Zeiger.md",
     "Prog C++/Vererbung.md",
     "Prog C++/Klassen/friend.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Prog C++/Template.md",
-    "Software Engineering/Modell_Interface.md"
+    "Prog C++/Template.md"
   ]
 }

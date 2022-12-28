@@ -11,5 +11,7 @@
   "convert-url-to-iframe",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-underline",
-  "table-extended"
+  "table-extended",
+  "obsidian-latex-environments",
+  "quick-latex"
 ]
