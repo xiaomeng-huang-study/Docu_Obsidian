@@ -11,8 +11,12 @@
             "id": "dba7188d7bd3d70c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathe3/Statistik/Schätzen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathe3/Statistik/Schätzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathe3/Statistik/Schätzen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathe3/Statistik/Schätzen.md"
+              }
             }
           },
           {
@@ -164,6 +173,8 @@
   },
   "active": "dba7188d7bd3d70c",
   "lastOpenFiles": [
+    "Mathe3/MA3 Zusammenfassung.md",
+    "Mathe3/Statistik/Schätzen.md",
     "Email/Email_20221228_AGCO.md",
     "Prog C++/Zeiger.md",
     "Prog C++/Vererbung.md",
@@ -171,8 +182,6 @@
     "Prog C++/Polymorphie.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Template.md",
-    "Software Engineering/Modell_Interface.md",
-    "未命名.md",
-    "Prog C++/dynamische Array.md"
+    "Software Engineering/Modell_Interface.md"
   ]
 }
