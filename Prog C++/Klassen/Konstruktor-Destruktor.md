@@ -74,7 +74,7 @@
 			
 			Vector::~Vector()
 			{
-			    delete vec;
+			    delete []vec;
 			}
 			
 			void Vector::write(double *_vec)
