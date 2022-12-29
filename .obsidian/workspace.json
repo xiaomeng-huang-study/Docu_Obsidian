@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Polymorphie.md",
+                "file": "Prog C++/Vererbung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Polymorphie.md",
+                "file": "Prog C++/Vererbung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Polymorphie.md",
+                "file": "Prog C++/Vererbung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Polymorphie.md"
+                "file": "Prog C++/Vererbung.md"
               }
             }
           },
@@ -172,9 +172,9 @@
   },
   "active": "7a9537020d72ca22",
   "lastOpenFiles": [
+    "Prog C++/Polymorphie.md",
     "Prog C++/Vererbung.md",
     "Prog C++/Operator überladen.md",
-    "Prog C++/Polymorphie.md",
     "Prog C++/dynamische Array.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Template.md",
