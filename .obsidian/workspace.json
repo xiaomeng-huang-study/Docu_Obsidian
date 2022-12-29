@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Vererbung.md",
+                "file": "Prog C++/Komposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Vererbung.md",
+                "file": "Prog C++/Komposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Vererbung.md",
+                "file": "Prog C++/Komposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Vererbung.md"
+                "file": "Prog C++/Komposition.md"
               }
             }
           },
@@ -172,15 +172,15 @@
   },
   "active": "7a9537020d72ca22",
   "lastOpenFiles": [
+    "Prog C++/bitweise Operatoren.md",
+    "Prog C++/dynamische Array.md",
+    "Prog C++/Little- and Big Endian.md",
     "Prog C++/Polymorphie.md",
+    "Prog C++/Reference.md",
+    "Prog C++/Speicherbereich.md",
     "Prog C++/Vererbung.md",
     "Prog C++/Operator überladen.md",
-    "Prog C++/dynamische Array.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Prog C++/Template.md",
-    "Mathe3/Statistik/Schätzen.md",
-    "Mathe3/Statistik/statistische Test.md",
-    "Mathe3/MA3 Zusammenfassung.md",
-    "Email/Email_20221228_AGCO.md"
+    "Prog C++/Template.md"
   ]
 }
