@@ -15,13 +15,19 @@
 - außer Konstruktor sollen mit `virtual` beschrieben werden.
 
 - Aufbau
-	- Interface
+	- Oberklasse
 		```c++
 		public:
-			virtual ~Interface(){}
-		
-			virtual void func01() = 0;
-	```
+			Interface(){}               //keine virtual; keine = 0
+			virtual ~Interface(){}      //virtual
+			
+			//nur Unterklasse kann func01 implementieren
+			virtual void func01() = 0;  //virtual; = 0
+			//Unterklasse wird diese func01 anders implementieren
+			virtual void func01();      //virtual
+			//Oberklasse und Unterklasse, beide haben diese Eigenschaft
+			void func03();              //keine virtual; keine =0 
+		```
 	- Unterklasse
 		```c++
 		public: 
@@ -41,29 +47,44 @@
 		p->draw();
 		delete p;
 		```
-	- Variante2
-		```c++
-		void painter(Polygon* p)
-		{
-			p->draw();
-			delete p;
-		}
-		
-		//in main()
-		painter(new Polygon);
-		painter(new Triangle);
-		```
-	- Variante3 <font color = "red">Destruktor erforderlich!</font> 
-		```c++
-		void painter(Polygon& p)
-		{
-			p.draw();
-		}
-		
-		//in main()
-		Polygon p;
-		Triangle t;
-		painter(p);
-		painter(t);
-		```
+	- in Funktion kapseln
+		- Variante2
+			```c++
+			void painter(Polygon* p)
+			{
+				p->draw();
+				delete p;
+			}
+			
+			//1.Möglichkeit
+			painter(new Polygon);
+			painter(new Triangle);
+			```
+		- Variante3 <font color = "red">Destruktor erforderlich!</font> 
+			```c++
+			void painter(Polygon& p)
+			{
+				p.draw();
+			}
+			
+			//in main()
+			Polygon p;
+			Triangle t;
+			painter(p);
+			painter(t);
+			```
 
+- Falls Unterklasse erweiterte Eigenschaft besitzt : type cast
+```c++
+void painter(Polygon* p)
+{
+	if('t' == p->identify())
+	{
+		Triangle* temp_t = NULL;
+		temp_t = (Triangle*) p;
+		temp_t->XXX();
+	}
+	p->draw();
+	delete p;
+}
+```
