@@ -14,7 +14,24 @@
 
 - außer Konstruktor sollen mit `virtual` beschrieben werden.
 
-- Variante
+- Aufbau
+	- Interface
+		```c++
+		public:
+			virtual ~Interface(){}
+		
+			virtual void func01() = 0;
+	```
+	- Unterklasse
+		```c++
+		public: 
+			Unterklasse(){}
+			~Unterklasse(){}
+		
+			void func01();
+		```
+
+- Bedienung
 	- Variante1
 		```c++
 		Polygon *p = new Polygon;
@@ -49,3 +66,4 @@
 		painter(p);
 		painter(t);
 		```
+
