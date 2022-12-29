@@ -36,7 +36,7 @@
 		painter(new Polygon);
 		painter(new Triangle);
 		```
-	- Variante3
+	- Variante3 <font color = "red">Destruktor erforderlich!</font> 
 		```c++
 		void painter(Polygon& p)
 		{
