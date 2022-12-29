@@ -24,7 +24,7 @@
 			//nur Unterklasse kann func01 implementieren
 			virtual void func01() = 0;  //virtual; = 0
 			//Unterklasse wird diese func01 anders implementieren
-			virtual void func01();      //virtual
+			virtual void func02();      //virtual
 			//Oberklasse und Unterklasse, beide haben diese Eigenschaft
 			void func03();              //keine virtual; keine =0 
 		```
@@ -47,32 +47,71 @@
 		p->draw();
 		delete p;
 		```
-	- in Funktion kapseln
-		- Variante2
+	- Variante2
+		- in Funktion kapseln
+			```c++
+			void painter(Polygon* p)
+			{
+				p.draw();   // kein delete erforderlich 
+			}
+			```
+		- in Class kapseln 
+			```c++
+			public:
+				Bedienklasse(){}
+				~Bedienklasse(){}
+
+				bool fuegeHinzu(Polygon* p);
+			```
+		- Aufruf (in `main()` )
+			```c++
+			Polygon p;
+			Triangle t;
+			painter(&p);
+			painter(&t);
+			```
+	- Variante3 
+		- in Funktion kapseln <font color = "red">delete erforderlich!</font> 
 			```c++
 			void painter(Polygon* p)
 			{
 				p->draw();
 				delete p;
 			}
-			
-			//1.Möglichkeit
+			```
+		- in Class kapseln <font color = "red">delete in Destruktor erforderlich!</font>
+			```c++
+			class Bedienklasse
+			{
+			public:
+				Bedienklasse(){}
+				~Bedienklasse();
+
+				bool fuegeHinzu(Polygon* p);
+			}
+			Bedienklasse:: ~Bedienklasse()
+			{
+				delete ...;
+			}
+			```
+		- Aufruf (in `main()` )
+			```c++
 			painter(new Polygon);
 			painter(new Triangle);
 			```
-		- Variante3 <font color = "red">Destruktor erforderlich!</font> 
-			```c++
-			void painter(Polygon& p)
-			{
-				p.draw();
-			}
-			
-			//in main()
-			Polygon p;
-			Triangle t;
-			painter(p);
-			painter(t);
-			```
+	- Variante4  
+		```c++
+		void painter(Polygon& p)
+		{
+			p.draw();
+		}
+		
+		//in main()
+		Polygon p;
+		Triangle t;
+		painter(p);
+		painter(t);
+		```
 
 - Falls Unterklasse erweiterte Eigenschaft besitzt : type cast
 ```c++
