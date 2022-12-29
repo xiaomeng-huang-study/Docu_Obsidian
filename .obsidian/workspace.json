@@ -172,6 +172,8 @@
   },
   "active": "7a9537020d72ca22",
   "lastOpenFiles": [
+    "Prog C++/Operator überladen.md",
+    "Prog C++/Template.md",
     "Mathe3/Statistik/Schätzen.md",
     "Mathe3/Statistik/statistische Test.md",
     "Mathe3/MA3 Zusammenfassung.md",
@@ -179,8 +181,6 @@
     "Prog C++/Zeiger.md",
     "Prog C++/Vererbung.md",
     "Prog C++/Klassen/friend.md",
-    "Prog C++/Polymorphie.md",
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Prog C++/Template.md"
+    "Prog C++/Polymorphie.md"
   ]
 }
