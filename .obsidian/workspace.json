@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "88eb24da690b4d39",
+        "id": "aef9de75cc939083",
         "type": "tabs",
         "children": [
           {
-            "id": "7a9537020d72ca22",
+            "id": "a7bd55a2053a4fa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog C++/Komposition.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Komposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Komposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prog C++/Komposition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,17 +162,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7a9537020d72ca22",
+  "active": "a7bd55a2053a4fa2",
   "lastOpenFiles": [
+    "Prog C++/Komposition.md",
+    "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md",
+    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
+    "Prog C++/Code_Beispiele/Flugzeug/Tragfläche.md",
+    "Prog C++/Code_Beispiele/Flugzeug/Triebwerk.md",
+    "Prog C++/Code_Beispiele/未命名.md",
     "Prog C++/bitweise Operatoren.md",
     "Prog C++/dynamische Array.md",
     "Prog C++/Little- and Big Endian.md",
-    "Prog C++/Polymorphie.md",
-    "Prog C++/Reference.md",
-    "Prog C++/Speicherbereich.md",
-    "Prog C++/Vererbung.md",
-    "Prog C++/Operator überladen.md",
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Prog C++/Template.md"
+    "Prog C++/Polymorphie.md"
   ]
 }
