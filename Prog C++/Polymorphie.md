@@ -92,6 +92,7 @@
 			Bedienklasse:: ~Bedienklasse()
 			{
 				delete ...;
+				//for(i){delete ...[i]}
 			}
 			```
 		- Aufruf (in `main()` )
