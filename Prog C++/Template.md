@@ -12,7 +12,7 @@
 	```
 
 - Class Template
-	- in .tpp (<font color = "red">alles in .h implementieren</font>)
+	- in .tpp (<font color = "red">alles in .tpp implementieren</font>)
 		```c++
 		template<class T1, class T2>
 		class classA
