@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "905df4af161a7aaa",
+        "id": "88eb24da690b4d39",
         "type": "tabs",
         "children": [
           {
-            "id": "dba7188d7bd3d70c",
+            "id": "7a9537020d72ca22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe3/Statistik/Schätzen.md",
+                "file": "Prog C++/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe3/Statistik/Schätzen.md",
+                "file": "Prog C++/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe3/Statistik/Schätzen.md",
+                "file": "Prog C++/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe3/Statistik/Schätzen.md"
+                "file": "Prog C++/Template.md"
               }
             }
           },
@@ -170,10 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "dba7188d7bd3d70c",
+  "active": "7a9537020d72ca22",
   "lastOpenFiles": [
-    "Mathe3/Statistik/statistische Test.md",
     "Mathe3/Statistik/Schätzen.md",
+    "Mathe3/Statistik/statistische Test.md",
     "Mathe3/MA3 Zusammenfassung.md",
     "Email/Email_20221228_AGCO.md",
     "Prog C++/Zeiger.md",
