@@ -1,6 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#a0d2ff",
   "theme": "moonstone",
-  "baseFontSize": 17,
-  "cssTheme": "GitHub theme"
+  "baseFontSize": 18,
+  "cssTheme": "Gitsidian",
+  "textFontFamily": "Arial"
 }
