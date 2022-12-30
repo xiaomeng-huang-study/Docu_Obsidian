@@ -1,3 +1,10 @@
 - Huffman-Codierung
 	- sortieren ![|225](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Mathe3_Huffman-Codierung_Sortieren.png)
 	- Baum ![|450](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Mathe3_Huffman-Codierung_Baum.png)
+- BWT
+	- Codierung
+	- Decodierung
+- MTF
+	- Codierung
+	- Decodierung
+- ==siehe u_bwt bzw. u_bwt(Lösung)== 
