@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "425cdf750e7861f9",
+        "id": "649861b89f1083ee",
         "type": "tabs",
         "children": [
           {
-            "id": "9e7be854cdb71091",
+            "id": "d1a4d4cb21e9d8d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe3/Anwendungen/Quellencodierung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe3/Anwendungen/Quellencodierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe3/Anwendungen/Quellencodierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe3/Anwendungen/Quellencodierung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,17 +162,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9e7be854cdb71091",
+  "active": "d1a4d4cb21e9d8d0",
   "lastOpenFiles": [
-    "Mathe3/MA3 Zusammenfassung.md",
     "Mathe3/Anwendungen/Quellencodierung.md",
+    "Mathe3/Anwendungen/SVD_Herleitung.md",
+    "F34F8829-AFD8-4487-AD98-BC376B9E597E.png",
+    "未命名.md",
+    "Mathe3/MA3 Zusammenfassung.md",
     "Email/Email_20221230_FANUC.md",
     "Email/Email_20221230_AKKA.md",
     "Prog C++/Komposition.md",
     "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Tragfläche.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Triebwerk.md",
-    "Prog C++/Code_Beispiele/未命名.md"
+    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md"
   ]
 }
