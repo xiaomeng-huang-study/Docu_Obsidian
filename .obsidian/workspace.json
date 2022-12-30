@@ -11,8 +11,12 @@
             "id": "9e7be854cdb71091",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathe3/Anwendungen/Quellencodierung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email/Email_20221230_FANUC.md",
+                "file": "Mathe3/Anwendungen/Quellencodierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Email/Email_20221230_FANUC.md",
+                "file": "Mathe3/Anwendungen/Quellencodierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Email/Email_20221230_FANUC.md"
+                "file": "Mathe3/Anwendungen/Quellencodierung.md"
               }
             }
           },
@@ -166,10 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "9e7be854cdb71091",
   "lastOpenFiles": [
-    "Email/Email_20221230_AKKA.md",
     "Email/Email_20221230_FANUC.md",
+    "Email/Email_20221230_AKKA.md",
     "Mathe3/MA3 Zusammenfassung.md",
     "Prog C++/Komposition.md",
     "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md",
