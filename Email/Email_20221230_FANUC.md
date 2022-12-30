@@ -1,4 +1,4 @@
-Guten Tag Frau Burgau,
+Guten Tag Frau Schwarz,
 
 vielen Dank, dass Sie mir Zeit gegeben haben, darüber nachzudenken.
 
@@ -9,5 +9,3 @@ Sollte sich in Zukunft die Gelegenheit ergeben, werde ich mich weiterhin für Ih
 Ich wünsche Ihnen einen guten Rutsch ins neue Jahr! (*^_^*)
 Mit freundlichen Grüßen
 Xiaomeng Huang
-
-
