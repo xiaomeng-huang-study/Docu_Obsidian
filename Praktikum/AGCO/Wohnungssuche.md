@@ -74,6 +74,28 @@ Xiaomeng Huang
 	- Am Wildbann 1
 	- www.kulturhausilvia.de
 
+- Zeile 26 : 12min
+	- Eberle- Kögel-Str. 23
+	- Fr. Schweiger, Tel. 08342/3107
+
+- Zeile 27 : 14 min
+	- Dr.-Julius-Str. 9a
+	- Fr. Eiselt, Tel. 08342/6385
+
+- Zeile 37 : 22 min
+	- Moosstr. 1
+	- Fam. Kraus, Tel. 08342/914041
+
+- Zeile 101 : 19 min
+	- Hirschberger Straße
+	- Fam. Martin, Tel.: 0170/3287277
+
+- Zeile 102/103 : 18 min
+	- Bergblick
+	- Fr. Schuster, Tel. 0157/39206003
+
+- Zeile 
+
 
 
 

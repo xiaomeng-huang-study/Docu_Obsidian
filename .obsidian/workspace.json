@@ -11,8 +11,12 @@
             "id": "d1a4d4cb21e9d8d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md"
+              }
             }
           },
           {
@@ -164,6 +172,8 @@
   },
   "active": "d1a4d4cb21e9d8d0",
   "lastOpenFiles": [
+    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
+    "Praktikum/AGCO/Wohnungssuche.md",
     "Mathe3/Anwendungen/Quellencodierung.md",
     "Mathe3/Anwendungen/SVD_Herleitung.md",
     "F34F8829-AFD8-4487-AD98-BC376B9E597E.png",
@@ -171,8 +181,6 @@
     "Mathe3/MA3 Zusammenfassung.md",
     "Email/Email_20221230_FANUC.md",
     "Email/Email_20221230_AKKA.md",
-    "Prog C++/Komposition.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md"
+    "Prog C++/Komposition.md"
   ]
 }
