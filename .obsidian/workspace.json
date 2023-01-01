@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9378bf6e2979be3b",
+        "id": "e0db258ee412aef2",
         "type": "tabs",
         "children": [
           {
-            "id": "992c837cb067b874",
+            "id": "a1555d8653ef8986",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7715a2bb49b90a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,17 +162,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d7715a2bb49b90a0",
+  "active": "a1555d8653ef8986",
   "lastOpenFiles": [
     "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
+    "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
+    "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
     "Datenbanken/Datenbanken_Notiz/DQL_Select.md",
     "Datenbanken/Datenbanken_Skript/SQL-DML-DDL.md",
     "Praktikum/AGCO/Wohnungssuche.md",
     "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
     "Mathe3/Anwendungen/Quellencodierung.md",
-    "Mathe3/Anwendungen/SVD_Herleitung.md",
-    "F34F8829-AFD8-4487-AD98-BC376B9E597E.png",
-    "未命名.md"
+    "Mathe3/Anwendungen/SVD_Herleitung.md"
   ]
 }
