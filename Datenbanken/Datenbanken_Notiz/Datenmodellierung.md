@@ -1,0 +1,11 @@
+- Entitätstyp
+	- eindeutig benannt 
+	- wird in <u>Einzahl</u> beschrieben
+	- Gruppe von Entitäten 
+- Beziehung 
+	- beschreibt **konkreten** Zusammenhang zwischen **realen Entitäten** 
+- Beziehungstyp
+	- beschreibt **sachlogischer** Zusammenhang zwischen **Entitäten** verschiedener Entitätstypen
+	- Multiplizität
+		- Optionalität : 0/1
+		- Kardinalität : 1 $\>$     

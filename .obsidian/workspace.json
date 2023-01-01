@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "649861b89f1083ee",
+        "id": "9378bf6e2979be3b",
         "type": "tabs",
         "children": [
           {
-            "id": "d1a4d4cb21e9d8d0",
+            "id": "992c837cb067b874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md",
+                "file": "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7715a2bb49b90a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md",
+                "file": "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md",
+                "file": "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md"
+                "file": "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md"
               }
             }
           },
@@ -170,17 +183,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d1a4d4cb21e9d8d0",
+  "active": "d7715a2bb49b90a0",
   "lastOpenFiles": [
-    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
+    "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
+    "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
+    "Datenbanken/Datenbanken_Notiz/DQL_Select.md",
+    "Datenbanken/Datenbanken_Skript/SQL-DML-DDL.md",
     "Praktikum/AGCO/Wohnungssuche.md",
+    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
     "Mathe3/Anwendungen/Quellencodierung.md",
     "Mathe3/Anwendungen/SVD_Herleitung.md",
     "F34F8829-AFD8-4487-AD98-BC376B9E597E.png",
-    "未命名.md",
-    "Mathe3/MA3 Zusammenfassung.md",
-    "Email/Email_20221230_FANUC.md",
-    "Email/Email_20221230_AKKA.md",
-    "Prog C++/Komposition.md"
+    "未命名.md"
   ]
 }
