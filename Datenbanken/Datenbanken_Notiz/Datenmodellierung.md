@@ -8,4 +8,7 @@
 	- beschreibt **sachlogischer** Zusammenhang zwischen **Entitäten** verschiedener Entitätstypen
 	- Multiplizität
 		- Optionalität : 0/1
-		- Kardinalität : 1 $\>$     
+		- Kardinalität : 1/ >1
+	- Beispiel
+		- *Ein Arzt kann <u>mehrere</u> Patienten behandeln. Jeder Patient wird von <u>genau einem</u> Arzt behandelt.* 
+		- 1:CN 
