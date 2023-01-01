@@ -94,8 +94,15 @@ Xiaomeng Huang
 	- Bergblick
 	- Fr. Schuster, Tel. 0157/39206003
 
-- Zeile 
+- Zeile 143 : 20 min
+	- Ennenhofener Str. 23
+	- Norbert Belser, Tel. 08342/18014 oder 0151/21171445 norbert.belser@t-online.de
 
+- Zeile 144/145 : 
+
+- Zeile 150/151 : 6 min
+	- Gschwenderstraße 9
+	- Wohn-und Geschäftshaus Sport Lipp Anita Lipp, Tel. 08342/98320 sport.lipp.Marktoberdorf@intersport.de
 
 
 
