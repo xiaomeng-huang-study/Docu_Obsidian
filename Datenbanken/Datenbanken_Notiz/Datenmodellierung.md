@@ -12,3 +12,6 @@
 	- Beispiel
 		- *Ein Arzt kann <u>mehrere</u> Patienten behandeln. Jeder Patient wird von <u>genau einem</u> Arzt behandelt.* 
 		- 1:CN 
+ - Aussagen
+	 - *Enthält ein Entitätstyp eine <u>mehrwertige Eigenschaft</u>, so wird diese als eigener Entitätstyp ausgelagert.* 
+	 - *Enthält ein Entitätstyp <u>Attribute mit Subeigenschaften</u>, so wird dieses Attribut als eigener Entitätstyp ausgelagert.* 
