@@ -11,8 +11,12 @@
             "id": "a1555d8653ef8986",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Praktikum/AGCO/Wohnungssuche.md"
+              }
             }
           },
           {
@@ -164,6 +172,7 @@
   },
   "active": "a1555d8653ef8986",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
     "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
     "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
@@ -172,7 +181,6 @@
     "Datenbanken/Datenbanken_Skript/SQL-DML-DDL.md",
     "Praktikum/AGCO/Wohnungssuche.md",
     "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
-    "Mathe3/Anwendungen/Quellencodierung.md",
-    "Mathe3/Anwendungen/SVD_Herleitung.md"
+    "Mathe3/Anwendungen/Quellencodierung.md"
   ]
 }

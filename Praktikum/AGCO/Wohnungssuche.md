@@ -17,19 +17,6 @@ Xiaomeng Huang
 	
 	telefonieren
 
-- Zeile 157 Prio: hoch 13min
-	Hr. Geipel, Tel. 08342/7019718
-	Reichshofstraße
-	
-	telefonieren
-	- keine gültige Nummer
-
-- Zeile 120 Prio: Ort unklar
-	Manfred Michel, Tel. 08342/3513
-	Marktoberdorf
-	
-	telefonieren
-	- keine gültige Nummer 
 
 - Zeile 93 Prio: sehr hoch 10min
 	Xaver-Martin-Straße 16
@@ -51,12 +38,6 @@ Xiaomeng Huang
 	- telefon
 		- 12_23: keine Antwort
 
-- Zeile 65 Prio: mittel 16min
-	- Widumstr. 6
-	- Fam. Reichow, Tel. 08342/95751
-
-	- telefon
-		- keine gültige Nummer
 
 - Zeile 52 Prio: mittel 18min
 	- Memelstraße
@@ -74,35 +55,29 @@ Xiaomeng Huang
 	- Am Wildbann 1
 	- www.kulturhausilvia.de
 
-- Zeile 26 : 12min
-	- Eberle- Kögel-Str. 23
-	- Fr. Schweiger, Tel. 08342/3107
 
-- Zeile 27 : 14 min
-	- Dr.-Julius-Str. 9a
-	- Fr. Eiselt, Tel. 08342/6385
 
 - Zeile 37 : 22 min
 	- Moosstr. 1
 	- Fam. Kraus, Tel. 08342/914041
+	- keine Antwort: 2023_01_02
 
 - Zeile 101 : 19 min
 	- Hirschberger Straße
 	- Fam. Martin, Tel.: 0170/3287277
-
-- Zeile 102/103 : 18 min
-	- Bergblick
-	- Fr. Schuster, Tel. 0157/39206003
+	- WhatsApp 
 
 - Zeile 143 : 20 min
 	- Ennenhofener Str. 23
 	- Norbert Belser, Tel. 08342/18014 oder 0151/21171445 norbert.belser@t-online.de
+	- keine gültige Email Adresse
+	- keine gültige Festnetz-Nummer
+	- keine Antwort: 2023_01_02
+
 
 - Zeile 144/145 : 
 
-- Zeile 150/151 : 6 min
-	- Gschwenderstraße 9
-	- Wohn-und Geschäftshaus Sport Lipp Anita Lipp, Tel. 08342/98320 sport.lipp.Marktoberdorf@intersport.de
+
 
 
 
