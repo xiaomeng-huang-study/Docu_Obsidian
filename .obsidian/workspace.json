@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9999f2cc7811e444",
+        "id": "48d7fea29ac65bf9",
         "type": "tabs",
         "children": [
           {
-            "id": "345b71a4fbcae979",
+            "id": "c4b96e7b40ae8cb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe3/Statistik/Schätzen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
