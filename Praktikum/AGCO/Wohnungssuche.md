@@ -62,10 +62,7 @@ Xiaomeng Huang
 	- Fam. Kraus, Tel. 08342/914041
 	- keine Antwort: 2023_01_02
 
-- Zeile 101 : 19 min
-	- Hirschberger Straße
-	- Fam. Martin, Tel.: 0170/3287277
-	- WhatsApp 
+
 
 - Zeile 143 : 20 min
 	- Ennenhofener Str. 23
