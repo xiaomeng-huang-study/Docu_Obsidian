@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48d7fea29ac65bf9",
+        "id": "114c4590e395a11b",
         "type": "tabs",
         "children": [
           {
-            "id": "c4b96e7b40ae8cb7",
+            "id": "bcb22605b33f4fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
+                "file": "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
+                "file": "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
+                "file": "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe3/Statistik/statistische Test.md"
+                "file": "Systemtheorie/Systeme/Systeme 1.Ordnung.md"
               }
             }
           },
@@ -170,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c4b96e7b40ae8cb7",
+  "active": "bcb22605b33f4fc2",
   "lastOpenFiles": [
+    "Systemtheorie/ST3 Zusammenfassung.md",
+    "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
+    "Mathe3/Statistik/statistische Test.md",
     "Mathe3/Statistik/Schätzen.md",
     "Mathe3/Anwendungen/SVD_Herleitung.md",
     "Mathe3/Anwendungen/Quellencodierung.md",
     "Praktikum/AGCO/Wohnungssuche.md",
     "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
     "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
-    "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
-    "Datenbanken/Datenbanken_Notiz/RDBM.md",
-    "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
-    "Datenbanken/Datenbanken_Notiz/DQL_Select.md"
+    "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md"
   ]
 }
