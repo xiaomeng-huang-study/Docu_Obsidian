@@ -4,65 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "718c533ef7143ab1",
+        "id": "2b0cc6a3fd85657b",
         "type": "split",
         "children": [
           {
-            "id": "114c4590e395a11b",
+            "id": "29da07fdc64c7633",
+            "type": "split",
+            "children": [
+              {
+                "id": "ce1cc86954c10779",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f54cb4828b527dac",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "22bdf7dca1457cec",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f8265f3c5881c438",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "e4a2d878bc1d8d46",
             "type": "tabs",
             "children": [
               {
-                "id": "bcb22605b33f4fc2",
+                "id": "ede6759c8ebd7b6b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                    "file": "Systemtheorie/ST3 Zusammenfassung.md",
                     "mode": "source",
                     "source": true
                   }
                 }
               }
             ]
-          },
-          {
-            "id": "d3e911b54c6a938f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "98ef1218dc863f05",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
           }
         ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "ce1cc86954c10779",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28ae0fef209c71d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systemtheorie/ST3 Zusammenfassung.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -214,17 +221,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bcb22605b33f4fc2",
+  "active": "f54cb4828b527dac",
   "lastOpenFiles": [
     "Systemtheorie/ST3 Zusammenfassung.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
+    "Latex/Latex_Syntax.md",
     "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
     "Mathe3/Statistik/statistische Test.md",
     "Mathe3/Statistik/Schätzen.md",
     "Mathe3/Anwendungen/SVD_Herleitung.md",
     "Mathe3/Anwendungen/Quellencodierung.md",
     "Praktikum/AGCO/Wohnungssuche.md",
-    "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
-    "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md"
+    "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md"
   ]
 }
