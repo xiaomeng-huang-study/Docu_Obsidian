@@ -11,8 +11,12 @@
             "id": "c4b96e7b40ae8cb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathe3/Statistik/statistische Test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe3/Statistik/Schätzen.md",
+                "file": "Mathe3/Statistik/statistische Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe3/Statistik/Schätzen.md",
+                "file": "Mathe3/Statistik/statistische Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe3/Statistik/Schätzen.md"
+                "file": "Mathe3/Statistik/statistische Test.md"
               }
             }
           },
@@ -143,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 814.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,8 +170,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "067e5d1f8e2b5898",
+  "active": "c4b96e7b40ae8cb7",
   "lastOpenFiles": [
+    "Mathe3/Statistik/Schätzen.md",
     "Mathe3/Anwendungen/SVD_Herleitung.md",
     "Mathe3/Anwendungen/Quellencodierung.md",
     "Praktikum/AGCO/Wohnungssuche.md",
@@ -177,7 +181,6 @@
     "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
-    "Datenbanken/Datenbanken_Notiz/DQL_Select.md",
-    "Datenbanken/Datenbanken_Skript/SQL-DML-DDL.md"
+    "Datenbanken/Datenbanken_Notiz/DQL_Select.md"
   ]
 }
