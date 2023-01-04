@@ -4,18 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "114c4590e395a11b",
+        "id": "718c533ef7143ab1",
+        "type": "split",
+        "children": [
+          {
+            "id": "114c4590e395a11b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bcb22605b33f4fc2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "d3e911b54c6a938f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "98ef1218dc863f05",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "ce1cc86954c10779",
         "type": "tabs",
         "children": [
           {
-            "id": "bcb22605b33f4fc2",
+            "id": "28ae0fef209c71d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
+                "file": "Systemtheorie/ST3 Zusammenfassung.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -85,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
+                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
+                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemtheorie/Systeme/Systeme 1.Ordnung.md"
+                "file": "Systemtheorie/Fourier_Reihe-Transformation.md"
               }
             }
           },
@@ -173,6 +217,7 @@
   "active": "bcb22605b33f4fc2",
   "lastOpenFiles": [
     "Systemtheorie/ST3 Zusammenfassung.md",
+    "Systemtheorie/Fourier_Reihe-Transformation.md",
     "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
     "Mathe3/Statistik/statistische Test.md",
     "Mathe3/Statistik/Schätzen.md",
@@ -180,7 +225,6 @@
     "Mathe3/Anwendungen/Quellencodierung.md",
     "Praktikum/AGCO/Wohnungssuche.md",
     "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
-    "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md",
-    "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md"
+    "Datenbanken/Datenbanken_Notiz/SQL_Beziehung.md"
   ]
 }
