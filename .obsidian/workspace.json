@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "cc6c66ffd42e7073",
-        "type": "tabs",
+        "id": "282b2d67f92f8327",
+        "type": "split",
         "children": [
           {
-            "id": "f29e48eff2777ddd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "cc6c66ffd42e7073",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f29e48eff2777ddd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plantuml.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "71fef62b586c9ad4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "412a7ddf0f1f6105",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Plantuml.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -82,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plantuml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plantuml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plantuml.md"
+              }
             }
           },
           {
@@ -163,7 +196,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f29e48eff2777ddd",
+  "active": "412a7ddf0f1f6105",
   "lastOpenFiles": [
     "Systemtheorie/ST3 Zusammenfassung.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
