@@ -12,5 +12,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-underline",
   "table-extended",
-  "obsidian-table-generator"
+  "obsidian-table-generator",
+  "code-block-from-selection"
 ]
