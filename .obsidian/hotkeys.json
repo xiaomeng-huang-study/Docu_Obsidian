@@ -70,5 +70,13 @@
   "obsidian-underline:toggle-link-block": [],
   "obsidian-underline:toggle-link-heading": [],
   "obsidian-underline:toggle-center-tag": [],
-  "obsidian-underline:toggle-underline-tag": []
+  "obsidian-underline:toggle-underline-tag": [],
+  "code-block-from-selection:c7617f90-d3f8-49ef-b938-a2056600b0ef": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
+    }
+  ]
 }
