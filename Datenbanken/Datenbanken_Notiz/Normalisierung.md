@@ -1,0 +1,5 @@
+- Ziel
+	- Vermeidung von <font color = "blueviolet">redundanter</font> Datenspeicherung
+		- <font color = "blueviolet">Redundanz</font> :mehrfache Vorhandensein derselben Information.
+	- Vermeidung von Anomalien
+- 

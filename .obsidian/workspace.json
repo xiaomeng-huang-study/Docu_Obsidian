@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24788981749a9d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
+                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
+                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md"
+                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md"
               }
             }
           },
@@ -183,8 +195,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a465ca592892e8cb",
+  "active": "24788981749a9d0f",
   "lastOpenFiles": [
+    "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Steuerungstechnik/AWL.md",
     "Steuerungstechnik/7.md",
@@ -193,7 +206,6 @@
     "Systemtheorie/ST3 Zusammenfassung.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
     "Latex/Latex_Syntax.md",
-    "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
-    "Mathe3/Statistik/statistische Test.md"
+    "Systemtheorie/Systeme/Systeme 1.Ordnung.md"
   ]
 }
