@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "508f1aa7a90ec1fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/Tutorium/Normalisierung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
+                "file": "Datenbanken/Tutorium/Normalisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
+                "file": "Datenbanken/Tutorium/Normalisierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md"
+                "file": "Datenbanken/Tutorium/Normalisierung.md"
               }
             }
           },
@@ -195,8 +208,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "24788981749a9d0f",
+  "active": "508f1aa7a90ec1fd",
   "lastOpenFiles": [
+    "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
     "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Steuerungstechnik/AWL.md",
@@ -205,7 +219,6 @@
     "Steuerungstechnik/Plantuml.md",
     "Systemtheorie/ST3 Zusammenfassung.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
-    "Latex/Latex_Syntax.md",
-    "Systemtheorie/Systeme/Systeme 1.Ordnung.md"
+    "Latex/Latex_Syntax.md"
   ]
 }
