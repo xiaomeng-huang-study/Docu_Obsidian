@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83114d66bdb506ba",
+        "id": "84e00378ffc44b58",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd93e7763d3fe65",
+            "id": "c4d56ef42cba31b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steuerungstechnik/AWL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d829302d31ad1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steuerungstechnik/7.md",
+                "file": "Datenbanken/Datenbanken_Notiz/RDBM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steuerungstechnik/7.md",
+                "file": "Datenbanken/Datenbanken_Notiz/RDBM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steuerungstechnik/7.md",
+                "file": "Datenbanken/Datenbanken_Notiz/RDBM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steuerungstechnik/7.md"
+                "file": "Datenbanken/Datenbanken_Notiz/RDBM.md"
               }
             }
           },
@@ -183,9 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1d829302d31ad1d0",
+  "active": "c4d56ef42cba31b8",
   "lastOpenFiles": [
     "Steuerungstechnik/AWL.md",
+    "Steuerungstechnik/7.md",
     "Software Engineering/Modell_Interface.md",
     "Steuerungstechnik/Plantuml.md",
     "Systemtheorie/ST3 Zusammenfassung.md",
@@ -193,7 +181,6 @@
     "Latex/Latex_Syntax.md",
     "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
     "Mathe3/Statistik/statistische Test.md",
-    "Mathe3/Statistik/Schätzen.md",
-    "Mathe3/Anwendungen/SVD_Herleitung.md"
+    "Mathe3/Statistik/Schätzen.md"
   ]
 }

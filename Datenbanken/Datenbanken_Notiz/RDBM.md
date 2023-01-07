@@ -1,4 +1,4 @@
-- Integrität 
+- Integritätsbedingung
 	- Entitätsintegrität
 		- PK eindeutig
 		- PK darf nicht NULL sein
