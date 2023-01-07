@@ -1,0 +1,8 @@
+- 1:N
+	- Der PK aus dem Entitätstyp mit der „zu eins“-Beziehung wird als FK in den Entitätstyp mit der „zu viele“-Beziehung übernommen.
+	- Bei schwachen Entitätstypen:
+		- PK+FK
+- M:N
+	- Einführung eines Koppel-Entitätstyps, beide PK+FK
+- 1:1
+	- Ein PK aus einem beliebigen Entitätstyp wird als FK in den anderen übernommen.

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a465ca592892e8cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/RDBM.md",
+                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/RDBM.md",
+                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/RDBM.md"
+                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md"
               }
             }
           },
@@ -170,8 +183,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c4d56ef42cba31b8",
+  "active": "a465ca592892e8cb",
   "lastOpenFiles": [
+    "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Steuerungstechnik/AWL.md",
     "Steuerungstechnik/7.md",
     "Software Engineering/Modell_Interface.md",
@@ -180,7 +194,6 @@
     "Systemtheorie/Fourier_Reihe-Transformation.md",
     "Latex/Latex_Syntax.md",
     "Systemtheorie/Systeme/Systeme 1.Ordnung.md",
-    "Mathe3/Statistik/statistische Test.md",
-    "Mathe3/Statistik/Schätzen.md"
+    "Mathe3/Statistik/statistische Test.md"
   ]
 }
