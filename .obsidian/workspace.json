@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
+                "file": "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
+                "file": "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
+                "file": "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md"
+                "file": "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md"
               }
             }
           },
@@ -172,6 +172,8 @@
   },
   "active": "90b81dda643f955f",
   "lastOpenFiles": [
+    "Datenbanken/Datenbanken_Notiz/DML_Insert_Update_Delete.md",
+    "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
     "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
@@ -179,8 +181,6 @@
     "Steuerungstechnik/AWL.md",
     "Steuerungstechnik/7.md",
     "Software Engineering/Modell_Interface.md",
-    "Steuerungstechnik/Plantuml.md",
-    "Systemtheorie/ST3 Zusammenfassung.md",
-    "Systemtheorie/Fourier_Reihe-Transformation.md"
+    "Steuerungstechnik/Plantuml.md"
   ]
 }

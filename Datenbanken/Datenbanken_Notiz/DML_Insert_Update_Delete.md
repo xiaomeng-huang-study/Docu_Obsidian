@@ -20,4 +20,4 @@
 	delete from Tabelle_Name
 	where ... ;
 	```
-	
+
