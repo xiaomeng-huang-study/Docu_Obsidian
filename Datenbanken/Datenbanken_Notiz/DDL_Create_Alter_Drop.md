@@ -8,14 +8,29 @@
 		```
 		- Constraints einsetzen 
 			- 1. Möglichkeit 
-				- Beispie: Default
+				- Beispiel: Default
 					```mysql
 					create TABLE Tabelle_Name(
 					Attribut1_Name Attribut1_Datentyp Default '...',
 					Attribut2_Name Attribut2_Datentyp
 					)
 					```
+				- Beispiel: Unique
+					```mysql
+					create TABLE Tabelle_Name(
+					Attribut1_Name Attribut1_Datentyp UNIQUE,
+					Attribut2_Name Attribut2_Datentyp
+					)
+					```
 			- 2. Möglichkeit
+				- Beispiel: Unique
+					```mysql
+					create TABLE Tabelle_Name(
+					Attribut1_Name Attribut1_Datentyp,
+					Attribut2_Name Attribut2_Datentyp,
+					Constraint uk_(Tabelle_Name) UNIQUE KEY (Attribut1_Name, Attribut2_Name)
+					)
+					```
 				- Beispiel: PK
 					```mysql
 					create TABLE Tabelle_Name(
