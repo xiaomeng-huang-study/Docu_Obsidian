@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "84e00378ffc44b58",
+        "id": "0f97a20e1b731ed8",
         "type": "tabs",
         "children": [
           {
-            "id": "c4d56ef42cba31b8",
+            "id": "90b81dda643f955f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/RDBM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a465ca592892e8cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24788981749a9d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "508f1aa7a90ec1fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/Tutorium/Normalisierung.md",
+                "file": "Datenbanken/Datenbanken_Notiz/DQL_Select.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Tutorium/Normalisierung.md",
+                "file": "Datenbanken/Datenbanken_Notiz/DQL_Select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Tutorium/Normalisierung.md",
+                "file": "Datenbanken/Datenbanken_Notiz/DQL_Select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Tutorium/Normalisierung.md"
+                "file": "Datenbanken/Datenbanken_Notiz/DQL_Select.md"
               }
             }
           },
@@ -208,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "508f1aa7a90ec1fd",
+  "active": "90b81dda643f955f",
   "lastOpenFiles": [
-    "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
-    "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
+    "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
+    "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
+    "Datenbanken/Tutorium/Normalisierung.md",
     "Steuerungstechnik/AWL.md",
     "Steuerungstechnik/7.md",
     "Software Engineering/Modell_Interface.md",
     "Steuerungstechnik/Plantuml.md",
     "Systemtheorie/ST3 Zusammenfassung.md",
-    "Systemtheorie/Fourier_Reihe-Transformation.md",
-    "Latex/Latex_Syntax.md"
+    "Systemtheorie/Fourier_Reihe-Transformation.md"
   ]
 }
