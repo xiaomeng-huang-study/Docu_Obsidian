@@ -5,4 +5,8 @@
 - M:N
 	- Einführung eines Koppel-Entitätstyps, beide PK+FK
 - 1:1
-	- Ein PK aus einem beliebigen Entitätstyp wird als FK in den anderen übernommen.
+	- Semantisch unterschiedliche Entitätstypen
+		- Ein PK aus einem beliebigen Entitätstyp wird als FK in den anderen übernommen.
+	- Semantisch gleiche Entitätstypen
+		- beide Seite : PK $\Rightarrow$ PK+FK
+	- überflüssig 
