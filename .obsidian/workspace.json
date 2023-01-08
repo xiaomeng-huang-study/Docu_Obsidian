@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a346ba1b9897479f",
+        "id": "87e92e187d2f1b1a",
         "type": "tabs",
         "children": [
           {
-            "id": "45f784b77ee9ce5a",
+            "id": "300bebee304c3e57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c3ed91b06a16df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DQL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/DQL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 501.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,13 +162,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6c3ed91b06a16df4",
+  "active": "300bebee304c3e57",
   "lastOpenFiles": [
-    "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
-    "Datenbanken/Datenbanken_Notiz/DQL.md",
-    "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
-    "Datenbanken/Datenbanken_Notiz/Transaktion.md",
     "Datenbanken/Datenbanken_Notiz/DML_Insert_Update_Delete.md",
+    "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
+    "Datenbanken/Datenbanken_Notiz/DQL.md",
+    "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
+    "Datenbanken/Datenbanken_Notiz/Transaktion.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
     "Datenbanken/Datenbanken_Notiz/Normalisierung.md",

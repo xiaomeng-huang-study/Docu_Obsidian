@@ -26,9 +26,10 @@
 			Attribut2_Name = wert2
 		where ...;
 	```
+==P.S. : wert muss mit ' '== 
+	- z.B. `nr = '123'` 
 - **DELETE (from)** 
 	```mysql
 	DELETE from Tabelle_Name
 		where ... ;
 	```
-

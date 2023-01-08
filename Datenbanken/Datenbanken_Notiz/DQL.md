@@ -123,6 +123,17 @@
 ---
 ---
 - Logische Zusammenhang
-	- = ; < ; > ; <>(!=) ; >= ; <= 
-	- in (XXX, XXX)
-	- between a and b : XXX <font color = "red"> $\rightarrow$ </font> b AND XXX>= a
+	- `=` ; `<` ; `>` ; `<>(!=)` ; `>=` ; `<=` 
+	- `in (`XXX, XXX`)`
+	-  `BETWEEN` a `AND` b 
+		- (XXX >= a AND XXX <= b) 
+	-  `IS NULL`/ `IS NOT NULL` 
+	- `LIKE 'XXX'`
+		- `%` : kein, ein, beliebig viele Zeichen
+		- `_` : genau ein Zeichen 
+- Aggregatfunktionen
+	- `COUNT()` 
+	- `SUM()` 
+	- `AVG()` 
+	- `MIN()` 
+	- `MAX()` 
