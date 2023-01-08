@@ -1,6 +1,7 @@
-- **INSERT** 
+- **INSERT (into)** 
 	```mysql
-	insert into Tabelle_Name (Attribut1_Name,Attribut2_Name,...)
+	INSERT into Tabelle_Name 
+		(Attribut1_Name,Attribut2_Name,...)
 	VALUES(Attribut1_Wert,Attribut2_Wert,...);
 	```
 	- Unterabfrage möglich 
@@ -20,14 +21,14 @@
 		```
 - **UPDATE** 
 	```mysql
-	update Tabelle_Name
-	set Attribut1_Name = wert1,
-		Attribut2_Name = wert2
-	where ...;
+	UPDATE Tabelle_Name
+		set Attribut1_Name = wert1,
+			Attribut2_Name = wert2
+		where ...;
 	```
-- **DELETE** 
+- **DELETE (from)** 
 	```mysql
-	delete from Tabelle_Name
-	where ... ;
+	DELETE from Tabelle_Name
+		where ... ;
 	```
 
