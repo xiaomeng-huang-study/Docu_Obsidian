@@ -30,25 +30,7 @@
 <br><div STYLE="page-break-after: always;"></div>
 - 3) **WHERE** 
 	- IN/ EXISTS
-		- Modell
-			```plantuml
-			@startuml EXISTS/IN
-			Entity A{
-			* **PK**
-			* FK
-			}
-			Entity B{
-			* **PK**
-			* FK
-			}
-			Entity C{
-			* **PK**
-			* FK
-			}
-			A ||.r.|{ B
-			B }|.r.|| C
-			@enduml
-			```
+		- Modell ![|225](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/DatenBanken_EXISTS-IN_Modell.png) 
 		- IN
 			- Eigenschaften
 				- Unterabfrage kann auch selbst durchgeführt werden
