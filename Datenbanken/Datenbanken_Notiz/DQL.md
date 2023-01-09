@@ -26,11 +26,11 @@
 			WHERE k2.nachname = 'Manz';
 			-- Alle Kunden, die vom Kunden 'Manz' geworben wurden
 			```
-			- Modell: ![|525](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_rekursive_1:n-Beziehung.png)
-<br><div STYLE="page-break-after: always;"></div>
+			- Modell: <img src="https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_rekursive_1:n-Beziehung.png" alt="|300"  />
+			<br><div STYLE="page-break-after: always;"></div>
 - 3) **WHERE** 
 	- IN/ EXISTS
-		- Modell ![|225](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/DatenBanken_EXISTS-IN_Modell.png) 
+		- Modell <img src="https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/DatenBanken_EXISTS-IN_Modell.png" alt="|225" style="zoom:50%;" /> 
 		- IN
 			- Eigenschaften
 				- Unterabfrage kann auch selbst durchgeführt werden
@@ -81,7 +81,7 @@
 											and C.Bedingung ...)
 								);
 					```
-<br><div STYLE="page-break-after: always;"></div>
+					<br><div STYLE="page-break-after: always;"></div>
 - 4) **GROUP BY** 
 	```mysql
 	SELECT A 
@@ -102,7 +102,7 @@
 ---
 - 6) **ODER BY** 
 	- asc/ desc
-<br><div STYLE="page-break-after: always;"></div>
+	<br><div STYLE="page-break-after: always;"></div>
 - Logische Zusammenhang
 	- `=` ; `<` ; `>` ; `<>(!=)` ; `>=` ; `<=` 
 	- `in (`XXX, XXX`)`
