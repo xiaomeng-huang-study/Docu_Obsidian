@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a64cc136f5db6da",
+            "id": "80cc2d7b4bbcdc6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Zeiger.md",
+                "file": "Prog C++/Verständnis Fragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Zeiger.md",
+                "file": "Prog C++/Verständnis Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Zeiger.md",
+                "file": "Prog C++/Verständnis Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Zeiger.md"
+                "file": "Prog C++/Verständnis Fragen.md"
               }
             }
           },
@@ -170,8 +170,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8a64cc136f5db6da",
+  "active": "80cc2d7b4bbcdc6d",
   "lastOpenFiles": [
+    "Prog C++/Zeiger.md",
     "Prog C++/Template.md",
     "Datenbanken/Datenbanken_Notiz/DQL.md",
     "Markdown/Syntax.md",
@@ -180,7 +181,6 @@
     "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
     "Datenbanken/Datenbanken_Notiz/Transaktion.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
-    "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
-    "Datenbanken/Datenbanken_Notiz/Normalisierung.md"
+    "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md"
   ]
 }
