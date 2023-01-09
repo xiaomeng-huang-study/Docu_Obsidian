@@ -11,8 +11,12 @@
             "id": "300bebee304c3e57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/DQL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/DQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/DQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/DQL.md"
+              }
             }
           },
           {
@@ -164,15 +172,15 @@
   },
   "active": "300bebee304c3e57",
   "lastOpenFiles": [
+    "Markdown/Syntax.md",
+    "Datenbanken/Datenbanken_Notiz/DQL.md",
     "Datenbanken/Datenbanken_Notiz/DML_Insert_Update_Delete.md",
     "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
-    "Datenbanken/Datenbanken_Notiz/DQL.md",
     "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
     "Datenbanken/Datenbanken_Notiz/Transaktion.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
     "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
-    "Datenbanken/Tutorium/Normalisierung.md",
-    "Steuerungstechnik/AWL.md"
+    "Datenbanken/Tutorium/Normalisierung.md"
   ]
 }

@@ -27,7 +27,7 @@
 			-- Alle Kunden, die vom Kunden 'Manz' geworben wurden
 			```
 			- Modell: ![|525](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_rekursive_1:n-Beziehung.png)
----
+<br><div STYLE="page-break-after: always;"></div>
 - 3) **WHERE** 
 	- IN/ EXISTS
 		- Modell
@@ -99,7 +99,7 @@
 											and C.Bedingung ...)
 								);
 					```
----
+<br><div STYLE="page-break-after: always;"></div>
 - 4) **GROUP BY** 
 	```mysql
 	SELECT A 
@@ -120,8 +120,7 @@
 ---
 - 6) **ODER BY** 
 	- asc/ desc
----
----
+<br><div STYLE="page-break-after: always;"></div>
 - Logische Zusammenhang
 	- `=` ; `<` ; `>` ; `<>(!=)` ; `>=` ; `<=` 
 	- `in (`XXX, XXX`)`
