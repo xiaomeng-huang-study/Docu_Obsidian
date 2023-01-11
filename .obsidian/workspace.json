@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d1dcde2819a9fa7d",
+        "id": "85ac153ceec6bd91",
         "type": "tabs",
         "children": [
           {
-            "id": "3b01bb59eb4d1b46",
+            "id": "36a1d78ed8ae0a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steuerungstechnik/Notiz_20230111.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e4f5c8fc35a6c1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Email/Email_20230111_AOK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9503a4ea002f8637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steuerungstechnik/AWL.md",
+                "file": "Signalverarbeitung/Z-Transformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steuerungstechnik/Notiz_20230111.md",
+                "file": "Signalverarbeitung/Z-Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steuerungstechnik/Notiz_20230111.md",
+                "file": "Signalverarbeitung/Z-Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steuerungstechnik/Notiz_20230111.md"
+                "file": "Signalverarbeitung/Z-Transformation.md"
               }
             }
           },
@@ -194,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3b01bb59eb4d1b46",
+  "active": "36a1d78ed8ae0a28",
   "lastOpenFiles": [
+    "Latex/Latex_Syntax.md",
+    "Signalverarbeitung/Z-Transformation.md",
+    "Signalverarbeitung/FIR_Entwurf.md",
+    "Signalverarbeitung/Fenster-Funktionen.md",
+    "Signalverarbeitung/Transformation.md",
+    "Steuerungstechnik/AWL.md",
     "Email/Email_20230111_AOK.md",
     "Steuerungstechnik/Notiz_20230111.md",
-    "Steuerungstechnik/AWL.md",
     "Email/Email_20230110_EI_Sekretariat.md",
-    "Prog C++/Verständnis Fragen.md",
-    "Prog C++/Zeiger.md",
-    "Prog C++/Template.md",
-    "Datenbanken/Datenbanken_Notiz/DQL.md",
-    "Markdown/Syntax.md",
-    "Datenbanken/Datenbanken_Notiz/DML_Insert_Update_Delete.md"
+    "Prog C++/Verständnis Fragen.md"
   ]
 }
