@@ -19,32 +19,32 @@
 - FB1
 	```c++
 	class FB1                   //FUNCTION_BLOCK FB1
-{
-public:
-    //Eingangsvariable:
-                            //VAR_INPUT
-    double X;               //      X : REAL;
-    double Y;               //      Y : REAL;
-    double Z;               //      Z : REAL;
-    double M;               //      M : REAL;
-                            //END_VAR
-
-    //Ausgangsvariable:
-                            //VAR_OUTPUT
-    double ERGEBNIS;        //      ERGEBNIS : REAL;
-                            //END_VAR
-
-    void ini(double x,double y,double z,double m)   //LD  X
-                                                    //FC1 Y,Z
-    {
-        X = x;
-        Y = y;
-        Z = z;
-        M = m;
-        ERGEBNIS = FC1(X,Y,Z) + M;                  //ADD M
-                                                    //ST ERGEBNIS
-    }
-};
+	{
+	public:
+	    //Eingangsvariable:
+	                            //VAR_INPUT
+	    double X;               //      X : REAL;
+	    double Y;               //      Y : REAL;
+	    double Z;               //      Z : REAL;
+	    double M;               //      M : REAL;
+	                            //END_VAR
+	
+	    //Ausgangsvariable:
+	                            //VAR_OUTPUT
+	    double ERGEBNIS;        //      ERGEBNIS : REAL;
+	                            //END_VAR
+	
+	    void ini(double x,double y,double z,double m)   //LD  X
+	                                                    //FC1 Y,Z
+	    {
+	        X = x;
+	        Y = y;
+	        Z = z;
+	        M = m;
+	        ERGEBNIS = FC1(X,Y,Z) + M;                  //ADD M
+	                                                    //ST ERGEBNIS
+	    }
+	};
 	```
 - Program
 	```c++

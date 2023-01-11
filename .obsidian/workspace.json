@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "67fd65be4a5d667b",
+        "id": "d1dcde2819a9fa7d",
         "type": "tabs",
         "children": [
           {
-            "id": "6c36365a453e0ac9",
+            "id": "3b01bb59eb4d1b46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Email/Email_20230110_EI_Sekretariat.md",
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9503a4ea002f8637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steuerungstechnik/AWL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email/Email_20230110_EI_Sekretariat.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Email/Email_20230110_EI_Sekretariat.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Email/Email_20230110_EI_Sekretariat.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -170,17 +182,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6c36365a453e0ac9",
+  "active": "3b01bb59eb4d1b46",
   "lastOpenFiles": [
+    "Steuerungstechnik/AWL.md",
+    "未命名.md",
+    "Email/Email_20230110_EI_Sekretariat.md",
     "Prog C++/Verständnis Fragen.md",
     "Prog C++/Zeiger.md",
     "Prog C++/Template.md",
     "Datenbanken/Datenbanken_Notiz/DQL.md",
     "Markdown/Syntax.md",
     "Datenbanken/Datenbanken_Notiz/DML_Insert_Update_Delete.md",
-    "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
-    "Datenbanken/Datenbanken_Notiz/DQL_EXISTS-IN.md",
-    "Datenbanken/Datenbanken_Notiz/Transaktion.md",
-    "Datenbanken/Datenbanken_Notiz/RDBM.md"
+    "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md"
   ]
 }
