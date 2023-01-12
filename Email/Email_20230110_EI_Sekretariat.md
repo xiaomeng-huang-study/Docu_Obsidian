@@ -9,3 +9,16 @@ Vielleicht können Sie mir dabei helfen?
 Ich würde mich sehr freuen, wenn Sie mir eine Antwort geben könnten. 
 Viele Grüße 
 Xiaomeng Huang (Matrikel-Nr. 3139401)
+
+
+Guten Tag Frau Gölz,
+
+zu dem Praxissemester im Sommersemester 2023 möchte ich eine Befreiung von der Studiengebühr für internationale Studierende (1500 Euro) beantragen. 
+
+Bei der Antragstellung muss ich eine Bestätigung von der Fakultät anhängen. 
+Vielleicht können Sie mir dabei helfen? (*^_^*)
+(Den Vertrag mit der Firma habe ich im Anhang beigefügt. )
+
+Ich würde mich sehr freuen, wenn Sie mir eine Antwort geben könnten. 
+Viele Grüße 
+Xiaomeng Huang (Matrikel-Nr. 3139401)
