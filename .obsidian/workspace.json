@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17e44733349417f0",
+        "id": "25a31cb034990a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd6ad66d5ba0ef9",
+            "id": "ed92858ff7f30f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Notiz_Git.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -170,8 +170,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9cd6ad66d5ba0ef9",
+  "active": "ed92858ff7f30f7b",
   "lastOpenFiles": [
+    "Software Engineering/Notiz_Git.md",
     "Email/Email_20230110_EI_Sekretariat.md",
     "Email/Email_20230111_AOK.md",
     "Signalverarbeitung/Z-Transformation.md",
@@ -180,7 +181,6 @@
     "Signalverarbeitung/Fenster-Funktionen.md",
     "Signalverarbeitung/Transformation.md",
     "Steuerungstechnik/AWL.md",
-    "Steuerungstechnik/Notiz_20230111.md",
-    "Prog C++/Verständnis Fragen.md"
+    "Steuerungstechnik/Notiz_20230111.md"
   ]
 }
