@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Email/Email_20230110_EI_Sekretariat.md",
+                "file": "Software Engineering/Notiz_Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email/Email_20230110_EI_Sekretariat.md",
+                "file": "Software Engineering/Notiz_Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Email/Email_20230110_EI_Sekretariat.md",
+                "file": "Software Engineering/Notiz_Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Email/Email_20230110_EI_Sekretariat.md"
+                "file": "Software Engineering/Notiz_Git.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "9cd6ad66d5ba0ef9",
   "lastOpenFiles": [
+    "Email/Email_20230110_EI_Sekretariat.md",
     "Email/Email_20230111_AOK.md",
     "Signalverarbeitung/Z-Transformation.md",
     "Latex/Latex_Syntax.md",
@@ -180,7 +181,6 @@
     "Signalverarbeitung/Transformation.md",
     "Steuerungstechnik/AWL.md",
     "Steuerungstechnik/Notiz_20230111.md",
-    "Email/Email_20230110_EI_Sekretariat.md",
     "Prog C++/Verständnis Fragen.md"
   ]
 }
