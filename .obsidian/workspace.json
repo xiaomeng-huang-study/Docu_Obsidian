@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85ac153ceec6bd91",
+        "id": "74996b49ffeef68e",
         "type": "tabs",
         "children": [
           {
-            "id": "36a1d78ed8ae0a28",
+            "id": "e39530e979ea1279",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signalverarbeitung/Z-Transformation.md",
+                "file": "Email/Email_20230111_AOK.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signalverarbeitung/Z-Transformation.md",
+                "file": "Email/Email_20230111_AOK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signalverarbeitung/Z-Transformation.md",
+                "file": "Email/Email_20230111_AOK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signalverarbeitung/Z-Transformation.md"
+                "file": "Email/Email_20230111_AOK.md"
               }
             }
           },
@@ -170,10 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "36a1d78ed8ae0a28",
+  "active": "e39530e979ea1279",
   "lastOpenFiles": [
-    "Latex/Latex_Syntax.md",
     "Signalverarbeitung/Z-Transformation.md",
+    "Latex/Latex_Syntax.md",
     "Signalverarbeitung/FIR_Entwurf.md",
     "Signalverarbeitung/Fenster-Funktionen.md",
     "Signalverarbeitung/Transformation.md",
