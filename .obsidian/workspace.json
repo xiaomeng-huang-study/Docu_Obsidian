@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b18fc633afa7e5f5",
+        "id": "eba358ae3ddbf1cc",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7e7f2f5849cd30",
+            "id": "6b5fe066673e02ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Email/Email_20230112_Lux.md",
+                "file": "Prog C++/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email/Email_20230112_Lux.md",
+                "file": "Prog C++/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Email/Email_20230112_Lux.md",
+                "file": "Prog C++/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Email/Email_20230112_Lux.md"
+                "file": "Prog C++/Template.md"
               }
             }
           },
@@ -170,8 +170,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ea7e7f2f5849cd30",
+  "active": "6b5fe066673e02ae",
   "lastOpenFiles": [
+    "Email/Email_20230112_Lux.md",
     "未命名.md",
     "Software Engineering/Notiz_Git.md",
     "Email/Email_20230110_EI_Sekretariat.md",
@@ -180,7 +181,6 @@
     "Latex/Latex_Syntax.md",
     "Signalverarbeitung/FIR_Entwurf.md",
     "Signalverarbeitung/Fenster-Funktionen.md",
-    "Signalverarbeitung/Transformation.md",
-    "Steuerungstechnik/AWL.md"
+    "Signalverarbeitung/Transformation.md"
   ]
 }
