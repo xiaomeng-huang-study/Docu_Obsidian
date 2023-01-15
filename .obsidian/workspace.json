@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "578646dadaeee500",
+        "id": "2c9df362ec49fbab",
         "type": "tabs",
         "children": [
           {
-            "id": "0481f68e7d5e3410",
+            "id": "10a52a9a67b1696e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik2/DA-Umsetzungsverfahren.md",
+                "file": "Elektronik2/Verständnis Fragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronik2/DA-Umsetzungsverfahren.md",
+                "file": "Elektronik2/Verständnis Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektronik2/DA-Umsetzungsverfahren.md",
+                "file": "Elektronik2/Verständnis Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektronik2/DA-Umsetzungsverfahren.md"
+                "file": "Elektronik2/Verständnis Fragen.md"
               }
             }
           },
@@ -170,10 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0481f68e7d5e3410",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "Elektronik2/idealer Operationsverstärker.md",
     "Elektronik2/DA-Umsetzungsverfahren.md",
+    "Elektronik2/idealer Operationsverstärker.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Systemtheorie/ST3 Zusammenfassung.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
