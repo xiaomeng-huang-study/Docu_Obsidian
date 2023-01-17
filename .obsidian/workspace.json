@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
+                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
+                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
+                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md"
+                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "c261abb9f3568c20",
   "lastOpenFiles": [
+    "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Datenbanken/Tutorium/Normalisierung.md",
     "Elektronik2/Verständnis Fragen.md",
@@ -180,7 +181,6 @@
     "Elektronik2/DA-Umsetzungsverfahren.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Systemtheorie/ST3 Zusammenfassung.md",
-    "Systemtheorie/Fourier_Reihe-Transformation.md",
-    "Steuerungstechnik/Plantuml.md"
+    "Systemtheorie/Fourier_Reihe-Transformation.md"
   ]
 }
