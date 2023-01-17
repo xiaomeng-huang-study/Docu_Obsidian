@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex/Latex_Syntax.md",
+                "file": "Elektronik2/Verständnis Fragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex/Latex_Syntax.md",
+                "file": "Elektronik2/Verständnis Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex/Latex_Syntax.md",
+                "file": "Elektronik2/Verständnis Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex/Latex_Syntax.md"
+                "file": "Elektronik2/Verständnis Fragen.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "10a52a9a67b1696e",
   "lastOpenFiles": [
+    "Latex/Latex_Syntax.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Elektronik2/DA-Umsetzungsverfahren.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
@@ -180,7 +181,6 @@
     "Systemtheorie/Fourier_Reihe-Transformation.md",
     "Steuerungstechnik/Plantuml.md",
     "Steuerungstechnik/Notiz_20230111.md",
-    "Steuerungstechnik/Füllbehälter.md",
-    "Steuerungstechnik/Ansatz_SPS.md"
+    "Steuerungstechnik/Füllbehälter.md"
   ]
 }
