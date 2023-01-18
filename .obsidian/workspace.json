@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0fb7561bebec3f60",
+        "id": "62bf174a8e65ed5a",
         "type": "tabs",
         "children": [
           {
-            "id": "c261abb9f3568c20",
+            "id": "565f1b6a34a48f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
+                "file": "Steuerungstechnik/9.3.5_Übung_Ablaufsteuerungen_ST.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
+                "file": "Steuerungstechnik/9.3.5_Übung_Ablaufsteuerungen_ST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
+                "file": "Steuerungstechnik/9.3.5_Übung_Ablaufsteuerungen_ST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datenbanken/Datenbanken_Notiz/Normalisierung.md"
+                "file": "Steuerungstechnik/9.3.5_Übung_Ablaufsteuerungen_ST.md"
               }
             }
           },
@@ -170,8 +170,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c261abb9f3568c20",
+  "active": "565f1b6a34a48f0e",
   "lastOpenFiles": [
+    "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
     "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
     "Datenbanken/Tutorium/Normalisierung.md",
@@ -180,7 +181,6 @@
     "Elektronik2/idealer Operationsverstärker.md",
     "Elektronik2/DA-Umsetzungsverfahren.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
-    "Systemtheorie/ST3 Zusammenfassung.md",
-    "Systemtheorie/Fourier_Reihe-Transformation.md"
+    "Systemtheorie/ST3 Zusammenfassung.md"
   ]
 }
