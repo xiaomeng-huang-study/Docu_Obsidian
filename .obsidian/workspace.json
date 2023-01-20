@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62bf174a8e65ed5a",
+        "id": "8ca2f70f336d5a25",
         "type": "tabs",
         "children": [
           {
-            "id": "565f1b6a34a48f0e",
+            "id": "1daa0534595b3e45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steuerungstechnik/9.3.5_Übung_Ablaufsteuerungen_ST.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steuerungstechnik/9.3.5_Übung_Ablaufsteuerungen_ST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steuerungstechnik/9.3.5_Übung_Ablaufsteuerungen_ST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Steuerungstechnik/9.3.5_Übung_Ablaufsteuerungen_ST.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +162,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "565f1b6a34a48f0e",
+  "active": "1daa0534595b3e45",
   "lastOpenFiles": [
+    "Steuerungstechnik/9.3.5_Übung_Ablaufsteuerungen_ST.md",
     "Datenbanken/Datenbanken_Notiz/Normalisierung.md",
     "Datenbanken/Datenbanken_Notiz/Trafo_Konz-Log.md",
     "Datenbanken/Datenbanken_Notiz/RDBM.md",
@@ -180,7 +173,6 @@
     "Latex/Latex_Syntax.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Elektronik2/DA-Umsetzungsverfahren.md",
-    "Elektronik2/AD-Umsetzungsverfahren.md",
-    "Systemtheorie/ST3 Zusammenfassung.md"
+    "Elektronik2/AD-Umsetzungsverfahren.md"
   ]
 }
