@@ -42,7 +42,8 @@
 					FROM A
 					WHERE A.FK in (select B.PK 
 								   from B
-								   where B.Bedingung ...);
+								   where B.Bedingung ...)
+						   AND A.Bedingung ...;
 					```
 				- 3 Tabellen
 					```mysql
@@ -53,7 +54,8 @@
 									where B.FK in (select C.PK
 													from  C
 													where C.Bedingung ...)
-									);
+											AND B.Bedingung ...)
+							AND A.Bedingung ...;
 					```
 		- EXISTS
 			- Eigenschaften

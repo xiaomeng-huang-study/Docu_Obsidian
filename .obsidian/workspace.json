@@ -11,8 +11,12 @@
             "id": "96402ba140a57b51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/DQL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronik2/idealer Operationsverstärker.md",
+                "file": "Datenbanken/Datenbanken_Notiz/DQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektronik2/idealer Operationsverstärker.md",
+                "file": "Datenbanken/Datenbanken_Notiz/DQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektronik2/idealer Operationsverstärker.md"
+                "file": "Datenbanken/Datenbanken_Notiz/DQL.md"
               }
             }
           },
@@ -166,7 +170,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "96402ba140a57b51",
   "lastOpenFiles": [
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Elektronik2/Verständnis Fragen.md",
