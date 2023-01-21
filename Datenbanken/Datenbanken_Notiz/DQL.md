@@ -88,9 +88,9 @@
 <br><div STYLE="page-break-after: always;"></div>
 - 4) **GROUP BY** 
 	```mysql
-	SELECT A 
-	FROM XXX
-	GROUP BY A;
+	SELECT A.Anzeige
+	FROM A
+	GROUP BY A.Anzeige;
 	```
 ---
 - 5) **HAVING** 
@@ -104,7 +104,7 @@
 		-- HAVING: Einschränkung für Aggregatfunktion
 	```
 ---
-- 6) **ODER BY** 
+- 6) **ORDER BY** 
 	- asc/ desc
 	<br><div STYLE="page-break-after: always;"></div>
 - Logische Zusammenhang
