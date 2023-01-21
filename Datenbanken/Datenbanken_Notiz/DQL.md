@@ -65,25 +65,27 @@
 					```mysql
 					SELECT A.Anzeige
 					FROM A 
-					WHERE exists(select * 
-								from B 
-								where A.FK = B.PK
-									and B.Bedingung ...);
+					WHERE exists(SELECT * 
+								FROM B 
+								WHERE A.FK = B.PK
+									AND B.Bedingung ...)
+							A.Bedingung ...;
 					```
 				- 3 Tabellen
 					```mysql
 					SELECT A.Anzeige
 					FROM A
-					WHERE exist(select *
-								from B
-								where A.FK = B.PK
-									and exists(select *
-											from C
-											where B.FK = C.PK
-											and C.Bedingung ...)
-								);
+					WHERE exists(SELECT *
+								FROM B
+								WHERE A.FK = B.PK
+										AND exists(SELECT *
+													FROM C
+													WHERE B.FK = C.PK
+															AND C.Bedingung ...)
+										AND B.Bedingung ...)
+							AND A.Bedingung ...;
 					```
-					<br><div STYLE="page-break-after: always;"></div>
+<br><div STYLE="page-break-after: always;"></div>
 - 4) **GROUP BY** 
 	```mysql
 	SELECT A 
