@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/picgo-clipboard-images/20221213111758.png)
+![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Datentyp_MySQL.png) 

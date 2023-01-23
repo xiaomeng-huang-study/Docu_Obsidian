@@ -19,6 +19,8 @@
 				 ...
 			 );
 		```
+==P.S. : Attributwert muss mit ' '== 
+	- z.B. `nr = '123'` 
 - **UPDATE** 
 	```mysql
 	UPDATE Tabelle_Name

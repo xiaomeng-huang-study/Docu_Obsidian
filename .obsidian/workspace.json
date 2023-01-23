@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "92000b11f6ad7b03",
+        "id": "f0111311295a3744",
         "type": "tabs",
         "children": [
           {
-            "id": "2d7c0dcd78ba9fbe",
+            "id": "f564b55b8817fcac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Datenbanken/Datenbanken_Notiz/Datentype_MySQL.md"
+              }
             }
           },
           {
@@ -162,8 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2d7c0dcd78ba9fbe",
+  "active": "f564b55b8817fcac",
   "lastOpenFiles": [
+    "Datenbanken/Tutorium/Normalisierung.md",
+    "Datenbanken/Datenbanken_Notiz/DML_Insert_Update_Delete.md",
     "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
     "Email/Email_20230123_Gebuehren.md",
     "Mathe3/Statistik/statistische Test.md",
@@ -171,8 +181,6 @@
     "Datenbanken/Datenbanken_Notiz/DQL.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Elektronik2/Verständnis Fragen.md",
-    "Elektronik2/idealer Operationsverstärker.md",
-    "Elektronik2/DA-Umsetzungsverfahren.md",
-    "Latex/Latex_Syntax.md"
+    "Elektronik2/idealer Operationsverstärker.md"
   ]
 }
