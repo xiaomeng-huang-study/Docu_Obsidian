@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d41a48068ca6fc0c",
+        "id": "66b55e10e19e8bee",
         "type": "tabs",
         "children": [
           {
-            "id": "a979c2d414ea58b2",
+            "id": "697e45859ae0f64d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe3/Statistik/statistische Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe3/Statistik/statistische Test.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,17 +162,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a979c2d414ea58b2",
+  "active": "697e45859ae0f64d",
   "lastOpenFiles": [
-    "Mathe3/Statistik/Schätzen.md",
+    "Email/Email_20230123_Gebuehren.md",
     "Mathe3/Statistik/statistische Test.md",
+    "Mathe3/Statistik/Schätzen.md",
     "Datenbanken/Datenbanken_Notiz/DQL.md",
     "Elektronik2/AD-Umsetzungsverfahren.md",
     "Elektronik2/Verständnis Fragen.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Elektronik2/DA-Umsetzungsverfahren.md",
     "Latex/Latex_Syntax.md",
-    "Markdown/Syntax.md",
-    "Prog C++/Treads.md"
+    "Markdown/Syntax.md"
   ]
 }
