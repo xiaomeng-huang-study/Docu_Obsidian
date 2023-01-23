@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "66b55e10e19e8bee",
+        "id": "92000b11f6ad7b03",
         "type": "tabs",
         "children": [
           {
-            "id": "697e45859ae0f64d",
+            "id": "2d7c0dcd78ba9fbe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "697e45859ae0f64d",
+  "active": "2d7c0dcd78ba9fbe",
   "lastOpenFiles": [
+    "Datenbanken/Datenbanken_Notiz/DDL_Create_Alter_Drop.md",
     "Email/Email_20230123_Gebuehren.md",
     "Mathe3/Statistik/statistische Test.md",
     "Mathe3/Statistik/Schätzen.md",
@@ -172,7 +173,6 @@
     "Elektronik2/Verständnis Fragen.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Elektronik2/DA-Umsetzungsverfahren.md",
-    "Latex/Latex_Syntax.md",
-    "Markdown/Syntax.md"
+    "Latex/Latex_Syntax.md"
   ]
 }
