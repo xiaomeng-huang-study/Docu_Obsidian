@@ -1,11 +1,11 @@
 Header-Datei:
 ```c++
-#includ <threads>
+#include <thread>
 using namespace std;
 ```
 
 ```c++
-#includ <threads>
+#include <thread>
 using namespace std;
 
 void func01()
@@ -17,6 +17,7 @@ void func02(int threadNr)
 {
 	
 }
+
 int main()
 {
 	thread Thread1(func01);
