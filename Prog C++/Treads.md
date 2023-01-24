@@ -1,98 +1,88 @@
-Header-Datei:
-```c++
-#include <thread>
-using namespace std;
-```
-
-```c++
-#include <thread>
-using namespace std;
-
-void func01()
-{
-	this_thread::sleep_for(chrono::seconds(2));
-}
-
-void func02(int threadNr)
-{
-	
-}
-
-int main()
-{
-	thread Thread1(func01);
-	...
-	Thread1.join();
-
-	const int numOfThreads = 3;
-	threads t[numberOfThreads];
-	for(int i = 0; i<numOfThreads; i++)
-	{
-		//Making Thread i
-		t[i] = thread(func02,i);
-	}
-
-	for(int i = 0; i<numOfThreads; i++)
-	{
-		t[i].join();	
-	}
-}
-
-```
-- workload
-```c++
-//ohne Parameter
-void func01()
-{
-	...
-	this_thread::sleep_for(chrono::seconds(2));
-	this_thread::sleep_for(chrono::milliseconds(2));
-}
-
-//mit Parameter: call by value
-void func02(int threadNr)
-{
-	...
-}
-
-//mit Parameter: call by reference
-void func03(int& p)
-{
-	...
-}
-```
-- ein Thread
-```c++
-thread Thread1(func01);  //ohne Parameter
-thread Thread2(func02,2);  //call by value
-thread Thread3(func03,std::ref(...));  //call by reference
-```
-- mehrere Threads
-```c++
-thread arrThread[3];
-arrThread[0] = thread(func01);
-arrThread[1] = thread(func02,1);
-
-int a = 3;
-arrThread[2] = thread(func03,a);
-```
-
-- Mutex
-```c++
-#include <mutex>
-mutex m;
-
-m.lock();
-...
-m.unlock();
-```
-
-- Call by Reference
+- Header-Datei:
 	```c++
-	...
-	t[i] = thread(func03,std::ref(...));
+	#include <thread>
+	using namespace std;
 	```
 
+- workload
+	```c++
+	//ohne Parameter
+	void func01()
+	{
+		...
+	}
+	
+	//mit Parameter: call by value
+	void func02(int threadNr)
+	{
+		...
+	}
+	
+	//mit Parameter: call by reference
+	void func03(int& p)
+	{
+		...
+	}
+	```
+
+- Thread(s) erzeugen
+	- ein Thread
+		```c++
+		thread Thread1(func01);  //ohne Parameter
+		thread Thread2(func02,2);  //call by value
+		thread Thread3(func03,std::ref(...));  //call by reference
+		```
+	- mehrere Threads
+		```c++
+		thread arrThread[3];
+		arrThread[0] = thread(func01);
+		arrThread[1] = thread(func02,1);
+		arrThread[2] = thread(func03,std::ref(...));
+		```
+
+- JOIN : Aufrufer wartet bis dies Thread fertig
+	```c++
+	//ein Thread
+	Thread1.join();
+	
+	//mehrere Threads
+	for(int i = 0; i < numThreads; i++)
+	{
+		arrThread[i].join();
+	}
+	```
+
+- thread_sleep function
+	```c++
+	#include <chrono>
+	this_thread::sleep_for(chrono::seconds(2));
+	this_thread::sleep_for(chrono::milliseconds(2));
+	```
+
+- Mutex
+	```c++
+	#include <mutex>
+	//globale Variable
+	mutex m;
+	
+	m.lock();
+	...
+	m.unlock();
+	```
+
+- Atomics
+	```c++
+	#include <atomic>
+	
+	std::atomic<int> value;
+	```
+
+- Hintergrund-Threads : detach()
+	```c++
+	thread t(func01);  //func01 als child
+	t.detach();
+	```
+	- nicht mehr über `join()` koordinierbar 
 
 - Beispiel: Primzahlsuche auf mehreren Threads
 	- 1) 
