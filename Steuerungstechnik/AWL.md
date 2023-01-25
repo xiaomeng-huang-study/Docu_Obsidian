@@ -46,6 +46,7 @@
 	    }
 	};
 	```
+<br><div STYLE="page-break-after: always;"></div> 
 - Program
 	```c++
 	int main()                      //PROGRAM Program_Name
