@@ -52,10 +52,10 @@
 	{
 	    //Variable:
 	                                //VAR
-	    double WERT1 = 40.0;        //  WERT1 : REAL = 40.0;
-	    double WERT2 = 50.0;        //  WERT1 : REAL = 50.0;
-	    double WERT3 = 20.0;        //  WERT1 : REAL = 20.0;
-	    double WERT4 = 40.0;        //  WERT1 : REAL = 40.0;
+	    double WERT1 = 40.0;        //  WERT1 : REAL := 40.0;
+	    double WERT2 = 50.0;        //  WERT1 : REAL := 50.0;
+	    double WERT3 = 20.0;        //  WERT1 : REAL := 20.0;
+	    double WERT4 = 40.0;        //  WERT1 : REAL := 40.0;
 	
 	    double AUSGABE;             //  AUSGABE : REAL;
 	    FB1 INSTANZ;                //  INSTANZ FB1;
