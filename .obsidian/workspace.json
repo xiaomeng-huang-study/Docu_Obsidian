@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "19d1e3c15fd12694",
+        "id": "94da973e955cb388",
         "type": "tabs",
         "children": [
           {
-            "id": "6f5c9d8a748cec2c",
+            "id": "0236dfa3245f1d8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steuerungstechnik/Hilfsblatt/7.10_Flankenerfassung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c4b26ff6475706c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steuerungstechnik/Hilfsblatt/7.10_Zeitgeber.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "187ecfb95077a884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steuerungstechnik/Hilfsblatt/8.2_Speicherfunktion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0946a2f920359506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steuerungstechnik/7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steuerungstechnik/7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steuerungstechnik/7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Steuerungstechnik/7.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,16 +162,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0946a2f920359506",
+  "active": "0236dfa3245f1d8e",
   "lastOpenFiles": [
+    "Steuerungstechnik/Hilfsblatt/7.10_Flankenerfassung.md",
+    "Steuerungstechnik/Hilfsblatt/7.10_Zeitgeber.md",
+    "Steuerungstechnik/7.md",
     "Steuerungstechnik/Notiz_20230111.md",
     "Steuerungstechnik/8.2.5_Übung zu Speichergliedern.md",
     "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
     "Steuerungstechnik/Hilfsblatt/8.2_Speicherfunktion.md",
-    "Steuerungstechnik/Hilfsblatt/7.10_Zeitgeber.md",
-    "Steuerungstechnik/Hilfsblatt/7.10_Flankenerfassung.md",
     "Steuerungstechnik/Hilfsblatt.md",
-    "Steuerungstechnik/7.md",
     "Steuerungstechnik/7.9.1_Übung zu RS-Glieder.md",
     "Steuerungstechnik/4.12.md"
   ]
