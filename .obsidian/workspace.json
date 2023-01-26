@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
+                "file": "Steuerungstechnik/7.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
+                "file": "Steuerungstechnik/7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
+                "file": "Steuerungstechnik/7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md"
+                "file": "Steuerungstechnik/7.md"
               }
             }
           },
@@ -209,15 +209,15 @@
   },
   "active": "0946a2f920359506",
   "lastOpenFiles": [
+    "Steuerungstechnik/Notiz_20230111.md",
+    "Steuerungstechnik/8.2.5_Übung zu Speichergliedern.md",
+    "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
     "Steuerungstechnik/Hilfsblatt/8.2_Speicherfunktion.md",
     "Steuerungstechnik/Hilfsblatt/7.10_Zeitgeber.md",
     "Steuerungstechnik/Hilfsblatt/7.10_Flankenerfassung.md",
     "Steuerungstechnik/Hilfsblatt.md",
     "Steuerungstechnik/7.md",
-    "Steuerungstechnik/8.2.5_Übung zu Speichergliedern.md",
-    "Steuerungstechnik/Notiz_20230111.md",
     "Steuerungstechnik/7.9.1_Übung zu RS-Glieder.md",
-    "Steuerungstechnik/4.12.md",
-    "Steuerungstechnik/7.8_Funktionstabellen.md"
+    "Steuerungstechnik/4.12.md"
   ]
 }
