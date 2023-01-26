@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steuerungstechnik/7.9.1_Übung zu RS-Glieder.md",
+                "file": "Steuerungstechnik/Notiz_20230111.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steuerungstechnik/7.9.1_Übung zu RS-Glieder.md",
+                "file": "Steuerungstechnik/Notiz_20230111.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steuerungstechnik/7.9.1_Übung zu RS-Glieder.md"
+                "file": "Steuerungstechnik/Notiz_20230111.md"
               }
             }
           },
@@ -195,7 +194,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c40e0c536c3901b8",
+  "active": "74abbb9d35ba84d1",
   "lastOpenFiles": [
     "Steuerungstechnik/8.2.5_Übung zu Speichergliedern.md",
     "Steuerungstechnik/7.9.1_Übung zu RS-Glieder.md",
