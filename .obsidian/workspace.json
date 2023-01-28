@@ -11,8 +11,12 @@
             "id": "0236dfa3245f1d8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md"
+              }
             }
           },
           {
@@ -164,15 +172,15 @@
   },
   "active": "0236dfa3245f1d8e",
   "lastOpenFiles": [
-    "Steuerungstechnik/Hilfsblatt/7.10_Flankenerfassung.md",
-    "Steuerungstechnik/Hilfsblatt/7.10_Zeitgeber.md",
-    "Steuerungstechnik/7.md",
-    "Steuerungstechnik/Notiz_20230111.md",
-    "Steuerungstechnik/8.2.5_Übung zu Speichergliedern.md",
-    "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
     "Steuerungstechnik/Hilfsblatt/8.2_Speicherfunktion.md",
-    "Steuerungstechnik/Hilfsblatt.md",
-    "Steuerungstechnik/7.9.1_Übung zu RS-Glieder.md",
-    "Steuerungstechnik/4.12.md"
+    "Steuerungstechnik/Hilfsblatt/7.10_Zeitgeber.md",
+    "Steuerungstechnik/Hilfsblatt/7.10_Flankenerfassung.md",
+    "Steuerungstechnik/Notiz_20230111.md",
+    "Steuerungstechnik/AWL.md",
+    "Steuerungstechnik/4.12.md",
+    "Steuerungstechnik/7.8_Funktionstabellen.md",
+    "Steuerungstechnik/7.md",
+    "Steuerungstechnik/8.2.5_Übung zu Speichergliedern.md",
+    "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md"
   ]
 }
