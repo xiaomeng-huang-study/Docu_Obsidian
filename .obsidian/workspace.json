@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/verkettete List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3b51a5b1bca082f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown/Syntax.md",
+                "file": "Prog C++/Polymorphie.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/verkettete List.md",
+                "file": "Prog C++/Polymorphie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/verkettete List.md",
+                "file": "Prog C++/Polymorphie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/verkettete List.md"
+                "file": "Prog C++/Polymorphie.md"
               }
             }
           },
@@ -182,10 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "d9095d34e3a8d629",
   "lastOpenFiles": [
-    "Markdown/Syntax.md",
     "Prog C++/verkettete List.md",
+    "Markdown/Syntax.md",
     "Steuerungstechnik/Hilfsblatt/8.3_Taktsignal.md",
     "Steuerungstechnik/Hilfsblatt/8.2_Speicherfunktion.md",
     "Steuerungstechnik/Hilfsblatt/7.10_Zeitgeber.md",

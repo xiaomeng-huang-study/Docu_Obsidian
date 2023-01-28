@@ -36,7 +36,7 @@
 		
 			void func01();
 		```
-
+<br><div STYLE="page-break-after: always;"></div> 
 - Bedienung
 	- Variante1
 		```c++
@@ -47,7 +47,7 @@
 		p->draw();
 		delete p;
 		```
-	- Variante2
+	- ==Variante2== 
 		- in Funktion kapseln
 			```c++
 			void painter(Polygon* p)
@@ -70,8 +70,9 @@
 			painter(&p);
 			painter(&t);
 			```
+	<br><div STYLE="page-break-after: always;"></div> 
 	- Variante3 
-		- in Funktion kapseln <font color = "red">delete erforderlich!</font> 
+		- in Funktion kapseln: <font color = "red">delete erforderlich!</font> 
 			```c++
 			void painter(Polygon* p)
 			{
@@ -79,7 +80,7 @@
 				delete p;
 			}
 			```
-		- in Class kapseln <font color = "red">delete in Destruktor erforderlich!</font>
+		- in Class kapseln: <font color = "red">delete in Destruktor erforderlich!</font>
 			```c++
 			class Bedienklasse
 			{
@@ -95,7 +96,7 @@
 				//for(i){delete ...[i]}
 			}
 			```
-		- Aufruf (in `main()` )
+		- Aufruf in `main()` 
 			```c++
 			painter(new Polygon);
 			painter(new Triangle);
@@ -113,7 +114,7 @@
 		painter(p);
 		painter(t);
 		```
-
+<br><div STYLE="page-break-after: always;"></div> 
 - Falls Unterklasse erweiterte Eigenschaft besitzt : type cast
 ```c++
 void painter(Polygon* p)
