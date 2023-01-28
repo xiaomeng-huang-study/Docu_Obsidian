@@ -7,6 +7,31 @@
 	    struct Point *next;
 	};
 	```
+- printList
+	```c++
+	void printList(Point* headofList){
+	    //jedes Element durchlaufen
+	
+	    if(NULL == headofList)
+	    {
+	        //List leer
+	        cout<<"Liste leer"<<endl;
+	    }else{
+	        //List nicht leer
+	        Point* currentElement = NULL;
+	        currentElement = headofList;
+	
+	        while(NULL!=currentElement)
+	        {
+	            cout<<"x: "<<(currentElement->x);
+	            cout<<" y: "<<(currentElement->y)<<endl;
+	            currentElement = currentElement->next;
+	        }
+	        cout<<"EOL"<<endl;
+	    }
+	}
+	```
+<br><div STYLE="page-break-after: always;"></div> 
 - append
 	```c++
 	void append(Point** headofList,double x,double y)
@@ -41,6 +66,7 @@
 	    }
 	}
 	```
+<br><div STYLE="page-break-after: always;"></div> 
 - removeLastElement
 	```c++
 	void removeLastElement(Point** headofList)
@@ -81,6 +107,7 @@
 	    }
 	}
 	```
+<br><div STYLE="page-break-after: always;"></div> 
 - insert (geordnet)
 	```c++
 	void insert(Point** headofList,double x,double y)
@@ -142,27 +169,4 @@
 	    }
 	}
 	```
-- printList
-	```c++
-	void printList(Point* headofList){
-	    //jedes Element durchlaufen
-	
-	    if(NULL == headofList)
-	    {
-	        //List leer
-	        cout<<"Liste leer"<<endl;
-	    }else{
-	        //List nicht leer
-	        Point* currentElement = NULL;
-	        currentElement = headofList;
-	
-	        while(NULL!=currentElement)
-	        {
-	            cout<<"x: "<<(currentElement->x);
-	            cout<<" y: "<<(currentElement->y)<<endl;
-	            currentElement = currentElement->next;
-	        }
-	        cout<<"EOL"<<endl;
-	    }
-	}
-	```
+
