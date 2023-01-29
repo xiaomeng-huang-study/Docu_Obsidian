@@ -36,7 +36,7 @@
 			- `delete XXX;` 
 			- `delete []XXX;` 
 		- ==in Aufrufer== 
-			- ohne `new` : 
+			- ohne `new` 
 				- Destruktor wird automatisch aufgerufen 
 					- Wann: `}` oder Prozess endet 
 			- mit `new` 
