@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "650df13e4270d325",
+        "id": "97efff84680c9492",
         "type": "tabs",
         "children": [
           {
-            "id": "971b886b8a3b5bfb",
+            "id": "21b0e787d0b3478f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
+                "file": "Prog C++/Klassen/flache- und tiefe Kopie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
+                "file": "Prog C++/Klassen/flache- und tiefe Kopie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
+                "file": "Prog C++/Klassen/flache- und tiefe Kopie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md"
+                "file": "Prog C++/Klassen/flache- und tiefe Kopie.md"
               }
             }
           },
@@ -170,10 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "971b886b8a3b5bfb",
+  "active": "21b0e787d0b3478f",
   "lastOpenFiles": [
-    "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
+    "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Prog C++/Klassen/Konstruktor_2.md",
     "Prog C++/Klassen/this-pointer.md",
     "Prog C++/Klassen/Modell_OOP.md",

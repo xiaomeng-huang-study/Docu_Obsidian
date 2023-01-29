@@ -20,7 +20,7 @@
 			//Zuweisung
 			for(int i = 0; i < dim; i++)
 			{
-				Zeiger[i] = _kA.Zeiger[i]
+				Zeiger[i] = _kA.Zeiger[i];
 			}
 		}
 		```

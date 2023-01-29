@@ -12,12 +12,16 @@
 			```
 		- mit Zeiger:
 			```c++
-			Zeiger = new int[dim];
-			
-			#if 0 //Falls Zuweisung erforderlich 
+			//Initializierung von Attributen
+			data = _data;
+
+			//Zeiger zeigt auf anderen Speicherbereich auf Heap
+			Zeiger = new ...;
+
+			#if 0 //Falls Zuweisung erforderlich
 			for(int i = 0; i < dim; i++)
 			{
-			Zeiger[i] = _data.Zeiger[i]
+				Zeiger[i] = ...;
 			}
 			#endif 
 			```
