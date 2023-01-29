@@ -32,7 +32,10 @@
 		```c++
 		public: 
 			Unterklasse(){}
-			~Unterklasse(){}
+			#if 0 //falls Klasse Zeiger enthält 
+			~Unterklasse(){}                      //delete
+			Unterklasse(const Unterklasse& _uK){} //Kopiekonstruktor
+			#endif
 		
 			void func01();
 		```
