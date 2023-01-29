@@ -5,7 +5,7 @@
 		- in .h: `classA();` 
 		- in .cpp: `classA::classA(){...}`
 - Konstruktor
-	- <font color = "red">Initialisierung von privaten Attributen</font> 
+	- ==in Konstruktor== : <font color = "red">Initialisierung von privaten Attributen</font> 
 		- keine Zeiger:
 			```c++
 			data = _data;
@@ -21,22 +21,30 @@
 			}
 			#endif 
 			```
-	- Konstruktion
+	- ==in Aufrufer== : Konstruktion
 		- keine Parameter: 
 			- Standardkonstruktor `Flugzeug f1;` 
 		- mit Parameter: 
 			- `Flugzeug f2("British Airways");` 
 	- Eigenschaften 
 		- kann überladen werden
-- Destruktor
-	- <font color = "red">mit Zeiger: Destruktor erforderlich</font> 
-		- z.B. `delete []XXX` 
-	- `~Flugzeug f3();` 
-	- Destruktion
-		- `}` oder Prozess endet $\Rightarrow$ Destruktor aufgerufen
+<br><div STYLE="page-break-after: always;"></div> 
+- Destruktor 
+	- Klasse enthält keine Zeiger $\Rightarrow$ nicht erforderlich 
+	- Klasse enthält <font color = "red">Zeiger</font>  $\Rightarrow$  <font color = "red">Destruktor erforderlich</font> 
+		- ==in Destruktor== 
+			- `delete XXX;` 
+			- `delete []XXX;` 
+		- ==in Aufrufer== 
+			- ohne `new` : 
+				- Destruktor wird automatisch aufgerufen 
+					- Wann: `}` oder Prozess endet 
+			- mit `new` 
+				- Desktruktor wird bei `delete` aufgerufen 
 	- Eigenschaften 
-		- darf nicht überladen werden
-		- Reihenfolge: FILO
+		- darf <u>nicht</u> überladen werden 
+		- Reihenfolge: FILO 
+<br><div STYLE="page-break-after: always;"></div> 
 - Beispiele
 	- mit int\[\] 
 		- Vector.h
