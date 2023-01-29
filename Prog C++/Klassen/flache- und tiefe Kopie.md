@@ -1,21 +1,35 @@
-- Typen
-	- Klasse enthält keine Zeiger
-		- keine eigene Kopiekonstruktor erforderlich 
-		- flache Kopie : `ob1 = ob2;` 
-	- Klasse enthält <font color = "red">dynamsichen Komponenten</font>(mit <font color = "red">Zeiger auf Heap</font>) 
-		- eigene Kopiekonstruktor definieren 
-		- <font color = "red">tiefe Kopie</font> (ähnlich wie Konstruktor) 
-			- <font color = "red">Initialisierung + Zuweisung</font> 
-				```c++
-				//Initializierung
-				Zeiger = new int[dim];
-				
-				//Zuweisung 
-				for(int i = 0; i < dim; i++)
-				{
-				Zeiger[i] = _data.Zeiger[i]
-				}
-				```
+- Klasse enthält keine Zeiger
+	- flache Kopie 
+	- keine eigene Kopiekonstruktor erforderlich 
+	- ==in Aufrufer== 
+		- `ob1 = ob2;` 
+- Klasse enthält <font color = "red">dynamsichen Komponenten</font>(mit <font color = "red">Zeiger auf Heap</font>) 
+	- <font color = "red">tiefe Kopie</font> 
+	- eigene ==Kopiekonstruktor== definieren 
+		```c++
+		KlasseA(const KlasseA& _kA);
+
+		KlasseA::KlasseA(const KlasseA& _kA)
+		{
+			//Initializierung von Attributen
+			data = _kA.data;
+
+			//Zeiger zeigt auf anderen Speicherbereich auf Heap
+			Zeiger = new ...;
+
+			//Zuweisung
+			for(int i = 0; i < dim; i++)
+			{
+				Zeiger[i] = _kA.Zeiger[i]
+			}
+		}
+		```
+	- ==in Aufrufer== 
+		```c++
+			KlasseA ob1(...);
+			KlasseA ob2(ob1);
+		```
+<br><div STYLE="page-break-after: always;"></div> 
 - Beispiele
 	- mit int\[\] 
 		- Vector.h
