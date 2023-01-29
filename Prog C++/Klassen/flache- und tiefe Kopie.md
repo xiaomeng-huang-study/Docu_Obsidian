@@ -28,6 +28,7 @@
 		```c++
 			KlasseA ob1(...);
 			KlasseA ob2(ob1);
+			KlasseA ob3 = ob1;
 		```
 <br><div STYLE="page-break-after: always;"></div> 
 - Beispiele
