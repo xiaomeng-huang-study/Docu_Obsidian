@@ -103,6 +103,7 @@
 			    return strout.str();
 			}
 			```
+	<br><div STYLE="page-break-after: always;"></div> 
 	- mit char\[\] 
 		- Data.h
 			```c++

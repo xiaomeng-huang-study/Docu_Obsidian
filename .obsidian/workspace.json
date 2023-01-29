@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Klassen/flache- und tiefe Kopie.md",
+                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Klassen/flache- und tiefe Kopie.md",
+                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Klassen/flache- und tiefe Kopie.md"
+                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md"
               }
             }
           },
@@ -182,8 +183,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "05ace3aabf042d38",
+  "active": "401852c51c43b394",
   "lastOpenFiles": [
+    "Prog C++/Klassen/friend.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Markdown/Syntax.md",
@@ -192,7 +194,6 @@
     "Prog C++/dynamische Array.md",
     "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List_leerer-Listenkopf.md",
     "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
-    "Prog C++/Komposition.md"
+    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md"
   ]
 }
