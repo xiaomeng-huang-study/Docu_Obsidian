@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "96b8dafe704fb81a",
+        "id": "21c56d9f19545bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "3060afe68ba392cd",
+            "id": "4ac272bed2ca9492",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,8 +162,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3060afe68ba392cd",
+  "active": "4ac272bed2ca9492",
   "lastOpenFiles": [
+    "Email/Email_20230130_PAYVIP.md",
+    "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
     "Prog C++/Komposition.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Systemtheorie/Korrespondenzen_Fourier-Transformation.md",
@@ -179,8 +173,6 @@
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Klassen/Konstruktor_2.md",
-    "Prog C++/Klassen/this-pointer.md",
-    "Prog C++/Klassen/Modell_OOP.md",
-    "Prog C++/Klassen/friend.md"
+    "Prog C++/Klassen/this-pointer.md"
   ]
 }
