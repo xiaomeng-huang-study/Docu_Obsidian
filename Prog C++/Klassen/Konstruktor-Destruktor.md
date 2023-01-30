@@ -47,7 +47,8 @@
 				- Desktruktor wird bei `delete` aufgerufen 
 	- Eigenschaften 
 		- darf <u>nicht</u> überladen werden 
-		- Reihenfolge: FILO 
+		- Reihenfolge: FILO
+			- nach dem Prinzip vom Stack: zuerst konstruiert $\Rightarrow$ zuletzt destrukturiert
 <br><div STYLE="page-break-after: always;"></div> 
 - Beispiele
 	- mit int\[\] 

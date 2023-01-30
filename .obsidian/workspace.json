@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                "file": "Prog C++/Komposition.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1842325b36ab0734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systemtheorie/Korrespondenzen_Fourier-Transformation.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemtheorie/Korrespondenzen_Fourier-Transformation.md",
+                "file": "Prog C++/Komposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemtheorie/Korrespondenzen_Fourier-Transformation.md",
+                "file": "Prog C++/Komposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemtheorie/Korrespondenzen_Fourier-Transformation.md"
+                "file": "Prog C++/Komposition.md"
               }
             }
           },
@@ -183,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1842325b36ab0734",
+  "active": "3060afe68ba392cd",
   "lastOpenFiles": [
+    "Prog C++/Klassen/Konstruktor-Destruktor.md",
+    "Systemtheorie/Korrespondenzen_Fourier-Transformation.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Klassen/Konstruktor_2.md",
     "Prog C++/Klassen/this-pointer.md",
     "Prog C++/Klassen/Modell_OOP.md",
     "Prog C++/Klassen/friend.md",
-    "Markdown/Syntax.md",
-    "Prog C++/dynamische Array.md"
+    "Markdown/Syntax.md"
   ]
 }
