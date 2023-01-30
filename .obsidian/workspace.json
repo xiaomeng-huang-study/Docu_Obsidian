@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Komposition.md",
+                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Komposition.md",
+                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Komposition.md",
+                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Komposition.md"
+                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "3060afe68ba392cd",
   "lastOpenFiles": [
+    "Prog C++/Komposition.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Systemtheorie/Korrespondenzen_Fourier-Transformation.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
@@ -180,7 +181,6 @@
     "Prog C++/Klassen/Konstruktor_2.md",
     "Prog C++/Klassen/this-pointer.md",
     "Prog C++/Klassen/Modell_OOP.md",
-    "Prog C++/Klassen/friend.md",
-    "Markdown/Syntax.md"
+    "Prog C++/Klassen/friend.md"
   ]
 }
