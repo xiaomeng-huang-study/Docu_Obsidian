@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latex/Latex_Syntax.md",
+                "file": "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff6476b4b0fccc29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Signalverarbeitung/Verzeichnis/2.2.3_Signal-Rekonstruktion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latex/Latex_Syntax.md",
+                "file": "Signalverarbeitung/Verzeichnis/2.2.3_Signal-Rekonstruktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latex/Latex_Syntax.md",
+                "file": "Signalverarbeitung/Verzeichnis/2.2.3_Signal-Rekonstruktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latex/Latex_Syntax.md"
+                "file": "Signalverarbeitung/Verzeichnis/2.2.3_Signal-Rekonstruktion.md"
               }
             }
           },
@@ -170,9 +183,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c3acc326e9739d44",
+  "active": "ff6476b4b0fccc29",
   "lastOpenFiles": [
-    "Signalverarbeitung/Verzeichnis/未命名.md",
+    "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
+    "Latex/Latex_Syntax.md",
     "Email/Email_20230131_Gölz.md",
     "Email/Email_20230130_PAYVIP.md",
     "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
@@ -180,7 +194,6 @@
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Systemtheorie/Korrespondenzen_Fourier-Transformation.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
-    "Prog C++/Klassen/flache- und tiefe Kopie.md",
-    "Prog C++/Polymorphie.md"
+    "Prog C++/Klassen/flache- und tiefe Kopie.md"
   ]
 }
