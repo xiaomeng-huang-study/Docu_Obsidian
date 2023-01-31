@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21c56d9f19545bc7",
+        "id": "af15b9c16343d354",
         "type": "tabs",
         "children": [
           {
-            "id": "4ac272bed2ca9492",
+            "id": "63fae6259d7530ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,8 +170,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4ac272bed2ca9492",
+  "active": "63fae6259d7530ae",
   "lastOpenFiles": [
+    "Email/未命名.md",
     "Email/Email_20230130_PAYVIP.md",
     "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
     "Prog C++/Komposition.md",
@@ -180,7 +181,6 @@
     "Systemtheorie/Fourier_Reihe-Transformation.md",
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Prog C++/Polymorphie.md",
-    "Prog C++/Klassen/Konstruktor_2.md",
-    "Prog C++/Klassen/this-pointer.md"
+    "Prog C++/Klassen/Konstruktor_2.md"
   ]
 }
