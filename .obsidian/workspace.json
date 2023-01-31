@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signalverarbeitung/Verzeichnis/2.3_Signal-Rekonstruktion.md",
+                "file": "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signalverarbeitung/Verzeichnis/2.3_Signal-Rekonstruktion.md",
+                "file": "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signalverarbeitung/Verzeichnis/2.3_Signal-Rekonstruktion.md",
+                "file": "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signalverarbeitung/Verzeichnis/2.3_Signal-Rekonstruktion.md"
+                "file": "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "b70af4a47ca85058",
   "lastOpenFiles": [
-    "Latex/Latex_Syntax.md",
     "Signalverarbeitung/Verzeichnis/2.3_Signal-Rekonstruktion.md",
+    "Latex/Latex_Syntax.md",
     "未命名.md",
     "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
     "Email/Email_20230131_Gölz.md",
