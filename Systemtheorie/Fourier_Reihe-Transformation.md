@@ -12,4 +12,4 @@
 		- $x(t)=x_0 + \dfrac{1}{2} \sum\limits_{k=-\infty ; k\ne0}^{\infty} \tilde {x_k}\cdot e^{jk\omega_0t}$ 
 		- komplexe Fourier-Koeffizienten
 			- $\begin{array}{r} \tilde {x_k} =\dfrac2T\int_T x(t)·e^{-jk\omega_0t}\text{ dt}=a_k-jb_k\\=\dfrac2T\int_T x(t)·\big(\cos(k\omega_0t)-j\sin(k\omega_0t) \big)\text{ dt}\end{array}$
-			- 
+

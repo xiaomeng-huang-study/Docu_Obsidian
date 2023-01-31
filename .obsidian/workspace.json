@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e848aef9694bf14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemtheorie/Fourier_Reihe-Transformation.md"
+                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md"
               }
             }
           },
@@ -170,10 +183,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ac8d93e5835c43d3",
+  "active": "3e848aef9694bf14",
   "lastOpenFiles": [
-    "Systemtheorie/ST3 Zusammenfassung.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
+    "Systemtheorie/ST3 Zusammenfassung.md",
     "Email/Email_20230131_Gölz.md",
     "未命名.md",
     "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
