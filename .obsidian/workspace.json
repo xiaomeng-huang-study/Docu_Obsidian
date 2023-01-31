@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9abe2ecbb3e464d3",
+        "id": "cb088adde26b516e",
         "type": "tabs",
         "children": [
           {
-            "id": "e51fd7abe0bcf172",
+            "id": "ac8d93e5835c43d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Email/Email_20230131_Gölz.md",
+                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email/Email_20230131_Gölz.md",
+                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Email/Email_20230131_Gölz.md",
+                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Email/Email_20230131_Gölz.md"
+                "file": "Systemtheorie/Fourier_Reihe-Transformation.md"
               }
             }
           },
@@ -170,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "e51fd7abe0bcf172",
+  "active": "ac8d93e5835c43d3",
   "lastOpenFiles": [
+    "Systemtheorie/ST3 Zusammenfassung.md",
+    "Systemtheorie/Fourier_Reihe-Transformation.md",
+    "Email/Email_20230131_Gölz.md",
     "未命名.md",
     "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
     "Signalverarbeitung/Verzeichnis/2.3_Signal-Rekonstruktion.md",
     "Latex/Latex_Syntax.md",
-    "Email/Email_20230131_Gölz.md",
     "Email/Email_20230130_PAYVIP.md",
     "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
-    "Prog C++/Komposition.md",
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Systemtheorie/Korrespondenzen_Fourier-Transformation.md"
+    "Prog C++/Komposition.md"
   ]
 }
