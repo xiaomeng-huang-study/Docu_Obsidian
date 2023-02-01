@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+                "file": "Signalverarbeitung/2.2_Abtast-Theoreme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+                "file": "Signalverarbeitung/2.2_Abtast-Theoreme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+                "file": "Signalverarbeitung/2.2_Abtast-Theoreme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md"
+                "file": "Signalverarbeitung/2.2_Abtast-Theoreme.md"
               }
             }
           },
@@ -172,15 +172,15 @@
   },
   "active": "2966727b9cdd661f",
   "lastOpenFiles": [
-    "Prog C++/Klassen/flache- und tiefe Kopie.md",
+    "Signalverarbeitung/2.3_Signal-Rekonstruktion.md",
+    "Signalverarbeitung/FIR_Entwurf.md",
+    "Signalverarbeitung/Fenster-Funktionen.md",
+    "Signalverarbeitung/2.2_Abtast-Theoreme.md",
+    "Signalverarbeitung/Z-Transformation.md",
+    "Signalverarbeitung/Transformation.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
     "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
-    "未命名.md",
-    "Systemtheorie/ST3 Zusammenfassung.md",
-    "Email/Email_20230131_Gölz.md",
-    "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
-    "Signalverarbeitung/Verzeichnis/2.3_Signal-Rekonstruktion.md",
     "Latex/Latex_Syntax.md",
-    "Email/Email_20230130_PAYVIP.md"
+    "Prog C++/Klassen/flache- und tiefe Kopie.md"
   ]
 }
