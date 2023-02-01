@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cb088adde26b516e",
+        "id": "55d3f0b57a931625",
         "type": "tabs",
         "children": [
           {
-            "id": "ac8d93e5835c43d3",
+            "id": "2966727b9cdd661f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e848aef9694bf14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,17 +162,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3e848aef9694bf14",
+  "active": "2966727b9cdd661f",
   "lastOpenFiles": [
-    "未命名.md",
-    "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+    "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
+    "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+    "未命名.md",
     "Systemtheorie/ST3 Zusammenfassung.md",
     "Email/Email_20230131_Gölz.md",
     "Signalverarbeitung/Verzeichnis/2.2_Abtast-Theoreme.md",
     "Signalverarbeitung/Verzeichnis/2.3_Signal-Rekonstruktion.md",
     "Latex/Latex_Syntax.md",
-    "Email/Email_20230130_PAYVIP.md",
-    "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md"
+    "Email/Email_20230130_PAYVIP.md"
   ]
 }
