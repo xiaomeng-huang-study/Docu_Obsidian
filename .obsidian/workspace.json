@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "55d3f0b57a931625",
+        "id": "74ddd6a51e49341c",
         "type": "tabs",
         "children": [
           {
-            "id": "2966727b9cdd661f",
+            "id": "2e2a46ffdc4325f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Signalverarbeitung/2.2_Abtast-Theoreme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signalverarbeitung/2.2_Abtast-Theoreme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Signalverarbeitung/2.2_Abtast-Theoreme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Signalverarbeitung/2.2_Abtast-Theoreme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,12 +162,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2966727b9cdd661f",
+  "active": "2e2a46ffdc4325f9",
   "lastOpenFiles": [
+    "Signalverarbeitung/2.2_Abtast-Theoreme.md",
     "Signalverarbeitung/2.3_Signal-Rekonstruktion.md",
     "Signalverarbeitung/FIR_Entwurf.md",
     "Signalverarbeitung/Fenster-Funktionen.md",
-    "Signalverarbeitung/2.2_Abtast-Theoreme.md",
     "Signalverarbeitung/Z-Transformation.md",
     "Signalverarbeitung/Transformation.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
