@@ -14,7 +14,7 @@
 			- oder: $x(t)=x_0 + \dfrac{1}{2} \sum\limits_{\begin{array}{c} k=-\infty ;\\ k\ne0 \end{array}}^{\infty} \tilde {x_k}\cdot e^{jk\omega_0t}$ 
 			- $\omega_0 = 2\pi\frac{1}{T_0}$ 
 			- ==komplexe Fourier-Koeffizienten== 
-				- $\begin{array}{l} \tilde {x_k} &=&\dfrac2T\int_T x(t)·e^{-jk\omega_0t}\text{ dt}=a_k-jb_k\\ &=&\dfrac2T\int_T x(t)·\big(\cos(k\omega_0t)-j\sin(k\omega_0t) \big)\text{ dt}\end{array}$ 
+				- $\begin{array}{l} \tilde {x_k} &=&\dfrac2T\int_T x(t)·e^{-jk\omega_0t}\text{ dt} \\ &=& a_k-jb_k\\ &=&\dfrac2T\int_T x(t)·\big(\cos(k\omega_0t)-j\sin(k\omega_0t) \big)\text{ dt}\end{array}$ 
 			- ==k. Oberwelle/ Oberschwingung== 
 				- $x_k(t) = a_k\cdot \cos(2\pi f_k \cdot t) + b_k\cdot \sin(2\pi f_k \cdot t)$ 
 
