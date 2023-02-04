@@ -2,7 +2,7 @@
 	- für stationäre Signale
 	- reelle Schreibweise 
 		- $y(t)=y_0+\sum\limits_{k=1}^\infty\big(a_k·\cos(k\omega_0~t)+b_k·\sin(k\omega_0~t))$  
-			- $\omega_0 = 2\pi\frac{1}{T}$ 
+			- $\omega_0 = 2\pi\frac{1}{T_0}$ 
 			- Gleichanteil 
 				- $y_0= \frac{1}{T} \int_{0}^{T} y(t) \text{ dt}$ 
 			- cos-Anteil 
@@ -11,7 +11,7 @@
 				- $b_k=\frac{2}{T} \int_{0}^{T} y(t)\sin(k\omega_0~t)\text{ dt}$ 
 	- komplexe Schreibweise
 		- $x(t)=x_0 + \dfrac{1}{2} \sum\limits_{\begin{array}{c} k=-\infty ;\\ k\ne0 \end{array}}^{\infty} \tilde {x_k}\cdot e^{jk\omega_0t}$ 
-			- $\omega_0 = 2\pi\frac{1}{T}$ 
+			- $\omega_0 = 2\pi\frac{1}{T_0}$ 
 			- komplexe Fourier-Koeffizienten 
 				- $\begin{array}{l} \tilde {x_k} &=&\dfrac2T\int_T x(t)·e^{-jk\omega_0t}\text{ dt}=a_k-jb_k\\ &=&\dfrac2T\int_T x(t)·\big(\cos(k\omega_0t)-j\sin(k\omega_0t) \big)\text{ dt}\end{array}$ 
 
