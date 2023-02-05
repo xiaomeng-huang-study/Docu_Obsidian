@@ -20,5 +20,8 @@
 				- $\tilde {x_k} = a_k-jb_k$ 
 					- oder: $\begin{array}{l} \tilde {x_k} &=&\dfrac2T\int_T x(t)·e^{-jk\omega_0t}\text{ dt} \\  &=&\dfrac2T\int_T x(t)·\big(\cos(k\omega_0t)-j\sin(k\omega_0t) \big)\text{ dt} \end{array}$ 
 			- ==k. Oberwelle/ Oberschwingung== 
-				- $\frac{1}{2} \left( \tilde{x}_{k} e^{j k \omega_{0} t}+\tilde{x}_{k}^{*} e^{-j k \omega_{0} t} \right)$ 
-
+				- $x_k(t) = \frac{1}{2} \left( \tilde{x}_{k} e^{j k \omega_{0} t}+\tilde{x}_{k}^{*} e^{-j k \omega_{0} t} \right)$ 
+- Fourier-Transformation 
+	- $Y(j\omega) = \int\limits ^{\infty }_{-\infty} y(t)\cdot e^{-j\omega t}~dt$ 
+	- Inverse Fourier-Transformation 
+		- $y(t) = \frac{1}{2\pi} \int\limits  _{-\infty} ^{\infty} Y(j\omega) \cdot e^{j\omega t}~ d\omega$ 
