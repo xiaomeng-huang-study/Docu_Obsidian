@@ -3,18 +3,22 @@
 	- reelle Schreibweise 
 		- $y(t)=y_0+\sum\limits_{k=1}^\infty\big(a_k·\cos(k\omega_0~t)+b_k·\sin(k\omega_0~t))$  
 			- $\omega_0 = 2\pi\frac{1}{T_0}$ 
-			- ==Gleichanteil== 
-				- $y_0= \frac{1}{T} \int_{0}^{T} y(t) \text{ dt}$ 
-			- ==cos-Anteil== 
-				- $a_k=\frac{2}{T} \int_{0}^{T} y(t)\cos(k\omega_0~t)\text{ dt}$ 
-			- ==sin-Anteil== 
-				- $b_k=\frac{2}{T} \int_{0}^{T} y(t)\sin(k\omega_0~t)\text{ dt}$ 
+			- ==reelle Fourier-Koeffizienten== 
+				- Gleichanteil 
+					- $y_0= \frac{1}{T} \int_{0}^{T} y(t) \text{ dt}$ 
+				- cos-Anteil 
+					- $a_k=\frac{2}{T} \int_{0}^{T} y(t)\cos(k\omega_0~t)\text{ dt}$ 
+				- sin-Anteil 
+					- $b_k=\frac{2}{T} \int_{0}^{T} y(t)\sin(k\omega_0~t)\text{ dt}$ 
+			- ==k. Oberwelle/ Oberschwingung== 
+				- $x_k(t) = a_k\cdot \cos(2\pi f_k \cdot t) + b_k\cdot \sin(2\pi f_k \cdot t)$ 
 	- komplexe Schreibweise
 		- $x(t)=x_{0}+\frac{1}{2} \sum\limits_{k=1}^{\infty}\left(\tilde{x}_{k} e^{j k \omega_{0} t}+\tilde{x}_{k}^{*} e^{-j k \omega_{0} t}\right)$ 
 			- oder: $x(t)=x_0 + \dfrac{1}{2} \sum\limits_{\begin{array}{c} k=-\infty ;\\ k\ne0 \end{array}}^{\infty} \tilde {x_k}\cdot e^{jk\omega_0t}$ 
 			- $\omega_0 = 2\pi\frac{1}{T_0}$ 
 			- ==komplexe Fourier-Koeffizienten== 
-				- $\begin{array}{l} \tilde {x_k} &=&\dfrac2T\int_T x(t)·e^{-jk\omega_0t}\text{ dt} \\ &=& a_k-jb_k\\ &=&\dfrac2T\int_T x(t)·\big(\cos(k\omega_0t)-j\sin(k\omega_0t) \big)\text{ dt}\end{array}$ 
+				- $\tilde {x_k} = a_k-jb_k$ 
+					- oder: $\begin{array}{l} \tilde {x_k} &=&\dfrac2T\int_T x(t)·e^{-jk\omega_0t}\text{ dt} \\  &=&\dfrac2T\int_T x(t)·\big(\cos(k\omega_0t)-j\sin(k\omega_0t) \big)\text{ dt} \end{array}$ 
 			- ==k. Oberwelle/ Oberschwingung== 
-				- $x_k(t) = a_k\cdot \cos(2\pi f_k \cdot t) + b_k\cdot \sin(2\pi f_k \cdot t)$ 
+				- $\frac{1}{2} \left( \tilde{x}_{k} e^{j k \omega_{0} t}+\tilde{x}_{k}^{*} e^{-j k \omega_{0} t} \right)$ 
 
