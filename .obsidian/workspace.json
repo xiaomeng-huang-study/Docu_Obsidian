@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "74ddd6a51e49341c",
+        "id": "5abaea8ed11ff052",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2a46ffdc4325f9",
+            "id": "b127f9261ff92ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+                "file": "Prog C++/Notiz/02_dynamische Speicher.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+                "file": "Prog C++/Notiz/02_dynamische Speicher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+                "file": "Prog C++/Notiz/02_dynamische Speicher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md"
+                "file": "Prog C++/Notiz/02_dynamische Speicher.md"
               }
             }
           },
@@ -170,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "2e2a46ffdc4325f9",
+  "active": "b127f9261ff92ffd",
   "lastOpenFiles": [
+    "Prog C++/Zeiger.md",
+    "Prog C++/Speicherbereich.md",
+    "Prog C++/Reference.md",
+    "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
     "Systemtheorie/ST3 Zusammenfassung.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
-    "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
     "Signalverarbeitung/2.2_Abtast-Theoreme.md",
     "Signalverarbeitung/2.3_Signal-Rekonstruktion.md",
     "Signalverarbeitung/FIR_Entwurf.md",
-    "Signalverarbeitung/Fenster-Funktionen.md",
-    "Signalverarbeitung/Z-Transformation.md",
-    "Signalverarbeitung/Transformation.md",
-    "Latex/Latex_Syntax.md"
+    "Signalverarbeitung/Fenster-Funktionen.md"
   ]
 }
