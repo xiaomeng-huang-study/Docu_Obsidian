@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Systemtheorie/Fourier_Reihe-Transformation.md",
+                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systemtheorie/Fourier_Reihe-Transformation.md"
+                "file": "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md"
               }
             }
           },
@@ -172,15 +172,15 @@
   },
   "active": "2e2a46ffdc4325f9",
   "lastOpenFiles": [
-    "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
+    "Systemtheorie/ST3 Zusammenfassung.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
+    "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
     "Signalverarbeitung/2.2_Abtast-Theoreme.md",
     "Signalverarbeitung/2.3_Signal-Rekonstruktion.md",
     "Signalverarbeitung/FIR_Entwurf.md",
     "Signalverarbeitung/Fenster-Funktionen.md",
     "Signalverarbeitung/Z-Transformation.md",
     "Signalverarbeitung/Transformation.md",
-    "Latex/Latex_Syntax.md",
-    "Prog C++/Klassen/flache- und tiefe Kopie.md"
+    "Latex/Latex_Syntax.md"
   ]
 }
