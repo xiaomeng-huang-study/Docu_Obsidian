@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b5f541cdfeda1f2",
+        "id": "728a9ba00609f195",
         "type": "tabs",
         "children": [
           {
-            "id": "52bc77dd6e9ea081",
+            "id": "8fabd38ac0c47f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
+                "file": "Prog C++/Vererbung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
+                "file": "Prog C++/Vererbung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
+                "file": "Prog C++/Vererbung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md"
+                "file": "Prog C++/Vererbung.md"
               }
             }
           },
@@ -170,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "52bc77dd6e9ea081",
+  "active": "8fabd38ac0c47f69",
   "lastOpenFiles": [
-    "Prog C++/Klassen/Konstruktor_2.md",
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Prog C++/Klassen/flache- und tiefe Kopie.md",
-    "Prog C++/Klassen/this-pointer.md",
-    "Prog C++/Klassen/Modell_OOP.md",
-    "Prog C++/Klassen/friend.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Übersicht.md",
+    "Prog C++/Treads.md",
+    "Prog C++/Template.md",
+    "Prog C++/Speicherbereich.md",
+    "Prog C++/Polymorphie.md",
     "Prog C++/Komposition.md",
-    "Email/Email_20230207_SSC.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md"
+    "Prog C++/dynamische Array.md",
+    "Prog C++/bitweise Operatoren.md",
+    "Prog C++/Little- and Big Endian.md",
+    "Prog C++/Notiz/05_interne-externe_Größen.md",
+    "Prog C++/Klassen/Konstruktor-Destruktor.md"
   ]
 }

@@ -44,7 +44,6 @@
 		- 匿名对象
 			- `Data();` 
 			- `Data(10);` 
-<br><div STYLE="page-break-after: always;"></div> 
 - Destruktor 
 	- Klasse enthält keine Zeiger $\Rightarrow$ nicht erforderlich 
 	- Klasse enthält <font color = "red">Zeiger</font>  $\Rightarrow$  <font color = "red">Destruktor erforderlich</font> 
@@ -79,9 +78,6 @@
 			
 			    void write(double* _vec);
 			    string toString();
-			
-			protected:
-			
 			private:
 			    int dim;
 			    double *vec;
@@ -163,4 +159,5 @@
 				return data;
 			}
 			```
-		- ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Prog%20C++_Konstruktion-Destruktion.png)
+		<br><div STYLE="page-break-after: always;"></div> 
+		- ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Prog%20C++_Konstruktion-Destruktion.png) 
