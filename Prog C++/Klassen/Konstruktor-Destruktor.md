@@ -1,10 +1,10 @@
 - Konstruktor
-	- keine Implementierungsinhalt
-		- in .h: `classA(){};` 
-	- mit Implementierungsinhalt
-		- in .h: `classA();` 
-		- in .cpp: `classA::classA(){...}` 
-- Konstruktor
+	- Schreibweise
+		- keine Implementierungsinhalt
+			- in .h: `classA(){};` 
+		- mit Implementierungsinhalt
+			- in .h: `classA();` 
+			- in .cpp: `classA::classA(){...}` 
 	- ==in Konstruktor== : <font color = "red">Initialisierung von privaten Attributen</font> 
 		- keine Zeiger:
 			```c++
@@ -31,7 +31,19 @@
 		- mit Parameter: 
 			- `Flugzeug f2("British Airways");` 
 	- Eigenschaften 
-		- kann überladen werden
+		- kann überladen werden 
+	- 构造方式
+		- **隐式调用无参构造函数** 
+			- `Data ob1;` 
+		- 显式调用无参构造函数
+			- `Data ob2 = Data();` 
+		- **隐式调用有参构造函数**
+			- `Data ob3(10);` 
+		- 显式调用有参构造函数
+			- `Data ob4 = Data(10);` 
+		- 匿名对象
+			- `Data();` 
+			- `Data(10);` 
 <br><div STYLE="page-break-after: always;"></div> 
 - Destruktor 
 	- Klasse enthält keine Zeiger $\Rightarrow$ nicht erforderlich 
