@@ -1,9 +1,9 @@
-- Konstruktor bzw. Destruktor
+- Konstruktor
 	- keine Implementierungsinhalt
 		- in .h: `classA(){};` 
 	- mit Implementierungsinhalt
 		- in .h: `classA();` 
-		- in .cpp: `classA::classA(){...}`
+		- in .cpp: `classA::classA(){...}` 
 - Konstruktor
 	- ==in Konstruktor== : <font color = "red">Initialisierung von privaten Attributen</font> 
 		- keine Zeiger:
@@ -54,11 +54,9 @@
 	- mit int\[\] 
 		- Vector.h
 			```c++
-			#include <string>
-			#include <sstream>
-			
+			#include <string>    //string
+			#include <sstream>   //ostringStream
 			#include <iostream>
-			
 			using namespace std;
 			
 			class Vector
@@ -90,7 +88,7 @@
 			    delete []vec;
 			}
 			
-			void Vector::write(double *_vec)
+			void Vector::write(double* _vec)
 			{
 			    for(int i = 0;i<dim;i++)
 			    {
@@ -100,10 +98,10 @@
 			
 			string Vector::toString()
 			{
-			    ostringstream strout;
+			    ostringstream strStream;
 			    for(int i =0;i<dim;i++)
 			    {
-			        strout<<"["<<vec[i]<<"]"<<endl;
+			        strStream<<"["<<vec[i]<<"]"<<endl;
 			    }
 			    return strout.str();
 			}
@@ -114,7 +112,6 @@
 			```c++
 			#include <string.h>
 			#include <iostream>
-			
 			using namespace std;
 			
 			class Data
@@ -155,4 +152,3 @@
 			}
 			```
 		- ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Prog%20C++_Konstruktion-Destruktion.png)
-- 

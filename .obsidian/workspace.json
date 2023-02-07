@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "67270a8491929c22",
+        "id": "ac182215bccf7e75",
         "type": "tabs",
         "children": [
           {
-            "id": "227d91343ffb5e4d",
+            "id": "ab16df327b490aa2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prog C++/Klassen/Konstruktor-Destruktor.md"
+              }
             }
           },
           {
@@ -162,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "227d91343ffb5e4d",
+  "active": "ab16df327b490aa2",
   "lastOpenFiles": [
+    "Prog C++/Klassen/flache- und tiefe Kopie.md",
+    "Prog C++/Klassen/Konstruktor-Destruktor.md",
+    "Prog C++/Klassen/Konstruktor_2.md",
+    "Prog C++/Klassen/this-pointer.md",
+    "Prog C++/Klassen/Modell_OOP.md",
+    "Prog C++/Klassen/friend.md",
     "Prog C++/Code_Beispiele/Flugzeug/Übersicht.md",
     "Prog C++/Komposition.md",
     "Email/Email_20230207_SSC.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Tragfläche.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Triebwerk.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
-    "Prog C++/Operator überladen.md",
-    "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
-    "Prog C++/dynamische Array.md"
+    "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md"
   ]
 }
