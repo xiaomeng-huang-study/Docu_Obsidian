@@ -3,7 +3,6 @@ class Rumpf
 {
 public:
     Rumpf();
-    ~Rumpf(){}
 
     void erzeugen();
 

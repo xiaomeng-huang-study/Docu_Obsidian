@@ -4,7 +4,6 @@ class Triebwerk
 
 public:
     Triebwerk(std::string which_triebwerk);
-    ~Triebwerk(){}
 
     void erzeugen();
     void starten();

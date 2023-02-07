@@ -3,7 +3,6 @@ class Tragflaeche
 {
 public:
     Tragflaeche(string which_tragflaeche);
-    ~Tragflaeche(){}
     
     Triebwerk m_Triebwerk;
 

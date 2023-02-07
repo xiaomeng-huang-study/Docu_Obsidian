@@ -3,7 +3,6 @@ class Flugzeug
 {
 public:
     Flugzeug(){}
-    ~Flugzeug(){}
 
     void erzeugen();
     void starten();
