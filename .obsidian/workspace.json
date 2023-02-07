@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca0b71094c14a19",
+        "id": "f6b80454b88921b0",
         "type": "tabs",
         "children": [
           {
-            "id": "855be35b6f4df3e5",
+            "id": "1c732ebbd1016a55",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "855be35b6f4df3e5",
+  "active": "1c732ebbd1016a55",
   "lastOpenFiles": [
+    "Prog C++/verkettete List.md",
     "Prog C++/Notiz/02_dynamische Speicher.md",
     "Prog C++/Notiz/05_interne-externe_Größen.md",
     "Prog C++/Zeiger.md",
@@ -172,7 +173,6 @@
     "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
     "Systemtheorie/ST3 Zusammenfassung.md",
     "Systemtheorie/Fourier_Reihe-Transformation.md",
-    "Signalverarbeitung/2.2_Abtast-Theoreme.md",
-    "Signalverarbeitung/2.3_Signal-Rekonstruktion.md"
+    "Signalverarbeitung/2.2_Abtast-Theoreme.md"
   ]
 }
