@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Code_Beispiele/Flugzeug/Übersicht.md",
+                "file": "Email/Email_20230207_SSC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Code_Beispiele/Flugzeug/Übersicht.md",
+                "file": "Email/Email_20230207_SSC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Code_Beispiele/Flugzeug/Übersicht.md"
+                "file": "Email/Email_20230207_SSC.md"
               }
             }
           },
@@ -182,13 +183,13 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1c732ebbd1016a55",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
+    "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md",
+    "Prog C++/Code_Beispiele/Flugzeug/Übersicht.md",
     "Prog C++/Code_Beispiele/Flugzeug/Tragfläche.md",
     "Prog C++/Code_Beispiele/Flugzeug/Triebwerk.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md",
     "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Übersicht.md",
     "Prog C++/Komposition.md",
     "Prog C++/Operator überladen.md",
     "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
