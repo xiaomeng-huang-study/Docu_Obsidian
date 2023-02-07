@@ -83,7 +83,7 @@
 	t.detach();
 	```
 	- nicht mehr über `join()` koordinierbar 
-
+<br><div STYLE="page-break-after: always;"></div> 
 - Beispiel: Primzahlsuche auf mehreren Threads
 	- 1) 
 		```c++

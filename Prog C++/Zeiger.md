@@ -23,7 +23,7 @@
 				- 跨度=1Byte $\rightarrow$ `char *p = (char*)&num` 
 				- 宽度=2Byte $\rightarrow$ `*((short*)(p+1))` 
 - array\[i] = \*(array+i)
-
+<br><div STYLE="page-break-after: always;"></div> 
 ## String
 ### 1)char_Array als String
 ```c++
@@ -66,7 +66,7 @@ char *arr[4]= {"Hello1","Hello2","Hello3","Hello4"};
 	char *arr[4]= {"Hello1","Hello2","Hello3","Hello4"};
 	printf("%s",arr[3]);    //keine * erforderlich
 	```
-
+<br><div STYLE="page-break-after: always;"></div> 
 ## Array of Pointer
 ```c++
 int a = 1, b = 2, c = 3, d = 4;

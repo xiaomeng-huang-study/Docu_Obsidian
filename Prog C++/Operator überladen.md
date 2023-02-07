@@ -13,7 +13,8 @@
 			return strm;
 		}
 		```
-		- in classA: `friend ostream& operator<< (ostream& strm, classA& cA);` 
+		- Falls man private Attribute direkt aufrufen möchte 
+			- in classA: `friend ostream& operator<< (ostream& strm, classA& cA);` 
 	- `>>` 
 		```c++
 		#include <iostream>
@@ -25,7 +26,9 @@
 			return strm;
 		}
 		```
-		- in classB: `friend istream& operator>> (istream& strm, classB& cB);` 
+		- Falls man private Attribute direkt aufrufen möchte 
+			- in classB: `friend istream& operator>> (istream& strm, classB& cB);` 
+<br><div STYLE="page-break-after: always;"></div> 
 - Operator überladen als Memberfunktion von class
 	- `+` 
 		```c++
