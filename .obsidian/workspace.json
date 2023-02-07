@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca3ba83e68564930",
+        "id": "c2a5ee021c5a5745",
         "type": "tabs",
         "children": [
           {
-            "id": "bfca36398976f4b0",
+            "id": "af29382d0b1099f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
+                "file": "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
+                "file": "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
+                "file": "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md"
+                "file": "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md"
               }
             }
           },
@@ -170,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bfca36398976f4b0",
+  "active": "af29382d0b1099f5",
   "lastOpenFiles": [
+    "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List_leerer-Listenkopf.md",
+    "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md",
+    "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
+    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
     "Prog C++/Notiz/02_dynamische Speicher.md",
     "Prog C++/Notiz/05_interne-externe_Größen.md",
-    "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List_leerer-Listenkopf.md",
     "Prog C++/Klausur/Prog C++ WiSe_ Prog2ETWS2021.pdf",
     "Prog C++/Speicherbereich.md",
     "Prog C++/Komposition.md",
-    "Prog C++/Klassen/Konstruktor-Destruktor.md",
-    "Prog C++/verkettete List.md",
-    "Prog C++/Polymorphie.md",
-    "Prog C++/String.md"
+    "Prog C++/Klassen/Konstruktor-Destruktor.md"
   ]
 }

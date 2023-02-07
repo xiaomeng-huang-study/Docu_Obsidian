@@ -11,7 +11,6 @@ void PreisListe::init()
 {
     next = NULL;
 }
-
 void PreisListe::insert(double preis)
 {
     //neuer Preis
@@ -31,7 +30,6 @@ void PreisListe::insert(double preis)
         this->next = newPreis;
     }
 }
-
 double PreisListe::sum()
 {
     if(next == NULL)
