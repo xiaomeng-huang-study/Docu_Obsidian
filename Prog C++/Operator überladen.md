@@ -1,6 +1,6 @@
 - links von Operator
-	- nicht von mir definiert : 2 Parameter
-	- von mir definiert: 1 Parameter 
+	- nicht von mir definiert $\Rightarrow$ 2 Parameter + global überladen 
+	- von mir definiert $\Rightarrow$ 1 Parameter + in Klasse definieren 
 - globale Operator überladen: 2 Parameter
 	- `<<` 
 		```c++
@@ -19,13 +19,13 @@
 		#include <iostream>
 		using namespace std;
 		
-		istream& operator<< (istream& strm, classB& cB)
+		istream& operator>> (istream& strm, classB& cB)
 		{
 			strm>>cB.XXX;
 			return strm;
 		}
 		```
-		- in classB: `friend istream& operator<< (istream& strm, classB& cB);` 
+		- in classB: `friend istream& operator>> (istream& strm, classB& cB);` 
 - Operator überladen als Memberfunktion von class
 	- `+` 
 		```c++

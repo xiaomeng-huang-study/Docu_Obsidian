@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
+                "file": "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
+                "file": "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
+                "file": "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md"
+                "file": "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md"
               }
             }
           },
@@ -172,15 +172,15 @@
   },
   "active": "1c732ebbd1016a55",
   "lastOpenFiles": [
+    "Prog C++/Komposition.md",
+    "Prog C++/Operator überladen.md",
+    "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
     "Prog C++/dynamische Array.md",
     "Prog C++/verkettete List.md",
     "Prog C++/Notiz/02_dynamische Speicher.md",
     "Prog C++/Notiz/05_interne-externe_Größen.md",
     "Prog C++/Zeiger.md",
     "Prog C++/Speicherbereich.md",
-    "Prog C++/Reference.md",
-    "Systemtheorie/Fourier_reell_imaginär_(un)gerade.md",
-    "Systemtheorie/ST3 Zusammenfassung.md",
-    "Systemtheorie/Fourier_Reihe-Transformation.md"
+    "Prog C++/Reference.md"
   ]
 }
