@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md",
+                "file": "Prog C++/Zeiger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md",
+                "file": "Prog C++/Zeiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md",
+                "file": "Prog C++/Zeiger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md"
+                "file": "Prog C++/Zeiger.md"
               }
             }
           },
@@ -172,15 +172,15 @@
   },
   "active": "af29382d0b1099f5",
   "lastOpenFiles": [
-    "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List_leerer-Listenkopf.md",
-    "Prog C++/Klausur/WS1819/Aufgabe5_verkettete-List.md",
-    "Prog C++/Klausur/WS1819/Aufgabe3_Template_Stack.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
-    "Prog C++/Notiz/02_dynamische Speicher.md",
-    "Prog C++/Notiz/05_interne-externe_Größen.md",
-    "Prog C++/Klausur/Prog C++ WiSe_ Prog2ETWS2021.pdf",
-    "Prog C++/Speicherbereich.md",
+    "Prog C++/verkettete List.md",
+    "Prog C++/Vererbung.md",
+    "Prog C++/Treads.md",
+    "Prog C++/Template.md",
+    "Prog C++/String.md",
+    "Prog C++/Polymorphie.md",
+    "Prog C++/Operator überladen.md",
     "Prog C++/Komposition.md",
-    "Prog C++/Klassen/Konstruktor-Destruktor.md"
+    "Prog C++/dynamische Array.md",
+    "Prog C++/Little- and Big Endian.md"
   ]
 }
