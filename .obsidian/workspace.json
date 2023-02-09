@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2a5ee021c5a5745",
+        "id": "790b6c1c0fada940",
         "type": "tabs",
         "children": [
           {
-            "id": "af29382d0b1099f5",
+            "id": "c46522f6ffcaf2a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog C++/Zeiger.md",
+                "file": "Prog C++/Polymorphie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Zeiger.md",
+                "file": "Prog C++/Polymorphie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Zeiger.md",
+                "file": "Prog C++/Polymorphie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog C++/Zeiger.md"
+                "file": "Prog C++/Polymorphie.md"
               }
             }
           },
@@ -170,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "af29382d0b1099f5",
+  "active": "c46522f6ffcaf2a0",
   "lastOpenFiles": [
-    "Prog C++/verkettete List.md",
     "Prog C++/Vererbung.md",
+    "Prog C++/Zeiger.md",
+    "Prog C++/verkettete List.md",
     "Prog C++/Treads.md",
     "Prog C++/Template.md",
     "Prog C++/String.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Operator überladen.md",
     "Prog C++/Komposition.md",
-    "Prog C++/dynamische Array.md",
-    "Prog C++/Little- and Big Endian.md"
+    "Prog C++/dynamische Array.md"
   ]
 }
