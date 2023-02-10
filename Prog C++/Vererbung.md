@@ -1,4 +1,6 @@
-## 
+## Reihenfolge_Konstruktion-Destruktion 
+![|375](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/PROGCP_Reihenfolge_Konstruktion-Destruktion.jpg) 
+
 ## Initialisierungslist
 - Reihenfolge: 1.Base 2.Member 3.Parameter
 	```c++
