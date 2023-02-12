@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "790b6c1c0fada940",
+        "id": "24815c63d537f53b",
         "type": "tabs",
         "children": [
           {
-            "id": "c46522f6ffcaf2a0",
+            "id": "deda57e420773137",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog C++/Vererbung.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog C++/Vererbung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog C++/Vererbung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prog C++/Vererbung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +162,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "c46522f6ffcaf2a0",
+  "active": "deda57e420773137",
   "lastOpenFiles": [
     "Prog C++/Polymorphie.md",
     "Prog C++/Vererbung.md",
