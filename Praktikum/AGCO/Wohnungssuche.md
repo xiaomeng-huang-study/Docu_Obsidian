@@ -71,6 +71,17 @@ Xiaomeng Huang
 		- Whatsapp 
 
 - Zeile 71 : 
+	- 87640 Hörmannshofen 
+	- Fr. Paracchini, Tel. 08341/9993304 apama@live.de 
+
+- Zeile 78 : 
+	- Schwabenstraße 1B, 87640 Biessenhofen, Ebenhofen 
+	- Ursula Samenfink, Tel. 08342/4403 
+
+- Zeile 82 : 
+	- Schießstattstr. 6, 87640 Biessenhofen 
+	- Fr. Böhmer, Tel. 08341/5454 Gästehaus Thalblick 
+	- 
 
 
 
