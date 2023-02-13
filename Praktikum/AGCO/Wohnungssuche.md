@@ -81,7 +81,13 @@ Xiaomeng Huang
 - Zeile 82 : 
 	- Schießstattstr. 6, 87640 Biessenhofen 
 	- Fr. Böhmer, Tel. 08341/5454 Gästehaus Thalblick 
-	- 
+
+- Zeile 107 : 
+	- Schwabenstr. 14, 87640 Ebenhofen 
+	- Haus Flötenhof
+	- Herbert u. Christina Pätzold, Tel. 08342/899111 oder 0160/540448 
+
+
 
 
 
