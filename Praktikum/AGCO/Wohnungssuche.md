@@ -18,13 +18,6 @@ Xiaomeng Huang
 	telefonieren
 
 
-- Zeile 93 Prio: sehr hoch 10min
-	Xaver-Martin-Straße 16
-	Julian Flecks, Tel. 0151/42659800
-	
-	Whatsapp
-
-
 - Zeile 73 Prio: niedrig 29min
 	Elsenweg 13
 	Fami. Urban, 08342/5337, ingeurban@gmx.de
@@ -71,8 +64,13 @@ Xiaomeng Huang
 	- keine gültige Festnetz-Nummer
 	- keine Antwort: 2023_01_02
 
+- Zeile 38 : 12 min
+	- Reichshofstr. 3
+	- Fam. Zinecker, Tel. 08342/914771 oder 0173/7753930 www.ferienwohnung-zinecker.de 
+	- Kontakte
+		- Whatsapp 
 
-- Zeile 144/145 : 
+- Zeile 71 : 
 
 
 
