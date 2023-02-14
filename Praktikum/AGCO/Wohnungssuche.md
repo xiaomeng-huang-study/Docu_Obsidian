@@ -107,9 +107,6 @@ Xiaomeng Huang
 	- Ringweg 6, 87600 Kaufbeuren 
 	- Herr Martin Römer, Tel. 0174/9732793 
 
-- Zeile 182 : Prio. : hoch 
-	- Simon- Baumannstr. 1, 87616 Marktoberdorf 
-	- Herr Reinhard Linder, Tel. 08342/1024 
 
 - Zeile 183 : Prio. : hoch 
 	- Zeppelinstraße ,87616 Marktoberdorf 
@@ -119,9 +116,6 @@ Xiaomeng Huang
 	- 87616 Süden Marktoberdorfs 
 	- Frau Corinna Gall-Sonntag Tel: 08342/3809 oder 01605254811 
 
-- Zeile 198 : Prio. : hoch 
-	- Simon Baumann Str. 4, Marktoberdorf 
-	- Frau Daquino, Tel. 08342/40631
 
 
 

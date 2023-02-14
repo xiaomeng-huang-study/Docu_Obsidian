@@ -172,6 +172,8 @@
   },
   "active": "deda57e420773137",
   "lastOpenFiles": [
+    "Medikamente/Medikamente.md",
+    "Praktikum/AGCO/Wohnungssuche.md",
     "未命名.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Vererbung.md",
@@ -179,8 +181,6 @@
     "Prog C++/verkettete List.md",
     "Prog C++/Treads.md",
     "Prog C++/Template.md",
-    "Prog C++/String.md",
-    "Prog C++/Operator überladen.md",
-    "Prog C++/Komposition.md"
+    "Prog C++/String.md"
   ]
 }
