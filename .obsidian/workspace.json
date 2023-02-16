@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "018401fa4572d4ee",
+        "id": "697d0e92ed0f3daf",
         "type": "tabs",
         "children": [
           {
-            "id": "fea6ef75151e0a62",
+            "id": "519b8ac946bb4741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "Prog Python/Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "Prog Python/Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md",
+                "file": "Prog Python/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Git_Konfiguration.md"
+                "file": "Prog Python/Dictionary.md"
               }
             }
           },
@@ -170,8 +170,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fea6ef75151e0a62",
+  "active": "519b8ac946bb4741",
   "lastOpenFiles": [
+    "Software Engineering/Git_Konfiguration.md",
     "Praktikum/AGCO/Wohnungssuche.md",
     "Medikamente/Medikamente.md",
     "未命名.md",
@@ -180,7 +181,6 @@
     "Prog C++/Zeiger.md",
     "Prog C++/verkettete List.md",
     "Prog C++/Treads.md",
-    "Prog C++/Template.md",
-    "Prog C++/String.md"
+    "Prog C++/Template.md"
   ]
 }
