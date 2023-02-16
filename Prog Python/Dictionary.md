@@ -10,11 +10,17 @@ dic = {
 - Methoden dazu 
 	- prüfen, ob key in dic 
 		- `key_C in dic` 
-			- falls in: true 
-			- falls nicht in: false 
+			- falls in: True 
+			- falls nicht in: False 
 	- hinzufügen/ überschreiben 
 		- `dic[key_C] = "..."` 
 	- löschen key 
 		- `del dic[key_C]` 
 	- Länge 
 		- `len(dic)` 
+	- alle Keys anzeigen
+		- `dic.keys()` 
+	- alle Values anzeigen 
+		- `dic.values()` 
+	- alle Key-Value anzeigen 
+		- `dic.items()` 
