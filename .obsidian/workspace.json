@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "519b8ac946bb4741",
+            "id": "54af0b0271dd912e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,8 +170,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "519b8ac946bb4741",
+  "active": "54af0b0271dd912e",
   "lastOpenFiles": [
+    "Prog Python/未命名.md",
+    "Prog Python/Dictionary.md",
     "Software Engineering/Git_Konfiguration.md",
     "Praktikum/AGCO/Wohnungssuche.md",
     "Medikamente/Medikamente.md",
@@ -179,8 +181,6 @@
     "Prog C++/Polymorphie.md",
     "Prog C++/Vererbung.md",
     "Prog C++/Zeiger.md",
-    "Prog C++/verkettete List.md",
-    "Prog C++/Treads.md",
-    "Prog C++/Template.md"
+    "Prog C++/verkettete List.md"
   ]
 }
