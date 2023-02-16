@@ -32,3 +32,26 @@ while Bedingung :
 	    print(arr[i])
 	    i += 1
 	```
+	- AVG berechnen 
+		```python
+		# Array erzeugen
+		Zahlen = []
+		Eingabe = input("Bitte geben Sie eine Zahl ein: \n")
+		while 'q' != Eingabe:
+			Zahlen.append(float(Eingabe))
+			Eingabe = input("Bitte geben Sie eine Zahl ein: \n")
+		
+		# Summe berechnen
+		Summe:float
+		Summe = 0
+		for temp_Elem in Zahlen:
+			Summe += temp_Elem
+		
+		# AVG berechnen
+		if 0 != len(Zahlen):
+			print("AVG: " + str(Summe/len(Zahlen)))
+		else:
+			print("AVG kann nicht berechnet werden, da Nenner 0 ist")
+			
+		print(Zahlen)
+		```
