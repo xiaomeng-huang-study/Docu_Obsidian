@@ -1,4 +1,4 @@
-- Klasse 
+- Klasse definieren 
 	```python
 	class Class_Name:
 		...
@@ -24,6 +24,10 @@
 
 - Memberfunktionen
 	```python
-	def func01(self):
+	def func01(self, para1):
 		...
 	```
+	- in Aufrufer 
+		```python
+		ob1.func01(Para1)
+		```

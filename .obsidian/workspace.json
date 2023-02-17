@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog Python/OOP.md",
+                "file": "Prog Python/OOP_Klassen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8335f6603e9c3d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prog Python/OOP_Vererbung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog Python/OOP.md",
+                "file": "Prog Python/OOP_Vererbung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog Python/OOP.md",
+                "file": "Prog Python/OOP_Vererbung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog Python/OOP.md"
+                "file": "Prog Python/OOP_Vererbung.md"
               }
             }
           },
@@ -170,12 +183,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "acaf000c96404abd",
+  "active": "8335f6603e9c3d22",
   "lastOpenFiles": [
+    "Prog Python/OOP_Klassen.md",
+    "Prog Python/Schleife.md",
     "Prog Python/Funktion.md",
     "Prog Python/Format.md",
-    "Prog Python/Schleife.md",
-    "Prog Python/OOP.md",
     "Prog Python/Import.md",
     "Prog Python/Dictionary.md",
     "Software Engineering/Git_Konfiguration.md",
