@@ -1,0 +1,6 @@
+- SORT und SORTED
+	- `arr.sort()` $\Rightarrow$ arr wird verändert 
+	- `arrB = sorted(arrA)` $\Rightarrow$ arrA wird <font color = "red">nicht</font> verändert, arrB ist neu 
+	- absteigend 
+		- `arr.sort(reverse = True)` 
+		- `arrB = sorted(arrA, reverse = True)` 

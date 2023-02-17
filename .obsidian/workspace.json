@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c812b59b48fc39e9",
+        "id": "e0dbcb4313d33d08",
         "type": "tabs",
         "children": [
           {
-            "id": "acaf000c96404abd",
+            "id": "ad63aa3cd43984f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog Python/OOP_Klassen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8335f6603e9c3d22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog Python/OOP_Vererbung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce7989cd4115e6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog Python/File.md",
+                "file": "Prog Python/Basic_Function.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog Python/File.md",
+                "file": "Prog Python/Basic_Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog Python/File.md",
+                "file": "Prog Python/Basic_Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog Python/File.md"
+                "file": "Prog Python/Basic_Function.md"
               }
             }
           },
@@ -195,17 +170,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ce7989cd4115e6bf",
+  "active": "ad63aa3cd43984f6",
   "lastOpenFiles": [
+    "Prog Python/Schleife.md",
     "Prog Python/OOP_Vererbung.md",
     "Prog Python/OOP_Klassen.md",
-    "Prog Python/Schleife.md",
+    "Prog Python/File.md",
     "Prog Python/Funktion.md",
     "Prog Python/Format.md",
     "Prog Python/Import.md",
     "Prog Python/Dictionary.md",
     "Software Engineering/Git_Konfiguration.md",
-    "Praktikum/AGCO/Wohnungssuche.md",
-    "Medikamente/Medikamente.md"
+    "Praktikum/AGCO/Wohnungssuche.md"
   ]
 }
