@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61c6c734d67ab49a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prog Python/Import.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog Python/Funktion.md",
+                "file": "Prog Python/Import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog Python/Funktion.md",
+                "file": "Prog Python/Import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog Python/Funktion.md"
+                "file": "Prog Python/Import.md"
               }
             }
           },
@@ -207,8 +219,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4daaf3609d847ccb",
+  "active": "61c6c734d67ab49a",
   "lastOpenFiles": [
+    "Prog Python/Funktion.md",
     "Prog Python/Format.md",
     "Prog Python/Schleife.md",
     "Prog Python/Dictionary.md",
@@ -217,7 +230,6 @@
     "Medikamente/Medikamente.md",
     "未命名.md",
     "Prog C++/Polymorphie.md",
-    "Prog C++/Vererbung.md",
-    "Prog C++/Zeiger.md"
+    "Prog C++/Vererbung.md"
   ]
 }
