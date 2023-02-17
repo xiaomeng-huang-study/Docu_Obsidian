@@ -23,7 +23,7 @@
 		```
 
 - Memberfunktionen
-```python
-def func01(self):
-	...
-```
+	```python
+	def func01(self):
+		...
+	```
