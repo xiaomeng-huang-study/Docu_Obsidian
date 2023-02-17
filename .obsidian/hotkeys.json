@@ -74,9 +74,19 @@
   "code-block-from-selection:c7617f90-d3f8-49ef-b938-a2056600b0ef": [
     {
       "modifiers": [
-        "Alt"
+        "Alt",
+        "Mod"
       ],
       "key": "="
+    }
+  ],
+  "code-block-from-selection:d2ed65b9-6924-45a1-8ce3-eab25796e669": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
     }
   ]
 }
