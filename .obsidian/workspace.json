@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "697d0e92ed0f3daf",
+        "id": "c812b59b48fc39e9",
         "type": "tabs",
         "children": [
           {
-            "id": "54af0b0271dd912e",
+            "id": "acaf000c96404abd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog Python/Dictionary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69cea70d941093bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog Python/Schleife.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "763b2f26c8ab2aad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog Python/Format.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4daaf3609d847ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog Python/Funktion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61c6c734d67ab49a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog Python/Import.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog Python/Import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog Python/Import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prog Python/Import.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,17 +162,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "61c6c734d67ab49a",
+  "active": "acaf000c96404abd",
   "lastOpenFiles": [
-    "Prog Python/Funktion.md",
-    "Prog Python/Format.md",
-    "Prog Python/Schleife.md",
     "Prog Python/Dictionary.md",
+    "Prog Python/Schleife.md",
+    "Prog Python/Format.md",
+    "Prog Python/Funktion.md",
+    "Prog Python/Import.md",
     "Software Engineering/Git_Konfiguration.md",
     "Praktikum/AGCO/Wohnungssuche.md",
     "Medikamente/Medikamente.md",
     "未命名.md",
-    "Prog C++/Polymorphie.md",
-    "Prog C++/Vererbung.md"
+    "Prog C++/Polymorphie.md"
   ]
 }
