@@ -28,4 +28,9 @@
 	print(content)
 	```
 
-
+- Beispiel 
+	```python
+	dic = {1: "A", 2: "B", 3: "C", 4: "D"}
+	for temp_key, temp_value in dic.items():
+	    print(f"{temp_key} zeigt auf {temp_value}")
+	```
