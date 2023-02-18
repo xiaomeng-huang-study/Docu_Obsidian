@@ -7,7 +7,8 @@
 		```python
 		myList = list([..., ..., ...])
 		```
-- Index bekommen 
+
+- Element $\Rightarrow$ Index 
 	```python
 	myList.index(...)
 	```
@@ -16,6 +17,11 @@
 		myList.index(..., start_Index, stop_Index)
 		```
 		- `start` inklusiv, `stop` nicht inklusiv 
+- Index $\Rightarrow$ Element 
+	- Bereich von Index 
+		- positive Index: $0 \rightarrow N-1$ 
+		- negative Index: $-N \rightarrow -1$ 
+
 - SORT und SORTED
 	- `arr.sort()` $\Rightarrow$ arr wird verändert 
 	- `arrB = sorted(arrA)` $\Rightarrow$ arrA wird <font color = "red">nicht</font> verändert, arrB ist neu 
