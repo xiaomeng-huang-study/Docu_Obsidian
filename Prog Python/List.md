@@ -1,13 +1,21 @@
 - Erzeugen
-- 1.Methode
+	- 1.Methode
+		```python
+		myList = [..., ..., ...]
+		```
+	- 2.Methode: mit `list()` 
+		```python
+		myList = list([..., ..., ...])
+		```
+- Index bekommen 
 	```python
-	list = [...,...,...]
+	myList.index(...)
 	```
-- 2.Methode
-```python
-
-```
-
+	- in bestimmten Bereich 
+		```python
+		myList.index(..., start_Index, stop_Index)
+		```
+		- `start` inklusiv, `stop` nicht inklusiv 
 - SORT und SORTED
 	- `arr.sort()` $\Rightarrow$ arr wird verändert 
 	- `arrB = sorted(arrA)` $\Rightarrow$ arrA wird <font color = "red">nicht</font> verändert, arrB ist neu 
