@@ -20,7 +20,14 @@
 - Index $\Rightarrow$ Element 
 	- Bereich von Index 
 		- positive Index: $0 \rightarrow N-1$ 
+			```python
+			myList[0]
+			```
 		- negative Index: $-N \rightarrow -1$ 
+			```python
+			myList[-1]
+				#das letzte Element
+			```
 
 - SORT und SORTED
 	- `arr.sort()` $\Rightarrow$ arr wird verändert 
