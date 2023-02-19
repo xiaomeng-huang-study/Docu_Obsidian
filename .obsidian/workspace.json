@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "61536a9225253f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Email/Email_20230219_Gebühren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog Python/List.md",
+                "file": "Email/Email_20230219_Gebühren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog Python/List.md",
+                "file": "Email/Email_20230219_Gebühren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog Python/List.md"
+                "file": "Email/Email_20230219_Gebühren.md"
               }
             }
           },
@@ -170,10 +183,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "ad63aa3cd43984f6",
+  "active": "61536a9225253f05",
   "lastOpenFiles": [
-    "Prog Python/Dictionary.md",
     "Prog Python/List.md",
+    "Prog Python/Dictionary.md",
     "Prog Python/Schleife.md",
     "Prog Python/OOP_Vererbung.md",
     "Prog Python/OOP_Klassen.md",
