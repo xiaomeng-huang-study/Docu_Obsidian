@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "61536a9225253f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Email/Email_20230219_Gebühren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Email/Email_20230219_Gebühren.md",
+                "file": "Prog Python/List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Email/Email_20230219_Gebühren.md",
+                "file": "Prog Python/List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Email/Email_20230219_Gebühren.md"
+                "file": "Prog Python/List.md"
               }
             }
           },
@@ -183,8 +170,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "61536a9225253f05",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
+    "Email/Email_20230219_Gebühren.md",
     "Prog Python/List.md",
     "Prog Python/Dictionary.md",
     "Prog Python/Schleife.md",
@@ -193,7 +181,6 @@
     "Prog Python/File.md",
     "Prog Python/Funktion.md",
     "Prog Python/Format.md",
-    "Prog Python/Import.md",
-    "Software Engineering/Git_Konfiguration.md"
+    "Prog Python/Import.md"
   ]
 }
