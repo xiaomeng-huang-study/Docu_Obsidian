@@ -1,6 +1,5 @@
 roscd roscpp 
 
-
 - node erstellen 
 	- ssr_pkg/src/(XXX)\_node.cpp 
 		```c++
@@ -61,9 +60,10 @@ roscd roscpp
 				catkin_make
 				```
 
-```c++
-while(ros::ok())
-{
-
-}
-```
+- dauerhaft in Betrieb 
+	```c++
+	while(ros::ok())
+	{
+	...
+	}
+	```
