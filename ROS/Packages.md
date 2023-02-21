@@ -36,11 +36,10 @@ sudo apt install ros-noetic-(package_name)
 	      CMakeLists.txt     -- CMakeLists.txt file for package_n
 	      package.xml        -- Package manifest for package_n
 	```
-- git
-	```ROS
-	sudo apt install git
-	```
+
 - git clone 
+	- Falls git nicht installiert 
+		- `sudo apt install git` 
 	```ROS
 	git clone ...
 	```
@@ -54,8 +53,16 @@ sudo apt install ros-noetic-(package_name)
 	cd ~/catkin_ws
 	catkin_make
 	```
-- source 
+- development Environment 
 	```ROS
 	source ~/catkin_ws/devel/setup.bash
 	```
+	- in `.bashrc` hinzugefügen 
+		```ROS
+		...
+		source ~/catkin_ws/devel/setup.bash
+		```
 
+- Beispiel 
+	- wpr_simulation 
+		- github: https://github.com/6-robot/wpr_simulation.git 

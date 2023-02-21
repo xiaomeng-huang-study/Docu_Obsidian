@@ -22,3 +22,8 @@
 		```ROS
 		rosrun turtlesim turtlesim_node
 		```
+	- wpr_simulation 
+		```ROS
+		roslaunch wpr_simulation wpb_simple.launch 
+		```
+		
