@@ -7,20 +7,20 @@
 		```c++
 		include <std_msgs/String.h>
 		```
-- Message definieren 
-	```c++
-	std_msgs::$Message_Typ$ msg;
-	```
 - Nodehandler definieren 
 	```c++
 	ros::NodeHandle nh;
 	```
+
+## Publischer 
 - Publischer definieren 
 	```c++
-	ros::Publisher pub = nh.advertise<std_msgs::$Message_Typ$>($Topic_Name$, $Latenz$);
+	ros::Publisher pub;
+	pub = nh.advertise<std_msgs::${MESSAGE_TYP}>(${TOPIC_NAME}, ${LATENZ});
 	```
-- Data zuweisen 
-	```
+- Message
+	```c++
+	std_msgs::${MESSAGE_TYP} msg;
 	msg.data = ...;
 	```
 - publish 
@@ -44,12 +44,14 @@
 	
 	int main(int argc, char *argv[])
 	{
-	    ros::init(argc, argv, "ultra_node");
+	    ros::init(argc, argv, "pub_node");
 	    ros::NodeHandle nh;
-	    ros::Publisher pub = nh.advertise<std_msgs::String>("testTopic", 10);
+	    ros::Publisher pub; 
+	    pub = nh.advertise<std_msgs::String>("testTopic", 10);
 	
 	    std_msgs::String msg;
 	    msg.data = "testMessage";
+	    
 	    ros::Rate loop_rate(10);
 	    while(ros::ok())
 	    {
@@ -60,8 +62,62 @@
 	}
 	```
 
+## Subscriber 
+- callback Funktion definieren 
+	```c++
+	void ${CALLBAKC_FUNCTION_NAME} (std_msgs::${MESSAGE_TYP} msg)
+	{
+		...
+	}
+	```
+- subscriber definieren 
+	```c++
+	ros::Subscriber sub; 
+	sub = nh.subscribe("testTopic",10,${CALLBACK_FUNCTION_NAME});
+	```
+- spinOnce
+	```c++
+	while(ros::ok())
+	{
+		ros::spinOnce();
+		...
+	}
+	```
+
+
+
+
+- Beispiel 
+	```c++
+	#include "ros/ros.h"
+	#include <std_msgs/String.h>
+	
+	void pub_callback(std_msgs::String msg)
+	{
+		printf((msg.data).c_str());
+		printf("\n");
+			//ROS_INFO((msg.data).c_str());  //mit Zeitstampel
+	}
+	
+	int main(int argc, char* argv[])
+	{
+		ros::init(argc, argv, "sub_node");
+	
+		ros::NodeHandle nh;
+		ros::Subscriber sub;
+		sub = nh.subscribe("testTopic", 10, pub_callback);
+	
+		while(ros::ok())
+		{
+			ros::spinOnce();
+			...
+		}
+	}
+	```
 
 - Befehle mit Topic 
 	- `rostopic list` 
-	- rostopic echo /(Topic_name)
-	- rostopic hz /(Topic_name)
+	- `rostopic echo /(Topic_name)` 
+	- `rostopic hz /(Topic_name)` 
+- ROS-Befehle 
+	- `rqt_graph`

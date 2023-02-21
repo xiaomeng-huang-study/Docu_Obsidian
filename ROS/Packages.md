@@ -72,6 +72,6 @@ sudo apt install ros-noetic-(package_name)
 - create_pkg 
 	```ROS
 	cd ~/catkin_ws/src/
-	catkin_create_pkg ssr_pkg rospy roscpp std_msgs
+	catkin_create_pkg ${PACKAGE_NAME} rospy roscpp std_msgs
 	``` 
 
