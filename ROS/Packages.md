@@ -1,3 +1,18 @@
+- Ordner Struktur 
+	```
+	workspace_folder/        -- WORKSPACE z.B. catkin_ws
+	  src/                   -- SOURCE SPACE
+	    CMakeLists.txt       -- 'Toplevel' CMake file, provided by catkin
+	    package_1/
+	      CMakeLists.txt     -- CMakeLists.txt file for package_1
+	      package.xml        -- Package manifest for package_1
+	    ...
+	    package_n/
+	      CMakeLists.txt     -- CMakeLists.txt file for package_n
+	      package.xml        -- Package manifest for package_n
+	```
+
+
 ## APT
 https://index.ros.org/packages/#noetic 
 
@@ -22,21 +37,7 @@ sudo apt install ros-noetic-(package_name)
 		sudo apt install ros-noetic-turtlesim
 		```
 
-## GitHub
-- Ordner Struktur 
-	```
-	workspace_folder/        -- WORKSPACE z.B. catkin_ws
-	  src/                   -- SOURCE SPACE
-	    CMakeLists.txt       -- 'Toplevel' CMake file, provided by catkin
-	    package_1/
-	      CMakeLists.txt     -- CMakeLists.txt file for package_1
-	      package.xml        -- Package manifest for package_1
-	    ...
-	    package_n/
-	      CMakeLists.txt     -- CMakeLists.txt file for package_n
-	      package.xml        -- Package manifest for package_n
-	```
-
+## GitHub 
 - git clone 
 	- Falls git nicht installiert 
 		- `sudo apt install git` 
@@ -66,3 +67,10 @@ sudo apt install ros-noetic-(package_name)
 - Beispiel 
 	- wpr_simulation 
 		- github: https://github.com/6-robot/wpr_simulation.git 
+
+
+- ssr_pkg 
+	```ROS
+	catkin_create_pkg ssr_pkg rospy roscpp std_msgs
+	``` 
+	
