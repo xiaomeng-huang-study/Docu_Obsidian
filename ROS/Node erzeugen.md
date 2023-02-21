@@ -8,7 +8,11 @@ roscd roscpp
 		int main(int argc, char* argv[])
 		{
 			ros::init(argc, argv, "(XXX)_node");
-			...
+			
+			while(ros::ok())
+			{
+				...
+			}
 		}
 		```
 - Kompilieren 
@@ -42,7 +46,11 @@ roscd roscpp
 			int main(int argc, char* argv[])
 			{
 				ros::init(argc, argv, "ultra_node");
-				...
+
+				while(ros::ok())
+				{
+					...
+				}
 			}
 			```
 		- Kompilieren 
@@ -59,11 +67,3 @@ roscd roscpp
 				cd ~/catkin_ws
 				catkin_make
 				```
-
-- dauerhaft in Betrieb 
-	```c++
-	while(ros::ok())
-	{
-	...
-	}
-	```

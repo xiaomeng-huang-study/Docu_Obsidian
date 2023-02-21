@@ -12,8 +12,8 @@
 	      package.xml        -- Package manifest for package_n
 	```
 
-
-## APT
+## von Außen bekommen 
+### APT
 https://index.ros.org/packages/#noetic 
 
 - install 
@@ -37,7 +37,7 @@ sudo apt install ros-noetic-(package_name)
 		sudo apt install ros-noetic-turtlesim
 		```
 
-## GitHub 
+### GitHub 
 - git clone 
 	- Falls git nicht installiert 
 		- `sudo apt install git` 
@@ -68,8 +68,8 @@ sudo apt install ros-noetic-(package_name)
 	- wpr_simulation 
 		- github: https://github.com/6-robot/wpr_simulation.git 
 
-
-- ssr_pkg 
+## selbst implementieren 
+- create_pkg 
 	```ROS
 	cd ~/catkin_ws/src/
 	catkin_create_pkg ssr_pkg rospy roscpp std_msgs
