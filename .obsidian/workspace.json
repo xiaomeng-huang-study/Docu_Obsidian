@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f13aefc34dabc3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/Node erzeugen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/Packages.md",
+                "file": "ROS/Node erzeugen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/Packages.md",
+                "file": "ROS/Node erzeugen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/Packages.md"
+                "file": "ROS/Node erzeugen.md"
               }
             }
           },
@@ -170,17 +183,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6a63703a63d39fbb",
+  "active": "6f13aefc34dabc3b",
   "lastOpenFiles": [
-    "ROS/ROS Installieren.md",
     "ROS/Programm starten.md",
     "ROS/Packages.md",
+    "ROS/Node erzeugen.md",
+    "ROS/ROS Installieren.md",
     "Markdown/Syntax.md",
     "Prog Python/List.md",
     "Email/Email_20230219_Gebühren.md",
     "Prog Python/Dictionary.md",
     "Prog Python/Schleife.md",
-    "Prog Python/OOP_Vererbung.md",
-    "Prog Python/OOP_Klassen.md"
+    "Prog Python/OOP_Vererbung.md"
   ]
 }
