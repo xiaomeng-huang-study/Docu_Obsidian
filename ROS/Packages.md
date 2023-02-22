@@ -12,6 +12,13 @@
 	      package.xml        -- Package manifest for package_n
 	```
 
+## selbst implementieren 
+- create_pkg 
+	```ROS
+	cd ~/catkin_ws/src/
+	catkin_create_pkg ${PACKAGE_NAME} rospy roscpp std_msgs
+	``` 
+
 ## von Außen bekommen 
 ### APT
 https://index.ros.org/packages/#noetic 
@@ -59,19 +66,18 @@ sudo apt install ros-noetic-(package_name)
 	source ~/catkin_ws/devel/setup.bash
 	```
 	- in `.bashrc` hinzugefügen 
-		```ROS
-		...
-		source ~/catkin_ws/devel/setup.bash
-		```
+		- in Terminal 
+			```ROS
+			gedit ~/.bashrc
+			```
+		- am Ende von `.bashrc` 
+			```ROS
+			source ~/catkin_ws/devel/setup.bash
+			```
 
 - Beispiel 
 	- wpr_simulation 
 		- github: https://github.com/6-robot/wpr_simulation.git 
 
-## selbst implementieren 
-- create_pkg 
-	```ROS
-	cd ~/catkin_ws/src/
-	catkin_create_pkg ${PACKAGE_NAME} rospy roscpp std_msgs
-	``` 
+
 
