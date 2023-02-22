@@ -56,7 +56,7 @@ roscd roscpp
 		- Kompilieren 
 			- in CMakeLists.txt 
 				```
-				add_executable(ultra_node src_pkg/src/ultra_node.cpp)
+				add_executable(ultra_node ssr_pkg/src/ultra_node.cpp)
 				
 				target_link_libraries(ultra_node
 				  ${catkin_LIBRARIES}
