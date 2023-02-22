@@ -26,3 +26,7 @@
 		```ROS
 		roslaunch wpr_simulation wpb_simple.launch 
 		```
+	- ultra_node 
+		```ROS
+		rosrun ssr_pkg ultra_node.py
+		```

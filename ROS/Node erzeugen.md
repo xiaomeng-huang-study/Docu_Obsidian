@@ -1,7 +1,7 @@
 roscd roscpp 
 
 - node erstellen 
-	- ssr_pkg/src/(XXX)\_node.cpp 
+	- ${PACKAGE_NAME}/src/(XXX)\_node.cpp 
 		```c++
 		#include <ros/ros.h>
 
@@ -15,7 +15,21 @@ roscd roscpp
 			}
 		}
 		```
-- Kompilieren 
+	- ${PACKAGE_NAME}/scripts/(XXX)\_node.py 
+		```python
+		#!/usr/bin/env python3
+		#coding = utf-8
+		import rospy
+	
+		if __name__ == "__main__":
+			rospy.init_node("(XXX)_node")
+				#rospy.logwarn("Node initialized successfully!")
+		
+		while not rospy.is_shutdown():
+			...
+		```
+
+- Kompilieren(nur bei C++) 
 	- in CMakeLists.txt 
 		```ROS
 		###########
@@ -38,32 +52,46 @@ roscd roscpp
 		cd ~/catkin_ws
 		catkin_make
 		```
+- Recht bekommen(nur bei Python) 
+	```ROS
+	cd ~/catkin_ws/src/${PACKAGE_NAME}/scripts/
+	chmod +x (XXX)_node.py
+	```
+	- `chmod` : change mode
+	- `x` : execute
 
 - Beispiel 
 	- ultra_node 
-		- ssr_pkg/src/ultra_node.cpp 
-			```c++
-			int main(int argc, char* argv[])
-			{
-				ros::init(argc, argv, "ultra_node");
-
-				while(ros::ok())
+		- in C++
+			- ssr_pkg/src/ultra_node.cpp 
+				```c++
+				int main(int argc, char* argv[])
 				{
-					...
+					ros::init(argc, argv, "ultra_node");
+	
+					while(ros::ok())
+					{
+						...
+					}
 				}
-			}
+				```
+			- Kompilieren 
+				- in CMakeLists.txt 
+					```
+					add_executable(ultra_node src/ultra_node.cpp)
+					
+					target_link_libraries(ultra_node
+					  ${catkin_LIBRARIES}
+					)
+					```
+				- in Terminal 
+					```ROS
+					cd ~/catkin_ws
+					catkin_make
+					```
+		- in Python 
+			```ROS
+			cd ~/catkin_ws/src/ultra_node/scripts/
+			chmod +x ultra_node.py
 			```
-		- Kompilieren 
-			- in CMakeLists.txt 
-				```
-				add_executable(ultra_node src/ultra_node.cpp)
-				
-				target_link_libraries(ultra_node
-				  ${catkin_LIBRARIES}
-				)
-				```
-			- in Terminal 
-				```ROS
-				cd ~/catkin_ws
-				catkin_make
-				```
+
