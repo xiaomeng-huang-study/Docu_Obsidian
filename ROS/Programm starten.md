@@ -26,4 +26,3 @@
 		```ROS
 		roslaunch wpr_simulation wpb_simple.launch 
 		```
-		
