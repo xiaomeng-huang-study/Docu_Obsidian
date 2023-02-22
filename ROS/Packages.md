@@ -16,7 +16,7 @@
 - create_pkg 
 	```ROS
 	cd ~/catkin_ws/src/
-	catkin_create_pkg ${PACKAGE_NAME} rospy roscpp std_msgs
+	catkin_create_pkg ${PACKAGE_NAME} rospy roscpp ${MESSAGE_TYP}
 	``` 
 
 ## von Außen bekommen 

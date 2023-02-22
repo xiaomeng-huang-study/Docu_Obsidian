@@ -16,11 +16,11 @@
 - Publischer definieren 
 	```c++
 	ros::Publisher pub;
-	pub = nh.advertise<std_msgs::${MESSAGE_TYP}>("${TOPIC_NAME}", ${LATENZ});
+	pub = nh.advertise<${HEADER_MESSAGE_TYP}::${MESSAGE_TYP}>("${TOPIC_NAME}", ${LATENZ});
 	```
 - Message definieren 
 	```c++
-	std_msgs::${MESSAGE_TYP} msg;
+	${HEADER_MESSAGE_TYP}::${MESSAGE_TYP} msg;
 	```
 - publish 
 	```c++
