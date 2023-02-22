@@ -49,6 +49,7 @@ sudo apt install ros-noetic-(package_name)
 	- Falls git nicht installiert 
 		- `sudo apt install git` 
 	```ROS
+	cd ~/catkin_ws/src/
 	git clone ...
 	```
 - install for noetic 
