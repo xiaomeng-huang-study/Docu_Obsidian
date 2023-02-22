@@ -1,6 +1,13 @@
-http://wiki.ros.org/geometry_msgs 
+- Topic_Name: `"cmd_vel"` 
+- Message_Typ: http://wiki.ros.org/geometry_msgs 
+- Package_Name: `"vel_pkg"` 
+- Node_Name: `vel_node` 
 
-cmd_vel
+- Roboter 
+	```ROS
+	roslaunch turtlebot3_fake turtlebot3_fake.launch
+	
+	roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch 
+	```
 
-vel_pkg
-vel_node
+
