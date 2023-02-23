@@ -25,8 +25,8 @@ roscd roscpp
 			rospy.init_node("(XXX)_node")
 				#rospy.logwarn("Node initialized successfully!")
 		
-		while not rospy.is_shutdown():
-			...
+			while not rospy.is_shutdown():
+				...
 		```
 
 - Kompilieren(nur bei C++) 
@@ -90,8 +90,4 @@ roscd roscpp
 					catkin_make
 					```
 		- in Python 
-			```ROS
-			cd ~/catkin_ws/src/ultra_node/scripts/
-			chmod +x ultra_node.py
-			```
 
