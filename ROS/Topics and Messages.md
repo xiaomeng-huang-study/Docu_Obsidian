@@ -90,6 +90,7 @@
 	    return 0;
 	}
 	```
+
 ```python
 import rospy
 from std_msgs.msg import String
@@ -116,11 +117,22 @@ if __name__ == "__main__":
 		...
 	}
 	```
+
+	```python
+	def ${CALLBAKC_FUNCTION_NAME} (_msg):
+		#rospy.loginfo(_msg.data)
+	```
+
 - subscriber definieren 
 	```c++
 	ros::Subscriber sub; 
 	sub = nh.subscribe("testTopic",10,${CALLBACK_FUNCTION_NAME});
 	```
+
+	```python
+	sub = rospy.Subscribe("${TOPIC_NAME}", ${MESSAGE_TYP}, ${CALLBAKC_FUNCTION_NAME}, queue_size = ${QUEUE_SIZE})
+	```
+
 - spinOnce
 	```c++
 	while(ros::ok())
@@ -130,6 +142,10 @@ if __name__ == "__main__":
 	}
 	```
 
+	```python
+	while not rospy.is_shutdown():
+		rospy.spin()
+	```
 
 - Beispiel 
 	```c++
@@ -157,6 +173,25 @@ if __name__ == "__main__":
 			...
 		}
 	}
+	```
+
+	```python
+	#!/usr/bin/env python3
+	import rospy
+	from std_msgs.msg import String
+	
+	def callback_func (_msg):
+	    rospy.loginfo(_msg.data)
+	
+	
+	
+	if __name__ == "__main__":
+	    rospy.init_node("sub_py_node")
+	
+	    sub = rospy.Subscriber("myTopic", String, callback_func, queue_size = 10)
+	
+	    while not rospy.is_shutdown():
+	        rospy.spin()
 	```
 
 - Befehle mit Topic 
