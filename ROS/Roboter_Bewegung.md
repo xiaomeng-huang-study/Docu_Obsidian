@@ -1,5 +1,5 @@
 - Topic_Name: `"cmd_vel"` 
-- Message_Typ: http://wiki.ros.org/geometry_msgs 
+- Message_Typ: http://docs.ros.org/en/api/geometry_msgs/html/msg/Twist.html 
 - Package_Name: `"vel_pkg"` 
 - Node_Name: `vel_node` 
 
