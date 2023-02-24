@@ -10,14 +10,6 @@ Ich würde mich bei Ihnen sehr bedanken, wenn Sie mir eine Antwort geben könnte
 Viele Grüße
 Xiaomeng Huang
 
-
-- Zeile 196 Prio: sehr niedrig
-	Silvia Kern, Tel.  08342/898784
-	Herrenfeldstr. 1
-	
-	telefonieren
-
-
 - Zeile 73 Prio: niedrig 29min
 	Elsenweg 13
 	Fami. Urban, 08342/5337, ingeurban@gmx.de
