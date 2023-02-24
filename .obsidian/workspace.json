@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md",
+                "file": "Wohungssuche.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md",
+                "file": "Wohungssuche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md",
+                "file": "Wohungssuche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Wohnungssuche.md"
+                "file": "Wohungssuche.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "beddaaf0a95d49cf",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Wohnungssuche.md",
     "Prog Python/List.md",
     "ROS/Programm starten.md",
     "ROS/Avoidance.md",

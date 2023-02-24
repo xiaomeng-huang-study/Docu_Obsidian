@@ -10,6 +10,14 @@ Ich würde mich bei Ihnen sehr bedanken, wenn Sie mir eine Antwort geben könnte
 Viele Grüße
 Xiaomeng Huang
 
+
+- Zeile 196 Prio: sehr niedrig
+	Silvia Kern, Tel.  08342/898784
+	Herrenfeldstr. 1
+	
+	telefonieren
+
+
 - Zeile 73 Prio: niedrig 29min
 	Elsenweg 13
 	Fami. Urban, 08342/5337, ingeurban@gmx.de
@@ -29,6 +37,7 @@ Xiaomeng Huang
 	- Hr. Eberle, Tel. 08342/6959
 	- telefon
 		- 12_23: keine Antwort
+		- keine gültige Nummer
 
 - Zeile 48 Prio: niedrig 21min
 	- Am Rambogen 11
@@ -57,14 +66,6 @@ Xiaomeng Huang
 	- keine Antwort: 2023_01_02
 
 
-
-
-
-- Zeile 38 : 12 min
-	- Reichshofstr. 3, 87616 Marktoberdorf 
-	- Fam. Zinecker, Tel. 08342/914771 oder 0173/7753930 www.ferienwohnung-zinecker.de 
-	- Kontakte
-		- Whatsapp 
 
 - Zeile 71 : 
 	- 87640 Hörmannshofen, Biessenhofen 
@@ -95,14 +96,7 @@ Xiaomeng Huang
 	- Zentrumsnah, 87616 Marktoberdorf 
 	- Fam. Horstmann, Tel. 0160/7309406 info@ferienwohnung-in-marktoberdorf.de 
 
-- Zeile 178 : 
-	- Ringweg 6, 87600 Kaufbeuren 
-	- Herr Martin Römer, Tel. 0174/9732793 
 
-
-- Zeile 183 : Prio. : hoch 
-	- Zeppelinstraße ,87616 Marktoberdorf 
-	- Frau Ingeborg Urban, E-Mail: ingeurban@gmx.de 
 
 - Zeile 188 : 
 	- 87616 Süden Marktoberdorfs 
