@@ -5,7 +5,7 @@
 	- Unity simuliert Laser-Sensoren 
 	- Message-basiert Kommunikation 
 
-- Integration vorhander ROS Pakete in Mobgoose 
+- Integration vorhander ROS Pakete in Mongoose 
 	- vorhandene ROS-Pakete 
 		- Kollision 
 		- globale Fahrt 
