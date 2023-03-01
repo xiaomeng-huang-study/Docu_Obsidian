@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/Startbericht.md",
+                "file": "Praktikum/Startbericht/Konzept.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/Startbericht.md",
+                "file": "Praktikum/Startbericht/Konzept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/Startbericht.md",
+                "file": "Praktikum/Startbericht/Konzept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/Startbericht.md"
+                "file": "Praktikum/Startbericht/Konzept.md"
               }
             }
           },
@@ -170,10 +170,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "1f643248f3fc81bb",
   "lastOpenFiles": [
+    "Praktikum/Startbericht",
     "Praktikum/Hinweis_Praxissemester.md",
-    "Praktikum/Startbericht.md",
+    "Praktikum/Startbericht/Konzept.md",
     "Unity/Unity_Notiz.md",
     "ROS/ROS2.md",
     "Unity",
