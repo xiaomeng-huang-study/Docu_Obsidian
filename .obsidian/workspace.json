@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f643248f3fc81bb",
+            "id": "7d579b7b95d483bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/Startbericht/Konzept.md",
+                "file": "Praktikum/AGCO/Startbericht/Startbericht.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/Startbericht/Konzept.md",
+                "file": "Praktikum/AGCO/Startbericht/Startbericht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/Startbericht/Konzept.md",
+                "file": "Praktikum/AGCO/Startbericht/Startbericht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/Startbericht/Konzept.md"
+                "file": "Praktikum/AGCO/Startbericht/Startbericht.md"
               }
             }
           },
@@ -170,16 +170,23 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1f643248f3fc81bb",
+  "active": "7d579b7b95d483bb",
   "lastOpenFiles": [
-    "Praktikum/Startbericht",
-    "Praktikum/Hinweis_Praxissemester.md",
-    "Praktikum/Startbericht/Konzept.md",
+    "Praktikum/AGCO/Startbericht/Konzept.md",
+    "Praktikum/AGCO/Antwort_AGCO.md",
+    "Praktikum/AGCO/Wohnungssuche",
+    "Praktikum/AGCO/Bestätigung_AGCO.md",
+    "Praktikum/AGCO/Dankschreiben_AGCO.md",
+    "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
+    "Praktikum/AGCO/Wohnungssuche/Wohnungssuche.md",
+    "Praktikum/Bewerbung",
+    "Praktikum/AGCO/Startbericht/Startbericht.md",
+    "Praktikum/AGCO/Startbericht",
+    "Praktikum/Bewerbung/Hinweis_Praxissemester.md",
     "Unity/Unity_Notiz.md",
     "ROS/ROS2.md",
     "Unity",
     "Wohungssuche.md",
-    "Praktikum/AGCO/Wohnungssuche.md",
     "Prog Python/List.md",
     "ROS/Programm starten.md",
     "ROS/Avoidance.md",
