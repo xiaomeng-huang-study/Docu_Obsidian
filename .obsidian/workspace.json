@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Startbericht/Konzept.md",
+                "file": "Praktikum/AGCO/Startbericht/Startbericht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Startbericht/Konzept.md",
+                "file": "Praktikum/AGCO/Startbericht/Startbericht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Startbericht/Konzept.md"
+                "file": "Praktikum/AGCO/Startbericht/Startbericht.md"
               }
             }
           },
@@ -182,10 +183,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7d579b7b95d483bb",
+  "active": "790deba70be951ee",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Startbericht/Startbericht.md",
     "Praktikum/AGCO/Startbericht/Konzept.md",
+    "Praktikum/AGCO/Startbericht/Startbericht.md",
     "Wohungssuche.md",
     "Praktikum/AGCO/Antwort_AGCO.md",
     "Praktikum/AGCO/Wohnungssuche",
