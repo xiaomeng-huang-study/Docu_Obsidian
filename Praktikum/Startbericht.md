@@ -24,10 +24,4 @@
 
 
 
-- Erweiterung und Aufbau Steuerung der Signalleuechten bzw. Emergency-Stop (in März)
-
-
-```plantuml
-Agent --> Umgebung : speed 
-
-```
+- Erweiterung und Aufbau Steuerung der Signalleuechten bzw. Emergency-Stop (in März) 
