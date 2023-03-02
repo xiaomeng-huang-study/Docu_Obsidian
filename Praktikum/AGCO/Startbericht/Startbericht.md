@@ -4,5 +4,5 @@ Zu diesem Thema stelle ich meine Arbeit während meines Praktikums in zeitlicher
 
 ## inhaltlich: 
 - 1) Integration von vorhandenen ROS-Pakete 
-	- Durch Pakete werden die modulare Eigenschaften und Skalierbarkeit des ROS-Systems verbessert. Die hinzufügende, vorhandene Pakete sind "Collision Avoidance", "Swatch Detection", "Path Planner". 
-
+	- Durch Pakete werden die modulare Eigenschaften und Skalierbarkeit des ROS-Systems verbessert. Die hinzufügende, vorhandene Pakete sind  "Swath Detection", "Collision Avoidance", "Path Planner". Mit Sensoren kann 
+- 2) 
