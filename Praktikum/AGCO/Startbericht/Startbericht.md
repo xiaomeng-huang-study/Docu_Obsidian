@@ -19,7 +19,7 @@ Zu diesem Thema stelle ich meine Arbeit während meines Praktikums in inhaltlich
 	- Die Entwicklung einer simulierten Umgebung ist ein wichtiger Schritt bei Inbetriebnahme, um sicherzustellen, dass sie ordnungsgemäß funktioniert und betriebsbereit ist. 
 	- Die Simulationsumgebung sollte die reale Umgebung so genau wie möglich simulieren und vorwegnehmen, was in der Realität passieren könnte. 
 - 4) Gesundheitsverwaltung 
-	- 
+	- Für den zuverlässigen und sicheren Betrieb der Maschine sind Funktionen wie "Emergency Stop", die rechtzeitige Signalisierung über Signalturm usw. unerlässlich.
 - 5) Erweiterung 
 	- Sensor-Modell analysieren 
 		- Die Daten des Lasersensors werden analysiert, um festzustellen, ob es notwendig ist, eine Kamera hinzuzufügen, um die Genauigkeit der Objekterkennung zu verbessern. 
