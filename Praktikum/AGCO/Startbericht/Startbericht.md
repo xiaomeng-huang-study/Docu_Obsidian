@@ -14,4 +14,4 @@ Zu diesem Thema stelle ich meine Arbeit während meines Praktikums in zeitlicher
 	- Sensor-Modell analysieren 
 		- Die Daten des Lasersensors werden analysiert, um festzustellen, ob es notwendig ist, eine Kamera hinzuzufügen, um die Genauigkeit der Objekterkennung zu verbessern. 
 	- Matlab/ Simulink Modell analysieren 
-		- mit Matlab/ Simulink wird ein
+		- mit Matlab/ Simulink wird ein 
