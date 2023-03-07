@@ -42,12 +42,13 @@ Simulation
 - 2) Validierung von den Schnittstellen zwischen ROS und Unity 
 	- Die vom ROS gelieferten Richtungs- und Geschwindigkeitsinformationen sollten von Matlab/Simulink in Positionsinformationen umgewandelt und korrekt in Unity simuliert werden. 
 	- ROS kann auch die in Unity simulierten Sensoren verwenden, um zu erkennen, was in der Umgebung vor sich geht, und um Entscheidungen zu treffen und Anweisungen für das weitere Vorgehen zu geben. Dies führt zu einem vollständigen "closed loop simulation". 
-- 3)  der Simulationsumgebung 
+- 3)  Inbetriebnahme der Simulationsumgebung 
 	- Die Entwicklung einer simulierten Umgebung ist ein wichtiger Schritt bei Verifikation, um sicherzustellen, dass sie ordnungsgemäß funktioniert und betriebsbereit ist. 
 	- Die Simulationsumgebung sollte die reale Umgebung so genau wie möglich simulieren und vorwegnehmen, was in der Realität passieren könnte. 
-- 4) Versuchstrator  
+		- Traktor und Umgebung so real wie möglich wie realer Umgebung. 
+- 4) Versuchstrator 
 	- Für den zuverlässigen und ==sicheren Betrieb== der Maschine sind Funktionen wie "Emergency Stop", die rechtzeitige Signalisierung über Signalturm usw. unerlässlich.
-	- Die Hauptaufgabe ist die <font color ="blue">elektrische Verdrahtung</font> und deren Inbetriebnahme bzw. Funktionstest. 
+	- Die Hauptaufgabe ist die <font color ="blue">elektrische Verdrahtung</font> und deren <font color = "blue">Inbetriebnahme</font> bzw. Funktionstest. 
 		- Messen 
 		- Spannung anlegen 
 		- Test auf Traktoren 
