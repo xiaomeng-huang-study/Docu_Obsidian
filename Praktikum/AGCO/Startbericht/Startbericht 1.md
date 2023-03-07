@@ -1,18 +1,23 @@
 ## Hintergrund: 
- AGCO ist ein Unternehmen, das Landtechnik herstellt, insbesondere Traktoren und Erntemaschinen. Landmaschinen intelligent und automatisiert zu machen, ist eine der wichtigsten Aufgaben. 
- 
-- AGCO ist globale Konzern, Landtechnikbranche 
-- Fendt als ein Teil, Prio  
-- Premium, Full-line, Landwirtschaft eingesetzt 
-	- Traktoren
-	- Smart Farming
-	- usw. 
+- AGCO 
+	- globale Konzern, Landtechnikbranche 
+- Fendt 
+	- als ein Teil 
+	- Premium, Full-line, Landwirtschaft eingesetzt 
+		- Traktoren
+		- Smart Farming
+		- usw. 
 - Abteilung 
 	- Vorentwicklung 
-	- Autonomie, Robotik, Alternativer Antrieb 
-		- Schwerpunkt: Autonomie 
-			- Simulation + Test Autonomie-Funktionen 
-			- 
+- Schwerpunkt: Autonomie 
+	- (alle Schwerpunkte: Autonomie, Robotik, Alternativer Antrieb)  
+	- Simulation + Test Autonomie-Funktionen 
+- Simulation 
+	- Ziel 
+		- Mit unity Autonomie-Funktion simuliert 
+		- realisiert 
+		- Einbinden und Testen 
+
 
 Zu diesem Thema stelle ich meine Arbeit während meines Praktikums in inhaltlicher und zeitlicher Hinsicht vor. 
 - Software: 
@@ -21,11 +26,6 @@ Zu diesem Thema stelle ich meine Arbeit während meines Praktikums in inhaltlich
 	- Ein LIDAR-Sensor wird über der Windschutzscheibe des Traktors installiert, um die Umgebung vor dem Traktor zu scannen. 
 	- Auf dem Traktor ist ein Signalturm montiert. Mit einem Fernbedienungsknopf kann es beim Gesundheitsmanagement helfen. 
 
-Simulation 
-- Ziel 
-	- Mit unity Autonomie-Funktion simuliert 
-	- realisiert 
-	- Einbinden und Testen 
 ## inhaltlich: 
 - Simulation 
 	- 1) Inbetriebnahme 
@@ -46,13 +46,20 @@ Simulation
 	- Die Entwicklung einer simulierten Umgebung ist ein wichtiger Schritt bei Verifikation, um sicherzustellen, dass sie ordnungsgemäß funktioniert und betriebsbereit ist. 
 	- Die Simulationsumgebung sollte die reale Umgebung so genau wie möglich simulieren und vorwegnehmen, was in der Realität passieren könnte. 
 		- Traktor und Umgebung so real wie möglich wie realer Umgebung. 
-- 4) Versuchstrator 
-	- Für den zuverlässigen und ==sicheren Betrieb== der Maschine sind Funktionen wie "Emergency Stop", die rechtzeitige Signalisierung über Signalturm usw. unerlässlich.
-	- Die Hauptaufgabe ist die <font color ="blue">elektrische Verdrahtung</font> und deren <font color = "blue">Inbetriebnahme</font> bzw. Funktionstest. 
-		- Messen 
-		- Spannung anlegen 
-		- Test auf Traktoren 
-	- ==Autonomie-Funktion zu gewährleisten== 
+- 4) Versuchstraktor 
+	- Ziel
+		- zuverlässigen und ==sicheren Betrieb== 
+		- ==Autonomie-Funktion zu gewährleisten== 
+	- Funktionen 
+		- "Emergency Stop" 
+		- rechtzeitige Signalisierung über Signalturm 
+	- Aufgaben 
+	- <font color ="blue">elektrische Verdrahtung</font> und deren <font color = "blue">Inbetriebnahme</font> bzw. Funktionstest. 
+		- Inbetriebnahme (die untere sind nur für Verständnis)
+			- Messen 
+			- Spannung anlegen 
+			- Test auf Traktoren 
+
 - 5) Erweiterung 
 	- Sensor-Modell analysieren 
 		- Die Daten des Lasersensors werden analysiert, um festzustellen, ob es notwendig ist, eine Kamera hinzuzufügen, um die Genauigkeit der Objekterkennung zu verbessern. 
