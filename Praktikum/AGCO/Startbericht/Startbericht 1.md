@@ -47,7 +47,10 @@ Simulation
 	- Die Simulationsumgebung sollte die reale Umgebung so genau wie möglich simulieren und vorwegnehmen, was in der Realität passieren könnte. 
 - 4) Versuchstrator  
 	- Für den zuverlässigen und ==sicheren Betrieb== der Maschine sind Funktionen wie "Emergency Stop", die rechtzeitige Signalisierung über Signalturm usw. unerlässlich.
-	- Die Hauptaufgabe ist die <font color ="red">elektrische Verdrahtung</font> und deren Integration in das ROS-System. 
+	- Die Hauptaufgabe ist die <font color ="blue">elektrische Verdrahtung</font> und deren Inbetriebnahme bzw. Funktionstest. 
+		- Messen 
+		- Spannung anlegen 
+		- Test auf Traktoren 
 	- ==Autonomie-Funktion zu gewährleisten== 
 - 5) Erweiterung 
 	- Sensor-Modell analysieren 
