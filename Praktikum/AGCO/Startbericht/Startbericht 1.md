@@ -1,25 +1,7 @@
 ## Hintergrund: 
-- AGCO 
-	- AGCO ist ein globaler Konzern in der Landtechnikbranche. Die Kernkompetenz von AGCO liegt in der Herstellung und dem Verkauf von landwirtschaftlichen Geräten und Maschinen, die hauptsächlich im Agrarbereich eingesetzt werden. Dazu zählen insbesondere Traktoren und Mähdrescher, aber auch andere landwirtschaftliche Anlagen und Geräte.
-- Fendt 
-	- als ein Teil 
-	- Premium, Full-line, Landwirtschaft eingesetzt 
-		- Traktoren
-		- Smart Farming
-		- usw. 
-	- Als einer der Premiumteile von AGCO, Fendt bietet die besten technischen Lösungen und die beste Qualität mit einem Full-Line Programm in Produkten wie Traktoren und smart-farming usw.
-- Abteilung 
-	- Vorentwicklung 
-	- In der Vorentwicklungsabteilung, in der ich arbeite, liegt der Schwerpunkt auf Autonomie, Robotik und alternativen Antrieb. 
-- Schwerpunkt: Autonomie 
-	- (alle Schwerpunkte: Autonomie, Robotik, Alternativer Antrieb)  
-	- Simulation + Test Autonomie-Funktionen 
-	- Mein Schwerpunkt liegt im Bereich Autonomie, dessen Hauptaufgabe die Simulation und das Testen von Autonomieaufgaben ist. Mit der Simulation können die Umgebung visualisiert und autonome Aufgaben getestet werden.
-- Simulation 
-	- Ziel 
-		- Mit unity Autonomie-Funktion simuliert 
-		- realisiert 
-		- Einbinden und Testen 
+AGCO ist ein globaler Konzern in der Landtechnikbranche. Die Kernkompetenz von AGCO liegt in der Herstellung und dem Verkauf von landwirtschaftlichen Geräten und Maschinen, die hauptsächlich im Agrarbereich eingesetzt werden. Dazu zählen insbesondere Traktoren und Mähdrescher, aber auch andere landwirtschaftliche Anlagen und Geräte. 
+Als einer der Premiumteile von AGCO, Fendt bietet die besten technischen Lösungen und die beste Qualität mit einem Full-Line Programm in Produkten wie Traktoren und smart-farming usw.
+In der Vorentwicklungsabteilung, in der ich arbeite, liegt der Schwerpunkt auf Autonomie, Robotik und alternativen Antrieb. Mein Schwerpunkt liegt im Bereich Autonomie, dessen Hauptaufgabe die Simulation und das Testen von Autonomieaufgaben ist. Mit der Simulation können die Umgebung visualisiert und autonome Aufgaben getestet werden.
 
 - die betroffene Hardware und Software
 	- Software: 
@@ -30,12 +12,12 @@
 
 ## Vorstellung 
 Zu diesem Thema stelle ich meine Arbeit während meines Praktikums in inhaltlicher und zeitlicher Hinsicht vor. 
+
 ### inhaltlich: 
 - Simulation 
 	- 1)  Inbetriebnahme der Simulationsumgebung 
 		- Die Inbetriebnahme einer simulierten Umgebung ist ein wichtiger Schritt bei Verifikation, um sicherzustellen, dass die Simulationsumgebung richtig aufgebaut und betriebsbereit ist. 
 		- Die simulierte Situation und die entsprechende Reaktion der Traktors sollten der Realität so nahe wie möglich kommen. Dadurch wird es ermöglicht, das gesamte System zu analysieren und zu optimieren, bevor es in Betrieb genommen wird. 
-	
 	- 2) Integration von vorhandenen ROS-Pakete 
 		- Durch Pakete für verschiedene Verwendungszwecke werden die modulare Eigenschaften und Skalierbarkeit des ROS-Systems verbessert. 
 		- Die hinzufügende, vorhandene Pakete sind  "local navigation", "path planner". Sobald die Pakete integriert sind, sollten die mit den anderen Komponenten des ROS-Systems richtig funktionieren. 
@@ -53,29 +35,8 @@ Zu diesem Thema stelle ich meine Arbeit während meines Praktikums in inhaltlich
 		- Bodenbearbeitung bzw. Pflügenbearbeitung 
 			- Wenn dieses System in der landwirtschaftlichen Produktion eingesetzt werden könnte, würde es die Effizienz erheblich verbessern.
 - Versuchstraktor 
-	- el. Vorbereitung für Autonomie-Funk. 
-
-
-
-
-
-
-
-- Versuchstraktor 
-	- Ziel
-		- zuverlässigen und ==sicheren Betrieb== 
-		- ==Autonomie-Funktion zu gewährleisten== 
-	- Funktionen 
-		- "Emergency Stop" 
-		- rechtzeitige Signalisierung über Signalturm 
-	- Aufgaben 
-	- <font color ="blue">elektrische Verdrahtung</font> und deren <font color = "blue">Inbetriebnahme</font> bzw. Funktionstest. 
-		- Inbetriebnahme (die untere sind nur für Verständnis)
-			- Messen 
-			- Spannung anlegen 
-			- Test auf Traktoren 
-
-
+	- Um einen zuverlässigen und sicheren Betrieb sowie Autonomie-Funktionen zu gewährleisten, sind einige Funktionen wie z.B. "Emergency Stop",  rechtzeitige Signalisierung über Signalturm notwendig. 
+	- Die Hauptaufgabe besteht darin, die elektrische Verdrahtung und deren Inbetriebnahme bzw. Funktionstest. 
 
 ### zeitlich(nur Einschätzung)
 - bis Ende März: Gesundheitsverwaltung sollte abgeschlossen sein
