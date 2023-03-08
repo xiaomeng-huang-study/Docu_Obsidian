@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Startbericht/Startbericht 1.md",
+                "file": "Praktikum/AGCO/Startbericht/Startbericht_01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Startbericht/Startbericht 1.md",
+                "file": "Praktikum/AGCO/Startbericht/Startbericht_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Startbericht/Startbericht 1.md",
+                "file": "Praktikum/AGCO/Startbericht/Startbericht_01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Startbericht/Startbericht 1.md"
+                "file": "Praktikum/AGCO/Startbericht/Startbericht_01.md"
               }
             }
           },
@@ -172,8 +172,10 @@
   },
   "active": "6aeb11b10f1ca9c1",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Wohnungssuche/Wohnungssuche.md",
+    "Praktikum/AGCO/Startbericht/未命名.md",
+    "Praktikum/AGCO/Startbericht/Startbericht_01.md",
     "Praktikum/AGCO/Startbericht/Startbericht_backup.md",
-    "Praktikum/AGCO/Startbericht/Startbericht 1.md",
     "Praktikum/AGCO/Startbericht/Startbericht.md",
     "Praktikum/AGCO/Startbericht/Konzept.md",
     "ROS/Node erzeugen.md",
@@ -182,7 +184,6 @@
     "ROS/ROS2.md",
     "ROS/Roboter_Bewegung.md",
     "ROS/Packages.md",
-    "Praktikum/AGCO/Startbericht/未命名.md",
     "Software Engineering/Modell_Interface.md",
     "Wohungssuche.md",
     "Praktikum/AGCO/Antwort_AGCO.md",
@@ -190,7 +191,6 @@
     "Praktikum/AGCO/Bestätigung_AGCO.md",
     "Praktikum/AGCO/Dankschreiben_AGCO.md",
     "Praktikum/AGCO/Vorstellungsgespräch_AGCO.md",
-    "Praktikum/AGCO/Wohnungssuche/Wohnungssuche.md",
     "Praktikum/Bewerbung",
     "Praktikum/AGCO/Startbericht",
     "Praktikum/Bewerbung/Hinweis_Praxissemester.md",
