@@ -1,23 +1,5 @@
 ## Hintergrund: 
-- AGCO 
-	- AGCO ist ein globaler Konzern in der Landtechnikbranche. 
-- Fendt 
-	- als ein Teil 
-	- Premium, Full-line, Landwirtschaft eingesetzt 
-		- Traktoren
-		- Smart Farming
-		- usw. 
-- Abteilung 
-	- Vorentwicklung 
-- Schwerpunkt: Autonomie 
-	- (alle Schwerpunkte: Autonomie, Robotik, Alternativer Antrieb)  
-	- Simulation + Test Autonomie-Funktionen 
-- Simulation 
-	- Ziel 
-		- Mit unity Autonomie-Funktion simuliert 
-		- realisiert 
-		- Einbinden und Testen 
-
+Fendt ist ein Unternehmen, das Landtechnik herstellt, insbesondere Traktoren und Erntemaschinen. Landmaschinen intelligent und automatisiert zu machen, ist eine der wichtigsten Aufgaben. 
 
 Zu diesem Thema stelle ich meine Arbeit während meines Praktikums in inhaltlicher und zeitlicher Hinsicht vor. 
 - Software: 
@@ -27,39 +9,18 @@ Zu diesem Thema stelle ich meine Arbeit während meines Praktikums in inhaltlich
 	- Auf dem Traktor ist ein Signalturm montiert. Mit einem Fernbedienungsknopf kann es beim Gesundheitsmanagement helfen. 
 
 ## inhaltlich: 
-- Simulation 
-	- 1) Inbetriebnahme 
-	- 2) Integration von ROS 
-	- 3) Validierung 
-	- 4) Erweiterung 
-- Versuchstraktor 
-	- el. Vorbereitung für Autonomie-Funk. 
-
 - 1) Integration von vorhandenen ROS-Pakete 
 	- Durch Pakete für verschiedene Verwendungszwecke werden die modulare Eigenschaften und Skalierbarkeit des ROS-Systems verbessert. 
-	- Die hinzufügende, vorhandene Pakete sind  =="Swath Detection", "Collision Avoidance", "Path Planner"==. Sobald die Pakete integriert sind, sollten die mit den anderen Komponenten des ROS-Systems richtig funktionieren. 
-		- =="local navigation", "path planner" ==
+	- Die hinzufügende, vorhandene Pakete sind  "Swath Detection", "Collision Avoidance", "Path Planner". Sobald die Pakete integriert sind, sollten die mit den anderen Komponenten des ROS-Systems richtig funktionieren. 
 - 2) Validierung von den Schnittstellen zwischen ROS und Unity 
 	- Die vom ROS gelieferten Richtungs- und Geschwindigkeitsinformationen sollten von Matlab/Simulink in Positionsinformationen umgewandelt und korrekt in Unity simuliert werden. 
-	- ROS kann auch die in Unity simulierten Sensoren verwenden, um zu erkennen, was in der Umgebung vor sich geht, und um Entscheidungen zu treffen und Anweisungen für das weitere Vorgehen zu geben. Dies führt zu einem vollständigen "closed loop simulation". 
-- 3)  Inbetriebnahme der Simulationsumgebung 
-	- Die Entwicklung einer simulierten Umgebung ist ein wichtiger Schritt bei Verifikation, um sicherzustellen, dass sie ordnungsgemäß funktioniert und betriebsbereit ist. 
+	- ROS kann auch die in Unity simulierten Sensoren verwenden, um zu erkennen, was in der Umgebung vor sich geht, und um Entscheidungen zu treffen und Anweisungen für das weitere Vorgehen zu geben. Dies führt zu einem vollständigen Gegenkopplungsmechanismus. 
+- 3) Anpassung der Simulationsumgebung 
+	- Die Entwicklung einer simulierten Umgebung ist ein wichtiger Schritt bei Inbetriebnahme, um sicherzustellen, dass sie ordnungsgemäß funktioniert und betriebsbereit ist. 
 	- Die Simulationsumgebung sollte die reale Umgebung so genau wie möglich simulieren und vorwegnehmen, was in der Realität passieren könnte. 
-		- Traktor und Umgebung so real wie möglich wie realer Umgebung. 
-- 4) Versuchstraktor 
-	- Ziel
-		- zuverlässigen und ==sicheren Betrieb== 
-		- ==Autonomie-Funktion zu gewährleisten== 
-	- Funktionen 
-		- "Emergency Stop" 
-		- rechtzeitige Signalisierung über Signalturm 
-	- Aufgaben 
-	- <font color ="blue">elektrische Verdrahtung</font> und deren <font color = "blue">Inbetriebnahme</font> bzw. Funktionstest. 
-		- Inbetriebnahme (die untere sind nur für Verständnis)
-			- Messen 
-			- Spannung anlegen 
-			- Test auf Traktoren 
-
+- 4) Gesundheitsverwaltung 
+	- Für den zuverlässigen und sicheren Betrieb der Maschine sind Funktionen wie "Emergency Stop", die rechtzeitige Signalisierung über Signalturm usw. unerlässlich.
+	- Die Hauptaufgabe ist die elektrische Verdrahtung und deren Integration in das ROS-System. 
 - 5) Erweiterung 
 	- Sensor-Modell analysieren 
 		- Die Daten des Lasersensors werden analysiert, um festzustellen, ob es notwendig ist, eine Kamera hinzuzufügen, um die Genauigkeit der Objekterkennung zu verbessern. 
