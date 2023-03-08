@@ -3,7 +3,7 @@ AGCO ist ein globaler Konzern in der Landtechnikbranche. Die Kernkompetenz von A
 Als einer der Premiumteile von AGCO, Fendt bietet die besten technischen Lösungen und die beste Qualität mit einem Full-Line Programm in Produkten wie Traktoren und smart-farming usw.
 In der Vorentwicklungsabteilung, in der ich arbeite, liegt der Schwerpunkt auf Autonomie, Robotik und alternativen Antrieb. Mein Schwerpunkt liegt im Bereich Autonomie, dessen Hauptaufgabe die Simulation und das Testen von Autonomieaufgaben ist. Mit der Simulation können die Umgebung visualisiert und autonome Aufgaben getestet werden.
 
-- die betroffene Hardware und Software
+- die betroffene Hardware und Software 
 	- Software: 
 		- Die Software basiert hauptsächlich auf dem ROS-System. Mit Unity und Matlab/Simulink können virtuelle Umgebungen für spätere Analysen erstellt werden. 
 	- Hardware:
