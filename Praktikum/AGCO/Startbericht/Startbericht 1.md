@@ -7,7 +7,7 @@
 		- Traktoren
 		- Smart Farming
 		- usw. 
-	- Fendt, eine der Kernmarken von AGCO, bietet die besten technischen Lösungen und die beste Qualität mit einem Full-Line Programm. 
+	- Als einer der Premiumteile von AGCO, Fendt bietet die besten technischen Lösungen und die beste Qualität mit einem Full-Line Programm in Produkten wie Traktoren und smart-farming usw.
 - Abteilung 
 	- Vorentwicklung 
 - Schwerpunkt: Autonomie 
