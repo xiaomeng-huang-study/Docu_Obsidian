@@ -1,12 +1,13 @@
 ## Hintergrund: 
 - AGCO 
-	- AGCO ist ein globaler Konzern in der Landtechnikbranche. 
+	- AGCO ist ein globaler Konzern in der Landtechnikbranche. Die Kernkompetenz von AGCO liegt in der Herstellung und dem Verkauf von landwirtschaftlichen Geräten und Maschinen, die hauptsächlich im Agrarbereich eingesetzt werden. Dazu zählen insbesondere Traktoren und Mähdrescher, aber auch andere landwirtschaftliche Anlagen und Geräte.
 - Fendt 
 	- als ein Teil 
 	- Premium, Full-line, Landwirtschaft eingesetzt 
 		- Traktoren
 		- Smart Farming
 		- usw. 
+	- Fendt, eine der Kernmarken von AGCO, bietet die besten technischen Lösungen und die beste Qualität mit einem Full-Line Programm. 
 - Abteilung 
 	- Vorentwicklung 
 - Schwerpunkt: Autonomie 
