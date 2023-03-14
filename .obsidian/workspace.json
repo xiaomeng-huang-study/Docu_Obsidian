@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6ba0f603d317d888",
+        "id": "9b2d16ce34c1e33f",
         "type": "tabs",
         "children": [
           {
-            "id": "6aeb11b10f1ca9c1",
+            "id": "22ab7eb5449bd660",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROS/ROS2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ROS/ROS2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,11 +162,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "6aeb11b10f1ca9c1",
+  "active": "22ab7eb5449bd660",
   "lastOpenFiles": [
+    "ROS/ROS2.md",
     "ROS/Node erzeugen.md",
     "ROS/Topics and Messages.md",
-    "ROS/ROS2.md",
     "Praktikum/AGCO/Startbericht/Startbericht_01.md",
     "Praktikum/AGCO/Wohnungssuche/Wohnungssuche.md",
     "Praktikum/AGCO/Startbericht/未命名.md",
