@@ -20,7 +20,7 @@
 		```python
 		ws2 = wb.creat_sheet("Sheet2", 1)
 		```
-
+	
 - save 
 	```python
 	wb.save(r"...")
