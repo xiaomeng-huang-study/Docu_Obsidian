@@ -9,12 +9,18 @@
 	wb = load_workbook(r"...")
 	```
 - worksheet 
-	```python
-	ws = wb.active
-	```
-	```python
-	ws = wb["Sheet1"]
-	```
+	- get 
+		```python
+		ws = wb.active
+		```
+		```python
+		ws = wb["Sheet1"]
+		```
+	- create 
+		```python
+		ws2 = wb.creat_sheet("Sheet2", 1)
+		```
+
 - save 
 	```python
 	wb.save(r"...")
