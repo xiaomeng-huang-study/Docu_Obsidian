@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog Python/Schleife.md",
+                "file": "Prog Python/openpyxl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog Python/Schleife.md",
+                "file": "Prog Python/openpyxl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog Python/Schleife.md",
+                "file": "Prog Python/openpyxl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog Python/Schleife.md"
+                "file": "Prog Python/openpyxl.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "9ce186fb30c735b2",
   "lastOpenFiles": [
+    "Prog Python/Schleife.md",
     "Prog Python/OOP_Klassen.md",
     "Prog Python/OOP_Vererbung.md",
     "Prog Python/openpyxl.md",
@@ -200,7 +201,6 @@
     "Praktikum/AGCO/Startbericht",
     "Praktikum/Bewerbung/Hinweis_Praxissemester.md",
     "Unity",
-    "Prog Python/List.md",
-    "ROS/Avoidance.md"
+    "Prog Python/List.md"
   ]
 }
