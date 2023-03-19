@@ -1,0 +1,8 @@
+- struct 
+	- im Stack 
+	- tiefe Kopie 
+	- als Parameter in Funktion: call by value 
+		- falls call by reference: `(ref para, para1,...)` 
+- Class 
+	- im Heap 
+	- flache Kopie 
