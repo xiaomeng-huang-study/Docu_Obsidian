@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog CS/Vererbung.md",
+                "file": "Prog Python/Schleife.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog CS/Vererbung.md",
+                "file": "Prog Python/Schleife.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog CS/Vererbung.md",
+                "file": "Prog Python/Schleife.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog CS/Vererbung.md"
+                "file": "Prog Python/Schleife.md"
               }
             }
           },
@@ -197,8 +197,10 @@
   },
   "active": "91c0f07730016e15",
   "lastOpenFiles": [
-    "Prog CS/Struct_Class.md",
+    "Prog Python/List.md",
+    "Prog Python/Dictionary.md",
     "Prog CS/Vererbung.md",
+    "Prog CS/Struct_Class.md",
     "Prog Python/openpyxl.md",
     "Prog CS/Output.md",
     "Prog CS",
@@ -224,8 +226,6 @@
     "Wohungssuche.md",
     "Praktikum/AGCO/Antwort_AGCO.md",
     "Praktikum/AGCO/Wohnungssuche",
-    "Praktikum/AGCO/Bestätigung_AGCO.md",
-    "Praktikum/AGCO/Dankschreiben_AGCO.md",
     "Praktikum/Bewerbung",
     "Praktikum/AGCO/Startbericht",
     "Unity"
