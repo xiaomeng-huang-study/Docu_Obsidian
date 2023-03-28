@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Prog Python/Funktion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Prog Python/Funktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "Prog Python/Funktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Prog Python/Funktion.md"
               }
             }
           },
@@ -172,12 +172,13 @@
   },
   "active": "c8a10217ededf9ef",
   "lastOpenFiles": [
+    "Prog Python/Dictionary.md",
+    "Prog Python/Format.md",
+    "Prog Python/Schleife.md",
     "Recording 20230323210039.webm",
     "未命名.md",
     "Prog CS/Struct_Class.md",
-    "Prog Python/Schleife.md",
     "Prog Python/List.md",
-    "Prog Python/Dictionary.md",
     "Prog CS/Vererbung.md",
     "Prog Python/openpyxl.md",
     "Prog CS/Output.md",
