@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog Python/Funktion.md",
+                "file": "Prog Python/Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog Python/Funktion.md",
+                "file": "Prog Python/Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog Python/Funktion.md",
+                "file": "Prog Python/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog Python/Funktion.md"
+                "file": "Prog Python/Dictionary.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "c8a10217ededf9ef",
   "lastOpenFiles": [
+    "Prog Python/Funktion.md",
     "Prog Python/Dictionary.md",
     "Prog Python/Format.md",
     "Prog Python/Schleife.md",
@@ -200,7 +201,6 @@
     "Praktikum/AGCO/Startbericht/Konzept.md",
     "ROS/Sensor.md",
     "ROS/Roboter_Bewegung.md",
-    "Software Engineering/Modell_Interface.md",
     "Praktikum/AGCO/Wohnungssuche",
     "Praktikum/Bewerbung",
     "Praktikum/AGCO/Startbericht",
