@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "631a7c87ea810a2e",
+        "id": "9e35ad010d4f4b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "c8a10217ededf9ef",
+            "id": "d723e1755e0583eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prog Python/Dictionary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog Python/Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog Python/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Prog Python/Dictionary.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,25 +147,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "remotely-save:Remotely Save": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-custom-frames:Open Mubu": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "random-note:开始漫游笔记": false,
-      "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "c8a10217ededf9ef",
+  "active": "d723e1755e0583eb",
   "lastOpenFiles": [
-    "Prog Python/List.md",
     "Prog Python/Dictionary.md",
+    "Prog Python/List.md",
     "Prog Python/Funktion.md",
     "Prog Python/Format.md",
     "Prog Python/Schleife.md",
