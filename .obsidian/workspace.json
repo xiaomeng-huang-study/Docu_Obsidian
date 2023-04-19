@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbce3b9a7afc43e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/Notiz/Optokoppler.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/Notiz/Optokoppler.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/Notiz/Optokoppler.md"
+                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md"
               }
             }
           },
@@ -168,9 +181,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d723e1755e0583eb",
+  "active": "bbce3b9a7afc43e3",
   "lastOpenFiles": [
     "Praktikum/Notiz/Optokoppler.md",
+    "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
+    "Praktikum/AGCO/Abschlussbericht",
     "Praktikum/Notiz",
     "Prog Python/Dictionary.md",
     "Prog Python/List.md",
@@ -199,7 +214,6 @@
     "Praktikum/AGCO/Startbericht/Startbericht_backup.md",
     "Praktikum/AGCO/Startbericht/Startbericht.md",
     "Praktikum/AGCO/Startbericht/Konzept.md",
-    "ROS/Sensor.md",
     "Praktikum/AGCO/Wohnungssuche",
     "Praktikum/Bewerbung",
     "Praktikum/AGCO/Startbericht",
