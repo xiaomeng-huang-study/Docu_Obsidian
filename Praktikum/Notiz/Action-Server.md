@@ -1,0 +1,7 @@
+- Action-Server
+	- control long running tasks like navigation 
+	- similar to a canonical service server 
+		- time can be long
+		- seperate Process or Thread 
+	- communicate with the highest level BT navigator through `NavigatePose` 
+	- 
