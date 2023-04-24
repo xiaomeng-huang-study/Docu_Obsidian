@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "027ee469b1a619fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/Notiz/Localization and Mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff11a1982f331d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/Notiz/costmaps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/Notiz/Odometry.md",
+                "file": "Praktikum/Notiz/costmaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/Notiz/Odometry.md",
+                "file": "Praktikum/Notiz/costmaps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/Notiz/Odometry.md"
+                "file": "Praktikum/Notiz/costmaps.md"
               }
             }
           },
@@ -181,10 +205,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5bbd8a26b57355f2",
+  "active": "ff11a1982f331d4b",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Simulation/0421_.md",
+    "Praktikum/Notiz/Localization and Mapping.md",
+    "Praktikum/Notiz/costmaps.md",
     "Praktikum/Notiz/Odometry.md",
+    "Praktikum/AGCO/Simulation/0421_.md",
     "Praktikum/Notiz/URDF.md",
     "Praktikum/Notiz/tf.md",
     "Praktikum/Notiz/Lifecycle Nodes.md",
@@ -213,8 +239,6 @@
     "Prog CS",
     "Prog C#",
     "Prog Python/OOP_Klassen.md",
-    "Prog Python/OOP_Vererbung.md",
-    "ROS/Programm starten.md",
     "Praktikum/AGCO/Wohnungssuche",
     "Praktikum/Bewerbung",
     "Praktikum/AGCO/Startbericht",
