@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "db0f30cfd02b01de",
+        "id": "f534d34e2545d590",
         "type": "tabs",
         "children": [
           {
-            "id": "ff458ed395e0d7c3",
+            "id": "5a21e2ef3aa9fb67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42325f9d9c7ca35a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "Praktikum/Notiz/URDF.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "Praktikum/Notiz/URDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "Praktikum/Notiz/URDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md"
+                "file": "Praktikum/Notiz/URDF.md"
               }
             }
           },
@@ -181,14 +168,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "42325f9d9c7ca35a",
+  "active": "5a21e2ef3aa9fb67",
   "lastOpenFiles": [
+    "Praktikum/Notiz/URDF.md",
+    "Praktikum/Notiz/tf.md",
+    "Praktikum/AGCO/Simulation/0421_.md",
+    "Praktikum/Notiz/Lifecycle Nodes.md",
     "Praktikum/Notiz/Action-Server.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "ROS/Node erzeugen.md",
     "ROS/Packages.md",
     "ROS/Avoidance.md",
-    "Praktikum/AGCO/Simulation/0421_.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Latex/Latex_Syntax.md",
     "Praktikum/AGCO/Simulation",
@@ -212,9 +202,6 @@
     "Prog Python/OOP_Vererbung.md",
     "ROS/Programm starten.md",
     "Unity/Unity_Notiz.md",
-    "ROS/ROS2.md",
-    "ROS/Topics and Messages.md",
-    "Praktikum/AGCO/Startbericht/Startbericht_01.md",
     "Praktikum/AGCO/Wohnungssuche",
     "Praktikum/Bewerbung",
     "Praktikum/AGCO/Startbericht",

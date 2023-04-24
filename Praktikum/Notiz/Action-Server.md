@@ -19,12 +19,3 @@
 	- in nav2
 		- communicate with the highest level BT navigator through `NavigatePose` 
 
-- Lifecycle Nodes (Managed Nodes)
-	- Definition 
-		- eine spezielle Art von Nodes in ROS 2, die Zustandsübergänge für den Aufbau und das Herunterfahren von ROS 2-Systemen enthalten. 
-	- Funktion 
-		- helfen dabei, das Verhalten von ROS-Systemen beim Starten und Herunterfahren zu bestimmen und stellen sicher, dass diese Prozesse deterministisch ablaufen.
-	- Prinzip 
-		- Die Lifecycle Nodes enthalten einen Zustandsautomaten, der den Node durch verschiedene Zustände wie unkonfiguriert, inaktiv, aktiviert, deaktiviert und finalisiert führt. Durch das Durchlaufen dieser Zustände wird der Node entsprechend konfiguriert, Netzwerk-Schnittstellen aktiviert oder deaktiviert und Speicher freigegeben.
-	- Vorteile 
-		- Durch die Verwendung von Lifecycle Nodes können ROS-Systeme zuverlässiger und sicherer gestaltet werden, da sie sicherstellen, dass alle Nodes ordnungsgemäß initialisiert und heruntergefahren werden, um unerwartete Verhaltensweisen zu vermeiden.
