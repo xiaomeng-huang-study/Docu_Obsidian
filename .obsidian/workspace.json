@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md"
+                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md"
               }
             }
           },
@@ -170,9 +170,9 @@
   },
   "active": "ff458ed395e0d7c3",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Simulation/0421_.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Latex/Latex_Syntax.md",
-    "Praktikum/AGCO/Simulation/0421_.md",
     "Praktikum/AGCO/Simulation",
     "Praktikum/Notiz/Optokoppler.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
