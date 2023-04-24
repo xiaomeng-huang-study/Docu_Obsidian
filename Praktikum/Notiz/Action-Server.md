@@ -17,7 +17,7 @@
 		- Modularität 
 			- komplexe Aufgaben in kleinere Teilaufgaben unterteilen 
 	- in nav2
-		- communicate with the highest level BT navigator through `NavigatePose`  s
+		- communicate with the highest level BT navigator through `NavigatePose` 
 
 - Lifecycle Nodes (Managed Nodes)
 	- Definition 
