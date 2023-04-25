@@ -22,7 +22,7 @@
 	- ROS2
 		```bash
 		cd ~/ros2_ws/src
-		ros2 pkg create --build-type ament_cmake ${PACKAGE_NAME} --dependencies rclcpp rclpy ${MESSAGE_TYP}
+		ros2 pkg create --build-type ament_cmake ${PACKAGE_NAME} --dependencies rclcpp ${MESSAGE_TYP}
 		```
 
 ## von Außen bekommen 

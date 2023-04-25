@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "ROS/Programm starten.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "ROS/Programm starten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "ROS/Programm starten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md"
+                "file": "ROS/Programm starten.md"
               }
             }
           },
@@ -219,19 +219,23 @@
   },
   "active": "de22a7311a8b5784",
   "lastOpenFiles": [
+    "ROS/ROS2.md",
+    "ROS/Packages.md",
+    "ROS/Programm starten.md",
+    "ROS/Node erzeugen.md",
+    "ROS/Avoidance.md",
+    "ROS/Roboter_Bewegung.md",
+    "ROS/Topics and Messages.md",
+    "Praktikum/AGCO/Simulation/0421_.md",
     "Praktikum/Notiz/Footprint.md",
     "Praktikum/Notiz/costmaps.md",
     "Praktikum/Notiz/Localization and Mapping.md",
     "Praktikum/Notiz/Odometry.md",
-    "Praktikum/AGCO/Simulation/0421_.md",
     "Praktikum/Notiz/URDF.md",
     "Praktikum/Notiz/tf.md",
     "Praktikum/Notiz/Lifecycle Nodes.md",
     "Praktikum/Notiz/Action-Server.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
-    "ROS/Node erzeugen.md",
-    "ROS/Packages.md",
-    "ROS/Avoidance.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Latex/Latex_Syntax.md",
     "Praktikum/AGCO/Simulation",
@@ -245,10 +249,6 @@
     "Prog Python/Schleife.md",
     "Recording 20230323210039.webm",
     "未命名.md",
-    "Prog CS/Struct_Class.md",
-    "Prog CS/Vererbung.md",
-    "Prog Python/openpyxl.md",
-    "Prog CS/Output.md",
     "Prog CS",
     "Prog C#",
     "Praktikum/AGCO/Wohnungssuche",
