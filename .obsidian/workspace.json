@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c12458f3d3e60b8c",
+            "id": "edc5b3224a606e96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fb8b837ff608066",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/0426.md",
+                "file": "Praktikum/AGCO/Simulation/0426_.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/0426.md",
+                "file": "Praktikum/AGCO/Simulation/0426_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/0426.md",
+                "file": "Praktikum/AGCO/Simulation/0426_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/0426.md"
+                "file": "Praktikum/AGCO/Simulation/0426_.md"
               }
             }
           },
@@ -181,21 +168,22 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1fb8b837ff608066",
+  "active": "edc5b3224a606e96",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
-    "Praktikum/AGCO/Abschlussbericht/0426.md",
     "Praktikum/AGCO/Simulation/0421_.md",
+    "Praktikum/AGCO/Simulation/0426_.md",
+    "ROS/ROS2/Python/Publisher.md",
+    "ROS/ROS2/C++/Publisher.md",
+    "Praktikum/AGCO/Abschlussbericht/0426.md",
+    "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "ROS/ROS1/C++/Subscriber.md",
     "ROS/ROS1/C++/Publisher.md",
     "ROS/ROS1/Python/Subscriber.md",
     "ROS/ROS1/Python/Publisher.md",
     "ROS/ROS2/Python/Subscriber.md",
-    "ROS/ROS2/Python/Publisher.md",
     "ROS/ROS1/Python",
     "ROS/ROS1/C++",
     "ROS/ROS1",
-    "ROS/ROS2/C++/Publisher.md",
     "ROS/ROS2/C++/Subscriber.md",
     "ROS/ROS2/C++",
     "ROS/ROS2/Python",
@@ -214,7 +202,6 @@
     "Praktikum/Notiz/URDF.md",
     "Praktikum/Notiz/tf.md",
     "Praktikum/Notiz/Lifecycle Nodes.md",
-    "Praktikum/Notiz/Action-Server.md",
     "Praktikum/AGCO/Simulation",
     "Praktikum/AGCO/Abschlussbericht",
     "Praktikum/Notiz",
