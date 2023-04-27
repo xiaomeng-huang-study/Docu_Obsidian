@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/ROS2/C++/Publisher.md",
+                "file": "Praktikum/AGCO/Simulation/0426_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97a619f8aa1c1385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/AGCO/Simulation/0427_.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS2/C++/Publisher.md",
+                "file": "Praktikum/AGCO/Simulation/0427_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS2/C++/Publisher.md",
+                "file": "Praktikum/AGCO/Simulation/0427_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/ROS2/C++/Publisher.md"
+                "file": "Praktikum/AGCO/Simulation/0427_.md"
               }
             }
           },
@@ -181,14 +193,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "39e5b3dd9cc13770",
+  "active": "97a619f8aa1c1385",
   "lastOpenFiles": [
-    "ROS/ROS2/Python/Publisher.md",
-    "Praktikum/AGCO/Präsentation/Konzept.md",
     "Praktikum/AGCO/Simulation/0426_.md",
+    "Praktikum/AGCO/Simulation/0427_.md",
+    "Praktikum/AGCO/Präsentation/Konzept.md",
+    "ROS/ROS2/C++/Publisher.md",
+    "ROS/ROS2/Python/Publisher.md",
     "Praktikum/AGCO/Präsentation",
     "Praktikum/AGCO/Simulation/0421_.md",
-    "ROS/ROS2/C++/Publisher.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "ROS/ROS1/C++/Subscriber.md",
@@ -215,7 +228,6 @@
     "Praktikum/Notiz/Localization and Mapping.md",
     "Praktikum/Notiz/Odometry.md",
     "Praktikum/Notiz/URDF.md",
-    "Praktikum/Notiz/tf.md",
     "Praktikum/AGCO/Simulation",
     "Praktikum/AGCO/Abschlussbericht",
     "Praktikum/Notiz"
