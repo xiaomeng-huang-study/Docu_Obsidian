@@ -24,8 +24,8 @@
 		rclpy.init(args=args)
 	
 		pub = Publisher()
-	
-		rclpy.spin(pub)
+		while rclpy.ok():
+			rclpy.spin_once(pub)
 		rclpy.shutdown()
 	```
 
