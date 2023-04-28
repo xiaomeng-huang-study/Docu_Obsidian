@@ -32,6 +32,11 @@
 			- Vorstellung (optional)
 				- umfangreiche Szenarien und Umgebungen erstellen
 				- kann realistische physikalische Interaktion simulieren, einschließlich Bewegung, Kollisionen usw. 
+		- Verbindung 
+			- ROS-Unity-Integration
+				- durch Endpoint
+			- Bild 
+				- ![[ROS-TCP.png]]
 - 4. Seite: Hardware 
 	- Lidar-Sensor auf dem Traktor 
 		- Photo 
@@ -41,12 +46,7 @@
 	- Hauptfokus 
 		- Integration vorhandener ROS-Pakete in Simulation 
 			- Pakete von AGCO 
-				- Zone-Erkennung 
-					- Schaubild
-					- Zone0: noch weit vom Objekt, Zone1: gefährlich, Zone2: sehr nah zum Objekt
 			- Nav2
-				- Schaubild
-					- ![[nav2.png]]
 		- Avoidance-Algorithm erweitern 
 		- praktische Prüfung von dem Algorithmen
 	- Randbereich 
@@ -55,3 +55,13 @@
 		- Validierung von den Schnittstellen zwischen ROS und Unity 
 		- Sensor-Modell erweitern 
 		- Anpassung der Simulation an den Anwendungsfall 
+- 6. Seite: ROS-Pakete von AGCO
+	- Zone-Erkennung 
+		- Schaubild
+		- Zone0: noch weit vom Objekt, Zone1: gefährlich, Zone2: sehr nah zum Objekt
+	- nav2
+		- Vorstellung
+			- ein Navigationssystem, basiert auf ROS
+			- bietet umfangreiche Navigationsalgorithmen und -werkzeugen, 
+		- Schaubild
+			- ![[nav2.png]]
