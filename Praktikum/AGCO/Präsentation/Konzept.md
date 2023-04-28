@@ -2,8 +2,52 @@ eine kurze Präsentation der geplanten und durchgeführten Arbeiten (Problemstel
 
 
 - einen Teil des Start anführen 
+
+
+
+- 1. Seite 
+	- Titel: Praktikum bei Fendt: Überlick 
+	- Unternehmen: Fendt GmbH
+	- Hochschule: Technische Hochschule Ulm
+	- Berichter: Xiaomeng, Huang
+	- Datum: 09.05.2023
+- 2. Seite: Verzeichnis 
+	- Hintergrund
+		- betroffene Software und Hardware
+		- Hauptaufgaben 
+			- Simulation weiterentwickeln
+			- Autonomie-Funktionen durch Testverfahren verbessern
+	- einen Teil des Start anführen: besseres Verständnis für Arbeitspakete 
+		- essentielle Aufgabe 
+		- optionale Aufgabe 
+	- die durchgeführten Aufgaben 
+	- die geplanten Aufgaben 
+- 3. Seite: betroffene Soft- und Hardware
+	- Software 
+		- ROS
+			- Schaubild 
+				- ![[ROS.png]] 
+			- Vorstellung (optional)
+				- bietet eine Vielzahl von Funktionen: Verwaltung von Sensordaten, Steuerung von Robotern. 
+				- P2P-System, Knoten-basiertes System: effiziente und flexibele Kommunikation zwischen verschiedenen Modulen.
+		- Unity 
+			- Schaubild 
+				- ![[Unity.jpg]]
+			- Vorstellung (optional)
+				- umfangreiche Szenarien und Umgebungen erstellen
+				- kann realistische physikalische Interaktion simulieren, einschließlich Bewegung, Kollisionen usw. 
+- 4. Seite: Hardware 
+	- Lidar-Sensor auf dem Traktor 
+		- Photo 
+	- Traktor für die Testphase 
+		- Photo 
+- 5. Seite: Arbeitspakete sortieren 
 	- Hauptfokus 
 		- Integration vorhandener ROS-Pakete in Simulation 
+			- Pakete von AGCO 
+				- Zone-Erkennung 
+					- Schaubild
+					- 
 		- Avoidance-Algorithm erweitern 
 		- praktische Prüfung von dem Algorithmen
 	- Randbereich 
@@ -12,27 +56,3 @@ eine kurze Präsentation der geplanten und durchgeführten Arbeiten (Problemstel
 		- Validierung von den Schnittstellen zwischen ROS und Unity 
 		- Sensor-Modell erweitern 
 		- Anpassung der Simulation an den Anwendungsfall 
-
-
-- 1. Seite 
-	- Titel: Praktikum bei Fendt: Einblicke 
-	- Unternehmen: Fendt GmbH
-	- Hochschule: Technische Hochschule Ulm
-	- Berichter: Xiaomeng, Huang
-	- Datum: 09.05.2023
-- 2. Seite: Verzeichnis 
-	- Hintergrund
-		- Hauptaufgaben 
-			- Simulation weiterentwickeln
-			- Autonomie-Funktionen durch Testverfahren verbessern. 
-		- betroffene Software und Hardware
-			- Software 
-				- ROS(Vorstellung optional)
-					- bietet eine Vielzahl von Funktionen: Verwaltung von Sensordaten, Steuerung von Robotern. 
-					- P2P-System, Knoten-basiertes System: effiziente und flexibele Kommunikation zwischen verschiedenen Modulen.
-				- Unity
-					- umfangreiche Szenarien und Umgebungen erstellen
-					- kann realistische physikalische Interaktion simulieren, einschließlich Bewegung, Kollisionen usw. 
-			- Hardware 
-				- Lidar-Sensor auf dem Traktor 
-	- einen Teil des Start anführen 
