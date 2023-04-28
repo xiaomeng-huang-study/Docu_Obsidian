@@ -1,9 +1,5 @@
-eine kurze Präsentation der geplanten und durchgeführten Arbeiten (Problemstellung + Umfeld, „Absprungbasis“ (=was ist an Vorarbeiten da/was sind die Voraussetzungen), Detaillierung der Aufgabenstellung und grobe Zeitplanung für die Bearbeitung).
-
-
-- einen Teil des Start anführen 
-
-
+- Aufforderung vom Professor
+	- eine kurze Präsentation der geplanten und durchgeführten Arbeiten (Problemstellung + Umfeld, „Absprungbasis“ (=was ist an Vorarbeiten da/was sind die Voraussetzungen), Detaillierung der Aufgabenstellung und grobe Zeitplanung für die Bearbeitung).
 
 - 1. Seite 
 	- Titel: Praktikum bei Fendt: Überlick 
@@ -47,7 +43,8 @@ eine kurze Präsentation der geplanten und durchgeführten Arbeiten (Problemstel
 			- Pakete von AGCO 
 				- Zone-Erkennung 
 					- Schaubild
-					- -
+					- Zone0: noch weit vom Objekt, Zone1: gefährlich, Zone2: sehr nah zum Objekt
+				- Nav2
 		- Avoidance-Algorithm erweitern 
 		- praktische Prüfung von dem Algorithmen
 	- Randbereich 
