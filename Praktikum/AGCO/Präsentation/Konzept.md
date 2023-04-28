@@ -18,25 +18,27 @@
 		- optionale Aufgabe 
 	- die durchgeführten Aufgaben 
 	- die geplanten Aufgaben 
-- 3. Seite: betroffene Soft- und Hardware
-	- Software 
-		- ROS
-			- Schaubild 
-				- ![[ROS.png]] 
-			- Vorstellung (optional)
-				- bietet eine Vielzahl von Funktionen: Verwaltung von Sensordaten, Steuerung von Robotern. 
-				- P2P-System, Knoten-basiertes System: effiziente und flexibele Kommunikation zwischen verschiedenen Modulen.
-		- Unity 
-			- Schaubild 
-				- ![[Unity.jpg]]
-			- Vorstellung (optional)
-				- umfangreiche Szenarien und Umgebungen erstellen
-				- kann realistische physikalische Interaktion simulieren, einschließlich Bewegung, Kollisionen usw. 
-		- Verbindung 
-			- ROS-Unity-Integration
-				- durch Endpoint
-			- Bild 
-				- ![[ROS-TCP.png]]
+
+
+
+- 3. Seite: Software 
+	- ROS
+		- Schaubild 
+			- ![[ROS.png]] 
+		- Vorstellung (optional)
+			- bietet eine Vielzahl von Funktionen: Verwaltung von Sensordaten, Steuerung von Robotern. 
+			- P2P-System, Knoten-basiertes System: effiziente und flexibele Kommunikation zwischen verschiedenen Modulen.
+	- Unity 
+		- Schaubild 
+			- ![[Unity.jpg]]
+		- Vorstellung (optional)
+			- umfangreiche Szenarien und Umgebungen erstellen
+			- kann realistische physikalische Interaktion simulieren, einschließlich Bewegung, Kollisionen usw. 
+	- Verbindung 
+		- ROS-Unity-Integration
+			- durch Endpoint
+		- Bild 
+			- ![[ROS-TCP.png]]
 - 4. Seite: Hardware 
 	- Lidar-Sensor auf dem Traktor 
 		- Photo 
@@ -55,13 +57,36 @@
 		- Validierung von den Schnittstellen zwischen ROS und Unity 
 		- Sensor-Modell erweitern 
 		- Anpassung der Simulation an den Anwendungsfall 
-- 6. Seite: ROS-Pakete von AGCO
+
+- 6. Seite: durchgeführte Aufgaben 
+	- Verdrahtung 
+		- Bild: (Kabelsalat) 
+		- Methoden 
+			- Zangen 
+			- löten 
+			- usw. 
+		- Ziel 
+			- praktische Unterstürzung zu Mongoose 
+			- praktische Erfahrung mit Elektrotechnik 
+- 7. Seite: durchgeführte Aufgaben 
+	- Importierung von AMCL 
+	- 
+
+
+
+
+
+- . Seite: ROS-Pakete von AGCO
 	- Zone-Erkennung 
 		- Schaubild
 		- Zone0: noch weit vom Objekt, Zone1: gefährlich, Zone2: sehr nah zum Objekt
-	- nav2
+- . Seite: nav2
+	- nav2 
 		- Vorstellung
 			- ein Navigationssystem, basiert auf ROS
-			- bietet umfangreiche Navigationsalgorithmen und -werkzeugen, 
+			- bietet umfangreiche Navigationsalgorithmen und -werkzeugen, erleichtet die Navigation und Pfadplannung
 		- Schaubild
 			- ![[nav2.png]]
+- . Seite: Avoidance-Algorithm erweitern
+	- einfache Weise: langsam -> stoppen 
+	- komplexe Weise: umgehen 
