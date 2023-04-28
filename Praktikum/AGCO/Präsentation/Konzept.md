@@ -5,7 +5,7 @@ eine kurze Präsentation der geplanten und durchgeführten Arbeiten (Problemstel
 	- Hauptfokus 
 		- Integration vorhandener ROS-Pakete in Simulation 
 		- Avoidance-Algorithm erweitern 
-		- 
+		- praktische Prüfung von dem Algorithmen
 	- Randbereich 
 		- Versuchstraktor
 		- Inbetriebnahme der Simulationsumgebung
