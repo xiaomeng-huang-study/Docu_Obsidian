@@ -44,7 +44,9 @@
 				- Zone-Erkennung 
 					- Schaubild
 					- Zone0: noch weit vom Objekt, Zone1: gefährlich, Zone2: sehr nah zum Objekt
-				- Nav2
+			- Nav2
+				- Schaubild
+					- ![[nav2.png]]
 		- Avoidance-Algorithm erweitern 
 		- praktische Prüfung von dem Algorithmen
 	- Randbereich 
