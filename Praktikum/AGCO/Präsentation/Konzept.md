@@ -47,7 +47,7 @@ eine kurze Präsentation der geplanten und durchgeführten Arbeiten (Problemstel
 			- Pakete von AGCO 
 				- Zone-Erkennung 
 					- Schaubild
-					- 
+					- -
 		- Avoidance-Algorithm erweitern 
 		- praktische Prüfung von dem Algorithmen
 	- Randbereich 
