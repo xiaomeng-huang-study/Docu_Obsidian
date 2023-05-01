@@ -46,19 +46,19 @@
 		- Photo 
 - 5. Seite: Arbeitspakete sortieren 
 	- Hauptfokus 
-		- Integration vorhandener ROS-Pakete in Simulation 
+		- Versuchstraktor(S6) 
+		- Integration vorhandener ROS-Pakete in Simulation(S7) 
 			- Pakete von AGCO 
 			- Nav2
 		- Avoidance-Algorithm erweitern 
 		- praktische Prüfung von dem Algorithmen
 	- Randbereich 
-		- Versuchstraktor
 		- Inbetriebnahme der Simulationsumgebung
 		- Validierung von den Schnittstellen zwischen ROS und Unity 
 		- Sensor-Modell erweitern 
 		- Anpassung der Simulation an den Anwendungsfall 
 
-- 6. Seite: durchgeführte Aufgaben 
+- 6. Seite: durchgeführte Aufgaben_1 
 	- Verdrahtung 
 		- Bild: (Kabelsalat) 
 		- Methoden 
@@ -68,9 +68,9 @@
 		- Ziel 
 			- praktische Unterstürzung zu Mongoose 
 			- praktische Erfahrung mit Elektrotechnik 
-- 7. Seite: durchgeführte Aufgaben 
-	- Importierung von AMCL 
-	- 
+- 7. Seite: durchgeführte Aufgaben_2 
+	- Importierung von ROS-Paketen "localization" und "navigation"
+		- "localization": mithilfe von AMCL-Algorithmus 
 
 
 
