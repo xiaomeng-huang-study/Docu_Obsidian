@@ -50,7 +50,7 @@
 		- Integration vorhandener ROS-Pakete in Simulation(S7) 
 			- Pakete von AGCO 
 			- Nav2
-		- Avoidance-Algorithm erweitern 
+		- Avoidance-Algorithm erweitern(S8) 
 		- praktische Prüfung von dem Algorithmen
 	- Randbereich 
 		- Inbetriebnahme der Simulationsumgebung
@@ -69,24 +69,21 @@
 			- praktische Unterstürzung zu Mongoose 
 			- praktische Erfahrung mit Elektrotechnik 
 - 7. Seite: durchgeführte Aufgaben_2 
-	- Importierung von ROS-Paketen "localization" und "navigation"
-		- "localization": mithilfe von AMCL-Algorithmus 
-
-
-
-
-
-- . Seite: ROS-Pakete von AGCO
-	- Zone-Erkennung 
+	- kurze Vorstellung über nav2 
 		- Schaubild
-		- Zone0: noch weit vom Objekt, Zone1: gefährlich, Zone2: sehr nah zum Objekt
-- . Seite: nav2
-	- nav2 
+			- ![[nav2.png]]
 		- Vorstellung
 			- ein Navigationssystem, basiert auf ROS
 			- bietet umfangreiche Navigationsalgorithmen und -werkzeugen, erleichtet die Navigation und Pfadplannung
-		- Schaubild
-			- ![[nav2.png]]
-- . Seite: Avoidance-Algorithm erweitern
+	- Importierung von ROS-Paketen "localization" und "navigation"
+		- "localization": mithilfe von AMCL-Algorithmus 
+			- http://wiki.ros.org/amcl
+		- "navigation": 
+	- Importierung ROS-Pakete von AGCO 
+		- Zone-Erkennung 
+			- Schaubild
+			- Zone0: noch weit vom Objekt, Zone1: gefährlich, Zone2: sehr nah zum Objekt
+- 8. Seite: Avoidance-Algorithm erweitern 
 	- einfache Weise: langsam -> stoppen 
 	- komplexe Weise: umgehen 
+- 9. Seite: 
