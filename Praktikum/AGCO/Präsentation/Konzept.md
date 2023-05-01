@@ -10,14 +10,15 @@
 - 2. Seite: Verzeichnis 
 	- Hintergrund
 		- betroffene Software(S3) und Hardware(S4)
+	- einen Teil des Start anführen: besseres Verständnis für Arbeitspakete(S5) 
 		- Hauptaufgaben 
 			- Simulation weiterentwickeln
 			- Autonomie-Funktionen durch Testverfahren verbessern
-	- einen Teil des Start anführen: besseres Verständnis für Arbeitspakete(S5) 
 		- essentielle Aufgabe 
 		- optionale Aufgabe 
 	- die durchgeführten Aufgaben 
 	- die geplanten Aufgaben 
+	- zeitliche Einschätzung 
 
 
 
