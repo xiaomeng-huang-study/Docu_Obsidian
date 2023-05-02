@@ -34,7 +34,7 @@
 			- ![[Unity.jpg]]
 		- Vorstellung (optional)
 			- umfangreiche Szenarien und Umgebungen erstellen
-			- kann realistische physikalische Interaktion simulieren, einschließlich Bewegung, Kollisionen usw. 
+			- kann prak, einschließlich Bewegung, Kollisionen usw. 
 	- Verbindung 
 		- ROS-Unity-Integration
 			- durch Endpoint
