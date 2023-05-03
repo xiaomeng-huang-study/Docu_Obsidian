@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09f42fc81f1aea43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Konzept.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Konzept.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Konzept.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -168,8 +181,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "97a619f8aa1c1385",
+  "active": "09f42fc81f1aea43",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Praktikum/AGCO/Präsentation/Konzept.md",
     "ROS-TCP.png",
     "nav2.png",
     "Unity.jpg",
@@ -179,7 +194,6 @@
     "Algorithmus_twist_to_ackermann.png",
     "Scrennshot_twist_to_ackermann.png",
     "Praktikum/AGCO/Simulation/0426_.md",
-    "Praktikum/AGCO/Präsentation/Konzept.md",
     "ROS/ROS2/C++/Publisher.md",
     "ROS/ROS2/Python/Publisher.md",
     "Praktikum/AGCO/Präsentation",
