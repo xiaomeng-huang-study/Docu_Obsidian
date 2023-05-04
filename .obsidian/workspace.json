@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/ROS2/C++/Publisher.md",
+                "file": "Praktikum/Notiz/Plugin-Controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS2/C++/Publisher.md",
+                "file": "Praktikum/Notiz/Plugin-Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS2/C++/Publisher.md",
+                "file": "Praktikum/Notiz/Plugin-Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/ROS2/C++/Publisher.md"
+                "file": "Praktikum/Notiz/Plugin-Controller.md"
               }
             }
           },
@@ -178,15 +178,17 @@
   },
   "active": "0e978172aeafc90d",
   "lastOpenFiles": [
-    "ROS/ROS2/C++/Subscriber.md",
-    "ROS/ROS2/C++/Publisher.md",
-    "Algorithmus_twist_to_ackermann.png",
-    "nav2.png",
-    "ROS.png",
-    "ROS-TCP.png",
-    "Scrennshot_twist_to_ackermann.png",
-    "Unity.jpg",
+    "Unity/Unity_Notiz.md",
+    "Praktikum/Notiz/Plugin-Controller.md",
     "Untitled.md",
+    "Unity.jpg",
+    "Scrennshot_twist_to_ackermann.png",
+    "ROS-TCP.png",
+    "ROS.png",
+    "nav2.png",
+    "ROS/ROS2/C++/Publisher.md",
+    "ROS/ROS2/C++/Subscriber.md",
+    "Algorithmus_twist_to_ackermann.png",
     "Prog C++/Zeiger.md",
     "Prog C++/verkettete List.md",
     "Prog C++/Vererbung.md",
@@ -209,8 +211,6 @@
     "Praktikum/AGCO/Präsentation/Konzept.md",
     "ROS/ROS2.md",
     "ROS 1",
-    "Praktikum/AGCO/Simulation/0427_.md",
-    "Praktikum/AGCO/Simulation/0426_.md",
     "Praktikum/AGCO/Präsentation",
     "ROS/ROS1/Python",
     "ROS/ROS1/C++",
