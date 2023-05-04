@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/Notiz/Plugin-Controller.md",
+                "file": "Praktikum/Notiz/Waypoint-Follower.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/Notiz/Plugin-Controller.md",
+                "file": "Praktikum/Notiz/Waypoint-Follower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/Notiz/Plugin-Controller.md",
+                "file": "Praktikum/Notiz/Waypoint-Follower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/Notiz/Plugin-Controller.md"
+                "file": "Praktikum/Notiz/Waypoint-Follower.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "0e978172aeafc90d",
   "lastOpenFiles": [
-    "Unity/Unity_Notiz.md",
     "Praktikum/Notiz/Plugin-Controller.md",
+    "Praktikum/Notiz/Waypoint-Follower.md",
+    "Unity/Unity_Notiz.md",
     "Untitled.md",
     "Unity.jpg",
     "Scrennshot_twist_to_ackermann.png",
@@ -209,7 +210,6 @@
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "Signalverarbeitung/FIR_Entwurf.md",
     "Praktikum/AGCO/Präsentation/Konzept.md",
-    "ROS/ROS2.md",
     "ROS 1",
     "Praktikum/AGCO/Präsentation",
     "ROS/ROS1/Python",
