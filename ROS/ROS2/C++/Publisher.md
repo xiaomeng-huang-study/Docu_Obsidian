@@ -11,8 +11,7 @@ class Publisher : public rclcpp::Node
 		{
 			pub = this->create_publisher<${MESSAGE_TYP}>("${TOPIC_NAME}", 10);
 
-			time_period = std::chrono::milliseconds(100)
-			timer = this->create_timer(time_period, std::bind(&Publisher::timer_callback, this));
+			timer = this->create_wall_timer(std::chrono::milliseconds(100), std::bind(&Publisher::timer_callback, this));
 		}
 	private:
 		void timer_callback()
