@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d7def3c2e529ac",
+        "id": "13073cebee942242",
         "type": "tabs",
         "children": [
           {
-            "id": "19bab23ef9e30174",
+            "id": "3752804640efd820",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Präsentation/Wortschatz.md",
+                "file": "Präsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Präsentation/Wortschatz.md",
+                "file": "Präsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Präsentation/Wortschatz.md"
+                "file": "Präsentation/Text.md"
               }
             }
           },
@@ -176,9 +176,47 @@
       "remotely-save:Remotely Save": false
     }
   },
+  "floating": {
+    "id": "3b1daec467ae22cb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8990e2907ccad654",
+        "type": "window",
+        "children": [
+          {
+            "id": "a5b36ffcca72d0ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "19bab23ef9e30174",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Präsentation/Text.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1032,
+        "y": 116,
+        "width": 1652,
+        "height": 1084,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "19bab23ef9e30174",
   "lastOpenFiles": [
     "Präsentation/Wortschatz.md",
+    "Präsentation/Text.md",
     "Präsentation",
     "Praktikum/Notiz/Waypoint-Follower.md",
     "Praktikum/Notiz/Plugin-Controller.md",
@@ -210,7 +248,6 @@
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Klassen/friend.md",
     "Prog C++/Klassen/flache- und tiefe Kopie.md",
-    "Signalverarbeitung/FIR_Entwurf.md",
     "ROS 1",
     "Praktikum/AGCO/Präsentation",
     "ROS/ROS1/Python",

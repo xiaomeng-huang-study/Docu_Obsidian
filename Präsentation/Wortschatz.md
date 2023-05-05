@@ -8,6 +8,7 @@
 	- Ich spreche heute über das Thema: ...
 	- In meinem Vortrag werde ich Ihnen ... vortstellen.
 	- In meinem Vortrag geht es um ... 
+	- Hier möchte ich Sie über ... informieren.
 
 - Strukturieren 
 	- Während meiner Präsentation werde ich auf die folgende Punkte eingehen: ... 
@@ -20,6 +21,8 @@
 	- anschließend komme ich über ...
 	- Im Anschluss daran werde ich über ... sprechen. 
 
+	- Außerdem/ Ebenso/ Ebenfalls/ Des Weiteren ... 
+
 	- am Ende widmen wir uns ...
 	- und im dritten Teil gehe ich auf ... ein.
 
@@ -28,10 +31,17 @@
 	- Ein weiterer Aspekt/ Punkt ist ...
 - etwas betonen 
 	- Ich möchte etwas ausführlicher auf  ... eingehen. 
-	- Besonders hervorzuheben ist auch ... 
+	- Besonders hervorzuheben/ wichtig ist auch ... 
+	- Vor allem ist zu beachten, ...
 - etwas erklären 
 	- Damit ist gemeint, dass ... 
 	- Darunter versteht man ... 
+- Beispiel 
+	- Ich darf das mit einigen Beispielen belegen. 
+	- Ich erwähne in diesem Zusammenhang nur das Beispiel. 
+	- Hierzu ein Beispiel 
+	- Dies möchte ich Ihnen anhand des folgenden Schaubilds erläutern. 
+	- Dies werde ich Ihnen anhand von Beispielen erläutern.
 - zu einem anderen Thema übergehen 
 	- Damit komme ich nun zum Thema ...
 	- Damit komme ich zum zweiten Teil meines Vortrags. 
@@ -42,7 +52,9 @@
 - Vortrag schließen 
 	- Ich hoffe, dass Sie durch meinen Vortrag ... bekommen haben. 
 	- Damit möchte ich meinen Vortrag schlißen. 
+	- Damit bin ich am Ende meiner Präsentation. 
+	- Ich danke Ihnen für die Aufmerksamkeit.
 - Fragen 
 	- Gibt es Ihrer Seite aus noch Fragen? 
 	- Haben Sie noch Fragen? 
-	- 
+- 
