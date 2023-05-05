@@ -217,6 +217,7 @@
   "lastOpenFiles": [
     "Präsentation/Wortschatz.md",
     "Präsentation/Text.md",
+    "Präsentation/Fragen.md",
     "Präsentation",
     "Praktikum/Notiz/Waypoint-Follower.md",
     "Praktikum/Notiz/Plugin-Controller.md",
@@ -247,7 +248,6 @@
     "Prog C++/Klassen/Modell_OOP.md",
     "Prog C++/Klassen/Konstruktor-Destruktor.md",
     "Prog C++/Klassen/friend.md",
-    "Prog C++/Klassen/flache- und tiefe Kopie.md",
     "ROS 1",
     "Praktikum/AGCO/Präsentation",
     "ROS/ROS1/Python",

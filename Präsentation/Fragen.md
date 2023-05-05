@@ -1,0 +1,4 @@
+- Unity vs Gazebo
+	- intuitivere Benutzeroberfläche 
+	- bessere Grafikqualität: Das ist ein leistungsfähiges 3D-Game-Engine 
+	- Gute Integration von AI- und Machine-Learning-Tools 
