@@ -47,3 +47,27 @@
 
 - ROS-Pakete für ca von AGCO angeboten. von Lidar-Pionts Aufnahme zu Virsualisierung. 
 - das ROS-Paket, das ich vervollständigen muss, ist tractor_ca. Ein wichtiger Topic ist "/col_response". Durch dies Topic kann man die Klassifizierung von der Entfernung für jede Objekt vorne.
+
+- zwei wichtige Komponenten von nav2 sind Controller-Server und Planner-Server.
+	- Planner-Server: für Erstellung von globalen und lokalen Pfaden verantwortlich. 
+		- Der globale Planer erzeugt einen Pfad, vom aktuellen Standort zu einem Zielort.
+		- Der lokale Planer sorgt dafür, dass der Roboter Hindernisse ausweicht und seine Position in Echtzeit korrigiert. 
+	- Controller-Server: für Ausführung der Bewegungen verantwortlich.
+		- enthält Algorithmen, die den Roboter steuern und ihn entlang des geplannten Pfades ausführen.
+
+- unterschiedliche Controller können unterschiedliche Message-typ unterstürtzen. 
+	- Wenn Steuerungsbefehl auf Typ "Ackermann" eingestellt, wird dies zum Projekt gut passen. Denn Sie haben vielleicht gesehen, in Unity ist Message-Typ auch "Ackermann".
+	- Wenn Steuerungsbefehl auf Typ "Twist" eingestellt, wird dies komplizierter.
+		- velocity in angular kann Traktor vielleicht nicht realisieren. Denn für Traktoren, Drehen auf der Stelle schwer.
+		- Dazu muss diese Message umgesetzt werden. 
+			- Ich habe ein Algorithmus dafür geschrieben. Man kann sehen: Velocity in angular in steering_angle umgesetzt. 
+
+
+- Zum Test habe ich Rviz eine leere Karte eingegeben. 
+
+
+- packen alle Code in einen Knoten
+
+- Arbeitspakete können schrittweise betracht werden. von Einbauen zu Simulation dann zum Test. 
+
+- Traktor kann selbst Pfad plannen, Punkte wie orange angeben, dann entlang dem Pfad fahren. 
