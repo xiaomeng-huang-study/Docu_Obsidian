@@ -34,4 +34,16 @@
 		- z.B. ROS info usw. 
 - Und eine ROS-Interface ist schon angeboten. Man kann die Topics vom Skript ablesen. Wenn man eine Nachricht zu diesen Topics schickt, dann wird die entsprechende Reaktion in Unity gezeigt. 
 - Hierzu ein Beispiel 
-	- 
+	- der Traktor in Unity wird durch Topic "/simulation_current/ackermann" die aktuelle Geschwindigkeit den Lenkungswinkel usw. ausgeben.
+	- Wenn man eine Nachricht zum Topic "pilot/setpoint" schickt, um den Steuerungsbefehl zu aktualisieren, wird der Traktor aufnehmen und die Bewegung dazu in Unity zeigen. 
+
+- Map -> odom: AMCL SLAM GPS usw. 
+- odom -> base_link : Lidar, Radar, wheel encoders IMUs usw. 
+- base_link -> lidar: URDF(Unified Robot Description Format) 
+
+- Rviz ist ein sehr gutes Visualisierungswerkzeug. 
+- Man kann unterschiedliche Frames darstellen. kann Map eingeben. Man kann auch verschiedene Topics zur Virsualisierung bringen. 
+
+
+- ROS-Pakete für ca von AGCO angeboten. von Lidar-Pionts Aufnahme zu Virsualisierung. 
+- das ROS-Paket, das ich vervollständigen muss, ist tractor_ca. Ein wichtiger Topic ist "/col_response". Durch dies Topic kann man die Klassifizierung von der Entfernung für jede Objekt vorne.
