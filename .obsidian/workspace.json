@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "948934d89276bb4b",
+        "id": "34f439c9dc0ff038",
         "type": "tabs",
         "children": [
           {
-            "id": "cae6235784f96850",
+            "id": "f862961aa39eda65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Präsentation/Wortschatz.md",
+                "file": "Praktikum/Notiz/globale- und lokale Costmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Präsentation/Wortschatz.md",
+                "file": "Praktikum/Notiz/globale- und lokale Costmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Präsentation/Wortschatz.md",
+                "file": "Praktikum/Notiz/globale- und lokale Costmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Präsentation/Wortschatz.md"
+                "file": "Praktikum/Notiz/globale- und lokale Costmap.md"
               }
             }
           },
@@ -213,13 +213,14 @@
       }
     ]
   },
-  "active": "cae6235784f96850",
+  "active": "f862961aa39eda65",
   "lastOpenFiles": [
+    "Praktikum/Notiz/globale- und lokale Costmap.md",
+    "Praktikum/AGCO/Präsentation/Fragen.md",
+    "Praktikum/AGCO/Präsentation/Konzept.md",
     "Praktikum/AGCO/Präsentation/Text.md",
     "Präsentation/Wortschatz.md",
-    "Praktikum/AGCO/Präsentation/Konzept.md",
     "Praktikum/AGCO/Präsentation/ROS.png.md",
-    "Praktikum/AGCO/Präsentation/Fragen.md",
     "Präsentation",
     "Praktikum/Notiz/Waypoint-Follower.md",
     "Praktikum/Notiz/Plugin-Controller.md",
@@ -247,7 +248,6 @@
     "Prog C++/Notiz/05_interne-externe_Größen.md",
     "Prog C++/Notiz/02_dynamische Speicher.md",
     "Prog C++/Klassen/this-pointer.md",
-    "Prog C++/Klassen/Modell_OOP.md",
     "ROS 1",
     "Praktikum/AGCO/Präsentation",
     "ROS/ROS1/Python",
