@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
+                "file": "Präsentation/Wortschatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
+                "file": "Präsentation/Wortschatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md"
+                "file": "Präsentation/Wortschatz.md"
               }
             }
           },
@@ -213,11 +213,11 @@
       }
     ]
   },
-  "active": "19bab23ef9e30174",
+  "active": "cae6235784f96850",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Präsentation/Text.md",
     "Präsentation/Wortschatz.md",
     "Praktikum/AGCO/Präsentation/Konzept.md",
-    "Praktikum/AGCO/Präsentation/Text.md",
     "Praktikum/AGCO/Präsentation/ROS.png.md",
     "Praktikum/AGCO/Präsentation/Fragen.md",
     "Präsentation",
