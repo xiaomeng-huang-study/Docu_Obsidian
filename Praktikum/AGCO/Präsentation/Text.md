@@ -10,23 +10,24 @@
 	- Im Anschluss würde ich die durchgeführten Aufgaben und die geplanten Aufgaben vorstellen. 
 	- Zum Schluss werde ich die grobe Zeitplannung mal sagen. 
 
+<br><div STYLE="page-break-after: always;"></div> 
 ## Hintergrund 
 - Die hauptsächlich verwendete Software sind ROS-System, Unity und die Verbindung zwischen den beiden. 
 
 - um die ==Entfernungsinformation== aufzunehmen, wird ein Lidar-Sensor auf dem Traktor ==montiert==. Der Sensor richtet sich nach vorne. 
 - Und noch ein Traktor für den Test. 
 
+## ROS 
 - ROS ist ein flexibles und weit verbreitetes Open-Source-System. 
 - Die Eigenschaften P2P und Alle Nachrichten Austausch über Topic sind sehr ==nützlich und hilfreich== für ein autonomes System. 
 - Man kann dieses System ==leicht erweitern==. Sinnvoll für ein wachsendes Projekt. 
-
-
 ## Unity 
 - mit Unity kann man viel machen. 
 - hab 2 Eigenschaften mit Simulation zu tun ==ausgewählt==
-
+## Verbindung 
 - Alle Kommunikation ==finden== durch diesen Server-Endpoint ==statt==. Damit wird eine Verbindung zwischen Unity und ROS erstellt. 
 
+<br><div STYLE="page-break-after: always;"></div> 
 
 ## Arbeitspakete 
 - Hier gezeigt werden Arbeitspakete, die ich schon in Startbericht ==aufgelistet== habe. 
@@ -34,6 +35,9 @@
 - Meine Hauptaufgaben sind 
 	- Unterstürtzung für den Versuchstraktor 
 	- ...
+
+
+<br><div STYLE="page-break-after: always;"></div> 
 
 ## Simulationsumgebung-Unity 
 - Wenn ich die Simulation mal ==starte==, dann wird dies Bildschirm angezeigt. 
@@ -48,9 +52,12 @@
 - Map -> odom: AMCL SLAM GPS usw. 
 - odom -> base_link : Lidar, Radar, wheel encoders IMUs usw. 
 - base_link -> lidar: URDF(Unified Robot Description Format) 
-## Simulationsumgebungt-Rviz 
+## Simulationsumgebung-Rviz 
 - Rviz ist ein sehr gutes ==Visualisierungswerkzeug==. 
 - Man kann unterschiedliche Frames darstellen. kann Map eingeben. Man kann auch verschiedene Topics zur Virsualisierung bringen. 
+
+
+<br><div STYLE="page-break-after: always;"></div> 
 
 ## Integration ROS-Pakete 
 - ROS-Pakete für ca von AGCO angeboten. von Lidar-Pionts Aufnahme zu Virsualisierung. 
@@ -63,7 +70,10 @@
 		- Der globale Planer erzeugt einen Pfad, vom ==aktuellen== Standort zu einem ==Zielort==.
 		- Der lokale Planer sorgt dafür, dass der Roboter ==Hindernisse== ausweicht und seine Position in Echtzeit ==korrigiert==. 
 	- Controller-Server: für Ausführung der Bewegungen verantwortlich.
-		- enthält Algorithmen, die den Roboter steuern und ihn entlang des geplannten Pfades ausführen.
+		- enthält Algorithmen, die den Roboter steuern und ihn entlang des geplannten Pfades ausführen. 
+
+<br><div STYLE="page-break-after: always;"></div>
+
 ### Nav2-Message-typ
 - ==unterschiedliche== Controller können ==unterschiedliche== Message-typ unterstürtzen. 
 	- Wenn Steuerungsbefehl auf Typ "Ackermann" eingestellt, wird dies zum Projekt gut passen. Denn ==Sie== haben vielleicht ==gesehen==, in Unity ist Message-Typ auch "Ackermann".
@@ -75,6 +85,8 @@
 ### Nav2-Video
 - Zum Test habe ich Rviz eine leere Karte eingegeben. 
 
+
+<br><div STYLE="page-break-after: always;"></div> 
 
 ## Aufgaben in Zukunt-schrittweise 
 - Arbeitspakete können schrittweise betracht werden. von Einbauen zu Simulation dann zum Test. 
