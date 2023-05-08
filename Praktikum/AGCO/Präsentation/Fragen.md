@@ -2,3 +2,13 @@
 	- intuitivere Benutzeroberfläche 
 	- bessere Grafikqualität: Das ist ein leistungsfähiges 3D-Game-Engine 
 	- Gute Integration von AI- und Machine-Learning-Tools 
+
+- ROS2
+	- create the base layer super fast 
+	- a standard for robotics application 
+	- use on any robot 
+	- avoid reinventing the wheel 
+	- open source community 
+	- plug and play packages 
+- ROS-Stack 
+	- Collection of ROS Packages created to achieve a specific goal 

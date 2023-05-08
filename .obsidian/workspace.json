@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
+                "file": "Praktikum/AGCO/Präsentation/Fragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
+                "file": "Praktikum/AGCO/Präsentation/Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
+                "file": "Praktikum/AGCO/Präsentation/Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md"
+                "file": "Praktikum/AGCO/Präsentation/Fragen.md"
               }
             }
           },
@@ -215,10 +215,10 @@
   },
   "active": "f862961aa39eda65",
   "lastOpenFiles": [
-    "Praktikum/Notiz/globale- und lokale Costmap.md",
-    "Praktikum/AGCO/Präsentation/Fragen.md",
     "Praktikum/AGCO/Präsentation/Konzept.md",
     "Praktikum/AGCO/Präsentation/Text.md",
+    "Praktikum/Notiz/globale- und lokale Costmap.md",
+    "Praktikum/AGCO/Präsentation/Fragen.md",
     "Präsentation/Wortschatz.md",
     "Praktikum/AGCO/Präsentation/ROS.png.md",
     "Präsentation",
