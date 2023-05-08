@@ -70,7 +70,7 @@
 		- Der globale Planer erzeugt einen Pfad, vom ==aktuellen== Standort zu einem ==Zielort==.
 		- Der lokale Planer sorgt dafür, dass der Roboter ==Hindernisse== ausweicht und seine Position in Echtzeit ==korrigiert==. 
 	- Controller-Server: für Ausführung der Bewegungen verantwortlich.
-		- enthält Algorithmen, die den Roboter steuern und ihn entlang des geplannten Pfades ausführen. 
+		- hat Algorithmen, die den Roboter ==steuern== und ihn entlang des geplannten Pfades ausführen. 
 
 <br><div STYLE="page-break-after: always;"></div>
 
