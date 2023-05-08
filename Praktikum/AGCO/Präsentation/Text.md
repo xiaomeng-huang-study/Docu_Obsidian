@@ -44,10 +44,7 @@
 	- alle Elemente, die mit einem roten Kreis markiert sind, sind UI. Damit kann man eine Feedback von den Informationen bekommen.
 		- z.B. ROS info usw. 
 ## Simulationsumgebung-Interface 
-<<<<<<< HEAD
 - Dies ist ein großes Projekt. Für mich ist diese ==ROS-Interface== wichtig. 
-=======
-- Dies ist ein großes Projekt. Für mich ist diese Interface wichtig. 
 - Hierzu ein Beispiel 
 	- Der Traktor ==hört== dem Topic "pilot/setpoint" ==zu==. D.h. Wenn man eine Nachricht zu diesem schickt, um den ==Steuerungsbefehl== zu ==aktualisieren==, wird der Traktor ==aufnehmen== und die ==Bewegung== dazu in Unity zeigen. 
 	- Gleichzetig wird der Traktor durch Topic "/simulation_current/ackermann" die aktuelle ==Geschwindigkeit==, den ==Lenkungswinkel== usw. ausgeben.
