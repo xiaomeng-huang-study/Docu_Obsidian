@@ -76,8 +76,7 @@
 - Zum Test habe ich Rviz eine leere Karte eingegeben. 
 
 
-- packen alle Code in einen Knoten
-
+## Aufgaben in Zukunt-schrittweise 
 - Arbeitspakete können schrittweise betracht werden. von Einbauen zu Simulation dann zum Test. 
-
-- Traktor kann selbst Pfad plannen, Punkte wie orange angeben, dann entlang dem Pfad fahren. 
+## Aufgaben in Zukunft-Ziel 
+- Traktor kann selbst Pfad plannen, ==Punkte wie orange== einsetzen, dann entlang dem Pfad vom Startpunkt zum Endepunkt fahren. 

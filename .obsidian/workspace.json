@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34f439c9dc0ff038",
+        "id": "290e60f0a7b55739",
         "type": "tabs",
         "children": [
           {
-            "id": "f862961aa39eda65",
+            "id": "390648f4b4b97428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/Notiz/map.md",
+                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/Notiz/map.md",
+                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/Notiz/map.md",
+                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/Notiz/map.md"
+                "file": "Praktikum/AGCO/Präsentation/Text.md"
               }
             }
           },
@@ -213,13 +213,13 @@
       }
     ]
   },
-  "active": "f862961aa39eda65",
+  "active": "390648f4b4b97428",
   "lastOpenFiles": [
-    "ROS/Befehle.md",
+    "Praktikum/AGCO/Präsentation/Konzept.md",
     "Praktikum/Notiz/map.md",
+    "ROS/Befehle.md",
     "ROS/ROS2.md",
     "Praktikum/AGCO/Präsentation/Fragen.md",
-    "Praktikum/AGCO/Präsentation/Konzept.md",
     "Praktikum/AGCO/Präsentation/Text.md",
     "Praktikum/Notiz/globale- und lokale Costmap.md",
     "Präsentation/Wortschatz.md",
