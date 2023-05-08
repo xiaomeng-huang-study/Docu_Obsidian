@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dda7ae8f67ea01e6",
+        "id": "7c5293bfd6f569c3",
         "type": "tabs",
         "children": [
           {
-            "id": "08330c18020ec66c",
+            "id": "5acf6587fcf82c05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7af622c36df4a3f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -145,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,8 +177,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "08330c18020ec66c",
+  "active": "5acf6587fcf82c05",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Praktikum/AGCO/Präsentation/Text.md",
     "Praktikum/AGCO/Präsentation/Fragen.md",
     "Untitled.md",
     "ROS/Befehle.md",
@@ -196,8 +205,6 @@
     "Praktikum/AGCO/Simulation/0426_.md",
     "Praktikum/AGCO/Simulation/0421_.md",
     "Praktikum/Notiz/Lifecycle Nodes.md",
-    "Praktikum/AGCO/Präsentation/Text.md",
-    "Praktikum/Notiz/Plugin-Controller.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
