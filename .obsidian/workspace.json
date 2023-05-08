@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/Befehle.md",
+                "file": "Praktikum/Notiz/map.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/Befehle.md",
+                "file": "Praktikum/Notiz/map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/Befehle.md",
+                "file": "Praktikum/Notiz/map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/Befehle.md"
+                "file": "Praktikum/Notiz/map.md"
               }
             }
           },
@@ -215,8 +215,9 @@
   },
   "active": "f862961aa39eda65",
   "lastOpenFiles": [
-    "ROS/ROS2.md",
     "ROS/Befehle.md",
+    "Praktikum/Notiz/map.md",
+    "ROS/ROS2.md",
     "Praktikum/AGCO/Präsentation/Fragen.md",
     "Praktikum/AGCO/Präsentation/Konzept.md",
     "Praktikum/AGCO/Präsentation/Text.md",
@@ -247,7 +248,6 @@
     "Prog C++/Komposition.md",
     "Prog C++/dynamische Array.md",
     "Prog C++/bitweise Operatoren.md",
-    "Prog C++/Notiz/05_interne-externe_Größen.md",
     "ROS 1",
     "Praktikum/AGCO/Präsentation",
     "ROS/ROS1/Python",
