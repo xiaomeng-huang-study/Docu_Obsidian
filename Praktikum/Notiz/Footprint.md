@@ -1,0 +1,4 @@
+- Footprint
+	- den Bereich, den der Roboter auf einer Ebene einnimmt. 
+	- normalerweise zweidimensionales Polygon, das die Grundfläche des Roboters repräsentiert.
+	- 

@@ -1,0 +1,1 @@
+Ein Plugin-Controller ist eine Softwarekomponente, die als Plugin in eine ROS-Anwendung geladen werden kann und eine bestimmte Funktionalität bereitstellt.

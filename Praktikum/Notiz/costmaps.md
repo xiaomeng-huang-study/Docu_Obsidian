@@ -1,0 +1,23 @@
+- Costmap
+	- Definition
+		- eine Darstellung des Umfelds eines Roboters, in der jeder Punkt eine bestimmte Kosten hat, die den Schwerigkeitengrad repräsentieren, ihn zu durchfahren oder zu besetzen. 
+	- Typen 
+		- local_costmap 
+			- repräsentiert die Umgebung des Roboters auf kurze Distanz, typischerweise innerhalb des Bereichs des Sensors des Roboters. 
+			- wird kontinuierlich auf Basis der Sensorinformationen aktualisiert und enthält Informationen über Hindernisse, Traversabilität und freien Raum. 
+			- kleiner als die globale Costmap und erfordert eine höhere Genauigkeit, um die Kontrolle des Roboters auf kurzen Distanzen zu gewährleisten. 
+		- global_costmap 
+			- repräsentiert die Umgebung des Roboters auf lange Distanz und wird normalerweise für Planung und Navigation verwendet. 
+			- ermöglicht es dem Roboter, langfristige Entscheidungen zu treffen und seine Route auf Basis von Hindernissen und der Umgebung anzupassen. 
+	- Plugin
+		- zusätzliche Funktionen zur Kostenermittelung und -aktualizierung zu ermöglichen, ohne den Kern der Costmap-Implementierung zu ändern.
+		- Beispiele 
+			- Layer-Plugins
+				- static layer 
+				- inflation layer 
+				- range layer 
+				- obstacle layer 
+				- voxel layer 
+			- Update-Plugins
+				- die Kostenwerte in der Costmap auf der Grundlage von Sensordaten zu aktualisieren 
+			- Filter-Plugins 

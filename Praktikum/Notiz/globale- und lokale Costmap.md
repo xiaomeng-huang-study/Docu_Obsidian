@@ -1,0 +1,3 @@
+Die globale Costmap ist eine Darstellung der statischen Umgebung, wie z.B. Wände, Möbel und andere Objekte, die sich nicht ändern. Sie wird typischerweise einmal zu Beginn der Navigation erstellt und dann während der Navigation nicht mehr aktualisiert. Die globale Costmap wird in der Regel verwendet, um eine grobe Vorhersage des Pfades zu generieren und um den Roboter daran zu hindern, durch Hindernisse zu fahren.
+
+Die lokale Costmap hingegen ist eine Darstellung der dynamischen Umgebung um den Roboter herum. Sie wird fortlaufend aktualisiert und berücksichtigt Änderungen in der Umgebung, wie z.B. Bewegungen von Personen oder Objekten. Die lokale Costmap wird in der Regel verwendet, um die Bewegungen des Roboters in Echtzeit zu planen und zu kontrollieren.
