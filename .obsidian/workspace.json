@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Untitled.md",
+                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Untitled.md",
+                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Untitled.md",
+                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Untitled.md"
+                "file": "Praktikum/AGCO/Präsentation/Text.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "5acf6587fcf82c05",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Präsentation/Korrektur.md",
     "Praktikum/AGCO/Präsentation/Text.md",
     "Praktikum/Notiz/Localization and Mapping.md",
     "Praktikum/Notiz/tf.md",
@@ -189,7 +190,6 @@
     "Praktikum/Notiz/Footprint.md",
     "Praktikum/AGCO/Präsentation/Konzept.md",
     "Praktikum/AGCO/Präsentation/Fragen.md",
-    "Praktikum/AGCO/Präsentation/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "ROS/Befehle.md",
