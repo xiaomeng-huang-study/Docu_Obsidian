@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Untitled.md",
+                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "slam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Untitled.md",
+                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Untitled.md",
+                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Untitled.md"
+                "file": "Praktikum/AGCO/Präsentation/Text.md"
               }
             }
           },
@@ -177,32 +178,32 @@
   },
   "active": "5acf6587fcf82c05",
   "lastOpenFiles": [
+    "Praktikum/Notiz/Localization and Mapping.md",
+    "Praktikum/Notiz/tf.md",
+    "Praktikum/Notiz/Waypoint-Follower.md",
+    "Praktikum/Notiz/URDF.md",
+    "Praktikum/Notiz/Plugin-Controller.md",
+    "Praktikum/Notiz/Optokoppler.md",
+    "Praktikum/Notiz/Odometry.md",
+    "Praktikum/Notiz/globale- und lokale Costmap.md",
+    "Praktikum/Notiz/Footprint.md",
     "Praktikum/AGCO/Präsentation/Text.md",
+    "Praktikum/AGCO/Präsentation/Konzept.md",
+    "Praktikum/AGCO/Präsentation/Fragen.md",
     "Praktikum/AGCO/Präsentation/Untitled.md",
     "conflict-files-obsidian-git.md",
-    "Praktikum/AGCO/Präsentation/Fragen.md",
     "Untitled.md",
     "ROS/Befehle.md",
-    "Praktikum/Notiz/tf.md",
-    "Praktikum/Notiz/URDF.md",
     "Praktikum/Notiz/map.md",
     "ROS/ROS2/C++/Publisher.md",
     "ROS/ROS1/C++/Publisher.md",
     "Präsentation/Wortschatz.md",
     "ROS/ROS1/C++/Subscriber.md",
     "ROS/ROS2/C++/Subscriber.md",
-    "Praktikum/Notiz/Odometry.md",
     "Praktikum/Notiz/costmaps.md",
     "ROS/ROS2/Python/Publisher.md",
     "ROS/ROS1/Python/Publisher.md",
-    "Praktikum/Notiz/Footprint.md",
     "Praktikum/Notiz/Action-Server.md",
-    "ROS/ROS1/Python/Subscriber.md",
-    "ROS/ROS2/Python/Subscriber.md",
-    "Praktikum/Notiz/Optokoppler.md",
-    "Praktikum/AGCO/Simulation/0427_.md",
-    "Praktikum/AGCO/Simulation/0426_.md",
-    "Praktikum/AGCO/Simulation/0421_.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
