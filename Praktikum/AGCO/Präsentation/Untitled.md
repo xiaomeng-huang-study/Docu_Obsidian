@@ -8,3 +8,8 @@ zu Essentie transportieren
 
 Odom: Ursprung (0,0,0) Weltkoordinatensystem 
 Base_link: Hinterachse 
+
+Objektdetection -> tractor_ca:  2 BOX
+
+erleichtert 
+
