@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7c5293bfd6f569c3",
+        "id": "d1495518dc3c790f",
         "type": "tabs",
         "children": [
           {
-            "id": "5acf6587fcf82c05",
+            "id": "9f72777a43fe975f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
+                "file": "Praktikum/Notiz/holonomic and nonholonomic robots.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
+                "file": "Praktikum/Notiz/holonomic and nonholonomic robots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
+                "file": "Praktikum/Notiz/holonomic and nonholonomic robots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md"
+                "file": "Praktikum/Notiz/holonomic and nonholonomic robots.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5acf6587fcf82c05",
+  "active": "9f72777a43fe975f",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Präsentation/Korrektur.md",
+    "Praktikum/Notiz/holonomic and nonholonomic robots.md",
     "Praktikum/AGCO/Präsentation/Text.md",
+    "Praktikum/AGCO/Präsentation/Korrektur.md",
     "Praktikum/Notiz/Localization and Mapping.md",
     "Praktikum/Notiz/tf.md",
     "Praktikum/Notiz/Waypoint-Follower.md",
@@ -202,7 +203,6 @@
     "Praktikum/Notiz/costmaps.md",
     "ROS/ROS2/Python/Publisher.md",
     "ROS/ROS1/Python/Publisher.md",
-    "Praktikum/Notiz/Action-Server.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
