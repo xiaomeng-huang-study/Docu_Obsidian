@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d1495518dc3c790f",
+        "id": "23dceeb22be74c3e",
         "type": "tabs",
         "children": [
           {
-            "id": "9f72777a43fe975f",
+            "id": "79e726da4b736a35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/Notiz/holonomic and nonholonomic robots.md",
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f5b46b2b829a614",
+            "id": "7691c972fbc2cd72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Praktikum/AGCO/Simulation/0427_.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md"
               }
             }
           },
@@ -188,10 +187,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0f5b46b2b829a614",
+  "active": "79e726da4b736a35",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Simulation/0427_.md",
+    "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
     "Praktikum/AGCO/Simulation/Waypointsfollower.md",
+    "Praktikum/AGCO/Simulation/0426_.md",
+    "Praktikum/AGCO/Abschlussbericht/0426.md",
     "Praktikum/Notiz/holonomic and nonholonomic robots.md",
+    "Elektronik2/idealer Operationsverstärker.md",
+    "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
+    "Untitled.md",
     "Praktikum/AGCO/Präsentation/Text.md",
     "Praktikum/AGCO/Präsentation/Korrektur.md",
     "Praktikum/Notiz/Localization and Mapping.md",
@@ -206,16 +212,9 @@
     "Praktikum/AGCO/Präsentation/Konzept.md",
     "Praktikum/AGCO/Präsentation/Fragen.md",
     "conflict-files-obsidian-git.md",
-    "Untitled.md",
     "ROS/Befehle.md",
     "Praktikum/Notiz/map.md",
     "ROS/ROS2/C++/Publisher.md",
-    "ROS/ROS1/C++/Publisher.md",
-    "Präsentation/Wortschatz.md",
-    "ROS/ROS1/C++/Subscriber.md",
-    "ROS/ROS2/C++/Subscriber.md",
-    "Praktikum/Notiz/costmaps.md",
-    "ROS/ROS2/Python/Publisher.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
