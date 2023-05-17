@@ -17,4 +17,5 @@
 				- kritischer Nachteil: "Ackermann" nicht unterstützt. 
 			- TEB-Controller(Timed Elastic Band)
 				- Merkmale 
-					- virtuellen elastischen Verbindungen, die den Pfad des Roboters begrenzen und ihn vor Kollisionen schützen
+					- virtuellen elastischen Verbindungen, die den Pfad des Roboters begrenzen und ihn vor Kollisionen schützen 
+					- 
