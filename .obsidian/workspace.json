@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
+                "file": "Praktikum/Notiz/TEB-Controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
+                "file": "Praktikum/Notiz/TEB-Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
+                "file": "Praktikum/Notiz/TEB-Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md"
+                "file": "Praktikum/Notiz/TEB-Controller.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "79e726da4b736a35",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Simulation/0427_.md",
     "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
+    "Praktikum/Notiz/TEB-Controller.md",
+    "Praktikum/AGCO/Simulation/0427_.md",
     "Praktikum/AGCO/Simulation/Waypointsfollower.md",
     "Praktikum/AGCO/Simulation/0426_.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
@@ -214,7 +215,6 @@
     "conflict-files-obsidian-git.md",
     "ROS/Befehle.md",
     "Praktikum/Notiz/map.md",
-    "ROS/ROS2/C++/Publisher.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
