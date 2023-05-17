@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/Notiz/TEB-Controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7691c972fbc2cd72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/AGCO/Simulation/0427_.md",
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/Notiz/TEB-Controller.md",
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/Notiz/TEB-Controller.md",
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/Notiz/TEB-Controller.md"
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md"
               }
             }
           },
@@ -189,15 +177,15 @@
   },
   "active": "79e726da4b736a35",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
+    "Praktikum/AGCO/Abschlussbericht/0426.md",
+    "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "Praktikum/Notiz/TEB-Controller.md",
     "Praktikum/AGCO/Simulation/0427_.md",
+    "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
     "Praktikum/AGCO/Simulation/Waypointsfollower.md",
     "Praktikum/AGCO/Simulation/0426_.md",
-    "Praktikum/AGCO/Abschlussbericht/0426.md",
     "Praktikum/Notiz/holonomic and nonholonomic robots.md",
     "Elektronik2/idealer Operationsverstärker.md",
-    "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "Untitled.md",
     "Praktikum/AGCO/Präsentation/Text.md",
     "Praktikum/AGCO/Präsentation/Korrektur.md",
