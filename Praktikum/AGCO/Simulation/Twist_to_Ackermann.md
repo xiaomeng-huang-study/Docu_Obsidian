@@ -21,3 +21,6 @@
 			- MPPI-Controller(Model Predictive Path Integral) 
 				- Vorteile 
 					- klare Definition für Roboter-Modell
+
+- Sortierung von Robotern 
+	- Omnidrive
