@@ -22,5 +22,9 @@
 				- Vorteile 
 					- klare Definition für Roboter-Modell
 
-- Sortierung von Robotern 
-	- Omnidrive
+- Sortierung von Antriebsarten 
+	- Omnidrive 
+		- Mehrere unabhängige Antriebsräder werden verwendet, die in verschiedenen Winkeln zur Fahrzeugachse angeordnet sind. Durch die unabhängige Steuerung der Räder in Kombination mit ihrer individuellen Ausrichtung kann der Roboter in beliebige Richtungen fahren und sich seitlich bewegen. 
+		- hohe Manövrierfähigkeit und Agilität 
+		- Richtungswechsel 
+		- 
