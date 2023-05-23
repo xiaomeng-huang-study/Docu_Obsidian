@@ -18,4 +18,6 @@
 			- TEB-Controller(Timed Elastic Band)
 				- Merkmale 
 					- virtuellen elastischen Verbindungen, die den Pfad des Roboters begrenzen und ihn vor Kollisionen schützen 
-					- 
+			- MPPI-Controller(Model Predictive Path Integral) 
+				- Vorteile 
+					- klare Definition für Roboter-Modell
