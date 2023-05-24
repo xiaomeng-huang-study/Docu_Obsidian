@@ -35,3 +35,7 @@
 	- Ackermann 
 		- mit vier Rädern. Die Vorderräder haben unterschiedliche Lenkwinkel. Dies ermöglicht eine effiziente Kurvenfahrt. 
 		- Die Vorderräder werden in einem festen Winkel zur Fahrzeugachse eingestellt, um präzise Kurvenfahrten zu ermöglichen. 
+		- Vorteile: 
+			- bietet eine gute Kombination aus Stabilität, Lenkpräzision und Effizienz. 
+				- Stabilität: Landwirtschaftliche Fahrzeuge sind groß und schwer. Durch die unterschiedlichen Lenkwinkel der Vorderräder ermöglicht es eine gleichmäßige Verteilung der Kräfte und sorgt dafür, dass alle Räder fest auf dem Boden bleiben. Dies verbessert die Traktion und reduziert das Risiko von Rutsch- oder Kippmomenten. 
+				- Lenkpräzision: Die Vorräder werden in einem festen Winkel zur Fahrzeugachse eingestellt. Dadurch kann das Fahrzeug präzise Manöver durchführen, Hindernissen ausweichen und das Fahrzeug sicher durch komplexe Umgebungen führen. 
