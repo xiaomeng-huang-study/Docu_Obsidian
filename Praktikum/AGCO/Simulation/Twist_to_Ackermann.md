@@ -27,4 +27,11 @@
 		- Mehrere unabhängige Antriebsräder werden verwendet, die in verschiedenen Winkeln zur Fahrzeugachse angeordnet sind. Durch die unabhängige Steuerung der Räder in Kombination mit ihrer individuellen Ausrichtung kann der Roboter in beliebige Richtungen fahren und sich seitlich bewegen. 
 		- hohe Manövrierfähigkeit und Agilität 
 		- Richtungswechsel 
-		- 
+	- Differential Drive 
+		- zwei Antriebsräder werden verwendet, die unabhängig voneinander gesteuert werden können. Die Geschwindigkeiten der beiden Räder können unterschiedlich sein, um eine Drehung des Roboters um seine eigene Achse zu ermöglichen. 
+		- eignet sich für einfache Bewegungen. 
+	- Legged 
+		- Räder anstelle von Rädern 
+	- Ackermann 
+		- mit vier Rädern. Die Vorderräder haben unterschiedliche Lenkwinkel. Dies ermöglicht eine effiziente Kurvenfahrt. 
+		- Die Vorderräder werden in einem festen Winkel zur Fahrzeugachse eingestellt, um präzise Kurvenfahrten zu ermöglichen. 
