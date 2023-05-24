@@ -30,17 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "78e3a20a3afea701",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md"
+              }
             }
           },
           {
@@ -192,8 +187,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "78e3a20a3afea701",
+  "active": "79e726da4b736a35",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Simulation/0427_.md",
     "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "Praktikum/Notiz/tf.md",
@@ -204,7 +200,6 @@
     "ROS/Topics and Messages.md",
     "ROS/Node erzeugen.md",
     "ROS/Befehle bzw. Tools.md",
-    "Praktikum/AGCO/Simulation/0427_.md",
     "Praktikum/AGCO/Simulation/0426_.md",
     "Praktikum/AGCO/Simulation/0421_.md",
     "ROS/Avoidance.md",
