@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -177,8 +177,15 @@
   },
   "active": "79e726da4b736a35",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Präsentation/Text.md",
+    "Praktikum/Notiz/Waypoint-Follower.md",
     "Untitled.md",
+    "Praktikum/AGCO/Präsentation/Text.md",
+    "Praktikum/AGCO/Simulation/0421_.md",
+    "ROS/Topics and Messages.md",
+    "ROS/Packages.md",
+    "ROS/Befehle.md",
+    "ROS/ROS2.md",
+    "ROS/ROS Installieren.md",
     "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
@@ -191,18 +198,11 @@
     "Praktikum/AGCO/Präsentation/Korrektur.md",
     "Praktikum/Notiz/Localization and Mapping.md",
     "Praktikum/Notiz/tf.md",
-    "Praktikum/Notiz/Waypoint-Follower.md",
     "Praktikum/Notiz/URDF.md",
     "Praktikum/Notiz/Plugin-Controller.md",
     "Praktikum/Notiz/Optokoppler.md",
     "Praktikum/Notiz/Odometry.md",
     "Praktikum/Notiz/globale- und lokale Costmap.md",
-    "Praktikum/Notiz/Footprint.md",
-    "Praktikum/AGCO/Präsentation/Konzept.md",
-    "Praktikum/AGCO/Präsentation/Fragen.md",
-    "conflict-files-obsidian-git.md",
-    "ROS/Befehle.md",
-    "Praktikum/Notiz/map.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
