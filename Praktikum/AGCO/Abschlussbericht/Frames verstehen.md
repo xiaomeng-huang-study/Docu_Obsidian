@@ -14,7 +14,10 @@
 - Die Transformation spielt eine wichtige Rolle bei der Lokalisierung und Navigation von Robotern. Durch die Verfolgung und Aktualisierung der Transformationen zwischen verschiedenen Frames kann der Roboter seine genaue Position in der Umgebung bestimmen und effiziente Navigationspfade planen. 
 
 ## Tf
-- Mit Hilfe von 
+- Das Nachrichtentyp "tfMessage" ist Teil des ROS (Robot Operating System) und wird verwendet, um Transformationsinformationen zwischen verschiedenen Frames zu übertragen. Es ist eine strukturierte Nachricht, die eine Sammlung von Transformationsnachrichten enthält.
+- Die Bedeutung liegt darin, die aktuelle Position und Ausrichtung von Objekten oder Frames in einem ROS-System zu übermitteln. 
+- Jede Transformation in der `tfMessage` besteht aus zwei Koordinatensystemen: dem Ausgangskoordinatensystem (source frame) und dem Zielkoordinatensystem (target frame). Die Transformation beschreibt die Position und Ausrichtung des Zielkoordinatensystems relativ zum Ausgangskoordinatensystem. Die Translation und Rotation in der Transformation geben an, wie das Zielkoordinatensystem relativ zum Ausgangskoordinatensystem verschoben oder gedreht ist. Dies ermöglicht es ROS-Knoten, die Position und Ausrichtung von Objekten oder Koordinatensystemen zu aktualisieren und die Transformationen zwischen verschiedenen Frames zu verfolgen.
+- http://docs.ros.org/en/noetic/api/geometry_msgs/html/msg/TransformStamped.html 
 
 
 ## Tf2
