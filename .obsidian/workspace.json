@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8a1cc73ff73d1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/AGCO/Simulation/0526_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
+                "file": "Praktikum/AGCO/Simulation/0526_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
+                "file": "Praktikum/AGCO/Simulation/0526_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md"
+                "file": "Praktikum/AGCO/Simulation/0526_.md"
               }
             }
           },
@@ -175,8 +188,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d091db5da1bae0f9",
+  "active": "e8a1cc73ff73d1a2",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Simulation/0526_.md",
     "Prog CS/Vererbung.md",
     "Prog CS/Output.md",
     "Prog CS/Struct_Class.md",
@@ -202,7 +216,6 @@
     "Praktikum/AGCO/Abschlussbericht/0426.md",
     "Praktikum/Notiz/TEB-Controller.md",
     "Praktikum/AGCO/Simulation/Waypointsfollower.md",
-    "Praktikum/Notiz/holonomic and nonholonomic robots.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
