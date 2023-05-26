@@ -13,6 +13,10 @@
 - Um eine einheitliche Darstellung der Position und Ausrichtung der Objekte zu ermöglichen, werden die verschiedenen Koordinatensystem miteinander durch die Transformation verknüpft. Dadurch können die Komponenten effektiv miteinander kommunizieren und kooperieren. 
 - Die Transformation spielt eine wichtige Rolle bei der Lokalisierung und Navigation von Robotern. Durch die Verfolgung und Aktualisierung der Transformationen zwischen verschiedenen Frames kann der Roboter seine genaue Position in der Umgebung bestimmen und effiziente Navigationspfade planen. 
 
+## Tf
+- Mit Hilfe von 
+
+
 ## Tf2
 - TF2 ist eine Bibliothek in ROS 2, die verwendet wird, um zeitabhängige Transformationen darzustellen und zu erhalten. 
 - TF2 ermöglicht es, die Transformationen zwischen verschiedenen Frames zu verfolgen und zu synchronisieren. Es stellt Funktionen bereit, um die Transformationen zu verwalten, zu aktualisieren und zu erhalten, so dass verschiedene Komponenten eines ROS 2-Systems auf aktuelle und zeitlich abgestimmte Transformationen zugreifen können. 
