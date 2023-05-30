@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f2d2d496976b0c2",
+        "id": "e062fa31c999e411",
         "type": "tabs",
         "children": [
           {
-            "id": "d091db5da1bae0f9",
+            "id": "02e0fd3316645ec4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8a1cc73ff73d1a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Untitled.md",
+                "file": "Praktikum/AGCO/Simulation/0526_.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Untitled.md",
+                "file": "Praktikum/AGCO/Simulation/0526_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Untitled.md",
+                "file": "Praktikum/AGCO/Simulation/0526_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Untitled.md"
+                "file": "Praktikum/AGCO/Simulation/0526_.md"
               }
             }
           },
@@ -188,21 +175,23 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e8a1cc73ff73d1a2",
+  "active": "02e0fd3316645ec4",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
+    "Untitled.md",
+    "ROS/ROS2/Python/Publisher.md",
+    "Praktikum/AGCO/Abschlussbericht/Untitled.md",
     "Praktikum/AGCO/Abschlussbericht/Koordinatensystem.md",
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
     "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
     "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
-    "Praktikum/AGCO/Abschlussbericht/Untitled.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "Praktikum/AGCO/Simulation/0526_.md",
     "Prog CS/Vererbung.md",
     "Prog CS/Output.md",
     "Prog CS/Struct_Class.md",
-    "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
     "Praktikum/AGCO/Simulation/0427_.md",
     "Praktikum/Notiz/tf.md",
     "Praktikum/AGCO/Präsentation/Text.md",
@@ -215,8 +204,6 @@
     "Praktikum/AGCO/Simulation/0426_.md",
     "Praktikum/AGCO/Simulation/0421_.md",
     "ROS/Avoidance.md",
-    "Untitled.md",
-    "ROS/Packages.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
