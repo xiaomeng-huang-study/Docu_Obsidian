@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0526_.md",
+                "file": "Prog CS/Vererbung.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0526_.md",
+                "file": "Prog CS/Vererbung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0526_.md",
+                "file": "Prog CS/Vererbung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0526_.md"
+                "file": "Prog CS/Vererbung.md"
               }
             }
           },
@@ -177,6 +177,9 @@
   },
   "active": "02e0fd3316645ec4",
   "lastOpenFiles": [
+    "Prog C++/Polymorphie.md",
+    "Prog C++/Klassen/Modell_OOP.md",
+    "Praktikum/AGCO/Simulation/0526_.md",
     "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
     "Untitled.md",
     "ROS/ROS2/Python/Publisher.md",
@@ -188,7 +191,6 @@
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
-    "Praktikum/AGCO/Simulation/0526_.md",
     "Prog CS/Vererbung.md",
     "Prog CS/Output.md",
     "Prog CS/Struct_Class.md",
@@ -202,8 +204,6 @@
     "ROS/Node erzeugen.md",
     "ROS/Befehle bzw. Tools.md",
     "Praktikum/AGCO/Simulation/0426_.md",
-    "Praktikum/AGCO/Simulation/0421_.md",
-    "ROS/Avoidance.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
