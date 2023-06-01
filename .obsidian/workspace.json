@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "ROS/ROS2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5ed451aedf237e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "static",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "ROS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md",
+                "file": "ROS/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0421_.md"
+                "file": "ROS/Untitled.md"
               }
             }
           },
@@ -176,8 +188,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "02e0fd3316645ec4",
+  "active": "b5ed451aedf237e8",
   "lastOpenFiles": [
+    "ROS/ROS2.md",
+    "ROS/Untitled.md",
+    "Praktikum/AGCO/Simulation/0421_.md",
     "Prog CS/Vererbung.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Klassen/Modell_OOP.md",
@@ -199,12 +214,9 @@
     "Praktikum/Notiz/tf.md",
     "Praktikum/AGCO/Präsentation/Text.md",
     "Praktikum/Notiz/Waypoint-Follower.md",
-    "ROS/ROS2.md",
     "ROS/ROS Installieren.md",
     "ROS/Topics and Messages.md",
     "ROS/Node erzeugen.md",
-    "ROS/Befehle bzw. Tools.md",
-    "Praktikum/AGCO/Simulation/0426_.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
