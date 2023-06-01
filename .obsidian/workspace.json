@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prog CS/Vererbung.md",
+                "file": "Praktikum/AGCO/Simulation/0421_.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "static",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prog CS/Vererbung.md",
+                "file": "Praktikum/AGCO/Simulation/0421_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prog CS/Vererbung.md",
+                "file": "Praktikum/AGCO/Simulation/0421_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prog CS/Vererbung.md"
+                "file": "Praktikum/AGCO/Simulation/0421_.md"
               }
             }
           },
@@ -177,6 +178,7 @@
   },
   "active": "02e0fd3316645ec4",
   "lastOpenFiles": [
+    "Prog CS/Vererbung.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Klassen/Modell_OOP.md",
     "Praktikum/AGCO/Simulation/0526_.md",
@@ -191,7 +193,6 @@
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
-    "Prog CS/Vererbung.md",
     "Prog CS/Output.md",
     "Prog CS/Struct_Class.md",
     "Praktikum/AGCO/Simulation/0427_.md",
