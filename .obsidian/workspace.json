@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/Untitled.md",
+                "file": "Praktikum/AGCO/Simulation/0602_.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "static",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/Untitled.md",
+                "file": "Praktikum/AGCO/Simulation/0602_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/Untitled.md",
+                "file": "Praktikum/AGCO/Simulation/0602_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/Untitled.md"
+                "file": "Praktikum/AGCO/Simulation/0602_.md"
               }
             }
           },
@@ -190,9 +190,10 @@
   },
   "active": "b5ed451aedf237e8",
   "lastOpenFiles": [
-    "ROS/ROS2.md",
-    "ROS/Untitled.md",
     "Praktikum/AGCO/Simulation/0421_.md",
+    "Praktikum/AGCO/Simulation/0602_.md",
+    "ROS/Untitled.md",
+    "ROS/ROS2.md",
     "Prog CS/Vererbung.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Klassen/Modell_OOP.md",
@@ -216,7 +217,6 @@
     "Praktikum/Notiz/Waypoint-Follower.md",
     "ROS/ROS Installieren.md",
     "ROS/Topics and Messages.md",
-    "ROS/Node erzeugen.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
