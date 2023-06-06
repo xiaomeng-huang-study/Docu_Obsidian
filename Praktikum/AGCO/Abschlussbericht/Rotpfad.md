@@ -1,0 +1,29 @@
+- Ziel: nav2 zu integrieren
+	- ==Frage== 
+		- was ist nav2?
+		- warum wird nav2 ausgewählt, nicht andere Alternative? 
+- Standard: REP105
+	- ==Frage==
+		- was ist REP105? 
+- tf-tree sollte vollständig sein 
+	- ==Frage== 
+		- was ist "frame"? 
+		- was ist "transform" 
+- map -> odom 
+	- aktuelle Alternativen
+		- GPS 
+		- SLAM 
+		- AMCL(von nav2 angeboten) 
+	- ==Frage== 
+		- Vergleich der Lösungen
+		- warum wird AMCL benutzt? 
+- odom -> baselink 
+	- Controller erforderlich 
+		- ==Frage== 
+			- was ist die Arbeit von Controller? : cmd_vel -> Controller -> neue Position relativ zu odom 
+	- Bewegungsmodell 
+		- ==Frage== 
+			- was sind vorhandene Modelle?
+			- Vergleich 
+			- Implementierung von einem Ackermann-Modell 
+	- 
