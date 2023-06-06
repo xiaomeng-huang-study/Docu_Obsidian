@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "static",
+                "query": "stamp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -178,12 +177,13 @@
   },
   "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
+    "Prog CS/Vererbung.md",
+    "ROS/ROS2/Python/Subscriber.md",
     "ROS/Packages.md",
     "Praktikum/AGCO/Simulation/0602_.md",
     "Praktikum/AGCO/Simulation/0421_.md",
     "ROS/Untitled.md",
     "ROS/ROS2.md",
-    "Prog CS/Vererbung.md",
     "Prog C++/Polymorphie.md",
     "Prog C++/Klassen/Modell_OOP.md",
     "Praktikum/AGCO/Simulation/0526_.md",
@@ -204,7 +204,6 @@
     "Praktikum/Notiz/tf.md",
     "Praktikum/AGCO/Präsentation/Text.md",
     "Praktikum/Notiz/Waypoint-Follower.md",
-    "ROS/ROS Installieren.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
