@@ -15,7 +15,7 @@
 			self.timer = self.create_timer(time_period, self.timer_callback)
 			
 		def timer_callback(self):
-			msg = ${MESSAGE_TYP}
+			msg = ${MESSAGE_TYP}()
 			...
 			self.publisher_.publish(msg)
 	```
