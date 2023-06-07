@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/ROS2/Python/Subscriber.md",
+                "file": "ROS/ROS2/Python/Publisher.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS2/Python/Subscriber.md",
+                "file": "ROS/ROS2/Python/Publisher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS2/Python/Subscriber.md",
+                "file": "ROS/ROS2/Python/Publisher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/ROS2/Python/Subscriber.md"
+                "file": "ROS/ROS2/Python/Publisher.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "6c2f515add325c94",
   "lastOpenFiles": [
-    "ROS/ROS2/Python/Publisher.md",
     "ROS/ROS2/Python/Subscriber.md",
+    "ROS/ROS2/Python/Publisher.md",
     "ROS/ROS2.md",
     "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",

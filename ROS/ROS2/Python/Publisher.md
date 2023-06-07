@@ -9,7 +9,7 @@
 	class Publisher(Node):
 		def __init__(self):
 			super().__init__(${NODE_NAME})
-			self.publisher_ = self.create_subscription(${MESSAGE_TYP}, "${TOPIC_NAME}", 10)
+			self.publisher_ = self.create_publisher(${MESSAGE_TYP}, "${TOPIC_NAME}", 10)
 
 			time_period = 0.5
 			self.timer = self.create_timer(time_period, self.timer_callback)
