@@ -28,5 +28,7 @@
 			- Implementierung von einem Ackermann-Modell 
 	- Ackermann-Controller 
 		- Basis: Bicycle-Model 
-			- ==Frage== 
 			- https://thef1clan.com/2020/09/21/vehicle-dynamics-the-kinematic-bicycle-model/ 
+			- ==Frage== 
+				- Was ist Bicycle-Model? 
+					- Das Fahrradmodell basiert auf einem 4-Rad-Modell und kombiniert die Vorder- und Hinterräder zu einem zweirädrigen Modell (daher der Name Fahrradmodell). Anstelle von 4 Rädern und 2 Lenkwinkeln müssen wir nun nur noch 2 Räder und 1 Lenkwinkel berücksichtigen.
