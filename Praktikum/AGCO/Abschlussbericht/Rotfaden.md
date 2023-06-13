@@ -26,4 +26,7 @@
 			- was sind vorhandene Modelle?
 			- Vergleich 
 			- Implementierung von einem Ackermann-Modell 
-	- 
+	- Ackermann-Controller 
+		- Basis: Bicycle-Model 
+			- ==Frage== 
+			- https://thef1clan.com/2020/09/21/vehicle-dynamics-the-kinematic-bicycle-model/ 
