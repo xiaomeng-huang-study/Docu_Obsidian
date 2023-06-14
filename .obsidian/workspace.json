@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aef399133c0504f5",
+        "id": "0e4df0a1883cb2d5",
         "type": "tabs",
         "children": [
           {
-            "id": "4e0b560b34578a50",
+            "id": "ca297de649e8576f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c0ca0c6154688c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/AGCO/Simulation/0614_.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Rotfaden.md"
+                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md"
               }
             }
           },
@@ -187,10 +175,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4e0b560b34578a50",
+  "active": "ca297de649e8576f",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
     "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
+    "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
+    "Mathe3/Statistik/Schätzen.md",
     "Praktikum/AGCO/Simulation/0614_.md",
     "Praktikum/AGCO/Simulation/0421_.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
@@ -215,7 +204,6 @@
     "Untitled.md",
     "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
-    "Prog CS/Output.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
