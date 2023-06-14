@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0614_.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0614_.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0614_.md"
+                "file": "Praktikum/AGCO/Abschlussbericht/Rotfaden.md"
               }
             }
           },
@@ -188,12 +187,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2c0ca0c6154688c8",
+  "active": "4e0b560b34578a50",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Simulation/0421_.md",
-    "Praktikum/AGCO/Simulation/0614_.md",
-    "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
+    "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
     "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
+    "Praktikum/AGCO/Simulation/0614_.md",
+    "Praktikum/AGCO/Simulation/0421_.md",
+    "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
     "ROS/ROS2/Python/Publisher.md",
     "Prog Python/List.md",
@@ -216,7 +216,6 @@
     "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "Prog CS/Output.md",
-    "Prog CS/Struct_Class.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",

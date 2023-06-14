@@ -1,0 +1,2 @@
+- Definition: 
+	- Das Fahrradmodell basiert auf einem 4-Rad-Modell und kombiniert die Vorder- und Hinterräder zu einem zweirädrigen Modell (daher der Name Fahrradmodell). Anstelle von 4 Rädern und 2 Lenkwinkeln müssen wir nun nur noch 2 Räder und 1 Lenkwinkel berücksichtigen.
