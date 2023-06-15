@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
+                "file": "Praktikum/AGCO/Simulation/0614_.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
+                "file": "Praktikum/AGCO/Simulation/0614_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
+                "file": "Praktikum/AGCO/Simulation/0614_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md"
+                "file": "Praktikum/AGCO/Simulation/0614_.md"
               }
             }
           },
@@ -177,11 +177,11 @@
   },
   "active": "ca297de649e8576f",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
-    "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
-    "Mathe3/Statistik/Schätzen.md",
-    "Praktikum/AGCO/Simulation/0614_.md",
     "Praktikum/AGCO/Simulation/0421_.md",
+    "Praktikum/AGCO/Simulation/0614_.md",
+    "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
+    "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
+    "Mathe3/Statistik/Schätzen.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
     "ROS/ROS2/Python/Publisher.md",
