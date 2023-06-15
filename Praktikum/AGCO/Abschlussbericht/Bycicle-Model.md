@@ -4,9 +4,9 @@
 - Herleitung
 	- 1) $R = \dfrac{L}{\tan{(\zeta)}}$ 
 	- 2) $\dot \theta = \dfrac{v}{R}$ 
-	- 3) $\Delta \theta = \dot \theta \cdot dt$  
+	- 3) $\Delta \theta = \dot \theta \cdot dt$  $\Leftarrow$ Rotation 
 	- 4) $\theta (t) = \theta (t-1) + \Delta \theta$ 
 	- 5) $\dot x = v \cdot \cos(\theta)$ & $\dot y = v \cdot \sin(\theta)$ 
-	- 6) $\Delta x = \dot x \cdot dt$ & $\Delta y = \dot y \cdot dt$ 
+	- 6) $\Delta x = \dot x \cdot dt$ & $\Delta y = \dot y \cdot dt$ $\Leftarrow$ Positionsänderung 
 	- 7) $x(t) = x(t-1) + \Delta x$ & $y(t) = y(t-1) + \Delta y$ 
 - 
