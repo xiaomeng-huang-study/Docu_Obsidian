@@ -8,7 +8,7 @@
 - tf-tree sollte vollständig sein 
 	- ==Frage== 
 		- was ist "frame"? 
-		- was ist "transform" 
+		- was ist "transform" ? 
 - map -> odom 
 	- aktuelle Alternativen
 		- GPS 
