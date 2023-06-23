@@ -9,5 +9,9 @@
   "newFileLocation": "current",
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "de-DE"
+  ]
 }
