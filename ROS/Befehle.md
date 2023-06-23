@@ -1,3 +1,0 @@
-```bash
-rqt_graph
-```

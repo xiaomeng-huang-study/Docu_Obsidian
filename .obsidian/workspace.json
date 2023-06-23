@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7c5293bfd6f569c3",
+        "id": "24be22c24c756699",
         "type": "tabs",
         "children": [
           {
-            "id": "5acf6587fcf82c05",
+            "id": "87a9d576a1fefeea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Praktikum/AGCO/Präsentation/Text.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,34 +169,36 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5acf6587fcf82c05",
+  "active": "87a9d576a1fefeea",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "ROS/Untitled.md",
+    "ROS/ROS2/Action/Server.md",
+    "ROS/Befehle bzw. Tools.md",
+    "ROS/ROS2/Action/Client.md",
+    "ROS/ROS2/Action/Befehle.md",
+    "Praktikum/Notiz/TEB-Controller.md",
+    "ROS/ROS2/Action/Interface.md",
+    "Praktikum/AGCO/Simulation/0602_.md",
+    "Praktikum/AGCO/Simulation/0614_.md",
+    "Praktikum/AGCO/Simulation/0526_.md",
+    "Praktikum/AGCO/Präsentation/Korrektur.md",
+    "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
+    "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
+    "Praktikum/AGCO/Abschlussbericht/Untitled.md",
+    "Praktikum/AGCO/Simulation/Twist_to_Ackermann.md",
+    "Praktikum/AGCO/Simulation/Waypointsfollower.md",
+    "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
+    "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+    "Praktikum/AGCO/Abschlussbericht/Koordinatensystem.md",
+    "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
+    "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
+    "Praktikum/AGCO/Abschlussbericht/nav2_test",
+    "ROS/ROS2/Action",
     "Praktikum/AGCO/Präsentation/Text.md",
+    "conflict-files-obsidian-git.md",
     "Praktikum/AGCO/Präsentation/Fragen.md",
     "Untitled.md",
     "ROS/Befehle.md",
-    "Praktikum/Notiz/tf.md",
-    "Praktikum/Notiz/URDF.md",
-    "Praktikum/Notiz/map.md",
-    "ROS/ROS2/C++/Publisher.md",
-    "ROS/ROS1/C++/Publisher.md",
-    "Präsentation/Wortschatz.md",
-    "ROS/ROS1/C++/Subscriber.md",
-    "ROS/ROS2/C++/Subscriber.md",
-    "Praktikum/Notiz/Odometry.md",
-    "Praktikum/Notiz/costmaps.md",
-    "ROS/ROS2/Python/Publisher.md",
-    "ROS/ROS1/Python/Publisher.md",
-    "Praktikum/Notiz/Footprint.md",
-    "Praktikum/Notiz/Action-Server.md",
-    "ROS/ROS1/Python/Subscriber.md",
-    "ROS/ROS2/Python/Subscriber.md",
-    "Praktikum/Notiz/Optokoppler.md",
-    "Praktikum/AGCO/Simulation/0427_.md",
-    "Praktikum/AGCO/Simulation/0426_.md",
-    "Praktikum/AGCO/Simulation/0421_.md",
-    "Praktikum/Notiz/Lifecycle Nodes.md",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
@@ -212,8 +206,6 @@
     "Praktikum/AGCO/Simulation",
     "Praktikum/AGCO/Präsentation",
     "Praktikum/AGCO/Abschlussbericht",
-    "ROS/ROS2",
-    "ROS/ROS1",
-    "Praktikum/Notiz"
+    "ROS/ROS2"
   ]
 }

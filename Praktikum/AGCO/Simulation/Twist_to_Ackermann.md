@@ -1,0 +1,42 @@
+- Website: http://wiki.ros.org/teb_local_planner/Tutorials/Planning%20for%20car-like%20robots 
+- Schaubild: ![|200](https://github.com/ICH-BIN-HXM/images/blob/main/pictures_Obsidian/Praktikum/car-like-robot.png?raw=true) 
+
+- Problem: 
+	- Traktor ist kein "Differential-Robot", d.h. auf der Stelle zu drehen ist schwer zu realisieren. Aber von der vom ROS-Paket "nav2" angebotene Nachrichtentyp ist standmäßig "Twist", d.h. Velocity in angular ist erlaubt. 
+		- Message-Type "Twist" Definition: http://docs.ros.org/en/melodic/api/geometry_msgs/html/msg/Twist.html 
+- Ansatz: 
+	- Der Traktor kann als normales Auto angesehen. Die passende Beschreibung für das Modell ist "car-like". 
+	- Eine Nachricht, die ein "car-like" Modell gut steuern kann, ist geeignet einsetzbar. $\Rightarrow$ "Ackermann" könnte der beste Nachrichten-Typ sein. 
+		- Message-Type "AckermannDrive" Definition: http://docs.ros.org/en/api/ackermann_msgs/html/msg/AckermannDrive.html 
+- Lösungen 
+	- 1. Möglichkeit: Server zu wechseln. 
+		- ein Server, der Nachrichten vom Typ "Ackermann" direkt liefern kann, wird gescht. 
+		- Controller zur Verfügung: https://navigation.ros.org/plugins/index.html
+			- DWB Controller(Dynamic Window Approach) 
+				- wird standmäßig eingesetzt. 
+				- kritischer Nachteil: "Ackermann" nicht unterstützt. 
+			- TEB-Controller(Timed Elastic Band)
+				- Merkmale 
+					- virtuellen elastischen Verbindungen, die den Pfad des Roboters begrenzen und ihn vor Kollisionen schützen 
+			- MPPI-Controller(Model Predictive Path Integral) 
+				- Vorteile 
+					- klare Definition für Roboter-Modell
+
+- Sortierung von Antriebsarten 
+	- Omnidrive 
+		- Mehrere unabhängige Antriebsräder werden verwendet, die in verschiedenen Winkeln zur Fahrzeugachse angeordnet sind. Durch die unabhängige Steuerung der Räder in Kombination mit ihrer individuellen Ausrichtung kann der Roboter in beliebige Richtungen fahren und sich seitlich bewegen. 
+		- hohe Manövrierfähigkeit und Agilität 
+		- Richtungswechsel 
+	- Differential Drive 
+		- zwei Antriebsräder werden verwendet, die unabhängig voneinander gesteuert werden können. Die Geschwindigkeiten der beiden Räder können unterschiedlich sein, um eine Drehung des Roboters um seine eigene Achse zu ermöglichen. 
+		- eignet sich für einfache Bewegungen. 
+	- Legged 
+		- Räder anstelle von Rädern 
+	- Ackermann 
+		- mit vier Rädern. Die Vorderräder haben unterschiedliche Lenkwinkel. Dies ermöglicht eine effiziente Kurvenfahrt. 
+		- Die Vorderräder werden in einem festen Winkel zur Fahrzeugachse eingestellt, um präzise Kurvenfahrten zu ermöglichen. 
+		- Vorteile: 
+			- bietet eine gute Kombination aus Stabilität, Lenkpräzision und einfacher Konstruktion
+				- Stabilität: Landwirtschaftliche Fahrzeuge sind groß und schwer. Durch die unterschiedlichen Lenkwinkel der Vorderräder ermöglicht es eine gleichmäßige Verteilung der Kräfte und sorgt dafür, dass alle Räder fest auf dem Boden bleiben. Dies verbessert die Traktion und reduziert das Risiko von Rutsch- oder Kippmomenten. 
+				- Lenkpräzision: Die Vorderräder werden in einem festen Winkel zur Fahrzeugachse eingestellt. Dadurch kann das Fahrzeug präzise Manöver durchführen, Hindernissen ausweichen und das Fahrzeug sicher durch komplexe Umgebungen führen. 
+				- Einfache Konstruktion: Es erfordert weniger komplexe Mechanismen als beispielsweise ein omnidirektionaler Antrieb. Die kann zur Reduzierung von Konsten, Wartungsaufwand und potenziellen Ausfallzeiten beitragen. 

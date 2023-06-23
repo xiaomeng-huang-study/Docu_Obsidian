@@ -1,0 +1,18 @@
+- Sortierung von Antriebsarten 
+	- Omnidrive 
+		- Mehrere unabhängige Antriebsräder werden verwendet, die in verschiedenen Winkeln zur Fahrzeugachse angeordnet sind. Durch die unabhängige Steuerung der Räder in Kombination mit ihrer individuellen Ausrichtung kann der Roboter in beliebige Richtungen fahren und sich seitlich bewegen. 
+		- hohe Manövrierfähigkeit und Agilität 
+		- Richtungswechsel 
+	- Differential Drive 
+		- zwei Antriebsräder werden verwendet, die unabhängig voneinander gesteuert werden können. Die Geschwindigkeiten der beiden Räder können unterschiedlich sein, um eine Drehung des Roboters um seine eigene Achse zu ermöglichen. 
+		- eignet sich für einfache Bewegungen. 
+	- Legged 
+		- Räder anstelle von Rädern 
+	- Ackermann 
+		- mit vier Rädern. Die Vorderräder haben unterschiedliche Lenkwinkel. Dies ermöglicht eine effiziente Kurvenfahrt. 
+		- Die Vorderräder werden in einem festen Winkel zur Fahrzeugachse eingestellt, um präzise Kurvenfahrten zu ermöglichen. 
+		- Vorteile: 
+			- bietet eine gute Kombination aus Stabilität, Lenkpräzision und einfacher Konstruktion
+				- Stabilität: Landwirtschaftliche Fahrzeuge sind groß und schwer. Durch die unterschiedlichen Lenkwinkel der Vorderräder ermöglicht es eine gleichmäßige Verteilung der Kräfte und sorgt dafür, dass alle Räder fest auf dem Boden bleiben. Dies verbessert die Traktion und reduziert das Risiko von Rutsch- oder Kippmomenten. 
+				- Lenkpräzision: Die Vorderräder werden in einem festen Winkel zur Fahrzeugachse eingestellt. Dadurch kann das Fahrzeug präzise Manöver durchführen, Hindernissen ausweichen und das Fahrzeug sicher durch komplexe Umgebungen führen. 
+				- Einfache Konstruktion: Es erfordert weniger komplexe Mechanismen als beispielsweise ein omnidirektionaler Antrieb. Die kann zur Reduzierung von Konsten, Wartungsaufwand und potenziellen Ausfallzeiten beitragen. 
