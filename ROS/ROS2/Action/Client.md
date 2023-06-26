@@ -35,7 +35,10 @@ class myaction_client(Node):
         self.action_client_.wait_for_server()
         
         # send goal
-        self.send_goal_ = self.action_client_.send_goal_async(goal, feedback_callback= self.callback_feedback)
+        self.send_goal_ = self.action_client_.send_goal_async(
+        goal, 
+        feedback_callback= self.callback_feedback
+        )
         ## response after sending goal: rejected / accepted
         self.send_goal_.add_done_callback(self.callback_goal_response)
         
