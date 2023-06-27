@@ -1,5 +1,6 @@
 - Package
 	- `ros2 pkg create myaction_interface --build-type ament_cmake --dependencies rclpy` 
+		- alle Buchstaben klein schreiben
 - `XXX.action` : 
 	- XXX: erste Buchstabe groß schreiben, z.B. MyAction
 	- in `action` Ordner 
