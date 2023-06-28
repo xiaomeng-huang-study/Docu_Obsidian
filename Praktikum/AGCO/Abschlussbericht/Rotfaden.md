@@ -1,7 +1,11 @@
 - Ziel: nav2 zu integrieren
 	- ==Frage== 
 		- was ist nav2?
-		- warum wird nav2 ausgewählt, nicht andere Alternative? 
+		- warum wird nav2 ausgewählt, nicht andere Alternative?
+- Basis: ROS-System 
+	- ==Frage== 
+		- was ist ROS? 
+		- Vorteile 
 - Standard: REP105
 	- ==Frage==
 		- was ist REP105? 
