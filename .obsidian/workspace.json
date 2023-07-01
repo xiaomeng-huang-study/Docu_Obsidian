@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a80b878fb4d0e95c",
+        "id": "26202196247f8b9c",
         "type": "tabs",
         "children": [
           {
-            "id": "b064068c55cdd476",
+            "id": "49353976265b97a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,9 +155,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "canvas:新建白板": false,
-      "remotely-save:Remotely Save": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-custom-frames:Open Mubu": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
@@ -177,10 +166,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b064068c55cdd476",
+  "active": "49353976265b97a3",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
+    "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
     "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",

@@ -1,7 +1,6 @@
 [
   "obsidian-plantuml",
   "mousewheel-image-zoom",
-  "remotely-save",
   "obsidian-git",
   "table-editor-obsidian",
   "obsidian-mind-map",
@@ -12,5 +11,6 @@
   "obsidian-underline",
   "table-extended",
   "obsidian-table-generator",
-  "code-block-from-selection"
+  "code-block-from-selection",
+  "remotely-save"
 ]
