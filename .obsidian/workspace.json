@@ -11,8 +11,12 @@
             "id": "49353976265b97a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md"
+              }
             }
           },
           {
@@ -154,6 +162,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,15 +177,15 @@
   },
   "active": "49353976265b97a3",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
     "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
+    "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+    "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
     "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "Praktikum/AGCO/Abschlussbericht/Koordinatensystem.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
-    "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
     "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
     "conflict-files-obsidian-git.md",
     "Praktikum/AGCO/Simulation/0627_.md",
