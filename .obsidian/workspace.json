@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+                "file": "ROS/Programm starten.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+                "file": "ROS/Programm starten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+                "file": "ROS/Programm starten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md"
+                "file": "ROS/Programm starten.md"
               }
             }
           },
@@ -177,16 +177,21 @@
   },
   "active": "49353976265b97a3",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
+    "ROS/Topics and Messages.md",
+    "ROS/ROS2.md",
+    "ROS/ROS2/C++/Publisher.md",
+    "ROS/Node erzeugen.md",
+    "ROS/Packages.md",
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
-    "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
+    "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
-    "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
     "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "Praktikum/AGCO/Abschlussbericht/Koordinatensystem.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
+    "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+    "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
     "conflict-files-obsidian-git.md",
     "Praktikum/AGCO/Simulation/0627_.md",
     "Praktikum/AGCO/Simulation/0626_.md",
@@ -198,11 +203,6 @@
     "ROS/ROS2/Action/Server.md",
     "ROS/Befehle bzw. Tools.md",
     "ROS/ROS2/Action/Client.md",
-    "ROS/ROS2/Action/Befehle.md",
-    "Praktikum/Notiz/TEB-Controller.md",
-    "ROS/ROS2/Action/Interface.md",
-    "Praktikum/AGCO/Simulation/0602_.md",
-    "Praktikum/AGCO/Simulation/0614_.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "ROS/ROS2/Action",
     "ROS/ROS2/C++",
