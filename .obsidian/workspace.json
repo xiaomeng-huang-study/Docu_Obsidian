@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/ROS2.md",
+                "file": "Praktikum/AGCO/Simulation/0707_.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS2.md",
+                "file": "Praktikum/AGCO/Simulation/0707_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS2.md",
+                "file": "Praktikum/AGCO/Simulation/0707_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/ROS2.md"
+                "file": "Praktikum/AGCO/Simulation/0707_.md"
               }
             }
           },
@@ -177,9 +177,14 @@
   },
   "active": "49353976265b97a3",
   "lastOpenFiles": [
+    "Prog Python/Dictionary.md",
+    "Praktikum/AGCO/Simulation/0707_.md",
+    "Prog Python/List.md",
+    "ROS/ROS2/Python/Subscriber.md",
+    "ROS/ROS2/Python/Publisher.md",
+    "ROS/ROS2.md",
     "ROS/Programm starten.md",
     "ROS/Topics and Messages.md",
-    "ROS/ROS2.md",
     "ROS/ROS2/C++/Publisher.md",
     "ROS/Node erzeugen.md",
     "ROS/Packages.md",
@@ -198,11 +203,6 @@
     "Praktikum/AGCO/Simulation/0626_.md",
     "Untitled.md",
     "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Rumpf.md",
-    "Praktikum/Notiz/holonomic and nonholonomic robots.md",
-    "ROS/Untitled.md",
-    "ROS/ROS2/Action/Server.md",
-    "ROS/Befehle bzw. Tools.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "ROS/ROS2/Action",
     "ROS/ROS2/C++",
