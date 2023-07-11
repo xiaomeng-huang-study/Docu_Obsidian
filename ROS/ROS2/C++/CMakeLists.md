@@ -7,7 +7,7 @@ find_package(${MESSAGE_TYPE} REQUIRED)
 ```
 add_executable(${PACKAGE_NAME} src/my_node.cpp)
 ament_target_dependencies(
-  ${PACKAGE_NAME}
+  myPackage
   rclcpp
 
 )
@@ -15,6 +15,6 @@ ament_target_dependencies(
 
 ```txt
 install(TARGETS
-    my_node
+    myPackage
     DESTINATION lib/${PROJECT_NAME})
 ```

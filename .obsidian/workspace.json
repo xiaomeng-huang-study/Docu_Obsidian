@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07a078f8374d5248",
+        "id": "3b08a8af1f02b3ae",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba40e5c3e9f426c",
+            "id": "abb9707243a002f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/ROS2/C++/CMakeLists.md",
+                "file": "ROS/Programm starten.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS2/C++/CMakeLists.md",
+                "file": "ROS/Programm starten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS2/C++/CMakeLists.md",
+                "file": "ROS/Programm starten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/ROS2/C++/CMakeLists.md"
+                "file": "ROS/Programm starten.md"
               }
             }
           },
@@ -175,23 +175,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3ba40e5c3e9f426c",
+  "active": "abb9707243a002f0",
   "lastOpenFiles": [
-    "ROS/Node erzeugen.md",
-    "ROS/ROS2/C++/CMakeLists.md",
-    "ROS/ROS1/Package/Berechtigung.md",
-    "ROS/ROS2/Package/Berechtigung.md",
-    "ROS/ROS1/Package/Build.md",
-    "ROS/ROS1/Package",
-    "ROS/Topics and Messages.md",
-    "ROS/Untitled.md",
-    "ROS/Roboter_Bewegung.md",
-    "ROS/Programm starten.md",
     "ROS/Packages.md",
     "ROS/Befehle bzw. Tools.md",
+    "ROS/Node erzeugen.md",
+    "ROS/ROS1/Python/Publisher.md",
+    "ROS/ROS1/Python/Subscriber.md",
+    "ROS/ROS1/C++/CMakeLists.md",
+    "ROS/ROS1/Package/Paket erzeugen.md",
+    "ROS/ROS2/Package/Paket erzeugen.md",
+    "ROS/ROS2/Package/Berechtigung.md",
+    "ROS/Topics and Messages.md",
+    "ROS/Untitled.md",
+    "ROS/ROS2/C++/Package.xml.md",
+    "ROS/ROS2/C++/CMakeLists.md",
+    "ROS/ROS1/Package/Berechtigung.md",
+    "ROS/ROS1/Package/Build.md",
+    "ROS/ROS1/Package",
+    "ROS/Roboter_Bewegung.md",
+    "ROS/Programm starten.md",
     "ROS/ROS2.md",
     "ROS/ROS2/Package/Build.md",
-    "ROS/ROS2/Package/Paket erzeugen.md",
     "ROS/ROS2/Build/Build.md",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
@@ -201,11 +206,6 @@
     "ROS/ROS2/Python/Subscriber.md",
     "ROS/ROS2/Python/Publisher.md",
     "ROS/ROS2/C++/Publisher.md",
-    "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
-    "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
-    "Praktikum/AGCO/Abschlussbericht/0426.md",
-    "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
-    "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "ROS/ROS2/Action",
     "ROS/ROS2/C++",

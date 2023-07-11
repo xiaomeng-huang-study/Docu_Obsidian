@@ -1,9 +1,8 @@
-- ROS-core
-	```ROS
-	roscore
-	```
-
-- Programm 
+- ROS1 
+	- ROS-core
+		```ROS
+		roscore
+		```
 	- rosrun 
 		```ROS
 		rosrun (package_name) (nodename)
