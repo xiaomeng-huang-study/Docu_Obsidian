@@ -11,8 +11,12 @@
             "id": "3ba40e5c3e9f426c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ROS/Node erzeugen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ROS/Node erzeugen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ROS/Node erzeugen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ROS/Node erzeugen.md"
+              }
             }
           },
           {
@@ -169,15 +177,18 @@
   },
   "active": "3ba40e5c3e9f426c",
   "lastOpenFiles": [
+    "ROS/ROS1/Package/Berechtigung.md",
+    "ROS/ROS2/Package/Berechtigung.md",
+    "ROS/Node erzeugen.md",
+    "ROS/ROS1/Package/Build.md",
+    "ROS/ROS1/Package",
     "ROS/Topics and Messages.md",
     "ROS/Untitled.md",
     "ROS/Roboter_Bewegung.md",
     "ROS/Programm starten.md",
     "ROS/Packages.md",
-    "ROS/Node erzeugen.md",
     "ROS/Befehle bzw. Tools.md",
     "ROS/ROS2.md",
-    "ROS/ROS2/Package/Berechtigung.md",
     "ROS/ROS2/Package/Build.md",
     "ROS/ROS2/Package/Paket erzeugen.md",
     "ROS/ROS2/Build/Build.md",
@@ -195,15 +206,12 @@
     "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "Praktikum/AGCO/Abschlussbericht/Koordinatensystem.md",
-    "Praktikum/AGCO/Abschlussbericht/Untitled.md",
-    "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "ROS/ROS2/Action",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
     "ROS/ROS1/Python",
-    "Praktikum/AGCO/Simulation",
-    "Praktikum/AGCO/Präsentation"
+    "Praktikum/AGCO/Simulation"
   ]
 }
