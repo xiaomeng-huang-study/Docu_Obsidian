@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26202196247f8b9c",
+        "id": "07a078f8374d5248",
         "type": "tabs",
         "children": [
           {
-            "id": "49353976265b97a3",
+            "id": "3ba40e5c3e9f426c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Praktikum/AGCO/Simulation/0707_.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0707_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/0707_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Praktikum/AGCO/Simulation/0707_.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,19 +167,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "49353976265b97a3",
+  "active": "3ba40e5c3e9f426c",
   "lastOpenFiles": [
-    "Prog Python/Dictionary.md",
+    "ROS/Topics and Messages.md",
+    "ROS/Untitled.md",
+    "ROS/Roboter_Bewegung.md",
+    "ROS/Programm starten.md",
+    "ROS/Packages.md",
+    "ROS/Node erzeugen.md",
+    "ROS/Befehle bzw. Tools.md",
+    "ROS/ROS2.md",
+    "ROS/ROS2/Package/Berechtigung.md",
+    "ROS/ROS2/Package/Build.md",
+    "ROS/ROS2/Package/Paket erzeugen.md",
+    "ROS/ROS2/Build/Build.md",
+    "ROS/ROS2/Build",
+    "ROS/ROS2/Package",
     "Praktikum/AGCO/Simulation/0707_.md",
+    "Prog Python/Dictionary.md",
     "Prog Python/List.md",
     "ROS/ROS2/Python/Subscriber.md",
     "ROS/ROS2/Python/Publisher.md",
-    "ROS/ROS2.md",
-    "ROS/Programm starten.md",
-    "ROS/Topics and Messages.md",
     "ROS/ROS2/C++/Publisher.md",
-    "ROS/Node erzeugen.md",
-    "ROS/Packages.md",
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
     "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
@@ -196,13 +197,6 @@
     "Praktikum/AGCO/Abschlussbericht/Koordinatensystem.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
-    "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
-    "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
-    "conflict-files-obsidian-git.md",
-    "Praktikum/AGCO/Simulation/0627_.md",
-    "Praktikum/AGCO/Simulation/0626_.md",
-    "Untitled.md",
-    "Prog C++/Code_Beispiele/Flugzeug/Flugzeug.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "ROS/ROS2/Action",
     "ROS/ROS2/C++",
@@ -210,8 +204,6 @@
     "ROS/ROS2/Python",
     "ROS/ROS1/Python",
     "Praktikum/AGCO/Simulation",
-    "Praktikum/AGCO/Präsentation",
-    "Praktikum/AGCO/Abschlussbericht",
-    "ROS/ROS2"
+    "Praktikum/AGCO/Präsentation"
   ]
 }
