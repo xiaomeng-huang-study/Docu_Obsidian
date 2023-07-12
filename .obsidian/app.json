@@ -13,5 +13,6 @@
   "spellcheckLanguages": [
     "en-US",
     "de-DE"
-  ]
+  ],
+  "promptDelete": false
 }

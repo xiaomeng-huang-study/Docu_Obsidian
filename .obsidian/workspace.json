@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38c5940d11b42f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,8 +188,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "49353976265b97a3",
+  "active": "38c5940d11b42f8d",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
+    "conflict-files-obsidian-git.md",
     "ROS/ROS1/Python/Berechtigung.md",
     "ROS/ROS1/Package/Build.md",
     "ROS/ROS2/Package/Build.md",
@@ -195,13 +210,11 @@
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
     "Praktikum/AGCO/Abschlussbericht/02_navigation Stack auswählen.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
-    "Praktikum/AGCO/Abschlussbericht/Frames verstehen.md",
     "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
     "Praktikum/AGCO/Abschlussbericht/Koordinatensystem.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled.md",
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
-    "conflict-files-obsidian-git.md",
     "Praktikum/AGCO/Simulation/0627_.md",
     "Praktikum/AGCO/Simulation/0626_.md",
     "Untitled.md",
