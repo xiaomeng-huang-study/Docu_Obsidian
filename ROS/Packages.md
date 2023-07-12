@@ -12,79 +12,77 @@
 	      package.xml        -- Package manifest for package_n
 	```
 
-## selbst implementieren 
-- create_pkg 
-	- ROS1 
-		```bash
-		cd ~/catkin_ws/src/
-		catkin_create_pkg ${PACKAGE_NAME} rospy roscpp ${MESSAGE_TYP}
-		``` 
-	- ROS2
-		```bash
-		cd ~/ros2_ws/src
-		ros2 pkg create --build-type ament_cmake ${PACKAGE_NAME} --dependencies rclcpp ${MESSAGE_TYP}
-		```
-
 ## von Außen bekommen 
-### APT
-https://index.ros.org/packages/#noetic 
+### APT 
+
 
 - install 
-```ROS
-sudo apt install ros-noetic-(package_name)
-```
+	```ROS
+	sudo apt install ros-${ROS-DISTRO}-${PACKAGE_NAME}
+	```
+	- ROS1 
+		- https://index.ros.org/packages/#noetic 
+		- Beispiel 
+			- rqt_robot_steering 
+				- https://index.ros.org/p/rqt_robot_steering/github-ros-visualization-rqt_robot_steering/#noetic 
+				- Beschreibung: http://wiki.ros.org/rqt_robot_steering 
+				```ROS
+				cd ~
+				sudo apt install ros-noetic-rqt-robot-steering
+				```
+			- turtlesim 
+				- https://index.ros.org/p/turtlesim/github-ros-ros_tutorials/#noetic 
+				- Beschreibung: https://wiki.ros.org/turtlesim 
+				```ROS
+				cd ~
+				sudo apt install ros-noetic-turtlesim
+				```
+	- ROS2 
+		- https://index.ros.org/packages/#foxy 
 
-- Beispiel 
-	- rqt_robot_steering 
-		- https://index.ros.org/p/rqt_robot_steering/github-ros-visualization-rqt_robot_steering/#noetic 
-		- Beschreibung: http://wiki.ros.org/rqt_robot_steering 
-		```ROS
-		cd ~
-		sudo apt install ros-noetic-rqt-robot-steering
-		```
-	- turtlesim 
-		- https://index.ros.org/p/turtlesim/github-ros-ros_tutorials/#noetic 
-		- Beschreibung: https://wiki.ros.org/turtlesim 
-		```ROS
-		cd ~
-		sudo apt install ros-noetic-turtlesim
-		```
 
 ### GitHub 
 - git clone 
-	- Falls git nicht installiert 
+	- (Falls git nicht installiert) 
 		- `sudo apt install git` 
 	```ROS
-	cd ~/catkin_ws/src/
+	cd ~/ros_ws/src/
 	git clone ...
 	```
-- install for noetic 
-	```ROS
-	cd .../scripts
-	./install_for_noetic.sh
-	```
-- Kompilieren 
-	```ROS
-	cd ~/catkin_ws
-	catkin_make
-	```
-- development Environment 
-	```ROS
-	source ~/catkin_ws/devel/setup.bash
-	```
-	- in `.bashrc` hinzugefügen 
-		- in Terminal 
-			```ROS
-			gedit ~/.bashrc
+	- ROS1 
+		- Kompilieren 
+			```bash
+			cd ~/ros1_ws
+			catkin_make
 			```
-		- am Ende von `.bashrc` 
-			```ROS
-			source ~/catkin_ws/devel/setup.bash
+		- development Environment 
+			```bash
+			source ~/ros1_ws/devel/setup.bash
 			```
-
-- Beispiel 
-	- wpr_simulation 
-		- github: https://github.com/6-robot/wpr_simulation.git 
-
-
+			- kann in `.bashrc` hinzugefügt werden 
+				```bash
+				gedit ~/.bashrc
+				```
+				- am Ende von `.bashrc` 
+					```bash
+					source ~/ros1_ws/devel/setup.bash
+					```
+	- ROS2 
+		- Kompilieren 
+			```bash
+			cd ~/ros2_ws
+			colcon build --${PARAMETERS}
+			```
+		- development Environment 
+			```bash
+			source ~/ros2_ws/install/setup.bash
+			```
+			- kann in `.bashrc` hinzugefügt werden 
+				```bash
+				gedit ~/.bashrc
+				```
+				- am Ende von `.bashrc` 
+					```bash
+					source ~/ros2_ws/install/setup.bash
+					```
 

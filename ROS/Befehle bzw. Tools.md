@@ -11,6 +11,10 @@ ros2 run rqt_gui rqt_gui
 ```bash
 ros2 run tf2_tools view_frames.py 
 ```
+- Rviz2
+```bash
+ros2 run Rviz2 Rviz2
+```
 
 
 ## Linux 
