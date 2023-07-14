@@ -177,6 +177,8 @@
   },
   "active": "49353976265b97a3",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
+    "Praktikum/AGCO/Simulation/Backup_Code",
     "Praktikum/AGCO/Abschlussbericht/Koordinatensystem.md",
     "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
@@ -204,14 +206,12 @@
     "Praktikum/AGCO/Abschlussbericht/Untitled 1.md",
     "Praktikum/AGCO/Simulation/0627_.md",
     "Praktikum/AGCO/Simulation/0626_.md",
-    "Untitled.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "ROS/ROS2/Action",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
     "ROS/ROS1/Python",
-    "Praktikum/AGCO/Simulation",
-    "Praktikum/AGCO/Präsentation"
+    "Praktikum/AGCO/Simulation"
   ]
 }
