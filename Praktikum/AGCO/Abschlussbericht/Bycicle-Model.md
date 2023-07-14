@@ -9,4 +9,3 @@
 	- 5) $\dot x = v \cdot \cos(\theta)$ & $\dot y = v \cdot \sin(\theta)$ 
 	- 6) $\Delta x = \dot x \cdot dt$ & $\Delta y = \dot y \cdot dt$ $\Leftarrow$ Positionsänderung 
 	- 7) $x(t) = x(t-1) + \Delta x$ & $y(t) = y(t-1) + \Delta y$ 
-- 

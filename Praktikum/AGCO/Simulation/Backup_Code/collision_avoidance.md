@@ -110,3 +110,19 @@ class State_getResult(State):
         else:
             return "FAILED"
 ```
+
+```python
+## calculate Orientation at waypoint
+class State_calcOri(State):
+    def __init__(self):
+        super().__init__(["Ori_calculated"])  
+        
+    def execute(self, blackboard):
+        logging.debug("Executing state calculating Orientation...")
+        
+        nav_Robot.calcOri()
+        
+        logging.debug("Exit state calculate Orientation...")
+        
+        return "Ori_calculated"
+```

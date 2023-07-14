@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c8eaff68801b3734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,10 +188,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b0d5660078d4afed",
+  "active": "c8eaff68801b3734",
   "lastOpenFiles": [
-    "ROS/ROS2/Python/Publisher.md",
     "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
+    "conflict-files-obsidian-git.md",
+    "ROS/ROS2/Python/Publisher.md",
     "Praktikum/AGCO/Simulation/Backup_Code",
     "Praktikum/AGCO/Simulation/Backup.md",
     "ROS/Untitled.md",
@@ -203,7 +217,6 @@
     "ROS/ROS1/Python/Subscriber.md",
     "ROS/ROS1/C++/CMakeLists.md",
     "ROS/ROS2/C++/CMakeLists.md",
-    "ROS/ROS1/Package/Build.md",
     "ROS/ROS1/Package",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
