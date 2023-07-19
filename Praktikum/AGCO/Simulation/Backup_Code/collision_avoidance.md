@@ -126,3 +126,131 @@ class State_calcOri(State):
         
         return "Ori_calculated"
 ```
+
+```python
+try:
+	# check Obstacle Status
+	num_obs = int(0)
+	for obj in _objects.objects:
+		if self.isObstacle(obj):
+			num_obs += 1
+	if num_obs == 0:
+		# no Obstacle found
+		self.flag_obstacle_found = False
+		self.flag_obstacle_error = False
+		# self.get_logger().warning(
+		#     "No Objects found..."
+		# )
+	elif num_obs == 1:
+		# amount of obstacles: 1
+		self.flag_obstacle_found = True
+		self.flag_obstacle_error = False
+	elif num_obs >= 2:
+		# # amount of obstacles >= 2
+		# self.get_logger().error(
+		#     f"{num_obs} Obstacles, this situation cannot be dealt"
+		# )
+		self.flag_obstacle_found = True
+		self.flag_obstacle_error = True
+	else:
+		# self.get_logger().error(
+		#     "Obstacle detection ERROR"
+		# )
+		self.flag_obstacle_found = False
+		self.flag_obstacle_error = True
+		
+	# Situation with 1 Obstacle
+	if self.flag_obstacle_found == True and self.flag_obstacle_error == False:  
+		for obj in _objects.objects:
+			if self.isObstacle(obj):
+				self.get_logger().debug(f"object {_objects.objects.index(obj) + 1} / {len(_objects.objects)} as obstacle found:")
+				# get the min_x and max_y
+				self.min_x = self.get_min_x(obj) - self.distance_offset
+				self.max_y = self.get_max_y(obj)
+				# flag converted to True
+				self.flag_obstacle_data_available = True
+				self.get_logger().debug(
+					f"min_x: {self.min_x}, max_y: {self.max_y}"
+				)
+
+except:
+	# self.get_logger().error(
+	#     "Obstacle detection ERROR"
+	# )
+	self.flag_obstacle_found = False
+	self.flag_obstacle_error = True
+```
+
+```python
+## function to get the minimum on x-axis
+def get_min_x(self, _object):
+	min_x = float(1000.0)
+	for p in _object.shape[0].polygon.points:
+		if p.x < min_x:
+			min_x = p.x
+	return min_x
+## function to get the maximum on y-axis
+def get_max_y(self, _object):
+	max_y = float(-1000.0)
+	for p in _object.shape[0].polygon.points:
+		if p.y > max_y:
+			max_y = p.y
+	return max_y
+```
+
+```python
+try:
+	self.angle_final_goal = self.calcAngle_to_final_goal()
+	self.angle_point_max_y = self.calcAngle_to_edge_point_max_y(_obj)
+	self.angle_point_min_y = self.calcAngle_to_edge_point_min_y(_obj)
+	if self.angle_point_max_y < self.angle_point_min_y:
+		self.get_logger().error(
+			f"Angle of point with max_y({self.angle_point_max_y}) is bigger than that of point with min_y({self.angle_point_min_y})!!!"
+		)
+		self.flag_obstacle_error = True
+		return
+	
+	# distance
+	distance = math.sqrt(self.final_goal_baselink.pose.position.x ** 2 + self.final_goal_baselink.pose.position.y ** 2)
+	if self.angle_final_goal >= self.angle_point_max_y:
+		# Situation 1
+		self.get_logger().info("Situation 1")
+		self.flag_Situation_1 = True
+		self.flag_Situation_2 = False
+		self.flag_Situation_3 = False
+		# angle
+		angle_diff = self.angle_final_goal - self.angle_point_max_y
+		if self.checkSpaceremaining(distance, angle_diff):
+			return True
+		else:
+			return False
+	elif self.angle_point_max_y > self.angle_final_goal >= self.angle_point_min_y:
+		# Situation 2
+		self.get_logger().info("Situation 2")
+		self.flag_Situation_2 = True
+		self.flag_Situation_1 = False
+		self.flag_Situation_3 = False
+		return False
+	elif self.angle_final_goal <= self.angle_point_min_y:
+		# Situation 3
+		self.get_logger().info("Situation 3")
+		self.flag_Situation_3 = True
+		self.flag_Situation_1 = False
+		self.flag_Situation_2 = False
+		# angle
+		angle_diff = self.angle_point_min_y - self.angle_final_goal
+		if self.checkPassability(distance, angle_diff):
+			return True
+		else:
+			return False
+	else:
+		self.get_logger().error(
+			"Cannot check Passability"
+		)
+		self.flag_obstacle_error = True
+		return 
+except:
+	self.get_logger().error(
+		f"Cannot get angles to final goal, edge point with min_y, edge point with max_y"
+	)
+```
