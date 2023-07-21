@@ -392,3 +392,29 @@ if self.flag_request_get_result_sent == False:
 	
 	self.flag_request_get_result_sent = True
 ```
+
+```python
+try:
+	final_goal_odom = self.transformPose(self.final_goal, Frames.Frame_ODOM, Frames.Frame_WORLD)
+	try:
+		self.final_goal_baselink = self.transformPose(final_goal_odom, Frames.Frame_BASELINK, Frames.Frame_ODOM)
+		self.flag_final_goal_is_normal = True
+		
+		# compare the distance
+		distance_to_final_goal = math.sqrt(self.final_goal_baselink.pose.position.x ** 2 + self.final_goal_baselink.pose.position.y ** 2)
+		self.get_logger().debug(
+			f"Distance to final goal: {distance_to_final_goal}m"
+		)
+		if distance_to_final_goal <= float(1.5):
+			self.flag_nav_completed = True
+		else:
+			self.flag_nav_completed = False
+	except:
+		f"Cannot get the transformed pose of goal in frame {Frames.Frame_BASELINK}"
+		self.flag_final_goal_is_normal = False
+except:
+	self.get_logger().error(
+		f"Cannot get the transformed pose of goal in frame {Frames.Frame_ODOM}"
+	)
+	self.flag_final_goal_is_normal = False
+```
