@@ -367,3 +367,28 @@ def transformPose(self):
 		)
 		return None
 ```
+
+```python
+# waiting for nav_result
+while True:
+	nav_Robot.get_result()
+	if nav_Robot.nav_result != nav_result_code.UNKNOWN:
+		break
+```
+
+```python
+# waiting for goal_result: accepted or rejected?
+while True:
+	if nav_Robot.goal_result != goal_result_code.UNKNOWN:
+		break
+```
+
+```python
+# if the request to get the result has not been sent, send the request
+if self.flag_request_get_result_sent == False:
+	self.result_future = self.goal_handle.get_result_async()
+	
+	rclpy.spin_until_future_complete(self, self.result_future)
+	
+	self.flag_request_get_result_sent = True
+```
