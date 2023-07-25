@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1e91fd7101291d",
+        "id": "4c637559fef541fc",
         "type": "tabs",
         "children": [
           {
-            "id": "c26773ff6bff27a2",
+            "id": "00e8689affba302e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
+                "file": "Praktikum/ProjektWoche/PPT_0725.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
+                "file": "Praktikum/ProjektWoche/PPT_0725.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
+                "file": "Praktikum/ProjektWoche/PPT_0725.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md"
+                "file": "Praktikum/ProjektWoche/PPT_0725.md"
               }
             }
           },
@@ -175,8 +176,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c26773ff6bff27a2",
+  "active": "00e8689affba302e",
   "lastOpenFiles": [
+    "Pasted image 20230725111156.png",
+    "Praktikum/ProjektWoche/PPT_0725.md",
+    "Praktikum/ProjektWoche",
     "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
     "Mathe3/MA3 Zusammenfassung.md",
     "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
@@ -204,14 +208,11 @@
     "Praktikum/AGCO/Abschlussbericht/Rotfaden.md",
     "Praktikum/AGCO/Abschlussbericht/0426.md",
     "Praktikum/AGCO/Abschlussbericht/Draft_Abschlussbericht.md",
-    "Praktikum/AGCO/Abschlussbericht/Untitled.md",
-    "Praktikum/AGCO/Simulation/0627_.md",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "ROS/ROS2/Action",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
     "ROS/ROS2/Python",
-    "ROS/ROS1/Python",
-    "Praktikum/AGCO/Simulation"
+    "ROS/ROS1/Python"
   ]
 }
