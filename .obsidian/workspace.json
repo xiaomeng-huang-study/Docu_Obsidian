@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4c637559fef541fc",
+        "id": "f42cb5fbde519f8c",
         "type": "tabs",
         "children": [
           {
-            "id": "00e8689affba302e",
+            "id": "507490a1066ca326",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/ProjektWoche/PPT_0725.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/ProjektWoche/PPT_0725.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/ProjektWoche/PPT_0725.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/ProjektWoche/PPT_0725.md"
+                "file": "Praktikum/AGCO/Abschlussbericht/Bycicle-Model.md"
               }
             }
           },
@@ -176,10 +175,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "00e8689affba302e",
+  "active": "507490a1066ca326",
   "lastOpenFiles": [
-    "Pasted image 20230725111156.png",
     "Praktikum/ProjektWoche/PPT_0725.md",
+    "Pasted image 20230725111156.png",
     "Praktikum/ProjektWoche",
     "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
     "Mathe3/MA3 Zusammenfassung.md",
