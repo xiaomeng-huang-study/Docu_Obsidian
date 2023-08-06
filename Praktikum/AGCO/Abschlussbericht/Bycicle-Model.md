@@ -2,10 +2,10 @@
 - Definition: 
 	- Das Fahrradmodell basiert auf einem 4-Rad-Modell und kombiniert die Vorder- und Hinterräder zu einem zweirädrigen Modell (daher der Name Fahrradmodell). Anstelle von 4 Rädern und 2 Lenkwinkeln müssen wir nun nur noch 2 Räder und 1 Lenkwinkel berücksichtigen.
 - Herleitung
-	- 1) $R = \dfrac{L}{\tan{(\zeta)}}$ 
-	- 2) $\dot \theta = \dfrac{v}{R}$ 
-	- 3) $\Delta \theta = \dot \theta \cdot dt$  $\Leftarrow$ Rotation 
-	- 4) $\theta (t) = \theta (t-1) + \Delta \theta$ 
-	- 5) $\dot x = v \cdot \cos(\theta)$ & $\dot y = v \cdot \sin(\theta)$ 
-	- 6) $\Delta x = \dot x \cdot dt$ & $\Delta y = \dot y \cdot dt$ $\Leftarrow$ Positionsänderung 
-	- 7) $x(t) = x(t-1) + \Delta x$ & $y(t) = y(t-1) + \Delta y$ 
+	- Wenderadius: $R = \dfrac{L}{\tan{(\zeta)}}$ 
+	- Winkelgeschwindigkeit: $\dot \theta = \dfrac{v}{R}$ 
+	- $\Rightarrow$ Rotation im Zeitabschnitt:  $\Delta \theta = \dot \theta \cdot dt$  
+	- $\theta (t) = \theta (t-1) + \Delta \theta$ 
+	- $\dot x = v \cdot \cos(\theta)$ & $\dot y = v \cdot \sin(\theta)$ 
+	- $\Rightarrow$ Translation im Zeitabschnitt: $\Delta x = \dot x \cdot dt$ & $\Delta y = \dot y \cdot dt$ 
+	- $x(t) = x(t-1) + \Delta x$ & $y(t) = y(t-1) + \Delta y$ 

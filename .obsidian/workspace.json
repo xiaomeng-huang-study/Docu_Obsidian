@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
+                "file": "ROS/Befehle bzw. Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "depend",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
+                "file": "ROS/Befehle bzw. Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
+                "file": "ROS/Befehle bzw. Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md"
+                "file": "ROS/Befehle bzw. Tools.md"
               }
             }
           },
@@ -177,8 +177,14 @@
   },
   "active": "b0d5660078d4afed",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "ROS/Befehle bzw. Tools.md",
+    "Pasted image 20230725111156.png",
     "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
+    "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
+    "Praktikum/ProjektWoche/PPT_0725.md",
+    "Praktikum/ProjektWoche",
+    "conflict-files-obsidian-git.md",
     "ROS/ROS2/Python/Publisher.md",
     "Praktikum/AGCO/Simulation/Backup_Code",
     "Praktikum/AGCO/Simulation/Backup.md",
@@ -192,7 +198,6 @@
     "ROS/Sensor.md",
     "ROS/ROS Installieren.md",
     "ROS/Packages.md",
-    "ROS/Befehle bzw. Tools.md",
     "ROS/ROS1/Package/Paket erzeugen.md",
     "ROS/ROS1/Python/Berechtigung.md",
     "ROS/ROS2/Python/Berechtigung.md",
@@ -200,10 +205,6 @@
     "ROS/ROS2/Python/setup.py.md",
     "ROS/ROS2/Package/Build.md",
     "ROS/Node erzeugen.md",
-    "ROS/ROS1/Python/Publisher.md",
-    "ROS/ROS1/Python/Subscriber.md",
-    "ROS/ROS1/C++/CMakeLists.md",
-    "ROS/ROS2/C++/CMakeLists.md",
     "ROS/ROS1/Package",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
@@ -211,7 +212,6 @@
     "ROS/ROS2/Action",
     "ROS/ROS2/C++",
     "ROS/ROS1/C++",
-    "ROS/ROS2/Python",
-    "ROS/ROS1/Python"
+    "ROS/ROS2/Python"
   ]
 }
