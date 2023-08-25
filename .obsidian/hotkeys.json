@@ -8,30 +8,6 @@
       "key": "M"
     }
   ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "P"
-    }
-  ],
-  "remotely-save:start-sync": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "S"
-    }
-  ],
-  "obsidian-git:commit": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "C"
-    }
-  ],
   "command-palette:open": [
     {
       "modifiers": [
@@ -87,6 +63,31 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "editor:save-file": [],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "remotely-save:start-sync": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
     }
   ]
 }
