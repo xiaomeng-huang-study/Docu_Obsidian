@@ -11,8 +11,12 @@
             "id": "bfdeac2978d6e0f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "bfdeac2978d6e0f5",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md",
     "ROS/Befehle bzw. Tools.md",
     "ROS/Untitled.md",
     "conflict-files-obsidian-git.md",
