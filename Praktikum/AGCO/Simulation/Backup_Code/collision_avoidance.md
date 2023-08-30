@@ -418,3 +418,44 @@ except:
 	)
 	self.flag_final_goal_is_normal = False
 ```
+
+```python
+# generate Goal Message
+def generateGoalMsg(self):
+	goal_poses = []
+	
+	try:
+		goal_pose_1 = self.transformPose(self.goal, Frames.Frame_WORLD, Frames.Frame_BASELINK)
+		
+		goal_poses.append(goal_pose_1)
+		
+		# goal_pose_2 = ...
+		# goal_poses.append(goal_pose_2)
+		
+		self.goal_poses = goal_poses
+	except:
+		self.get_logger().error(
+			"Cannot get the transformed goal_pose_1"
+		)
+```
+
+```python
+## generate Goal Message in Frame_WORLD
+class State_generateGoalMsg(State):
+    def __init__(self):
+        super().__init__(["GoalMsg_generated", "GoalMsg_not_generated"])
+        
+    def execute(self, blackboard):
+        logging.info("Enter state generating Goal Message...")
+        
+        nav_Robot.generateGoalMsg()
+        
+        # logging.debug("Exit state generate Goal Message...")
+        
+        if len(nav_Robot.goal_poses) != 0:
+            logging.info("Goal Message was generated")
+            return "GoalMsg_generated"
+        else:
+            logging.error("Goal message not successfully generated!!!")
+            return "GoalMsg_not_generated"
+```

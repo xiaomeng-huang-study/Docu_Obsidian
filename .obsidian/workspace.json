@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e55c28740a6aeb72",
+        "id": "16d3e2328b6d270a",
         "type": "tabs",
         "children": [
           {
-            "id": "b0d5660078d4afed",
+            "id": "56a032b00b8d12de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "once",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,20 +175,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b0d5660078d4afed",
+  "active": "56a032b00b8d12de",
   "lastOpenFiles": [
-    "Untitled.md",
+    "ROS/Untitled.md",
     "ROS/Befehle bzw. Tools.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20230725111156.png",
     "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
     "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
     "Praktikum/ProjektWoche/PPT_0725.md",
     "Praktikum/ProjektWoche",
-    "conflict-files-obsidian-git.md",
     "ROS/ROS2/Python/Publisher.md",
     "Praktikum/AGCO/Simulation/Backup_Code",
     "Praktikum/AGCO/Simulation/Backup.md",
-    "ROS/Untitled.md",
     "ROS/ROS2/Python/Package.xml.md",
     "ROS/ROS2/Python/package.xml.md",
     "ROS/ROS2/C++/Package.xml.md",

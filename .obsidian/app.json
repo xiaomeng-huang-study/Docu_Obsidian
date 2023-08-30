@@ -10,9 +10,6 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "de-DE"
-  ],
+  "spellcheckLanguages": null,
   "promptDelete": false
 }
