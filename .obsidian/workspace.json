@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3f15afcf5d756ae9",
+        "id": "ce8e99e42cc2a403",
         "type": "tabs",
         "children": [
           {
-            "id": "bfdeac2978d6e0f5",
+            "id": "f9c70499db6b6679",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROS/ROS2/Package/Paket erzeugen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS2/Package/Paket erzeugen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS2/Package/Paket erzeugen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ROS/ROS2/Package/Paket erzeugen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bfdeac2978d6e0f5",
+  "active": "f9c70499db6b6679",
   "lastOpenFiles": [
+    "ROS/ROS2/Action/Client_2.md",
+    "ROS/ROS2/Action/Client.md",
+    "ROS/ROS2/Python/Subscriber.md",
+    "ROS/ROS2/Action/Befehle.md",
+    "ROS/ROS2/Package/Paket erzeugen.md",
     "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md",
     "ROS/Befehle bzw. Tools.md",
     "ROS/Untitled.md",
@@ -201,10 +198,6 @@
     "ROS/ROS1/Package/Paket erzeugen.md",
     "ROS/ROS1/Python/Berechtigung.md",
     "ROS/ROS2/Python/Berechtigung.md",
-    "ROS/ROS2/Package/Paket erzeugen.md",
-    "ROS/ROS2/Python/setup.py.md",
-    "ROS/ROS2/Package/Build.md",
-    "ROS/Node erzeugen.md",
     "ROS/ROS1/Package",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
