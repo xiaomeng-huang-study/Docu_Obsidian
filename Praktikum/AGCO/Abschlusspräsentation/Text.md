@@ -31,7 +31,15 @@
 				- nach den Befehlen (links abb., nach vorne fahren usw.) präzise Bewegungen zeigen 
 	- Navigation-Stack 
 		- einen geeigneten für autonomes Fahren auswählen 
-		- 
+		- in der Simulation anwenden 
+	- Collision-Avoidance Algorithmus 
+		- entwickeln 
+		- Test dafür 
+	- Integration 
+		- meine Code in das ganze System integrieren 
+		- noch nicht stabil und nicht perfekt --> muss durch andere Ingenieuren korrigiert bzw. verbessert werden 
+
+- Zuerst 
 
 
 
