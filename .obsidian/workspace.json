@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ce8e99e42cc2a403",
+        "id": "ff5ea175a8cfcaba",
         "type": "tabs",
         "children": [
           {
-            "id": "f9c70499db6b6679",
+            "id": "f6d667c0c2f2126a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md"
+              }
             }
           },
           {
@@ -167,8 +175,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9c70499db6b6679",
+  "active": "f6d667c0c2f2126a",
   "lastOpenFiles": [
+    "Praktikum/Notiz/Action-Server.md",
+    "Praktikum/AGCO/Abschlusspräsentation/Text.md",
+    "Praktikum/AGCO/Abschlusspräsentation",
+    "Unity/Unity_Notiz.md",
     "ROS/ROS2/Action/Client_2.md",
     "ROS/ROS2/Action/Client.md",
     "ROS/ROS2/Python/Subscriber.md",
@@ -195,16 +207,12 @@
     "ROS/Sensor.md",
     "ROS/ROS Installieren.md",
     "ROS/Packages.md",
-    "ROS/ROS1/Package/Paket erzeugen.md",
-    "ROS/ROS1/Python/Berechtigung.md",
-    "ROS/ROS2/Python/Berechtigung.md",
     "ROS/ROS1/Package",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
     "ROS/ROS2/Action",
     "ROS/ROS2/C++",
-    "ROS/ROS1/C++",
-    "ROS/ROS2/Python"
+    "ROS/ROS1/C++"
   ]
 }

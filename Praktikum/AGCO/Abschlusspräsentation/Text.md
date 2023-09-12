@@ -1,0 +1,2 @@
+- von Firma angeboten: Traktor-Modell, Simulationsumgebung (hier Bauerhof/ Feld)
+- Hindernis vor dem Traktor legen, ein Endpunkt angeben --> 
