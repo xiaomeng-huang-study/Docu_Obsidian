@@ -19,5 +19,9 @@
 	- --> Damit wird ein geschlossener Kreis gebildet 
 
 - Arbeitspakete klar 
-- 
+	- Vorbereitung 
+	- Bearbeitung/ Entwicklung 
+	- Integration 
+
+
 
