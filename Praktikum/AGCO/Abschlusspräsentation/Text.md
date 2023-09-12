@@ -13,7 +13,7 @@
 		- für Hindernis-Vermeidung zuständig 
 
 
-- Der Kontrolle-Modul 
+- Kontrolle-Modul 
 	- nimmt Rückmeldung aus Simulationsumgebung 
 	- gibt Bewegungsbefehle aus 
 	- --> Damit wird ein geschlossener Kreis gebildet 
