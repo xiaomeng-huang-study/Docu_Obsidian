@@ -19,9 +19,19 @@
 	- --> Damit wird ein geschlossener Kreis gebildet 
 
 - Arbeitspakete klar 
-	- Vorbereitung 
-	- Bearbeitung/ Entwicklung 
-	- Integration 
+	- in 3 Phasen 
+		- Vorbereitung 
+		- Bearbeitung/ Entwicklung 
+		- Integration 
+	- Vorbereitung --> Inbetriebnahme 
+		- Projektdateien der Simulation holen und die simulierte Umgebung wiederherstellen 
+			- Feld 
+				- z.B. Boden richtig gezeigt 
+			- Traktor 
+				- nach den Befehlen (links abb., nach vorne fahren usw.) präzise Bewegungen zeigen 
+	- Navigation-Stack 
+		- einen geeigneten für autonomes Fahren auswählen 
+		- 
 
 
 
