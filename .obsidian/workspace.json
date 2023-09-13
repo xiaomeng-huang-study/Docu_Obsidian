@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md"
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "f036defd4a184674",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlusspräsentation/Text.md",
     "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
+    "Praktikum/AGCO/Abschlusspräsentation/Text.md",
     "ROS/ROS2/Action/Client_2.md",
     "Praktikum/Notiz/Action-Server.md",
     "Praktikum/AGCO/Abschlusspräsentation",
