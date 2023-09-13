@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md"
+                "file": "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "f036defd4a184674",
   "lastOpenFiles": [
-    "ROS/ROS2/Action/Client_2.md",
     "Praktikum/AGCO/Abschlusspräsentation/Text.md",
+    "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
+    "ROS/ROS2/Action/Client_2.md",
     "Praktikum/Notiz/Action-Server.md",
     "Praktikum/AGCO/Abschlusspräsentation",
     "Unity/Unity_Notiz.md",
@@ -206,7 +207,6 @@
     "ROS/Roboter_Bewegung.md",
     "ROS/Sensor.md",
     "ROS/ROS Installieren.md",
-    "ROS/Packages.md",
     "ROS/ROS1/Package",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
