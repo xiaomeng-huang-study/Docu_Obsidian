@@ -39,7 +39,7 @@
 		- meine Code in das ganze System integrieren 
 		- noch nicht stabil und nicht perfekt --> muss durch andere Ingenieuren korrigiert bzw. verbessert werden 
 
-ROS:
+ROS_Vorstellung 
 - Modulare Architektur
 	- Roboteranwendungen aus wiederverwendbaren und unabhängigen Komponenten aufzubauen. --> "ROS-Package" 
 	- Kommunikation über definierte Schnittstellen 
@@ -48,6 +48,8 @@ ROS:
 - Werkzeug und Bibliotheken 
 	- Dazu gehören Tools zur Visualisierung, zum Debuggen, zur Simulation und zur Datenanalyse. 
 	- Außerdem stehen eine breite Palette von Bibliotheken zur Verfügung, die Funktionen wie Pfadplanung, Lokalisierung, Bildverarbeitung und vieles mehr 
-- 
 
+- ROS_Publisher-Subscriber 
+	- In diesem Muster fungiert eine Komponente als Publisher, indem sie Daten zu einem bestimmten Thema (Topic) sendet. Andere Komponenten können sich als Subscriber für dieses Thema registrieren und die Daten empfangen. 
+	- Diese lose gekoppelte Kommunikation ermöglicht es den Komponenten, unabhängig voneinander zu arbeiten und auf Daten zuzugreifen, die sie benötigen. 
 
