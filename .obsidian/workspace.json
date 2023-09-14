@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b8e077d90054b97a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md"
               }
             }
           },
@@ -188,10 +175,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b8e077d90054b97a",
+  "active": "f9c70499db6b6679",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md",
     "conflict-files-obsidian-git.md",
+    "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md",
     "Praktikum/AGCO/Abschlusspräsentation/Text.md",
     "Praktikum/AGCO/Abschlusspräsentation",
     "ROS/ROS2/Action/Client_2.md",
