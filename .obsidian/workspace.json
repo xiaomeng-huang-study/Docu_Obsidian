@@ -177,8 +177,9 @@
   },
   "active": "f036defd4a184674",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
+    "Praktikum/AGCO/Abschlussbericht/Anhang.md",
     "Praktikum/AGCO/Abschlusspräsentation/Text.md",
+    "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
     "ROS/ROS2/Action/Client_2.md",
     "Praktikum/Notiz/Action-Server.md",
     "Praktikum/AGCO/Abschlusspräsentation",
@@ -206,7 +207,6 @@
     "ROS/Topics and Messages.md",
     "ROS/Roboter_Bewegung.md",
     "ROS/Sensor.md",
-    "ROS/ROS Installieren.md",
     "ROS/ROS1/Package",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
