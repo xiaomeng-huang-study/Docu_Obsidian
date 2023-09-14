@@ -39,7 +39,11 @@
 		- meine Code in das ganze System integrieren 
 		- noch nicht stabil und nicht perfekt --> muss durch andere Ingenieuren korrigiert bzw. verbessert werden 
 
-
-
+ROS:
+- Modulare Architektur
+	- Roboteranwendungen aus wiederverwendbaren und unabhängigen Komponenten aufzubauen. --> "ROS-Package" 
+	- Kommunikation über definierte Schnittstellen 
+- Kommunikation 
+	- als Nächstes mehr erkl
 
 
