@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8e077d90054b97a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,9 +188,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9c70499db6b6679",
+  "active": "b8e077d90054b97a",
   "lastOpenFiles": [
     "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md",
+    "conflict-files-obsidian-git.md",
     "Praktikum/AGCO/Abschlusspräsentation/Text.md",
     "Praktikum/AGCO/Abschlusspräsentation",
     "ROS/ROS2/Action/Client_2.md",
@@ -188,7 +202,6 @@
     "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md",
     "ROS/Befehle bzw. Tools.md",
     "ROS/Untitled.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20230725111156.png",
     "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
     "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
