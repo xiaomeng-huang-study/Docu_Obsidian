@@ -44,6 +44,10 @@ ROS:
 	- Roboteranwendungen aus wiederverwendbaren und unabhängigen Komponenten aufzubauen. --> "ROS-Package" 
 	- Kommunikation über definierte Schnittstellen 
 - Kommunikation 
-	- als Nächstes mehr erkl
+	- als Nächstes mehr erklären 
+- Werkzeug und Bibliotheken 
+	- Dazu gehören Tools zur Visualisierung, zum Debuggen, zur Simulation und zur Datenanalyse. 
+	- Außerdem stehen eine breite Palette von Bibliotheken zur Verfügung, die Funktionen wie Pfadplanung, Lokalisierung, Bildverarbeitung und vieles mehr 
+- 
 
 
