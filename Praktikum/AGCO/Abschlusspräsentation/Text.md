@@ -14,18 +14,16 @@
 
 #
 - um das System besser zu verstehen, schauen Sie bitte dies Bild. 
-- von Firma angeboten 
-	- Simulationsumgebung 
-		- virtuelles Feld 
-		- virtuelles Traktor-Modell 
-		- virtueller LIDAR-Sensor 
 
-- Ziel 
-	- Pfad zum Endpunkt in Echtzeit planen und verfolgen 
-	- Hindernis vor dem Traktor-Modell während der Pfadverfolgung vermeiden 
-<<<<<<< HEAD
+- Simulationsumgebung wird von Firma angeboten 
+	- virtuelles Feld 
+	- virtuelles Traktor-Modell 
+	- virtueller LIDAR-Sensor (auf Traktor montiert) 
+- Ich nehme die gesamte Simulationsumgebung auf und erweitere die. 
+- Nach meiner Arbeit sollten folgende Ziele erreicht 
+	- wenn ich einen vernünftigen Punkt eingebe, sollte das Traktor-Modell einen Pfad zum Endpunkt planen und verfolgen. 
+	- während der Pfadverfolgung wird Hindernis vermeiden 
 
-=======
 #
 >>>>>>> origin/main
 - Dazu muss man: 
