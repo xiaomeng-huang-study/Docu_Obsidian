@@ -1,7 +1,19 @@
-<<<<<<< HEAD
-=======
 # 
->>>>>>> origin/main
+- Traditionale Landmaschinen werden durch Menschen gefahren und gesteuert. Um Arbeitskräfte zu sparen und präzisere Arbeitsabläufe zu erreichen, ist es notwendig, sie zu autonomen Maschinen umzuwandeln. 
+- Ein typischer autonomer Prozess sieht so aus 
+
+- spezifiziert für Bodenbearbeitung mit Traktor 
+- Nach der Zuweisung der Aufgaben -> 
+	- "Process Automation": stellt Parameter autonom ein, z.B. Pflug usw. 
+	- "Local Guidance": erkennt und verfolgt Landmarke wie Schwade usw. 
+- Dazu ist Sicherheit des Traktors wichtig 
+	- z.B. Hindernisse nicht berühren, nicht zu einer nassen Stelle fahren 
+- alle Ergebnisse der obigen Prozessen werden von "Health Management" geprüft. Wenn kein Problem, werden die Befehle durch Interface zu dem Traktor weitergeleitet. 
+
+- Aus diesem System kann man leicht erkennen, Hindernis-Vermeidungssystem ist ein wichtiger Bestandteil. Meine Aufgabe ist, das Hindernis-Vermeidungssystem zu entwickeln und prüfen. Bevor das Programm auf echten Landmaschinen läuft, ist eine Simulation erforderlich. Deswegen geht es meine Arbeit hauptsächlich um Simulation. --> im roten Kästchen wird simuliertes System dargestellt. 
+
+#
+- um das System besser zu verstehen, schauen Sie bitte dies Bild. 
 - von Firma angeboten 
 	- Simulationsumgebung 
 		- Traktor-Modell 
@@ -24,16 +36,12 @@
 
 =======
 #
->>>>>>> origin/main
 - Kontrolle-Modul 
 	- nimmt Rückmeldung aus Simulationsumgebung 
 	- gibt Bewegungsbefehle aus 
 	- --> Damit wird ein geschlossener Kreis gebildet 
-<<<<<<< HEAD
 
-=======
 #
->>>>>>> origin/main
 - Arbeitspakete klar 
 	- in 3 Phasen 
 		- Vorbereitung 

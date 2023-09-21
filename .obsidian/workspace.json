@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ce8e99e42cc2a403",
+        "id": "5c344b24dfbd0f8c",
         "type": "tabs",
         "children": [
           {
-            "id": "f9c70499db6b6679",
+            "id": "f036defd4a184674",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Praktikum/AGCO/Abschlusspräsentation/Text.md"
+              }
             }
           },
           {
@@ -167,13 +175,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9c70499db6b6679",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "Praktikum/AGCO/Abschlussbericht/Korrektur_Anhang.md",
-    "conflict-files-obsidian-git.md",
+    "Recording 20230914111909.webm",
+    "Praktikum/AGCO/Abschlussbericht/Anhang.md",
     "Praktikum/AGCO/Abschlusspräsentation/Text.md",
-    "Praktikum/AGCO/Abschlusspräsentation",
+    "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
     "ROS/ROS2/Action/Client_2.md",
+    "Praktikum/Notiz/Action-Server.md",
+    "Praktikum/AGCO/Abschlusspräsentation",
+    "Unity/Unity_Notiz.md",
     "ROS/ROS2/Action/Client.md",
     "ROS/ROS2/Python/Subscriber.md",
     "ROS/ROS2/Action/Befehle.md",
@@ -181,6 +192,7 @@
     "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md",
     "ROS/Befehle bzw. Tools.md",
     "ROS/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20230725111156.png",
     "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
     "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
@@ -195,10 +207,6 @@
     "ROS/Programm starten.md",
     "ROS/Topics and Messages.md",
     "ROS/Roboter_Bewegung.md",
-    "ROS/Sensor.md",
-    "ROS/ROS Installieren.md",
-    "ROS/Packages.md",
-    "ROS/ROS1/Package/Paket erzeugen.md",
     "ROS/ROS1/Package",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
