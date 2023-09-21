@@ -1,4 +1,7 @@
+<<<<<<< HEAD
+=======
 # 
+>>>>>>> origin/main
 - von Firma angeboten 
 	- Simulationsumgebung 
 		- Traktor-Modell 
@@ -6,18 +9,31 @@
 - Ziel 
 	- Pfad zum Endpunkt in Echtzeit planen und verfolgen 
 	- Hindernis vor dem Traktor-Modell während der Pfadverfolgung vermeiden 
+<<<<<<< HEAD
+
+=======
 #
+>>>>>>> origin/main
 - Dazu muss man: 
 	- einen Navigation-Stack anwenden  
 		- für Pfadplanung und Pfadverfolgung zuständig
 	- ein Collision-Avoidance Algorithmus entwickeln
 		- für Hindernis-Vermeidung zuständig 
+<<<<<<< HEAD
+
+
+=======
 #
+>>>>>>> origin/main
 - Kontrolle-Modul 
 	- nimmt Rückmeldung aus Simulationsumgebung 
 	- gibt Bewegungsbefehle aus 
 	- --> Damit wird ein geschlossener Kreis gebildet 
+<<<<<<< HEAD
+
+=======
 #
+>>>>>>> origin/main
 - Arbeitspakete klar 
 	- in 3 Phasen 
 		- Vorbereitung 
@@ -38,6 +54,11 @@
 	- Integration 
 		- meine Code in das ganze System integrieren 
 		- noch nicht stabil und nicht perfekt --> muss durch andere Ingenieuren korrigiert bzw. verbessert werden 
+<<<<<<< HEAD
+
+
+
+=======
 #
 ROS_Vorstellung 
 - Modulare Architektur
@@ -54,5 +75,6 @@ ROS_Publisher-Subscriber
 - Diese lose gekoppelte Kommunikation ermöglicht es den Komponenten, unabhängig voneinander zu arbeiten und auf Daten zuzugreifen, die sie benötigen. 
 #
 ROS_Client-Server 
+>>>>>>> origin/main
 
 
