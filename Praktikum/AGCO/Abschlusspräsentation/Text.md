@@ -16,8 +16,10 @@
 - um das System besser zu verstehen, schauen Sie bitte dies Bild. 
 - von Firma angeboten 
 	- Simulationsumgebung 
-		- Traktor-Modell 
-		- Feld 
+		- virtuelles Feld 
+		- virtuelles Traktor-Modell 
+		- virtueller LIDAR-Sensor 
+
 - Ziel 
 	- Pfad zum Endpunkt in Echtzeit planen und verfolgen 
 	- Hindernis vor dem Traktor-Modell während der Pfadverfolgung vermeiden 
