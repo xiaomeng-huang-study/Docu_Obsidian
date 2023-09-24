@@ -66,6 +66,9 @@
 		- noch nicht stabil und nicht perfekt --> muss durch andere Ingenieuren korrigiert bzw. verbessert werden 
 
 #
+- Im Folgenden werde ich die Struktur des Systems näher erläutern 
+- 
+#
 ROS_Vorstellung 
 - Modulare Architektur
 	- Roboteranwendungen aus wiederverwendbaren und unabhängigen Komponenten aufzubauen. --> "ROS-Package" 
