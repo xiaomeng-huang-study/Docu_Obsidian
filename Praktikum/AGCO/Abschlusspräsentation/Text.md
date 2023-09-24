@@ -24,20 +24,22 @@
 	- wenn ich einen vernünftigen Punkt eingebe, sollte das Traktor-Modell einen Pfad zum Endpunkt planen und verfolgen. 
 	- während der Pfadverfolgung wird Hindernis vermeiden 
 
+- Die vorgegebene kann man als "Input" verstehen, 
+  die Ziele kann man als "Output" verstehen. 
+  Die Bearbeitung zwischen den ist meine Arbeit. 
+
 #
->>>>>>> origin/main
 - Dazu muss man: 
 	- einen Navigation-Stack anwenden  
 		- für Pfadplanung und Pfadverfolgung zuständig
 	- ein Collision-Avoidance Algorithmus entwickeln
 		- für Hindernis-Vermeidung zuständig 
-<<<<<<< HEAD
 
+- Die zwei Teile bilden das Kontrolle-Modul 
 
-=======
 #
 - Kontrolle-Modul 
-	- nimmt Rückmeldung aus Simulationsumgebung 
+	- nimmt Rückmeldung aus Simulationsumgebung auf 
 	- gibt Bewegungsbefehle aus 
 	- --> Damit wird ein geschlossener Kreis gebildet 
 
@@ -48,7 +50,7 @@
 		- Bearbeitung/ Entwicklung 
 		- Integration 
 	- Vorbereitung --> Inbetriebnahme 
-		- Projektdateien der Simulation holen und die simulierte Umgebung wiederherstellen 
+		- Projektdateien der Simulation holen und die simulierte Umgebung wiederherstellen und erweitern 
 			- Feld 
 				- z.B. Boden richtig gezeigt 
 			- Traktor 
@@ -62,11 +64,7 @@
 	- Integration 
 		- meine Code in das ganze System integrieren 
 		- noch nicht stabil und nicht perfekt --> muss durch andere Ingenieuren korrigiert bzw. verbessert werden 
-<<<<<<< HEAD
 
-
-
-=======
 #
 ROS_Vorstellung 
 - Modulare Architektur
