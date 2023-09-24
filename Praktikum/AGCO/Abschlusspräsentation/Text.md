@@ -67,7 +67,6 @@
 
 #
 - Im Folgenden werde ich die Struktur des Systems näher erläutern 
-- 
 #
 ROS_Vorstellung 
 - Modulare Architektur
@@ -84,6 +83,6 @@ ROS_Publisher-Subscriber
 - Diese lose gekoppelte Kommunikation ermöglicht es den Komponenten, unabhängig voneinander zu arbeiten und auf Daten zuzugreifen, die sie benötigen. 
 #
 ROS_Client-Server 
->>>>>>> origin/main
+
 
 
