@@ -68,7 +68,7 @@
 #
 - Im Folgenden werde ich die Struktur des Systems näher erläutern 
 #
-ROS_Vorstellung 
+- Bevor ich die Arbeitspakete einzeln durchgehe, ist es notwendig, das unterliegende System zu beschreiben. 
 - Modulare Architektur
 	- Roboteranwendungen aus wiederverwendbaren und unabhängigen Komponenten aufzubauen. --> "ROS-Package" 
 	- Kommunikation über definierte Schnittstellen 
@@ -83,6 +83,8 @@ ROS_Publisher-Subscriber
 - Diese lose gekoppelte Kommunikation ermöglicht es den Komponenten, unabhängig voneinander zu arbeiten und auf Daten zuzugreifen, die sie benötigen. 
 #
 ROS_Client-Server 
+
+
 
 
 
