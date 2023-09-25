@@ -87,8 +87,12 @@ ROS_Client-Server
 # Inbetriebnahme 
 ## Unity 
 - zuerst muss ich die Umgebung in Unity wiederherstellen. 
+### Unity-ROS-Connecter 
+- Eine Brücke für den Nachrichtenaustausch muss gebaut werden 
+- linke Seite ist Unity, rechte Seite ist ROS, jeder Nachrichtenaustausch findet durch die Brücke "Server Endpoint" statt. 
+- ### Schnittstelle Bewegung 
+- Das Traktor-Modell abonniert das Topic „/pilot/setpoint“  und zeigt Aktionen wie gerade nach vorne zu fahren und das Wenden, wenn es eine Nachricht erhält. 
 
-
-
-
-
+# Navigation-Stack 
+- Für Navigation-Stack habe ich "nav2" benutzt 
+- 
