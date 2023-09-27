@@ -111,10 +111,25 @@
 # Navigation-Stack 
 - Für Navigation-Stack habe ich "nav2" benutzt 
 - Damit das System richtig funktionieren kann, muss man die Eingabesanforderungen erfüllen. 
+	- BT, Map, Sensor Daten 
+	- tf-Kette 
 - Innerhalb von diesem System spielen Controller-Server und Planner-Server wichtige Rollen. 
 	- Der Planner-Server erstellt und optimiert Navigationspfade unter Verwendung verschiedener Algorithmen. Diese Pfade werden dann an den Controller-Server weitergegeben. 
 	- Der Controller-Server vergleicht den Pfad mit der aktuellen Position und Ausrichtung, führt Korrekturen durch. Damit kann er Bewegungsbefehle generieren. 
 	- grob zu sagen: Planner-Server ist für die globale Planung zuständig und Controller-Server ist für die Details zuständig. 
 	- Deswegen muss man die 2 Controller anpassen 
 - Ausgabe des Systems sind Bewegungsbefehle. 
+
+## BT 
+- 
+## Sensor Daten 
+- Die Form der Sensor Daten ist Pointcloud. Hier wird eine Ecke eines Würfels gezeigt. 
+## Map 
+- 
+Die sind nicht der Schwerpunkt der Arbeit. 
+## TF-Kette 
+- Mein Hauptfokus liegt auf Transformationskette. 
+- Zuerst müssen wir klären, was ist eine Transformation 
+- z.B. ... Dann wird eine Transformation benötigt 
+- Transformation ist eine einheitliche Darstellung der Position und Ausrichtung der Objekte
 
