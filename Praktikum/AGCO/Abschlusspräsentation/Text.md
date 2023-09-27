@@ -81,22 +81,23 @@
 	- Nach Erhalt des Navigationsziels wird ein Pfad geplant 
 	- dann mit der aktuellen Position mal vergleichen, und Bewegungsbefehlen ausgeben 
 - 
-#
+# Hintergrund_ROS 
 - Bevor ich die Arbeitspakete einzeln durchgehe, ist es notwendig, das unterliegende System zu beschreiben. 
 - Modulare Architektur
-	- Roboteranwendungen aus wiederverwendbaren und unabhängigen Komponenten aufzubauen. --> "ROS-Package" 
+	- Roboteranwendungen sind aus wiederverwendbaren und unabhängigen Komponenten aufzubauen. --> "ROS-Package" 
 	- Kommunikation über definierte Schnittstellen 
 - Kommunikation 
 	- als Nächstes mehr erklären 
 - Werkzeug und Bibliotheken 
 	- Dazu gehören Tools zur Visualisierung, zum Debuggen, zur Simulation und zur Datenanalyse. 
 	- Außerdem stehen eine breite Palette von Bibliotheken zur Verfügung, die Funktionen wie Pfadplanung, Lokalisierung, Bildverarbeitung und vieles mehr 
-#
-ROS_Publisher-Subscriber 
+# ROS-Kommunikation 
+- ROS hat 2 grundlegende Kommunikationsmuster 
+## ROS_Publisher-Subscriber 
 - In diesem Muster fungiert eine Komponente als Publisher, indem sie Daten zu einem bestimmten Thema (Topic) sendet. Andere Komponenten können sich als Subscriber für dieses Thema registrieren und die Daten empfangen. 
 - Diese lose gekoppelte Kommunikation ermöglicht es den Komponenten, unabhängig voneinander zu arbeiten und auf Daten zuzugreifen, die sie benötigen. 
-#
-ROS_Client-Server 
+## ROS_Client-Server 
+- 
 
 # Inbetriebnahme 
 ## Unity 
