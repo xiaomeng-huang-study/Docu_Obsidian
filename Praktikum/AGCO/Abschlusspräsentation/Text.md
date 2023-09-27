@@ -110,4 +110,11 @@
 
 # Navigation-Stack 
 - Für Navigation-Stack habe ich "nav2" benutzt 
-- 
+- Damit das System richtig funktionieren kann, muss man die Eingabesanforderungen erfüllen. 
+- Innerhalb von diesem System spielen Controller-Server und Planner-Server wichtige Rollen. 
+	- Der Planner-Server erstellt und optimiert Navigationspfade unter Verwendung verschiedener Algorithmen. Diese Pfade werden dann an den Controller-Server weitergegeben. 
+	- Der Controller-Server vergleicht den Pfad mit der aktuellen Position und Ausrichtung, führt Korrekturen durch. Damit kann er Bewegungsbefehle generieren. 
+	- grob zu sagen: Planner-Server ist für die globale Planung zuständig und Controller-Server ist für die Details zuständig. 
+	- Deswegen muss man die 2 Controller anpassen 
+- Ausgabe des Systems sind Bewegungsbefehle. 
+
