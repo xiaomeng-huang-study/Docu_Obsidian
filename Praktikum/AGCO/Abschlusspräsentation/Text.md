@@ -147,3 +147,9 @@ Dann ist die Definition für Transformation klar. ...
 
 ### Frame 
 Dazu wird Frame benötigt. 
+
+
+### Motion-Model-Controller 
+Hier muss ich Motion Model Controller vorstellen. 
+- Der nimmt TF-Transformation und Steuerungsbefehle auf. 
+	- 
