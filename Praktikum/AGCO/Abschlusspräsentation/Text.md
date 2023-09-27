@@ -158,3 +158,5 @@ Hier muss ich Motion Model Controller vorstellen.
 - Und zum Schluss wird die neue Position und Ausrichtung bestimmt 
 
 um diesen Prinzip zu verstehen, ist Bicycle-Model Controller ein guter Einstiegspunkt. 
+Setzen wir den Referenzpunkt auf Hinterachse, nach einigen mathematischen Herleitungen kann man die neue Rotation und Position verglichen mit vorherigen bestimmen. 
+Hier kann man sehen, diskrete Integration wird verwendet. 
