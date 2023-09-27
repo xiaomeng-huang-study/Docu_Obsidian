@@ -1,3 +1,5 @@
+#
+
 # 
 - Traditionale Landmaschinen werden durch Menschen gefahren und gesteuert. Um Arbeitskräfte zu sparen und präzisere Arbeitsabläufe zu erreichen, ist es notwendig, sie zu autonomen Maschinen umzuwandeln. 
 - Ein typischer autonomer Prozess sieht so aus 
@@ -65,8 +67,20 @@
 		- meine Code in das ganze System integrieren 
 		- noch nicht stabil und nicht perfekt --> muss durch andere Ingenieuren korrigiert bzw. verbessert werden 
 
-#
+# Architektur 
 - Im Folgenden werde ich die Struktur des Systems näher erläutern 
+- Unity 
+	- 3 Sachen muss ich mindestens wiederherstellen 
+	- Feld: Boden muss richtig gezeigt werden 
+	- Traktor-Modell: nach den Bewegungsbefehlen präzise Bewegungen zeigen 
+	- Sensor-Modell: simulierte Sensor-Daten können aus Sensor-Modell ausgeschickt 
+- Collision-Avoidance 
+	- die Positionsinfo und Sensordaten werden dem Algorithmus übergeben und verarbeitet 
+	- Dann wird ein Navigationsziel berechnet und ausgeschickt 
+- Navigation 
+	- Nach Erhalt des Navigationsziels wird ein Pfad geplant 
+	- dann mit der aktuellen Position mal vergleichen, und Bewegungsbefehlen ausgeben 
+- 
 #
 - Bevor ich die Arbeitspakete einzeln durchgehe, ist es notwendig, das unterliegende System zu beschreiben. 
 - Modulare Architektur
