@@ -152,4 +152,9 @@ Dazu wird Frame benötigt.
 ### Motion-Model-Controller 
 Hier muss ich Motion Model Controller vorstellen. 
 - Der nimmt TF-Transformation und Steuerungsbefehle auf. 
-	- 
+	- z.B. die relative Position zwischen Traktor und Feld 
+	- links rechts abbiegen, oder gerade nach vorne fahren. 
+- Dann kommt eine zeitliche Integration der Geschwindigkeiten. 
+- Und zum Schluss wird die neue Position und Ausrichtung bestimmt 
+
+um diesen Prinzip zu verstehen, ist Bicycle-Model Controller ein guter Einstiegspunkt. 
