@@ -131,5 +131,19 @@ Die sind nicht der Schwerpunkt der Arbeit.
 - Mein Hauptfokus liegt auf Transformationskette. 
 - Zuerst müssen wir klären, was ist eine Transformation 
 - z.B. ... Dann wird eine Transformation benötigt 
-- Transformation ist eine einheitliche Darstellung der Position und Ausrichtung der Objekte
+### Transformation 
+- Hier wird eine Transformationsmatrix gezeigt. 
+- Die besteht aus 2 Teilen 
+	- a_11 bis a_33 ist eine Rotationsmatrix 
+	- a_14 bis a_34 ist ein Translationsvektor 
+#### Schauen wir zuerst Rotation an. 
+Matrix ist vielleicht schwierig zu verstehen. Dazu gibt es auch eine andere Darstellungsform: Quaternion. 
+Die sieht so aus. 
+... 
+#### Dann kommt Translation 
+Die Bedeutung ist deutlich einfacher 
 
+Dann ist die Definition für Transformation klar. ... 
+
+### Frame 
+Dazu wird Frame benötigt. 
