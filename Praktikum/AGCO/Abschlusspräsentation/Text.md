@@ -9,35 +9,32 @@ Ich bin Xiaomeng Huang. Ich habe das Praxissemester im Zeitraum von Feb. bis Jul
 ---
 - Autonomie hat mich sehr interessiert, daher habe ich das Praktikum in diese Richtung ausgerichtet. 
 # 
-- Traditionale Landmaschinen werden durch Menschen gefahren und gesteuert. Um Arbeitskräfte zu sparen und präzisen Arbeitsablauf zu erreichen, ist es notwendig, sie zu autonomen Maschinen umzuwandeln. 
---- 
-- Ein typischer autonomer Prozess sieht so aus 
-- spezifiziert für Bodenbearbeitung mit Traktor 
-- Nach der Zuweisung der Aufgaben -> 
-	- "Process Automation": stellt Parameter autonom ein, z.B. Pflug usw. 
-	- "Local Guidance": erkennt und verfolgt Landmarke wie Schwade usw. 
-- Dazu ist Sicherheit des Traktors wichtig 
-	- z.B. Hindernisse nicht berühren, nicht zu einer nassen Stelle fahren 
-	- "Environmental Safety" überwacht diesen Prozess. 
-- alle Ergebnisse der obigen Prozessen werden von "Health Management" geprüft. Wenn kein Problem, werden die Befehle durch Interface zu dem Traktor weitergeleitet. 
-
-- Aus diesem System kann man leicht erkennen, Hindernis-Vermeidungssystem ist ein wichtiger Bestandteil. Meine Aufgabe ist, das Hindernis-Vermeidungssystem zu entwickeln und prüfen. Bevor das Programm auf echten Landmaschinen läuft, ist eine Simulation erforderlich. Deswegen geht es meine Arbeit hauptsächlich um Simulation. --> im roten Kästchen wird simuliertes System dargestellt. 
-
+- Traditionelle Landmaschinen werden durch Menschen gefahren und gesteuert. Um Arbeitskräfte zu sparen und präzisen Arbeitsablauf zu erreichen, ist es notwendig, sie zu autonomen Maschinen umzuwandeln. 
+- Ein autonomer Prozess sieht so aus
+- Sicherheit der Landmaschine kann man nicht vernachlässigen.
+- Es ist notwendig, einen geeigneten Algorithmus zur Hindernisvermeidung zu entwickeln 
 #
-- um das System besser zu verstehen, schauen Sie bitte dies Bild. 
-
+- Landmaschinen beziehen sich hier hauptsächlich auf Traktoren.
+- Ich füge hier ein paar Bilder an. 
+# 
+- Meine Aufgabe ist, das Hindernis-Vermeidungssystem zu entwickeln und prüfen. 
+- Bevor das Programm auf echten Landmaschinen läuft, ist eine Simulation erforderlich. Deswegen geht es meine Arbeit hauptsächlich um Simulation. 
+---
 - Simulationsumgebung wird von Firma angeboten 
 	- virtuelles Feld 
 	- virtuelles Traktor-Modell 
 	- virtueller LIDAR-Sensor (auf Traktor montiert) 
 - Ich nehme die gesamte Simulationsumgebung auf und erweitere die. 
+---
 - Nach meiner Arbeit sollten folgende Ziele erreicht 
 	- wenn ich einen vernünftigen Punkt eingebe, sollte das Traktor-Modell einen Pfad zum Endpunkt planen und verfolgen. 
 	- während der Pfadverfolgung wird Hindernis vermeiden 
-
-- Die vorgegebene kann man als "Input" verstehen, 
-  die Ziele kann man als "Output" verstehen. 
-  Die Bearbeitung zwischen den ist meine Arbeit. 
+---
+- Die vorgegebene kann man als "Input" verstehen 
+---
+- die Ziele kann man als "Output" verstehen 
+---
+- Die Bearbeitung zwischen den ist meine Arbeit. 
 
 #
 - Dazu muss man: 
@@ -62,10 +59,6 @@ Ich bin Xiaomeng Huang. Ich habe das Praxissemester im Zeitraum von Feb. bis Jul
 		- Integration 
 	- Vorbereitung --> Inbetriebnahme 
 		- Projektdateien der Simulation holen und die simulierte Umgebung wiederherstellen und erweitern 
-			- Feld 
-				- z.B. Boden richtig gezeigt 
-			- Traktor 
-				- nach den Befehlen (links abb., nach vorne fahren usw.) präzise Bewegungen zeigen 
 	- Navigation-Stack 
 		- einen geeigneten für autonomes Fahren auswählen 
 		- in der Simulation anwenden 
@@ -92,6 +85,8 @@ Ich bin Xiaomeng Huang. Ich habe das Praxissemester im Zeitraum von Feb. bis Jul
 - 
 # Hintergrund_ROS 
 - Bevor ich die Arbeitspakete einzeln durchgehe, ist es notwendig, das unterliegende System zu beschreiben. 
+- Hier werde ich Konzept für ROS einführen und die Kommunikationsmuster vorstellen 
+
 - Modulare Architektur
 	- Roboteranwendungen sind aus wiederverwendbaren und unabhängigen Komponenten aufzubauen. --> "ROS-Package" 
 	- Kommunikation über definierte Schnittstellen 
