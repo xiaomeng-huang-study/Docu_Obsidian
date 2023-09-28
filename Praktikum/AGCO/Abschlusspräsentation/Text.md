@@ -169,4 +169,33 @@ Ein wichtiger Faktor ist die Unterstützung für verschiedene Bewegungsmodelle.
 - Ackermann Drive: Ein Ackermann Drive ist ein spezieller Typ von Differential Drive. Das verwendet eine spezielle Lenkgeometrie. Die Lenkungswinkel von den beiden Rädern sind unterschiedlich, d.h. Die Räder bewegen entlang von unterschiedlichen Kreisen. Deswegen ist eine präzise Kurvenfahrt möglich. 
 
 Aus der obigen Darstellungen kann man sehen, verschiedene Type haben verschiedene Lenkungsarten. 
-Nach der Parametereinstellung kann nav2 die entsprechenden Befehle für verschiedene Antriebstypen ausgeben.
+Nach der Parametereinstellung kann nav2 die entsprechenden Befehle für verschiedene Antriebstypen ausgeben. 
+
+# Collision-Avoidance 
+## Objekterkennung
+- Die Firma hat ein Programm gestellt. Das Programm kann die PointClouds aufbauen, und die filtern, und schließlich die Informationen des erkannten Objekts als Polygon mit 4 Ecken in 2D-Ebene darstellen. 
+- Von hier kann man die Koordinaten ablesen. Ich nehme ein Beispiel. Die Punkte sind mit diesen Koordinaten. 
+- Zur Visualisierung bringen. Da in 2D-Ebene, wird die Höheinformation vernachlässigt. Ich nehme an, der Traktor richtet sich nach vorne. Deswegen ist das Objekt vor der linken Seite. 
+## Algorithmus 
+- Als nächstes werde ich über den Algorithmus sprechen. 
+- Die Winkel dieser vier Punkte in Bezug auf den Traktor werden berechnet. 
+- Dann erkenne ich 
+	- dieser Punkt ist mit dem minimalen Winkel 
+	- dieser Punkt ist mit dem maximalen Winkel 
+- Danach markiere ich die 
+- Der Traktor hat selbst eine Größe. Diese beiden Punkte werden um Sicherheitsradius nach außen erweitert. Der Sicherheitsradius kann 5 m usw. sein. Damit wird ein Hinderniswinkelbereich gebildet. (wie orange) 
+- Als nächste wird mit dem Ziel verglichen. Dann wird in 2 Situationen aufgeteilt. 
+	- Situation 1: Endziel nicht im Winkelbereich 
+	- Situation 2: Endziel im Winkelbereich 
+- Für Situation 1, einfach geradeaus in diese Richtung fahren. 
+- Für Situation 2, wird die Fahrt verhindert. Muss man die Fahrt in Teilstrecken aufteilen. 
+	- Auch mit diesem markierten Punkt wird um z.B. 2 mal Sicherheitsradius erweitern. Dann setze ich diesen Punkt als Zwischenstopp. 
+	- Nachdem der Traktor diesen Punkt erreicht hat, werden die Hindernisinformationen erneut erfasst. Die gleiche Strategie wird erneut ausgeführt. 
+	- d.h. Obiger Vorgang wird wiederholt bis Endziel erreicht wird. 
+## Realisierung in ROS 
+- Für die Realisierung in ROS habe ich eine Action, die vom Server "followwaypoints" angeboten wird, benutzt. Mit diesem Server werden angegebenen Punkte verfolgt. Damit habe ich eine volle Kontrolle bzw. eine Überwachung. 
+- Ich, als Client, rufe diesen Dienst bzw. Service auf. Der Server wird von nav2 angeboten. Der Aufruf eines Dienstes kann man als Dialog verstehen. 
+
+# Integration 
+- Der letzte Schritt ist Integration. Das Programm, das ich geschrieben habe, muss mit den Programmen des Unternehmens zusammenarbeiten können. 
+- Zur Veranschaulichung zeige ich ein Video 
