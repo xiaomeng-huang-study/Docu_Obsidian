@@ -6,6 +6,7 @@ Ich bin Xiaomeng Huang. Ich habe das Praxissemester im Zeitraum von Feb. bis Jul
 - Fendt ist ein Premiumhersteller von AGCO. 
 - Ich habe in Abteilung Vorentwicklung gearbeitet.  
 - Der Forschungsschwerpunkt liegt im Bereich der Autonomie, Agrarrobotik und alternativen Antrieben. 
+- Autonomie hat mich sehr interessiert, daher habe ich das Praktikum in diese Richtung ausgerichtet. 
 # 
 - Traditionale Landmaschinen werden durch Menschen gefahren und gesteuert. Um Arbeitskräfte zu sparen und präzisere Arbeitsabläufe zu erreichen, ist es notwendig, sie zu autonomen Maschinen umzuwandeln. 
 - Ein typischer autonomer Prozess sieht so aus 
