@@ -6,17 +6,19 @@ Ich bin Xiaomeng Huang. Ich habe das Praxissemester im Zeitraum von Feb. bis Jul
 - Fendt ist ein Premiumhersteller von AGCO. 
 - Ich habe in Abteilung Vorentwicklung gearbeitet.  
 - Der Forschungsschwerpunkt liegt im Bereich der Autonomie, Agrarrobotik und alternativen Antrieben. 
+---
 - Autonomie hat mich sehr interessiert, daher habe ich das Praktikum in diese Richtung ausgerichtet. 
 # 
-- Traditionale Landmaschinen werden durch Menschen gefahren und gesteuert. Um Arbeitskräfte zu sparen und präzisere Arbeitsabläufe zu erreichen, ist es notwendig, sie zu autonomen Maschinen umzuwandeln. 
+- Traditionale Landmaschinen werden durch Menschen gefahren und gesteuert. Um Arbeitskräfte zu sparen und präzisen Arbeitsablauf zu erreichen, ist es notwendig, sie zu autonomen Maschinen umzuwandeln. 
+--- 
 - Ein typischer autonomer Prozess sieht so aus 
-
 - spezifiziert für Bodenbearbeitung mit Traktor 
 - Nach der Zuweisung der Aufgaben -> 
 	- "Process Automation": stellt Parameter autonom ein, z.B. Pflug usw. 
 	- "Local Guidance": erkennt und verfolgt Landmarke wie Schwade usw. 
 - Dazu ist Sicherheit des Traktors wichtig 
 	- z.B. Hindernisse nicht berühren, nicht zu einer nassen Stelle fahren 
+	- "Environmental Safety" überwacht diesen Prozess. 
 - alle Ergebnisse der obigen Prozessen werden von "Health Management" geprüft. Wenn kein Problem, werden die Befehle durch Interface zu dem Traktor weitergeleitet. 
 
 - Aus diesem System kann man leicht erkennen, Hindernis-Vermeidungssystem ist ein wichtiger Bestandteil. Meine Aufgabe ist, das Hindernis-Vermeidungssystem zu entwickeln und prüfen. Bevor das Programm auf echten Landmaschinen läuft, ist eine Simulation erforderlich. Deswegen geht es meine Arbeit hauptsächlich um Simulation. --> im roten Kästchen wird simuliertes System dargestellt. 
