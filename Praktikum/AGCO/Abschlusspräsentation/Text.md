@@ -157,6 +157,17 @@ Hier muss ich Motion Model Controller vorstellen.
 - Dann kommt eine zeitliche Integration der Geschwindigkeiten. 
 - Und zum Schluss wird die neue Position und Ausrichtung bestimmt 
 
-um diesen Prinzip zu verstehen, ist Bicycle-Model Controller ein guter Einstiegspunkt. 
-Setzen wir den Referenzpunkt auf Hinterachse, nach einigen mathematischen Herleitungen kann man die neue Rotation und Position verglichen mit vorherigen bestimmen. 
+Die Firma hat die Umsetzung vom Erhalt der Bewegungsbefehle zu einer Aktualisierung der Transformation realisiert. Aber zu kompliziert, z.B. eine nichtlineare Geschwindigkeitsänderung. Um diesen Prinzip zu verstehen, ist Bicycle-Model Controller ein guter Einstiegspunkt. 
+Setzen wir den Referenzpunkt auf Hinterachse, nach einigen mathematischen Herleitungen kann man die neue Ausrichtung und Position im Vergleich zu den vorherigen bestimmen. 
 Hier kann man sehen, diskrete Integration wird verwendet. 
+
+Nachdem alle Eingabeanforderungen erfüllt sind, müssen die zwei internen Server angepasst werden. Verschiedene Server können sich in Strategie oder Anwendungsbereich unterscheiden. 
+Ein wichtiger Faktor ist die Unterstützung für verschiedene Bewegungsmodelle. 
+
+- Omni Drive: das kann sich in alle Richtungen bewegen, ohne seine Ausrichtung zu ändern. Durch die unabhängige Steuerung der Räder kann der Roboter in beliebige Richtungen fahren. 
+- Differential Drive: Das hat zwei Räder, die unabhängig voneinander gesteuert werden können. Die Geschwindigkeiten der beiden Räder können unterschiedlich sein, ist eine Drehung um seine eigene Achse möglich. 
+- Ackermann: Ein Ackermann-Roboter ist ein spezieller Typ von 41 
+
+  
+
+Differential Drive-Roboter, der eine besondere Lenkgeometrie verwendet, um präzise Kurvenfahrten zu ermöglichen. Die Räder des Ackermann-Roboters sind so angeordnet, dass sie sich bei Kurvenfahrten entlang von unterschiedlichen Kreisen bewegen. Dies ermöglicht eine glatte Kurvenfahrt ohne Schlupf zwischen den Rädern. 

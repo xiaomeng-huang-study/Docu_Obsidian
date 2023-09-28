@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,11 +175,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7a3674a0e3acdef8",
+  "active": "f036defd4a184674",
   "lastOpenFiles": [
+    "Recording 20230928141045.webm",
+    "Praktikum/AGCO/Abschlusspräsentation/Text.md",
     "Recording 20230914111909.webm",
     "Praktikum/AGCO/Abschlussbericht/Anhang.md",
-    "Praktikum/AGCO/Abschlusspräsentation/Text.md",
     "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
     "ROS/ROS2/Action/Client_2.md",
     "Praktikum/Notiz/Action-Server.md",
@@ -212,8 +212,6 @@
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
     "Praktikum/AGCO/Abschlussbericht/nav2_test",
-    "ROS/ROS2/Action",
-    "ROS/ROS2/C++",
-    "ROS/ROS1/C++"
+    "ROS/ROS2/Action"
   ]
 }
