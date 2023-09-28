@@ -166,8 +166,7 @@ Ein wichtiger Faktor ist die Unterstützung für verschiedene Bewegungsmodelle.
 
 - Omni Drive: das kann sich in alle Richtungen bewegen, ohne seine Ausrichtung zu ändern. Durch die unabhängige Steuerung der Räder kann der Roboter in beliebige Richtungen fahren. 
 - Differential Drive: Das hat zwei Räder, die unabhängig voneinander gesteuert werden können. Die Geschwindigkeiten der beiden Räder können unterschiedlich sein, ist eine Drehung um seine eigene Achse möglich. 
-- Ackermann: Ein Ackermann-Roboter ist ein spezieller Typ von 41 
+- Ackermann Drive: Ein Ackermann Drive ist ein spezieller Typ von Differential Drive. Das verwendet eine spezielle Lenkgeometrie. Die Lenkungswinkel von den beiden Rädern sind unterschiedlich, d.h. Die Räder bewegen entlang von unterschiedlichen Kreisen. Deswegen ist eine präzise Kurvenfahrt möglich. 
 
-  
-
-Differential Drive-Roboter, der eine besondere Lenkgeometrie verwendet, um präzise Kurvenfahrten zu ermöglichen. Die Räder des Ackermann-Roboters sind so angeordnet, dass sie sich bei Kurvenfahrten entlang von unterschiedlichen Kreisen bewegen. Dies ermöglicht eine glatte Kurvenfahrt ohne Schlupf zwischen den Rädern. 
+Aus der obigen Darstellungen kann man sehen, verschiedene Type haben verschiedene Lenkungsarten. 
+Nach der Parametereinstellung kann nav2 die entsprechenden Befehle für verschiedene Antriebstypen ausgeben.
