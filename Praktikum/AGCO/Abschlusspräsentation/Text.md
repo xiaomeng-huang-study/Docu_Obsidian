@@ -154,7 +154,7 @@ Dazu wird Frame benötigt.
 
 
 ### Motion-Model-Controller 
-Hier muss ich Motion Model Controller vorstellen. 
+Motion Model Controller spielt hier eine wichtige Rolle. 
 - Der nimmt TF-Transformation und Steuerungsbefehle auf. 
 	- z.B. die relative Position zwischen Traktor und Feld 
 	- links rechts abbiegen, oder gerade nach vorne fahren. 
