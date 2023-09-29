@@ -169,11 +169,11 @@ Hier kann man sehen, diskrete Integration wird verwendet.
 Nachdem alle Eingabeanforderungen erfüllt sind, müssen die zwei internen Server angepasst werden. Verschiedene Server können sich in Strategie oder Anwendungsbereich unterscheiden. 
 Ein wichtiger Faktor ist die Unterstützung für verschiedene Bewegungsmodelle. 
 
-- Omni Drive: das kann sich in alle Richtungen bewegen, ohne seine Ausrichtung zu ändern. Durch die unabhängige Steuerung der Räder kann der Roboter in beliebige Richtungen fahren. 
+- Omni Drive: Durch die unabhängige Steuerung der Räder kann der Roboter in beliebige Richtungen fahren, ohne seine Ausrichtung zu ändern.
 - Differential Drive: Das hat zwei Räder, die unabhängig voneinander gesteuert werden können. Die Geschwindigkeiten der beiden Räder können unterschiedlich sein, ist eine Drehung um seine eigene Achse möglich. 
 - Ackermann Drive: Ein Ackermann Drive ist ein spezieller Typ von Differential Drive. Das verwendet eine spezielle Lenkgeometrie. Die Lenkungswinkel von den beiden Rädern sind unterschiedlich, d.h. Die Räder bewegen entlang von unterschiedlichen Kreisen. Deswegen ist eine präzise Kurvenfahrt möglich. 
 
-Aus der obigen Darstellungen kann man sehen, verschiedene Type haben verschiedene Lenkungsarten. 
+Aus den obigen Darstellungen kann man sehen, verschiedene Type haben verschiedene Lenkungsarten. 
 Nach der Parametereinstellung kann nav2 die entsprechenden Befehle für verschiedene Antriebstypen ausgeben. 
 
 # Collision-Avoidance 
