@@ -162,6 +162,7 @@ Motion Model Controller spielt hier eine wichtige Rolle.
 - Und zum Schluss wird die neue Position und Ausrichtung bestimmt 
 
 Die Firma hat die Umsetzung vom Erhalt der Bewegungsbefehle zu einer Aktualisierung der Transformation realisiert. Aber zu kompliziert, z.B. eine nichtlineare Geschwindigkeitsänderung. Um diesen Prinzip zu verstehen, ist Bicycle-Model Controller ein guter Einstiegspunkt. 
+
 Setzen wir den Referenzpunkt auf Hinterachse, nach einigen mathematischen Herleitungen kann man die neue Ausrichtung und Position im Vergleich zu den vorherigen bestimmen. 
 Hier kann man sehen, diskrete Integration wird verwendet. 
 
