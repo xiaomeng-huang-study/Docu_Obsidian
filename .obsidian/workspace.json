@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Referat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a57b906a949fa6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "BWL/Notiz_20231009.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +175,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a57b906a949fa6d",
+  "active": "f776512a7fab1a14",
   "lastOpenFiles": [
     "BWL/Referat.md",
     "BWL/Notiz_20231009.md",
