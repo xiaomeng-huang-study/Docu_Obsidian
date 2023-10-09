@@ -1,7 +1,5 @@
 - SSH
-	- `cd C:\Users\User_Name\.ssh` 
-	- `git bash here` 
-	- `ssh-keygen -t rsa` : SSH-Schlüssel zu erzeugen
+	- `ssh-keygen -t rsa -C "comment" -f C:/Users/"User_Name"/.ssh/id_rsa_XXX` 
 	- `touch config` : config zu erzeugen
 		```
 		# GITHUB
