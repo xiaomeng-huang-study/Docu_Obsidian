@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "610f9f9c1ea6f9f0",
+            "id": "f776512a7fab1a14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notiz_20231009.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notiz_20231009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notiz_20231009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notiz_20231009.md"
+              }
             }
           },
           {
@@ -167,8 +175,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "610f9f9c1ea6f9f0",
+  "active": "f776512a7fab1a14",
   "lastOpenFiles": [
+    "Notiz_20231009.md",
+    "BWL",
     "Praktikum/AGCO/Abschlusspräsentation/Text.md",
     "Recording 20230928141045.webm",
     "Recording 20230914111909.webm",
@@ -203,7 +213,6 @@
     "ROS/ROS1/Package",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
-    "Praktikum/AGCO/Abschlussbericht/nav2_test",
-    "ROS/ROS2/Action"
+    "Praktikum/AGCO/Abschlussbericht/nav2_test"
   ]
 }
