@@ -178,9 +178,10 @@
   "active": "528418d066651a9d",
   "lastOpenFiles": [
     "Aktorsysteme/Notiz_20231010.md",
+    "Regelungstechnik/magnetische Größen.md",
+    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Aktorsysteme",
     "Prog Python/List.md",
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Softwarearchitekturen",
     "BWL/Notiz_20231009.md",
     "Elektronik2/idealer Operationsverstärker.md",
@@ -212,7 +213,6 @@
     "Praktikum/ProjektWoche",
     "ROS/ROS2/Python/Publisher.md",
     "Praktikum/AGCO/Simulation/Backup_Code",
-    "Praktikum/AGCO/Simulation/Backup.md",
     "ROS/ROS1/Package",
     "ROS/ROS2/Build"
   ]
