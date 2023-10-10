@@ -1,0 +1,13 @@
+- Deformation 形变 
+
+- Herausforderungen für KI 
+	- Verzerrungen 
+	- Blackbox 
+	- unbekannte 
+	- nicht Bild, sondern Pixel 
+	- Viewpoint 
+	- Beleuchtung 
+	- Deformation 
+	- Verdeckung 
+	- Background 
+	- Variation innerhalb einer Klasse 
