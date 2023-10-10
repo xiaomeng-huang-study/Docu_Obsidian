@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regelungstechnik/magnetische Größen.md",
+                "file": "Aktorsysteme/Notiz_20231010.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regelungstechnik/magnetische Größen.md",
+                "file": "Aktorsysteme/Notiz_20231010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regelungstechnik/magnetische Größen.md",
+                "file": "Aktorsysteme/Notiz_20231010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regelungstechnik/magnetische Größen.md"
+                "file": "Aktorsysteme/Notiz_20231010.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "528418d066651a9d",
   "lastOpenFiles": [
-    "Aktorsysteme/Notiz_20231010.md",
     "Regelungstechnik/magnetische Größen.md",
+    "Aktorsysteme/Notiz_20231010.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Aktorsysteme",
     "Prog Python/List.md",
