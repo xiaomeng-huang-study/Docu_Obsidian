@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7aae19ada39deb37",
+        "id": "01ba4c4cf1d88c91",
         "type": "tabs",
         "children": [
           {
-            "id": "0c1bb550800be83b",
+            "id": "a0689378b4b663fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Notiz_20231009.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BWL/Notiz_20231009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BWL/Notiz_20231009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BWL/Notiz_20231009.md"
+              }
             }
           },
           {
@@ -167,10 +175,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0c1bb550800be83b",
+  "active": "a0689378b4b663fe",
   "lastOpenFiles": [
-    "Software Engineering/Git_Konfiguration.md",
+    "Elektronik2/idealer Operationsverstärker.md",
     "BWL/Notiz_20231009.md",
+    "Snipaste_2023-06-17_16-47-01.png",
+    "Software Engineering/Git_Konfiguration.md",
     "BWL/Referat.md",
     "BWL",
     "Praktikum/AGCO/Abschlusspräsentation/Text.md",
@@ -200,8 +210,6 @@
     "Praktikum/AGCO/Simulation/Backup.md",
     "ROS/ROS2/Python/Package.xml.md",
     "ROS/ROS2/Python/package.xml.md",
-    "ROS/ROS2/C++/Package.xml.md",
-    "ROS/Programm starten.md",
     "ROS/ROS1/Package",
     "ROS/ROS2/Build",
     "ROS/ROS2/Package",
