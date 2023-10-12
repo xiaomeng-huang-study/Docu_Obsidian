@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc5975ba95b1d1a6",
+        "id": "d5491a6c29eab18c",
         "type": "tabs",
         "children": [
           {
-            "id": "df27aa13bea5f6d2",
+            "id": "dd1b71bc1e1b58af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Grammar/Grammar_Note.md",
+                "file": "Project Management/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Grammar/Grammar_Note.md",
+                "file": "Project Management/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Grammar/Grammar_Note.md",
+                "file": "Project Management/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Grammar/Grammar_Note.md"
+                "file": "Project Management/Untitled.md"
               }
             }
           },
@@ -175,8 +175,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "df27aa13bea5f6d2",
+  "active": "dd1b71bc1e1b58af",
   "lastOpenFiles": [
+    "Project Management/Note_20231012.md",
+    "Project Management/Untitled.md",
+    "Project Management",
     "English/Grammar/Grammar_Note.md",
     "English/Grammar",
     "English",
@@ -211,9 +214,6 @@
     "ROS/ROS2/Package/Paket erzeugen.md",
     "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md",
     "ROS/Befehle bzw. Tools.md",
-    "ROS/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20230725111156.png",
-    "Praktikum/ProjektWoche"
+    "Pasted image 20230725111156.png"
   ]
 }
