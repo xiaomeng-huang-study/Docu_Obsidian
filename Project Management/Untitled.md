@@ -1,0 +1,4 @@
+- one of the projects is offered from the uni. 
+	- I should complete it with other students in about 4 months. 
+	- the team is composed of 3 persons. 
+	- 
