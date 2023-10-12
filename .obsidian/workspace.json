@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231011.md",
+                "file": "Markdown/Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231011.md",
+                "file": "Markdown/Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231011.md",
+                "file": "Markdown/Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231011.md"
+                "file": "Markdown/Syntax.md"
               }
             }
           },
@@ -175,8 +175,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "d034f0e1a8d0085d",
   "lastOpenFiles": [
+    "Latex/Latex_Syntax.md",
     "Leadership and Business Communication/Note_20231011.md",
     "Leadership and Business Communication",
     "Aktorsysteme/Notiz_20231010.md",
@@ -211,7 +212,6 @@
     "Pasted image 20230725111156.png",
     "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
     "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
-    "Praktikum/ProjektWoche/PPT_0725.md",
     "Praktikum/ProjektWoche",
     "Praktikum/AGCO/Simulation/Backup_Code",
     "ROS/ROS1/Package"
