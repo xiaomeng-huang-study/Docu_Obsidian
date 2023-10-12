@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "498ca77e33e56077",
+        "id": "fc5975ba95b1d1a6",
         "type": "tabs",
         "children": [
           {
-            "id": "d034f0e1a8d0085d",
+            "id": "df27aa13bea5f6d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/Syntax.md",
+                "file": "English/Grammar/Grammar_Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown/Syntax.md",
+                "file": "English/Grammar/Grammar_Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown/Syntax.md",
+                "file": "English/Grammar/Grammar_Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown/Syntax.md"
+                "file": "English/Grammar/Grammar_Note.md"
               }
             }
           },
@@ -175,8 +175,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d034f0e1a8d0085d",
+  "active": "df27aa13bea5f6d2",
   "lastOpenFiles": [
+    "English/Grammar/Grammar_Note.md",
+    "English/Grammar",
+    "English",
+    "Markdown/Syntax.md",
     "Latex/Latex_Syntax.md",
     "Leadership and Business Communication/Note_20231011.md",
     "Leadership and Business Communication",
@@ -210,10 +214,6 @@
     "ROS/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20230725111156.png",
-    "Praktikum/AGCO/Simulation/Backup_Code/collision_avoidance.md",
-    "Praktikum/AGCO/Abschlussbericht/Formel_Latex.md",
-    "Praktikum/ProjektWoche",
-    "Praktikum/AGCO/Simulation/Backup_Code",
-    "ROS/ROS1/Package"
+    "Praktikum/ProjektWoche"
   ]
 }

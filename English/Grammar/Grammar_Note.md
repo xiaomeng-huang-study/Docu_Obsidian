@@ -1,0 +1,36 @@
+- clause elements 句子成分 
+	- subject 
+	- verbs 
+	- object 
+	- (object) complement (宾语)补语  
+	- predicative 主语补语/ 表语 
+	- attributive 定语 
+	- adverbial 状语 
+	- appositive 同位语 
+
+- Verbs 
+	- intransitive verbs 不及物动词 
+	- transitive verbs 及物动词 
+		- monotransitive verbs 单及物动词 
+		- ditransitive verbs 双及物动词 
+		- complex-transitive verbs 复杂及物动词 
+		- linking verbs 系动词 
+
+- syntax 
+	- subject + intransitive verb 
+		- e.g. Papa Rabbit sleeps. 
+	- subject + monotransitive verb + object 
+		- e.g. Papa Rabbit likes you. 
+	- subject + ditransitive verb + indirect object + direct object 
+		- e.g. Papa Rabbit teaches you English. 
+	- subject + complex-transitive verb + object + complement 
+		- e.g. Papa Rabbit considers you smart. 
+	- subject + linking verb + predicative 
+		- e.g. Papa Rabbit smells nice. 
+
+- simple sentences 简单句 
+- compound sentences 并列句 
+- complex sentences 复杂句 
+	- main clause 主句 
+	- subordinate clause 从句 
+	- 
