@@ -1,5 +1,3 @@
-deutsche 
-
 - E-Mail: 
 	- dickch01@thu.de 
 

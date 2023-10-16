@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Note_20231012.md",
+                "file": "BWL/Notiz_20231009.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Note_20231012.md",
+                "file": "BWL/Notiz_20231009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Note_20231012.md",
+                "file": "BWL/Notiz_20231009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Note_20231012.md"
+                "file": "BWL/Notiz_20231009.md"
               }
             }
           },
@@ -175,10 +175,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "dd1b71bc1e1b58af",
   "lastOpenFiles": [
-    "Project Management/Untitled.md",
+    "BWL/allgemein.md",
+    "BWL/Notiz_20231009.md",
     "Project Management/Note_20231012.md",
+    "Project Management/Untitled.md",
     "Project Management",
     "English/Grammar/Grammar_Note.md",
     "English/Grammar",
@@ -193,11 +195,9 @@
     "Aktorsysteme",
     "Prog Python/List.md",
     "Softwarearchitekturen",
-    "BWL/Notiz_20231009.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Snipaste_2023-06-17_16-47-01.png",
     "Software Engineering/Git_Konfiguration.md",
-    "BWL/Referat.md",
     "BWL",
     "Praktikum/AGCO/Abschlusspräsentation/Text.md",
     "Recording 20230928141045.webm",
