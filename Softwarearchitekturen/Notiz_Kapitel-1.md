@@ -13,3 +13,7 @@
 	- Verdeckung 
 	- Background 
 	- Variation innerhalb einer Klasse 
+
+- examples unlabeled: unsupervised machine learning 
+- examples labeled: Clustering (Grouping unlabeled examples) 
+- 
