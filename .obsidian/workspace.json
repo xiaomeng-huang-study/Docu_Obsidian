@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5491a6c29eab18c",
+        "id": "5f3c71653e668ab4",
         "type": "tabs",
         "children": [
           {
-            "id": "dd1b71bc1e1b58af",
+            "id": "2c2c78d73927c800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_20231009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b550bfa9dc6622eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BWL/Notiz_20231016.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_20231016.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_20231016.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_20231016.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md"
               }
             }
           },
@@ -188,11 +175,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b550bfa9dc6622eb",
+  "active": "2c2c78d73927c800",
   "lastOpenFiles": [
-    "Untitled.md",
-    "BWL/Notiz_20231016.md",
     "BWL/Notiz_20231009.md",
+    "BWL/Notiz_20231016.md",
+    "Untitled.md",
     "BWL/allgemein.md",
     "Project Management/Note_20231012.md",
     "Project Management/Untitled.md",

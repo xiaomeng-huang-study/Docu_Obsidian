@@ -1,4 +1,6 @@
 - Deformation 形变 
+- stimulate 刺激,激励 
+- inhibit 抑制 
 
 - Herausforderungen für KI 
 	- Verzerrungen 
