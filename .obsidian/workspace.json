@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "daf6a6e2817a7cd0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_20231016.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_20231016.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BWL/Notiz_20231016.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,10 +192,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b550bfa9dc6622eb",
+  "active": "daf6a6e2817a7cd0",
   "lastOpenFiles": [
-    "BWL/Notiz_20231009.md",
     "BWL/Notiz_20231016.md",
+    "Untitled.md",
+    "BWL/Notiz_20231009.md",
     "BWL/allgemein.md",
     "Project Management/Note_20231012.md",
     "Project Management/Untitled.md",
@@ -226,7 +231,6 @@
     "ROS/ROS2/Python/Subscriber.md",
     "ROS/ROS2/Action/Befehle.md",
     "ROS/ROS2/Package/Paket erzeugen.md",
-    "Praktikum/AGCO/Simulation/Backup_Code/Twist_to_ackermann.md",
     "Pasted image 20230725111156.png"
   ]
 }
