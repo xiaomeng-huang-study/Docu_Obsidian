@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f3c71653e668ab4",
+        "id": "2d174e64e16609ed",
         "type": "tabs",
         "children": [
           {
-            "id": "2c2c78d73927c800",
+            "id": "cfd37f35bf216cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,8 +175,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2c2c78d73927c800",
+  "active": "cfd37f35bf216cac",
   "lastOpenFiles": [
+    "Elektronik2/idealer Operationsverstärker.md",
+    "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Pasted image 20231017144352.png",
+    "Pasted image 20231017144346.png",
     "BWL/Notiz_20231009.md",
     "BWL/Notiz_20231016.md",
     "Untitled.md",
@@ -193,11 +197,9 @@
     "Leadership and Business Communication",
     "Aktorsysteme/Notiz_20231010.md",
     "Regelungstechnik/magnetische Größen.md",
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Aktorsysteme",
     "Prog Python/List.md",
     "Softwarearchitekturen",
-    "Elektronik2/idealer Operationsverstärker.md",
     "Snipaste_2023-06-17_16-47-01.png",
     "Software Engineering/Git_Konfiguration.md",
     "BWL",
@@ -213,7 +215,6 @@
     "ROS/ROS2/Action/Client.md",
     "ROS/ROS2/Python/Subscriber.md",
     "ROS/ROS2/Action/Befehle.md",
-    "ROS/ROS2/Package/Paket erzeugen.md",
     "Pasted image 20230725111156.png"
   ]
 }
