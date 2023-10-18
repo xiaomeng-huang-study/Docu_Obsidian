@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aktorsysteme/Notiz_20231017.md",
+                "file": "Leadership and Business Communication/Note_20231011.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aktorsysteme/Notiz_20231017.md",
+                "file": "Leadership and Business Communication/Note_20231011.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aktorsysteme/Notiz_20231017.md",
+                "file": "Leadership and Business Communication/Note_20231011.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aktorsysteme/Notiz_20231017.md"
+                "file": "Leadership and Business Communication/Note_20231011.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "1d89c908e3254e1e",
   "lastOpenFiles": [
-    "Aktorsysteme/Notiz_20231010.md",
+    "Project Management/Note_20231012.md",
+    "Leadership and Business Communication/Note_20231011.md",
     "Aktorsysteme/Notiz_20231017.md",
+    "Aktorsysteme/Notiz_20231010.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Elektronik2/idealer Operationsverstärker.md",
     "Pasted image 20231017144352.png",
@@ -187,7 +189,6 @@
     "BWL/Notiz_20231016.md",
     "Untitled.md",
     "BWL/allgemein.md",
-    "Project Management/Note_20231012.md",
     "Project Management/Untitled.md",
     "Project Management",
     "English/Grammar/Grammar_Note.md",
@@ -195,7 +196,6 @@
     "English",
     "Markdown/Syntax.md",
     "Latex/Latex_Syntax.md",
-    "Leadership and Business Communication/Note_20231011.md",
     "Leadership and Business Communication",
     "Regelungstechnik/magnetische Größen.md",
     "Aktorsysteme",
