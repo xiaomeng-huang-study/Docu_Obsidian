@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d239b99f313dcffe",
+        "id": "133856144b86da9e",
         "type": "tabs",
         "children": [
           {
-            "id": "4384c229e41b6963",
+            "id": "0a02185e9f1d52a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Project Management/Note_20231012.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Project Management/Note_20231012.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Project Management/Note_20231012.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md"
+                "file": "Project Management/Note_20231012.md"
               }
             }
           },
@@ -175,10 +175,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4384c229e41b6963",
+  "active": "0a02185e9f1d52a5",
   "lastOpenFiles": [
-    "Elektronik2/idealer Operationsverstärker.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Elektronik2/idealer Operationsverstärker.md",
     "English/Vocabulary/Note_100句学雅思7000词汇.md",
     "English/Vocabulary",
     "English/Grammar/Grammar_Note.md",
