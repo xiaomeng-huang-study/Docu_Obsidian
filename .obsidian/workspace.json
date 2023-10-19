@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b758a38f27439d39",
+        "id": "c430656e1d33a371",
         "type": "tabs",
         "children": [
           {
-            "id": "8a7f1945d9c3289c",
+            "id": "3fc9088f92b3fe92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,11 +167,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8a7f1945d9c3289c",
+  "active": "3fc9088f92b3fe92",
   "lastOpenFiles": [
+    "English/Vocabulary/Note_100句学雅思7000词汇.md",
     "English/Vocabulary",
     "English/Grammar/Grammar_Note.md",
-    "English/Vocabulary/Note_100句学雅思7000词汇.md",
     "Leadership and Business Communication/Note_20231011.md",
     "Project Management/Note_20231012.md",
     "Aktorsysteme/Notiz_20231017.md",
@@ -213,7 +205,6 @@
     "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
     "ROS/ROS2/Action/Client_2.md",
     "Praktikum/Notiz/Action-Server.md",
-    "Praktikum/AGCO/Abschlusspräsentation",
     "Unity/Unity_Notiz.md",
     "ROS/ROS2/Action/Client.md",
     "Pasted image 20230725111156.png"
