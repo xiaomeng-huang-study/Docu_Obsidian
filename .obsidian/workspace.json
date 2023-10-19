@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc56b9710b280010",
+        "id": "b758a38f27439d39",
         "type": "tabs",
         "children": [
           {
-            "id": "1d89c908e3254e1e",
+            "id": "8a7f1945d9c3289c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231011.md",
+                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231011.md",
+                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231011.md",
+                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231011.md"
+                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md"
               }
             }
           },
@@ -175,10 +175,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1d89c908e3254e1e",
+  "active": "8a7f1945d9c3289c",
   "lastOpenFiles": [
-    "Project Management/Note_20231012.md",
+    "English/Vocabulary",
+    "English/Grammar/Grammar_Note.md",
+    "English/Vocabulary/Note_100句学雅思7000词汇.md",
     "Leadership and Business Communication/Note_20231011.md",
+    "Project Management/Note_20231012.md",
     "Aktorsysteme/Notiz_20231017.md",
     "Aktorsysteme/Notiz_20231010.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
@@ -191,7 +194,6 @@
     "BWL/allgemein.md",
     "Project Management/Untitled.md",
     "Project Management",
-    "English/Grammar/Grammar_Note.md",
     "English/Grammar",
     "English",
     "Markdown/Syntax.md",
@@ -214,8 +216,6 @@
     "Praktikum/AGCO/Abschlusspräsentation",
     "Unity/Unity_Notiz.md",
     "ROS/ROS2/Action/Client.md",
-    "ROS/ROS2/Python/Subscriber.md",
-    "ROS/ROS2/Action/Befehle.md",
     "Pasted image 20230725111156.png"
   ]
 }
