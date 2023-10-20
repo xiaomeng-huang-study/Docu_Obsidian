@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fd30e0dc0f01ba9f",
+        "id": "63b0c730fb5f1a3c",
         "type": "tabs",
         "children": [
           {
-            "id": "de4f0ef6189db2da",
+            "id": "de242277719d5b72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aktorsysteme/Notiz_VL02.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aktorsysteme/Notiz_VL02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aktorsysteme/Notiz_VL02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aktorsysteme/Notiz_VL02.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +167,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "de4f0ef6189db2da",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "Aktorsysteme/Untitled.md",
     "Aktorsysteme/Notiz_VL02.md",
+    "Aktorsysteme/Untitled.md",
     "Aktorsysteme/Notiz_20231010.md",
     "Project Management/Note_20231019.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
