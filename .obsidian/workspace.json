@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04b96aaecc5db267",
+        "id": "aaff7d1381b99ab5",
         "type": "tabs",
         "children": [
           {
-            "id": "efa4ac1d28c08f2e",
+            "id": "118b39d2bd084d2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,11 +175,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "efa4ac1d28c08f2e",
+  "active": "118b39d2bd084d2d",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Prog Python/List.md",
     "Prog Python/Dictionary.md",
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Aktorsysteme/Notiz_VL02.md",
     "Aktorsysteme/Untitled.md",
     "Aktorsysteme/Notiz_20231010.md",
