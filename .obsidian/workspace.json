@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8e6739d32be4f9",
+        "id": "fd30e0dc0f01ba9f",
         "type": "tabs",
         "children": [
           {
-            "id": "18f92eff3f9506cf",
+            "id": "de4f0ef6189db2da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Note_20231019.md",
+                "file": "Aktorsysteme/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Note_20231019.md",
+                "file": "Aktorsysteme/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Note_20231019.md",
+                "file": "Aktorsysteme/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Note_20231019.md"
+                "file": "Aktorsysteme/Untitled.md"
               }
             }
           },
@@ -175,10 +175,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "18f92eff3f9506cf",
+  "active": "de4f0ef6189db2da",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Aktorsysteme/Notiz_20231010.md",
+    "Aktorsysteme/Untitled.md",
+    "Aktorsysteme/Notiz_20231017.md",
     "Project Management/Note_20231019.md",
+    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Project Management/Note_20231012.md",
     "Signalverarbeitung/2.2_Abtast-Theoreme.md",
     "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
@@ -187,8 +190,6 @@
     "English/Vocabulary",
     "English/Grammar/Grammar_Note.md",
     "Leadership and Business Communication/Note_20231011.md",
-    "Aktorsysteme/Notiz_20231017.md",
-    "Aktorsysteme/Notiz_20231010.md",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
     "BWL/Notiz_20231009.md",
@@ -215,7 +216,6 @@
     "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
     "ROS/ROS2/Action/Client_2.md",
     "Praktikum/Notiz/Action-Server.md",
-    "Unity/Unity_Notiz.md",
     "Pasted image 20230725111156.png"
   ]
 }
