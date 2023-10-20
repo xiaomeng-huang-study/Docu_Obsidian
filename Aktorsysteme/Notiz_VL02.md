@@ -16,4 +16,7 @@
 	- synchron: Stromfrequenz $\equiv$ mechanische Drehfrequenz des Rotors 
 		- am starren Netz, z.B. Steckdose : Drehmoment wird erzeugt, nur bei Synchrondrehzahl $n_0$ 
 		- am nicht starren Netz z.B. Leistungselektronik : die Frequenz des Strom kann angepasst werden 
-	- 
+	- in einer elektrischen Periode: $\frac{1}{p}$ mechanische Drehungen 
+	- $\omega_0 = \frac{2\pi \cdot f_{Netz} }{p}$ 
+	- Synchrondrehzahl: $\begin{array}{l}  n_0 &=& \frac{\omega _0 }{2\cdot \pi }  \\&=& \frac{f_{Netz } }{p} \cdot \frac{60 \sec }{1 \min }\end{array}$ 
+	- ($p$ : Polpaarzahl z.B. 2 N-Pol + 2 S-Pol $\Rightarrow$ $p$ = 2) 

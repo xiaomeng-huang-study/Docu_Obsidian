@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aktorsysteme/Notiz_20231017.md",
+                "file": "Aktorsysteme/Notiz_VL02.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aktorsysteme/Notiz_20231017.md",
+                "file": "Aktorsysteme/Notiz_VL02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aktorsysteme/Notiz_20231017.md",
+                "file": "Aktorsysteme/Notiz_VL02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aktorsysteme/Notiz_20231017.md"
+                "file": "Aktorsysteme/Notiz_VL02.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   "active": "de4f0ef6189db2da",
   "lastOpenFiles": [
     "Aktorsysteme/Untitled.md",
+    "Aktorsysteme/Notiz_VL02.md",
     "Aktorsysteme/Notiz_20231010.md",
-    "Aktorsysteme/Notiz_20231017.md",
     "Project Management/Note_20231019.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Project Management/Note_20231012.md",
