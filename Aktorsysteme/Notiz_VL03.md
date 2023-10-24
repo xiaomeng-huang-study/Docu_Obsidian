@@ -1,0 +1,1 @@
+[synchronmoment](https://www.professorglasmachers.de/ema_drehmoment/#:~:text=Das%20Synchronmoment%20entsteht%20dadurch%2C%20dass,das%20in%20q%2DRichtung%20unterscheiden) 

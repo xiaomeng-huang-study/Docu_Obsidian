@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98fdcaccebe1850c",
+        "id": "ac0b22929625d9d0",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ba9c7aed4ed2dc",
+            "id": "d51c3bcb2be0c949",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Aktorsysteme/Notiz_VL03.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Aktorsysteme/Notiz_VL03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Aktorsysteme/Notiz_VL03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md"
+                "file": "Aktorsysteme/Notiz_VL03.md"
               }
             }
           },
@@ -175,15 +175,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f6ba9c7aed4ed2dc",
+  "active": "d51c3bcb2be0c949",
   "lastOpenFiles": [
-    "English/Vocabulary/Note_100句学雅思7000词汇.md",
+    "Aktorsysteme/Notiz_VL02.md",
+    "Aktorsysteme/Notiz_VL03.md",
+    "Aktorsysteme/Notiz_20231010.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "English/Vocabulary/Note_100句学雅思7000词汇.md",
     "Prog Python/List.md",
     "Prog Python/Dictionary.md",
-    "Aktorsysteme/Notiz_VL02.md",
-    "Aktorsysteme/Untitled.md",
-    "Aktorsysteme/Notiz_20231010.md",
     "Project Management/Note_20231019.md",
     "Project Management/Note_20231012.md",
     "Signalverarbeitung/2.2_Abtast-Theoreme.md",
