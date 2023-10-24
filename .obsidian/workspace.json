@@ -11,8 +11,12 @@
             "id": "f6ba9c7aed4ed2dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md"
+              }
             }
           },
           {
@@ -167,7 +175,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "f6ba9c7aed4ed2dc",
   "lastOpenFiles": [
     "English/Vocabulary/Note_100句学雅思7000词汇.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",

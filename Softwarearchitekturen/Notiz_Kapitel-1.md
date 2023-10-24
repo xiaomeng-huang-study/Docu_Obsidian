@@ -71,3 +71,10 @@
 		
 		    return W1, b1, W2, b2
 		```
+
+
+- sample -> Beispiele 
+- features -> Merkmale 
+- timestamps -> Zeitschritt 
+- channel -> RGB 
+- 
