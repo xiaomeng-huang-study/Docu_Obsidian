@@ -79,3 +79,18 @@
 - channel -> RGB 
 
 - Normalisierung: 
+
+- Vertauschung: Zahl in Kästchen in lila groß 
+
+
+- Optimizer 
+	- Funktion: die Gewichtungen eines neuronalen Netzwerks anzupassen, und die Loss-Score zu minimieren 
+	- Typen 
+		- SGD (Stochastic Gradient Descent) 随机梯度下降 
+			- berechnet den Gradienten der Verlustfunktion für eine kleine Stichprobe (Minibatch) 
+		- SGD mit Momentum 
+			- kombiniert den aktuellen Gradienten mit einer gewichteten Summe der vorherigen Gradienten -> beschleunigt die Anpassung der Gewichtungen 
+		- AdaGrad (Adaptive Gradient) 
+			- basiert auf der bisherigen Gradientenhistorie 
+				- stark aktualisierte Gewichtungen -> geringere Lernrate 
+			- 
