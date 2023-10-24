@@ -77,4 +77,5 @@
 - features -> Merkmale 
 - timestamps -> Zeitschritt 
 - channel -> RGB 
-- 
+
+- Normalisierung: 
