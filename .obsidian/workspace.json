@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0b22929625d9d0",
+        "id": "0402855951203459",
         "type": "tabs",
         "children": [
           {
-            "id": "d51c3bcb2be0c949",
+            "id": "c0a9a5e126e37ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aktorsysteme/Notiz_VL03.md",
+                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aktorsysteme/Notiz_VL03.md",
+                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aktorsysteme/Notiz_VL03.md",
+                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aktorsysteme/Notiz_VL03.md"
+                "file": "English/Vocabulary/Note_100句学雅思7000词汇.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d51c3bcb2be0c949",
+  "active": "c0a9a5e126e37ea6",
   "lastOpenFiles": [
-    "Aktorsysteme/Notiz_VL02.md",
+    "Leadership and Business Communication/Note_20231025.md",
     "Aktorsysteme/Notiz_VL03.md",
+    "Aktorsysteme/Notiz_VL02.md",
     "Aktorsysteme/Notiz_20231010.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "English/Vocabulary/Note_100句学雅思7000词汇.md",
@@ -215,7 +216,6 @@
     "Recording 20230914111909.webm",
     "Praktikum/AGCO/Abschlussbericht/Anhang.md",
     "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
-    "ROS/ROS2/Action/Client_2.md",
     "Pasted image 20230725111156.png"
   ]
 }
