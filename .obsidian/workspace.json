@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0402855951203459",
+        "id": "d034d20064736bbc",
         "type": "tabs",
         "children": [
           {
-            "id": "c0a9a5e126e37ea6",
+            "id": "0085d2e9c3b31ecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231025.md",
+                "file": "Project Management/Note_20231026.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231025.md",
+                "file": "Project Management/Note_20231026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231025.md",
+                "file": "Project Management/Note_20231026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231025.md"
+                "file": "Project Management/Note_20231026.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c0a9a5e126e37ea6",
+  "active": "0085d2e9c3b31ecf",
   "lastOpenFiles": [
-    "English/Vocabulary/Note_100句学雅思7000词汇.md",
+    "Project Management/Note_20231026.md",
     "Leadership and Business Communication/Note_20231025.md",
+    "English/Vocabulary/Note_100句学雅思7000词汇.md",
     "Aktorsysteme/Notiz_VL03.md",
     "Aktorsysteme/Notiz_VL02.md",
     "Aktorsysteme/Notiz_20231010.md",
@@ -215,7 +216,6 @@
     "Recording 20230928141045.webm",
     "Recording 20230914111909.webm",
     "Praktikum/AGCO/Abschlussbericht/Anhang.md",
-    "Praktikum/AGCO/Abschlussbericht/Literaturverzeichnis.md",
     "Pasted image 20230725111156.png"
   ]
 }
