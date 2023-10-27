@@ -62,3 +62,6 @@ sudo apt-get install --yes --no-install-recommends cuda-12-3 libcudnn8 libcudnn8
 		```bash
 		export CUDNN_INCLUDE_DIR="/usr/include/cudnn.h"
 		```
+
+## Test for CUDA in WSL2 
+follow the tutorial on https://ubuntu.com/tutorials/enabling-gpu-acceleration-on-ubuntu-on-wsl2-with-the-nvidia-cuda-platform#4-compile-a-sample-application 
