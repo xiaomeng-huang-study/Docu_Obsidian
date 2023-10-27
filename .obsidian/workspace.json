@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ecfa7aef992c67b8",
+        "id": "2a5d508e2385436f",
         "type": "tabs",
         "children": [
           {
-            "id": "74d157909f78892d",
+            "id": "fd87f0876bab96f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WSL/Cuda-Acceleration.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WSL/Cuda-Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WSL/Cuda-Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WSL/Cuda-Acceleration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +167,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "74d157909f78892d",
+  "active": "fd87f0876bab96f8",
   "lastOpenFiles": [
-    "Software Engineering/Git_Konfiguration.md",
     "WSL/Cuda-Acceleration.md",
+    "Software Engineering/Git_Konfiguration.md",
     "WSL",
     "Project Management/Note_20231026.md",
     "Leadership and Business Communication/Note_20231025.md",
