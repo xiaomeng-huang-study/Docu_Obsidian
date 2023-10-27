@@ -65,3 +65,9 @@ sudo apt-get install --yes --no-install-recommends cuda-12-3 libcudnn8 libcudnn8
 
 ## Test for CUDA in WSL2 
 follow the tutorial on https://ubuntu.com/tutorials/enabling-gpu-acceleration-on-ubuntu-on-wsl2-with-the-nvidia-cuda-platform#4-compile-a-sample-application 
+
+## (URLs of potentially useful tutorials) 
+- [How to Install the NVIDIA CUDA Driver, Toolkit, cuDNN, and TensorRT in WSL2](https://medium.com/swlh/how-to-install-the-nvidia-cuda-toolkit-11-in-wsl2-88292cf4ab77 ) 
+- [activate GPU acceleration in WSL](https://www.cnblogs.com/ms-qwq/p/17485814.html ) 
+- [Enabling GPU acceleration on Ubuntu on WSL2 with the NVIDIA CUDA Platform](https://ubuntu.com/tutorials/enabling-gpu-acceleration-on-ubuntu-on-wsl2-with-the-nvidia-cuda-platform#2-install-the-appropriate-windows-vgpu-driver-for-wsl ) 
+- [How to install CUDA & cuDNN on Ubuntu 22.04](https://gist.github.com/denguir/b21aa66ae7fb1089655dd9de8351a202) 
