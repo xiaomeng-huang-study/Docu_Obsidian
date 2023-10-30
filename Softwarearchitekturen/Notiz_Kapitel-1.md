@@ -72,11 +72,21 @@
 		    return W1, b1, W2, b2
 		```
 
-
-- sample -> Beispiele 
-- features -> Merkmale 
-- timestamps -> Zeitschritt 
-- channel -> RGB 
+- Deep Learning: 
+	- Prozess 
+		- Schaubild: siehe S91 
+	- Input $X$ 
+		- als Tensoren 
+			- Vector data (Rank-2 Tensor): (samples, features) 
+				- samples -> Beispiele 
+				- features -> Merkmale 
+			- Timeseries data or sequence data (Rank-3 Tensor): (samples, timesteps, features) 
+			- Images (Rank-4 Tensor): (samples, height, width, channels) 
+				- channels -> RGB
+			- Videos (Rank-5 Tensor): (samples, frames, height, width, channels) 
+	- Batch 
+		- Definition: Teilmenge von Trainingsdaten, gemeinsam zum Trainieren verwendet 
+		- 
 
 - Normalisierung: 
 
