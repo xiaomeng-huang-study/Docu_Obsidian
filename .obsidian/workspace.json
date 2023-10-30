@@ -11,8 +11,12 @@
             "id": "fd87f0876bab96f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project Management/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project Management/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project Management/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project Management/Untitled.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "fd87f0876bab96f8",
   "lastOpenFiles": [
+    "Project Management/Untitled.md",
     "WSL/Cuda-Acceleration.md",
     "Software Engineering/Git_Konfiguration.md",
     "WSL",
@@ -206,7 +215,6 @@
     "Softwarearchitekturen",
     "Snipaste_2023-06-17_16-47-01.png",
     "BWL",
-    "Praktikum/AGCO/Abschlusspräsentation/Text.md",
     "Recording 20230928141045.webm",
     "Pasted image 20230725111156.png"
   ]
