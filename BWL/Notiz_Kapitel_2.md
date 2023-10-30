@@ -1,0 +1,18 @@
+- Markttypen 
+	- Gütermarkt 
+	- Dienstleistungsmarkt 
+		- Beispiele 
+			- Finanzberatung, Gesundheitsversorgung 
+	- Arbeitsmarkt: die Anstellung von Arbeitskräften und die Suche nach Arbeitsplätzen. 
+	- ... 
+- Markttypen 
+	- Schaubild: ![|375](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-10-30_20-17-36.png?raw=) 
+	- Zentralverwaltungswirtschaft 
+	- Freie Marktwirtschaft (die Rolle des Staates sehr begrenzt) 
+	- Soziale Marktwirtschaft 
+
+- Wirtschaftspolitische Ziele 
+	- quantitative 
+		- Preisniveaustabilität 
+			- Definition: ein gewichtiger Durchschnitt der Preise bleibt stabil (keine (kaum) Inflation oder Deflation) 
+			- Messung: 
