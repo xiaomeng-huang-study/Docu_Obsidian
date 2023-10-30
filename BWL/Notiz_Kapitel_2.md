@@ -15,4 +15,16 @@
 	- quantitative 
 		- Preisniveaustabilität 
 			- Definition: ein gewichtiger Durchschnitt der Preise bleibt stabil (keine (kaum) Inflation oder Deflation) 
-			- Messung: 
+			- Messung: Preisindizes der volkswirtschaftlichen Gesamtrechnung (VPI + EPI) + Preisindex der Lebenshaltung 
+			- Inflation 
+				- Ursachen 
+					- Nachfrage induziert (Nachfrage $\uparrow$ , aber Angebot unverändert) 
+				- Formen 
+					- Konsuminflation, Investitionsinflation, Staatnachfrageinflation 
+				- Beispiele 
+					- Preissteigung von Speiseöl am Anfang 2022 
+				- Bekämpfung 
+					- Lohnsteuer/ Gewinnsteuer/ Zins erhöhen 
+					- Abschreibung (折扣) verändern 
+					- Geldverknappung 
+					- 
