@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_20231016.md",
+                "file": "BWL/Notiz_20231030.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_20231016.md",
+                "file": "BWL/Notiz_20231030.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_20231016.md",
+                "file": "BWL/Notiz_20231030.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_20231016.md"
+                "file": "BWL/Notiz_20231030.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "b9685267f4e02af1",
   "lastOpenFiles": [
-    "BWL/Notiz_20231030.md",
     "BWL/Notiz_20231016.md",
+    "BWL/Notiz_20231030.md",
     "BWL/Notiz_20231009.md",
     "BWL/allgemein.md",
     "Latex/Latex_Syntax.md",
