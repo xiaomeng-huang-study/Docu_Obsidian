@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "1590cdec0e28b4b7",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "BWL/Notiz_Kapitel_2.md",
     "BWL/Notiz_20231016.md",
     "BWL/Notiz_20231009.md",
@@ -193,7 +195,6 @@
     "Aktorsysteme/Notiz_VL03.md",
     "Aktorsysteme/Notiz_VL02.md",
     "Aktorsysteme/Notiz_20231010.md",
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Prog Python/List.md",
     "Prog Python/Dictionary.md",
     "Project Management/Note_20231019.md",
@@ -206,7 +207,6 @@
     "Leadership and Business Communication/Note_20231011.md",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
-    "Untitled.md",
     "Project Management",
     "English/Grammar",
     "English",

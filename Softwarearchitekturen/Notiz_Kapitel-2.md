@@ -1,0 +1,10 @@
+- Padding 
+	- Valid Padding: kein Padding hinzugefügt 
+	- Same Padding: Ausgabe hat gleiche Größe wie Eingabe (wenn Stride = 1) 
+- Stride 
+	- Schrittweite, mit der der Filter (oder Kernel) über die Eingabe verschoben wird, wenn die Faltung durchgeführt wird. 
+- Ausgabe Größe: $(n + 2p -f)/s + 1$ 
+	- Füllen mit 1 Pixel am Rand (um 1 Pixel nach außen erweitern) $\Rightarrow$ p = 1 
+	- Stride 1 $\Rightarrow$ s = 1 
+	- Eingabe: n x n 
+	- Filter: f x f 
