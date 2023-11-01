@@ -44,7 +44,9 @@
 	- Stride 1 $\Rightarrow$ s = 1 
 	- Eingabe: n x n 
 	- Filter: f x f 
-- 
+- Anmerkungen 
+	- Anzahl der Kanäle in Eingabe = Anzahl der Kanäle pro Filter 
+	- Anzahl der Filter = Anzahl der Ausgabeklassen 
 
 - Unterschied zwischen Alex-Net und Le-Net5 
 	- Anzahl der Parameter 
