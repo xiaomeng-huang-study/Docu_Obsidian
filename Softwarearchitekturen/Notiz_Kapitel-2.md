@@ -113,4 +113,14 @@ history, model = run_test_harness()
 			- $\Rightarrow$ (227 - 11) / 4 + 1 = 55 
 			- Anzahl der Filter = 96 $\Rightarrow$ Ausgabeklasse = 96 
 			- $\Longrightarrow$ 55 x 55 x 96 
-	- 
+		- Anzahl der Parameter 
+			- Filter 11 x 11 
+			- Kanäle in Eingabe 3 
+			- Anzahl der Filter 96 
+			- $\Longrightarrow$ 96 x 11 x 11 x 3 + 96 = 34944 
+		- Speicherbedarf 
+			- Batch Size 16 
+			- Präzision KB 
+			- $\Longrightarrow$ 16 x 34944 / (8 x 1000) = 69.888 KB 
+		- Rechenaufwand 
+			- (3 x 11 x 11 + 55 x 55) x 96 
