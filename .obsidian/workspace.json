@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d4f254c05ea7420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec38b74e21b2087e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df98abbec1a40520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dd4f8be18a9e78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df42e010f19ac3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -175,7 +236,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1590cdec0e28b4b7",
+  "active": "df42e010f19ac3c7",
   "lastOpenFiles": [
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Softwarearchitekturen/Notiz_Kapitel-2.md",
