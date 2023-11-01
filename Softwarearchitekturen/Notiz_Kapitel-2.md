@@ -15,6 +15,7 @@
 - Augmentierung (data augmentation) ^augmentierung
 	- Definition 
 		- vorhandene Trainingsdaten zu modifizieren bzw. erweitern um die Menge der verfügbaren Trainingsdaten zu erhöhen und die Leistung und die Fähigkeit des Modells zur Generalisierung auf neue, nicht gesehene Daten zu verbessern 
+
 - Padding 
 	- Valid Padding: kein Padding hinzugefügt 
 	- Same Padding: Padding am Rand füllen, damit die Ausgabe gleiche Größe wie Eingabe hat (wenn Stride = 1) 
@@ -34,7 +35,7 @@
 
 
 - Ausgabe Größe: $(n + 2p -f)/s + 1$ 
-	- Füllen mit 1 Pixel am Rand (um 1 Pixel nach außen erweitern) $\Rightarrow$ p = 1 
+	- Padding: Füllen mit 1 Pixel am Rand (um 1 Pixel nach außen erweitern) $\Rightarrow$ p = 1 
 	- Stride 1 $\Rightarrow$ s = 1 
 	- Eingabe: n x n 
 	- Filter: f x f 
