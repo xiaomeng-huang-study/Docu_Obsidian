@@ -33,12 +33,18 @@
 		- Training beschleunigen 
 		- Fähigkeiten des Modells verbessern 
 
-
+- Anzahl der Parameter 
+	- (Anzahl der Filter) x (Filter Höhe) x (Filter Breite) x (Anzahl der Kanäle) + Anzahl der Filter 
+		- + Anzahl der Filter: für den Bias-Term pro Filter 
+- Speicherbedarf 
+	- (Batch Size) x (Anzahl der Parameter) x (Präzision) 
+		- Präzision: float32 -> 32 
 - Ausgabe Größe: $(n + 2p -f)/s + 1$ 
 	- Padding: Füllen mit 1 Pixel am Rand (um 1 Pixel nach außen erweitern) $\Rightarrow$ p = 1 
 	- Stride 1 $\Rightarrow$ s = 1 
 	- Eingabe: n x n 
 	- Filter: f x f 
+- 
 
 - Unterschied zwischen Alex-Net und Le-Net5 
 	- Anzahl der Parameter 
