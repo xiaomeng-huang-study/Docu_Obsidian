@@ -3,7 +3,7 @@ Let me now introduce the concept of Work Breakdown Structure. In our project, we
 
 The first segment, "As-Is analysis," involves a examination of the current situation. This step helps us gain a clear understanding of the existing energy infrastructure and its performance.
 
-Moving on to the second part, "Optimization of energy consumption," we strive to make the best possible adjustments to the current energy usage. However, we understand that only optimization might not sufficient. Therefore, we are exploring the integration of renewable energy sources to revamp our energy system.
+Moving on to the second part, "Optimization of energy consumption," we ==strive== to make the best possible adjustments to the current energy usage. However, we understand that only optimization might not sufficient. Therefore, we are exploring the integration of renewable energy sources to revamp our energy system.
 
 This leads us to the third segment, where we conduct an evaluation of various potential renewable energy sources. We aim to identify the most suitable options that align with our university's energy requirements and environmental sustainability goals.
 
@@ -24,9 +24,9 @@ Additionally, we'll take the budget into consideration, which is a critical fact
 It's essential to note that these considerations will require approval from the university. If the university takes the recommendations mentioned above into account and grants approval, we can proceed with the implementation of these energy optimization measures.
 
 # 3
-In our evaluation of energy sources, we differentiate between internal and external sources. Internal sources refer to energy produced by THU itself and consumed within its premises. After conducting thorough on-site assessments, we will evaluate the potential energy sources and assess their respective capacities. These evaluations will be translated into easily comparable cost analyses to determine whether it's viable for THU to adopt these renewable energy sources internally.
+In our evaluation of energy sources, we== differentiate== between internal and external sources. Internal sources refer to energy produced by THU itself and consumed within its premises. After conducting thorough on-site assessments, we will evaluate the potential energy sources and assess their respective ==capacities==. These evaluations will be translated into easily comparable cost analyses to determine whether it's viable for THU to adopt these renewable energy sources internally.
 
-Alternatively, we may also consider relying on external sources. For instance, if the municipal government of Ulm has already started replacing some traditional energy sources and is encouraging businesses and educational institutions to adopt renewable energy, we can explore the option of sourcing energy externally. By utilizing external renewable energy sources, we can potentially bypass the complexities associated with installing new infrastructure on our campus. We will conduct a comparative cost analysis to assess the feasibility of this approach.
+Alternatively, we may also consider ==relying on== external sources. For instance, if the municipal ==government of Ulm== has already started ==replacing== some traditional energy sources and is encouraging businesses and educational institutions to adopt renewable energy, we can explore the option of sourcing energy externally. By utilizing external renewable energy sources, we can potentially bypass the complexities associated with installing new infrastructure on our campus. We will conduct a comparative cost analysis to assess the feasibility of this approach.
 
 # 4
 In the practical implementation phase, our first step is to order the necessary materials for installation. For example, if we take solar energy as an example, this would be ordering the solar panels required for the project. To ensure the ==effective installation and functioning== of these solar panels, we will give the task to a installation company.
