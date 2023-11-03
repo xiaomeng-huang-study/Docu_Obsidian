@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Untitled.md",
+                "file": "Project Management/Presentation/Text_20231102.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Untitled.md",
+                "file": "Project Management/Presentation/Text_20231102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Untitled.md",
+                "file": "Project Management/Presentation/Text_20231102.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Untitled.md"
+                "file": "Project Management/Presentation/Text_20231102.md"
               }
             }
           },
@@ -177,7 +177,9 @@
   },
   "active": "fd04b7bc9c671ab7",
   "lastOpenFiles": [
-    "Project Management/Untitled.md",
+    "Project Management/Presentation/Text_20231102.md",
+    "Project Management/Presentation/Text_20231102.md",
+    "Project Management/Presentation",
     "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "BWL/Notiz_Kapitel_2.md",
@@ -204,7 +206,6 @@
     "Elektronik2/idealer Operationsverstärker.md",
     "English/Vocabulary",
     "English/Grammar/Grammar_Note.md",
-    "Leadership and Business Communication/Note_20231011.md",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
     "Project Management",
@@ -215,7 +216,6 @@
     "Softwarearchitekturen",
     "Snipaste_2023-06-17_16-47-01.png",
     "BWL",
-    "Recording 20230928141045.webm",
     "Pasted image 20230725111156.png"
   ]
 }
