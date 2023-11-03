@@ -18,13 +18,21 @@
 			- Messung: Preisindizes der volkswirtschaftlichen Gesamtrechnung (VPI + EPI) + Preisindex der Lebenshaltung 
 			- Inflation 
 				- Ursachen 
-					- Nachfrage induziert (Nachfrage $\uparrow$ , aber Angebot unverändert) 
-				- Formen 
-					- Konsuminflation, Investitionsinflation, Staatnachfrageinflation 
-				- Beispiele 
-					- Preissteigung von Speiseöl am Anfang 2022 
-				- Bekämpfung 
-					- Lohnsteuer/ Gewinnsteuer/ Zins erhöhen 
-					- Abschreibung (折扣) verändern 
-					- Geldverknappung 
-					- 
+					- Nachfrage induziert (Nachfrage $\uparrow$ , aber Angebot unverändert) [[Q&A#Nachfrageinduzierte Inflation|(detaillierte Erklärung)]] 
+						- Formen 
+							- Konsuminflation, Investitionsinflation, Staatnachfrageinflation 
+						- Beispiele 
+							- Preissteigung von Speiseöl am Anfang 2022 
+						- Bekämpfung 
+							- Lohnsteuer/ Gewinnsteuer/ Zins erhöhen 
+							- Abschreibung (折扣) verändern 
+							- Geldverknappung 
+					- Angebot induziert [[Q&A#Kapitel_2#Angebotsinduzierte Inflation|(detaillierte Erklärung)]] 
+						- Lohnkosteninflation [[Q&A#Lohnkosteninduzierte Inflation|(detaillierte Erklärung)]] 
+							- Definition: Löhne und Gehälter der Arbeitnehmer signifikant ansteigen $\Rightarrow$ die Gesamtkosten für die Produktion von Waren und Dienstleistungen erhöhen 
+						- Kostensteuerinflation 
+							- Definition: Erhöhung der indirekten Steuern z.B. Mehrwertsteuerung (MWSt) 增值税 
+						- importierte Kosteninflation 
+							- Waren aus dem Ausland (Öl, Gas, Rohstoffe) 
+				- Folgen 
+					- Wachstum beeinflussen 
