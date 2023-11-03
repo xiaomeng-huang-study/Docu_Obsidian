@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "073e1f87e8a59039",
+        "id": "6f10612dc8672298",
         "type": "tabs",
         "children": [
           {
-            "id": "77c2c62e5fc0273d",
+            "id": "786b23483df458f2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -126,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +167,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "786b23483df458f2",
   "lastOpenFiles": [
     "ROS/ROS1/Package/Paket erzeugen.md",
     "ROS/ROS1/Package/Build.md",
