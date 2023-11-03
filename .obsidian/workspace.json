@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1f9f253d43a15ed",
+        "id": "26f5eb6a711d3318",
         "type": "tabs",
         "children": [
           {
-            "id": "fd04b7bc9c671ab7",
+            "id": "73013b8a89d565b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Presentation/Text_20231102.md",
+                "file": "ROS/ROS1/Package/Paket erzeugen.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Presentation/Text_20231102.md",
+                "file": "ROS/ROS1/Package/Paket erzeugen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Presentation/Text_20231102.md",
+                "file": "ROS/ROS1/Package/Paket erzeugen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Presentation/Text_20231102.md"
+                "file": "ROS/ROS1/Package/Paket erzeugen.md"
               }
             }
           },
@@ -175,8 +175,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fd04b7bc9c671ab7",
+  "active": "73013b8a89d565b9",
   "lastOpenFiles": [
+    "ROS/ROS1/Package/Build.md",
+    "ROS/ROS1/C++/Subscriber.md",
+    "ROS/ROS1/C++/Publisher.md",
+    "ROS/Packages.md",
+    "Untitled.md",
     "Project Management/Presentation/Text_20231102.md",
     "Project Management/Presentation/Text_20231102.md",
     "Project Management/Presentation",
@@ -200,12 +205,7 @@
     "Prog Python/List.md",
     "Prog Python/Dictionary.md",
     "Project Management/Note_20231019.md",
-    "Project Management/Note_20231012.md",
-    "Signalverarbeitung/2.2_Abtast-Theoreme.md",
-    "Datenbanken/Datenbanken_Notiz/Datenmodellierung.md",
-    "Elektronik2/idealer Operationsverstärker.md",
     "English/Vocabulary",
-    "English/Grammar/Grammar_Note.md",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
     "Project Management",
