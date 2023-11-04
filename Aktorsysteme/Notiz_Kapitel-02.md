@@ -24,5 +24,11 @@
 	- ($p$ : Polpaarzahl z.B. 2 N-Pol + 2 S-Pol $\Rightarrow$ $p$ = 2) 
 
 - Betriebsverhalten 
+- Zeigerdiagramm 
+	- d-Achse: Richtung des Rotormagnetfeld-maximums 
+	- q-Achse: quer-Achse (senkrecht zur d-Achse) 
+	- $\omega_M$ : mechanische Winkelgeschwindigkeit (Rotier-geschwindigkeit von Rotor) 
+	- $\omega_s = 2 \pi \cdot f_{speise}$ 
+	- $\u_p$ 
 - Drehmoment des Synchronmotors am starren Netz 
 	- Formel: $m_{i}=-\frac{m \cdot U_{S}}{\omega_{M}} \cdot\left(\frac{U_{P}}{X_{d}} \cdot \sin (\delta)+\frac{U_{S}}{2} \cdot\left(\frac{1}{X_{q}}-\frac{1}{X_{d}}\right) \cdot \sin (2 \cdot \delta)\right)$ 
