@@ -24,11 +24,30 @@
 	- ($p$ : Polpaarzahl z.B. 2 N-Pol + 2 S-Pol $\Rightarrow$ $p$ = 2) 
 
 - Betriebsverhalten 
-- Zeigerdiagramm 
-	- d-Achse: Richtung des Rotormagnetfeld-maximums 
-	- q-Achse: quer-Achse (senkrecht zur d-Achse) 
-	- $\omega_M$ : mechanische Winkelgeschwindigkeit (Rotier-geschwindigkeit von Rotor) 
-	- $\omega_s = 2 \pi \cdot f_{speise}$ 
-	- $\u_p$ 
-- Drehmoment des Synchronmotors am starren Netz 
-	- Formel: $m_{i}=-\frac{m \cdot U_{S}}{\omega_{M}} \cdot\left(\frac{U_{P}}{X_{d}} \cdot \sin (\delta)+\frac{U_{S}}{2} \cdot\left(\frac{1}{X_{q}}-\frac{1}{X_{d}}\right) \cdot \sin (2 \cdot \delta)\right)$ 
+	- Zeigerdiagramm 
+		- d-Achse: Richtung des Rotormagnetfeld-maximums 
+		- q-Achse: quer-Achse (senkrecht zur d-Achse) 
+		- $\omega_M$ : mechanische Winkelgeschwindigkeit (Rotier-geschwindigkeit von Rotor) 
+		- $\omega_s = 2 \pi \cdot f_{speise}$ 
+		- $\underline{\varphi}_R$ : Rotorfluss
+		- $\underline{u}_p$ : Polradspannung 
+			- Ursache: Rotor rotiert $\Rightarrow$ Beziehung zwischen dem Fluss des Stators und dem Fluss des Rotors verändert sich $\Rightarrow$ Induktion einer elektrischen Spannung in den Wicklungen des Rotors (gemäß dem Faradayschen Induktionsgesetz) 
+				- das Faradaysche Induktionsgesetz $u = - \frac{d \Phi}{dt}$ 
+		- $\underline{u}_s$ : Statorspannung, variiert mit $w_s$ 
+		- $\underline{i}_s$ : Statorstrom 
+		- $\delta$ : Lastwinkel zwischen Statorspannung $\underline{u}_s$ und Polradspannung $\underline{u}_p$ 
+	- Drehmoment des Synchronmotors am starren Netz 
+		- Formel: $m_{i}=-\frac{m \cdot U_{S}}{\omega_{M}} \cdot\left(\frac{U_{P}}{X_{d}} \cdot \sin (\delta)+\frac{U_{S}}{2} \cdot\left(\frac{1}{X_{q}}-\frac{1}{X_{d}}\right) \cdot \sin (2 \cdot \delta)\right)$ 
+			- Reluktanzmoment 
+				- Reluktanzkraft 
+			- Synchronmoment 
+				- Lorentzkraft 
+			- beim Schenkelpolläufer: $L_d \neq L_q$ $\Rightarrow$ mag. Luftspalt nicht gleich $\Rightarrow$ mag. Widerstand unterschiedlich 
+			- beim Vollpolläufer: $L_d = L_q$ $\Rightarrow$ mag. Widerstand gleich $\Rightarrow$ $\frac{1}{X_{q}}-\frac{1}{X_{d}} = 0$ $\Rightarrow$ $m_{i}=-\frac{m \cdot U_{S}}{\omega_{M}} \cdot\frac{U_{P}}{X_{d}} \cdot \sin (\delta)$ 
+	- Veranschaulichung sieh. S19-S20 
+		- Synchronmoment 
+			- Prinzip: als Magnet vorstellen $\Rightarrow$ Nordpol max. <-> Südpol max. 
+		- Reluktanzmoment 
+			- auf Luftspalt achten 
+	- Steuermöglichkeit 
+	- 
