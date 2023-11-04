@@ -51,5 +51,10 @@
 			- auf Luftspalt achten 
 	- Steuermöglichkeit 
 		- $U_s$ -> $M_K$ 
-		- Netzfreq. $f_s$ -> $\omega_0$ 
-		- 
+		- Netzfrequenz $f_s$ -> $\omega_0$ 
+		- usw. 
+	- Problem für SM: am starren Netz ohne Zusatzmaßnahmen nicht laufen kann 
+		- Abhilfe 
+			- Frequenzumrichter 
+			- zusätzlicher Antrieb 
+			- Dämpferwicklung 
