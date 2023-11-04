@@ -11,8 +11,12 @@
             "id": "c04cb0e7ef33bd5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Aktorsysteme/Notiz_Kapitel-02.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aktorsysteme/Notiz_Kapitel-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aktorsysteme/Notiz_Kapitel-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Aktorsysteme/Notiz_Kapitel-02.md"
+              }
             }
           },
           {
@@ -169,6 +177,10 @@
   },
   "active": "c04cb0e7ef33bd5e",
   "lastOpenFiles": [
+    "Aktorsysteme/Notiz_20231010.md",
+    "Regelungstechnik/magnetische Größen.md",
+    "Aktorsysteme/Notiz_Kapitel-02.md",
+    "Aktorsysteme/Notiz_VL03.md",
     "BWL/Notiz_Kapitel_2.md",
     "BWL/Q&A.md",
     "BWL/allgemein.md",
@@ -193,10 +205,6 @@
     "Software Engineering/Git_Konfiguration.md",
     "WSL",
     "Project Management/Note_20231026.md",
-    "Leadership and Business Communication/Note_20231025.md",
-    "English/Vocabulary/Note_100句学雅思7000词汇.md",
-    "Aktorsysteme/Notiz_VL03.md",
-    "Aktorsysteme/Notiz_VL02.md",
     "English/Vocabulary",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",

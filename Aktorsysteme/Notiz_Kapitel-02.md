@@ -12,6 +12,8 @@
 	- stromdurchflossener Leiter im Magnetfeld $\Rightarrow$ Lorentzkraft 
 	- Stator kann sich nicht bewegen $\Rightarrow$ Rotor rotiert aufgrund der Reaktionskraft bzw. Abstützkraft in die entgegengesetzte Richtung 
 
+- Drehfelderzeugung 
+
 - Synchronmaschine 
 	- synchron: Stromfrequenz $\equiv$ mechanische Drehfrequenz des Rotors 
 		- am starren Netz, z.B. Steckdose : Drehmoment wird erzeugt, nur bei Synchrondrehzahl $n_0$ 
@@ -20,3 +22,7 @@
 	- $\omega_0 = \frac{2\pi \cdot f_{Netz} }{p}$ 
 	- Synchrondrehzahl: $\begin{array}{l}  n_0 &=& \frac{\omega _0 }{2\cdot \pi }  \\&=& \frac{f_{Netz } }{p} \cdot \frac{60 \sec }{1 \min }\end{array}$ 
 	- ($p$ : Polpaarzahl z.B. 2 N-Pol + 2 S-Pol $\Rightarrow$ $p$ = 2) 
+
+- Betriebsverhalten 
+- Drehmoment des Synchronmotors am starren Netz 
+	- Formel: $m_{i}=-\frac{m \cdot U_{S}}{\omega_{M}} \cdot\left(\frac{U_{P}}{X_{d}} \cdot \sin (\delta)+\frac{U_{S}}{2} \cdot\left(\frac{1}{X_{q}}-\frac{1}{X_{d}}\right) \cdot \sin (2 \cdot \delta)\right)$ 
