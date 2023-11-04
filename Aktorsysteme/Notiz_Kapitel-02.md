@@ -50,4 +50,6 @@
 		- Reluktanzmoment 
 			- auf Luftspalt achten 
 	- Steuermöglichkeit 
-	- 
+		- $U_s$ -> $M_K$ 
+		- Netzfreq. $f_s$ -> $\omega_0$ 
+		- 
