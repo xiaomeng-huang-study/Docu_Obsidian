@@ -36,3 +36,12 @@
 							- Waren aus dem Ausland (Öl, Gas, Rohstoffe) 
 				- Folgen 
 					- Wachstum beeinflussen 
+						- Preismechanismus wird außer Kraft gesetzt 
+					- Beschäftigung beeinflussen 
+						- kurzfristig: wegen der erhöhten Produktion steigern 
+						- langfristig: wegen des niedrigen Absatz Entlassen 
+					- Internationale Wettbewerbsfähigkeit 
+				- Verteilungseffekte 
+					- Lohn-lag-Hypothese 
+						- Lohn steigt langsamer als die Preise. Dadurch sinkt das Realeinkommen 
+					- Transfer-lag-Hypothese

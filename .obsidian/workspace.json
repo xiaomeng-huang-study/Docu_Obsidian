@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "28d277985ae0c0e2",
+        "id": "fb8cfb2e8d3f2169",
         "type": "tabs",
         "children": [
           {
-            "id": "9479cddc4e383069",
+            "id": "42e9337f229eedb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aktorsysteme/Notiz_Kapitel-02.md",
+                "file": "BWL/Notiz_Kapitel_2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aktorsysteme/Notiz_Kapitel-02.md",
+                "file": "BWL/Notiz_Kapitel_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aktorsysteme/Notiz_Kapitel-02.md",
+                "file": "BWL/Notiz_Kapitel_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aktorsysteme/Notiz_Kapitel-02.md"
+                "file": "BWL/Notiz_Kapitel_2.md"
               }
             }
           },
@@ -175,10 +175,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9479cddc4e383069",
+  "active": "42e9337f229eedb8",
   "lastOpenFiles": [
-    "Aktorsysteme/Notiz_VL03.md",
     "Aktorsysteme/Notiz_Kapitel-02.md",
+    "Aktorsysteme/Notiz_VL03.md",
     "Aktorsysteme/Notiz_20231010.md",
     "Regelungstechnik/magnetische Größen.md",
     "BWL/Notiz_Kapitel_2.md",
