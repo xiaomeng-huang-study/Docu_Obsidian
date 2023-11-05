@@ -44,4 +44,54 @@
 				- Verteilungseffekte 
 					- Lohn-lag-Hypothese 
 						- Lohn steigt langsamer als die Preise. Dadurch sinkt das Realeinkommen 
-					- Transfer-lag-Hypothese
+					- Transfer-lag-Hypothese 
+						- Transferzahlungen (BAföG, Sozialhilfe, Renten usw.) steigen langsamer als die Preise. Dadurch verringert sich das Realeinkommen 
+					- Gläubiger-Schuldner-Hypothese 
+						- Die Forderung des Gläubigers (Kreditgebers) verliert an Kaufkraft. 
+							- Denn die Inflation die allgemeinen Preise erhöht, sodass der ursprüngliche Betrag in realen Gütern und Dienstleistungen weniger kaufen kann. 
+						- Die Geldschulden können einfacher zurückgezahlt werden. 
+							- Denn das Einkommen steigt inflationsbedingt. 
+						- $\Longrightarrow$ Inflationsverlierer: Gläubiger ; Inflationsgewinner: Schuldner 
+			- Deflation 
+				- Definition: Anhaltender (持续不断的) Rückgang des allgemeinen Preisniveaus für Waren und Dienstleistungen 
+				- Ursachen 
+					- Nachfragerückgang: Ein plötzlicher Rückgang der Nachfrage nach Gütern und Dienstleistungen kann dazu führen, dass Unternehmen gezwungen sind, ihre Preise zu senken, um Kunden anzulocken. Dies kann zu einem allgemeinen Preisverfall führen.
+					- Überkapazität: Wenn die Produktion die Nachfrage übersteigt, entsteht ein Überangebot an Gütern, was zu sinkenden Preisen führt.
+					- Technologischer Fortschritt: Effizienzsteigerungen und technologischer Fortschritt können die Kosten der Produktion senken, was zu einem Rückgang der Preise führt.
+					- Rückgang der Geldmenge: Eine Abnahme der Geldmenge in der Wirtschaft kann zu Deflation führen, da weniger Geld im Umlauf ist, um den Kauf von Waren und Dienstleistungen zu unterstützen. 
+		- hoher Beschäftigungsstand 
+			- Definition von Vollbeschäftigung 
+				- möglichst wenig Menschen sind arbeitslos 
+				- möglichst viele Menschen haben Arbeit 
+				- genauso viele freie Stellen wie Arbeitslose 
+				- die Unternehmen sind optimal ausgelastet 
+			- Messung 
+				- Arbeitslosenquote (ALQ) < 3% 
+			- Klassifikation der Arbeitslosigkeit 
+				- Friktionelle (摩擦): Sucharbeitslosigkeit 
+					- keine Bekämpfung 
+				- Saisonale 
+					- keine Bekämpfung 
+					- z.B. Bauarbeit 
+				- konjunkturelle (周期性的) 
+					- Rückgang der gesamtwirtschaftlichen Nachfrage (Konsum, Investitionsgüter, Staatsnachfrage, Außenbeitrag) 
+					- Bekämpfung 
+						- expansive Fiskalpolitik (扩张性财政政策) (Konjunkturprogramme, Steuersenkung) 
+						- expansive Geldpolitik (Geldmenge, Zinspolitik) 
+						- expansive Außenwirtschaftspolitik (扩张性外贸政策) (Abwertung, Zölle) 
+				- strukturelle 
+					- Definition: eine Form der Arbeitslosigkeit, die auf längerfristige Veränderungen in der Wirtschaftsstruktur oder auf Unstimmigkeiten zwischen den Qualifikationen der Arbeitskräfte und den Anforderungen der verfügbaren Arbeitsplätze zurückzuführen ist 
+					- Ursachen 
+						- Längerfristige Natur 
+						- Qualifikationsmismatch 
+						- Geografische Unstimmigkeiten 
+					- Bekämpfung 
+						- Subventionen und Technologieförderung, Wirtschaftsförderung, Ausbildung, Weiterbildung, Ruhestand 
+		- Wirtschaftswachstum 
+			- Ziel: Kontinuierliches Wachstum 
+		- außenwirtschaftliches Gleichgewicht 
+			- Definition: Keine negativen Auswirkungen auf die binnenwirtschaftliche Entwicklung des Landes vom Ausland ausgeht. z.B. Weder Inflation, noch Arbeitslosigkeit, noch eine Wirtschaftskrise in das Land von außen getragen wird. 
+	- qualitative 
+		- Verteilungsgerechtigkeit 
+			- Definition: soziale Ungleichheit zu reduzieren und sicherzustellen, dass alle Mitglieder der Gesellschaft von den wirtschaftlichen Errungenschaften profitieren. 
+		- Umweltschutz 
