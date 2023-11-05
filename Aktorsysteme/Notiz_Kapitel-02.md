@@ -58,3 +58,7 @@
 			- Frequenzumrichter 
 			- zusätzlicher Antrieb 
 			- Dämpferwicklung 
+
+- Stellglieder 
+	- Quadranten 象限 
+		- Schaubild: ![](https://learnchannel-tv.com/wp-content/uploads/2017/03/4-Quadrantenbetrieb-Motor.gif ) 
