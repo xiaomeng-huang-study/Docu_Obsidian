@@ -80,13 +80,19 @@
 			- Stärken – Schwächen Analyse 
 			- SWOT Analyse 
 			- Produktlebenszyklus 
+				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_15-58-52.png?raw=) 
 				- Einführungsphase 
 				- Wachstumsphase 
 				- Reifephase 
+					- zuerst steigt 
+						- Produkt ist gut am Markt eingeführt 
+					- dann verringert es sich 
+						- immer mehr Konkurrenzprodukte und Nachahmer erzielen einen immer größeren Marktanteil 
 				- Phase der Sättigung 
 				- Rückgangsphase 
 				- Nachlaufphase 
 			- Boston Consulting Group Portfolio (BCG Portfolio) 
+				- 
 	- Taktische Planung 
 	- Operative Planung 
 
