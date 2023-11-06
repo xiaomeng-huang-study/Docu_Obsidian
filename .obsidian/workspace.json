@@ -11,8 +11,12 @@
             "id": "c4fabad3b2df88f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Notiz_Kapitel-3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BWL/Notiz_Kapitel-3.md"
+              }
             }
           },
           {
@@ -169,7 +177,9 @@
   },
   "active": "c4fabad3b2df88f5",
   "lastOpenFiles": [
-    "BWL/Notiz_Kapitel_2.md",
+    "BWL/Notiz_Kapitel-2.md",
+    "BWL/Notiz_Kapitel-3.md",
+    "BWL/Notiz_20231030.md",
     "Aktorsysteme/Notiz_Kapitel-02.md",
     "Aktorsysteme/Notiz_VL03.md",
     "Aktorsysteme/Notiz_20231010.md",
@@ -191,12 +201,10 @@
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "BWL/Notiz_20231016.md",
     "BWL/Notiz_20231009.md",
-    "BWL/Notiz_20231030.md",
     "Latex/Latex_Syntax.md",
     "WSL/Cuda-Acceleration.md",
     "Software Engineering/Git_Konfiguration.md",
     "WSL",
-    "Project Management/Note_20231026.md",
     "English/Vocabulary",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
