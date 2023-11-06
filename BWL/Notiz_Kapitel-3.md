@@ -62,6 +62,13 @@
 - Arten 
 	- Strategische Planung 
 		- Elemente 
+			- Analyse der Umwelt 
+			- Analyse des Unternehmens 
 		- Instrumente 
 	- Taktische Planung 
 	- Operative Planung 
+
+
+steuer 
+soz: demokrafie, Farbe "weiß" in Deutschland und China 
+poli: Gesetz, Fahren mit traditionaler Energie 

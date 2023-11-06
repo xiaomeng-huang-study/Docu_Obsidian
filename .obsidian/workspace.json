@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e4c3b38dfca44d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_20231030.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_20231030.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md"
+                "file": "BWL/Notiz_20231030.md"
               }
             }
           },
@@ -188,17 +175,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e4c3b38dfca44d6c",
+  "active": "c4fabad3b2df88f5",
   "lastOpenFiles": [
-    "BWL/Notiz_20231030.md",
+    "BWL/allgemein.md",
     "BWL/Notiz_Kapitel-3.md",
+    "BWL/Notiz_20231030.md",
     "BWL/Q&A.md",
     "BWL/Notiz_Kapitel-2.md",
     "Aktorsysteme/Notiz_Kapitel-02.md",
     "Aktorsysteme/Notiz_VL03.md",
     "Aktorsysteme/Notiz_20231010.md",
     "Regelungstechnik/magnetische Größen.md",
-    "BWL/allgemein.md",
     "ROS/ROS1/Package/Paket erzeugen.md",
     "ROS/ROS1/Package/Build.md",
     "ROS/ROS1/C++/Publisher.md",
