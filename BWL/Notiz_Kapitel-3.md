@@ -143,6 +143,13 @@ poli: Gesetz, Fahren mit traditionaler Energie
 - Definition 
 	- das Bemühen der Unternehmensleitung den komplexen Prozess betrieblicher Leistungserstellung 
 
+- Stellen und Abteilungsbildung 
+	- Linienstelle 
+	- Stabsstellen 
+	- Zentralstellen 
 - Leitungssysteme 
 	- Einliniensysteme 
-		- 
+	- Mehrliniensysteme 
+	- Stablinienorganisation 
+	- Spartenorganisation 
+	- Matrixorganisation 
