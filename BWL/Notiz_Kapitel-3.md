@@ -85,7 +85,16 @@
 					- Digitalisierung 
 						- Die Digitalisierung beeinflusst Geschäftsmodelle, Marketing- und Vertriebsstrategien sowie die Art und Weise, wie Unternehmen mit Kunden interagieren. 
 					- Datensicherheit 
-						- Die Sicherheit von Kundendaten und die Einhaltung von Datenschutzbestimmungen sind wesentliche Überlegungen im Zusammenhang mit Technologie.
+						- Die Sicherheit von Kundendaten und die Einhaltung von Datenschutzbestimmungen sind wesentliche Überlegungen im Zusammenhang mit Technologie. 
+				- Politische Faktoren 
+					- Regulierung und Gesetzgebung 
+						- Unterschiedliche rechtliche und regulatorische Umgebungen in verschiedenen Ländern können die Geschäftstätigkeit und -entwicklung beeinflussen. 
+					- Handelsabkommen und Zölle 
+						- Internationale Handelsabkommen und Zölle können die Kosten von Importen und Exporten beeinflussen 
+					- Politische Stabilität 
+						- Die politische Stabilität in einem Land kann das Risiko für Geschäftstätigkeiten und Investitionen in diesem Land beeinflussen 
+					- Steuerpolitik 
+						- Steuergesetze und -politiken können Auswirkungen auf die Gewinnmargen und die Kapitalallokation eines Unternehmens haben 
 			- Analyse des Unternehmens 
 				- 
 		- Instrumente 
