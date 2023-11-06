@@ -114,3 +114,7 @@
 steuer 
 soz: demokrafie, Farbe "weiß" in Deutschland und China 
 poli: Gesetz, Fahren mit traditionaler Energie 
+
+
+## Entscheidung 
+
