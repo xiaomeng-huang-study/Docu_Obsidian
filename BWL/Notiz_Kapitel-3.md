@@ -63,8 +63,30 @@
 	- Strategische Planung 
 		- Elemente 
 			- Analyse der Umwelt 
+				- Ökonomische Faktoren der globalen Umwelt 
+					- Wechselkurse 
+						- Änderungen in den Wechselkursen können sich auf die Export- und Importkosten auswirken und somit die Wettbewerbsfähigkeit eines Unternehmens in internationalen Märkten beeinflussen. 
+					- Wirtschaftswachstum 
+						- Das Gesamtwirtschaftswachstum in verschiedenen Ländern kann Auswirkungen auf den Absatzmarkt für Produkte und Dienstleistungen eines Unternehmens haben. 
+					- Inflation 
+						- Die Inflationsraten in einem Land können die Kosten für die Produktion und den Vertrieb von Waren und Dienstleistungen beeinflussen. 
+					- Arbeitskosten 
+						- Die Arbeitskosten variieren von Land zu Land und können die Standortwahl für Produktion und Dienstleistungen beeinflussen 
+				- Soziokulturelle Faktoren 
+				- 
 			- Analyse des Unternehmens 
+				- 
 		- Instrumente 
+			- Stärken – Schwächen Analyse 
+			- SWOT Analyse 
+			- Produktlebenszyklus 
+				- Einführungsphase 
+				- Wachstumsphase 
+				- Reifephase 
+				- Phase der Sättigung 
+				- Rückgangsphase 
+				- Nachlaufphase 
+			- Boston Consulting Group Portfolio (BCG Portfolio) 
 	- Taktische Planung 
 	- Operative Planung 
 
