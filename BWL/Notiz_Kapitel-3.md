@@ -91,8 +91,22 @@
 				- Phase der Sättigung 
 				- Rückgangsphase 
 				- Nachlaufphase 
-			- Boston Consulting Group Portfolio (BCG Portfolio) 
-				- 
+			- Boston Consulting Group Portfolio (BCG Portfolio) [hilfreiche Link](https://www.excel-controlling.com/bcg-matrix/ ) 
+				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/bcg-portfolio.jpg?raw=) 
+				- Question marks 
+					- Phase: Einführungsphase: Produkt angenommen? 
+					- Entscheidung: Investieren oder abstoßen 
+					- Strategie: Ausbau oder abstoßen 
+				- Stars 
+					- Phase: Wachstumsphase 
+					- Zum Ausbau bzw. zur Sicherung des Marktanteils ist eine Investitionsstrategie zu verfolgen 
+				- Cash cows 
+					- Phase: Reifephase 
+					- geringe Investition notwendig: nur noch so viele Investitionen getätigt werden, die nötig sind, um diese Marktstellung zu sichern 
+				- Poor dogs 
+					- Phase: Sättigungsphase, Rückgangsphase, (Nachlaufphase) 
+					- keine Investitionen notwendig 
+					- Strategie: Innovation oder Eliminierung 
 	- Taktische Planung 
 	- Operative Planung 
 
