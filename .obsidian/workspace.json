@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "6e7f935077607de4",
+            "id": "01ed507e0443cd48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "BWL/Notiz_Kapitel-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64b916e272b81a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Q&A.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,16 +200,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6e7f935077607de4",
+  "active": "01ed507e0443cd48",
   "lastOpenFiles": [
-    "BWL/Notiz_20231030.md",
+    "BWL/Q&A.md",
     "BWL/Notiz_Kapitel-3.md",
+    "BWL/Notiz_20231030.md",
     "BWL/Notiz_Kapitel-2.md",
     "Aktorsysteme/Notiz_Kapitel-02.md",
     "Aktorsysteme/Notiz_VL03.md",
     "Aktorsysteme/Notiz_20231010.md",
     "Regelungstechnik/magnetische Größen.md",
-    "BWL/Q&A.md",
     "BWL/allgemein.md",
     "ROS/ROS1/Package/Paket erzeugen.md",
     "ROS/ROS1/Package/Build.md",
