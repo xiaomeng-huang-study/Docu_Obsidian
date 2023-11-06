@@ -140,3 +140,9 @@ poli: Gesetz, Fahren mit traditionaler Energie
 ## Entscheidung 
 
 ## Ausführung 
+- Definition 
+	- das Bemühen der Unternehmensleitung den komplexen Prozess betrieblicher Leistungserstellung 
+
+- Leitungssysteme 
+	- Einliniensysteme 
+		- 
