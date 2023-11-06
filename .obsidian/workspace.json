@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "01ed507e0443cd48",
+            "id": "e4c3b38dfca44d6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "64b916e272b81a02",
+            "id": "01ed507e0443cd48",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,11 +200,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01ed507e0443cd48",
+  "active": "e4c3b38dfca44d6c",
   "lastOpenFiles": [
-    "BWL/Q&A.md",
-    "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_20231030.md",
+    "BWL/Notiz_Kapitel-3.md",
+    "BWL/Q&A.md",
     "BWL/Notiz_Kapitel-2.md",
     "Aktorsysteme/Notiz_Kapitel-02.md",
     "Aktorsysteme/Notiz_VL03.md",

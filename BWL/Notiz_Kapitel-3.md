@@ -1,3 +1,9 @@
+# Aufgaben der Unternehmensführung 
+![|500](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_11-56-07.png?raw=) 
+
+
+## Zielbildung 
+- [[Q&A#Unternehmensziele|mögliche Unternehmensziele]] 
 - Oberziel: Gewinnmaximierung 
 	- Shareholder value = Aktionärswert 
 		- Aufgabe 
@@ -49,4 +55,13 @@
 		- Schaubild: ![|150](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_11-52-15.png?raw=) 
 		- Es liegen keine Wechselwirkungen vor 
 		- Arbeitsproduktivität und Marketingbudget 
-	- 
+
+## Planung 
+- Definition 
+	- Die gedankliche Vorbereitung zielgerichteter Entscheidungen. Sie ist das Bindeglied zwischen der Zielbildung, der Entscheidung sowie der operativen Umsetzung. 
+- Arten 
+	- Strategische Planung 
+		- Elemente 
+		- Instrumente 
+	- Taktische Planung 
+	- Operative Planung 

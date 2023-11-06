@@ -31,6 +31,19 @@ Die Auswirkungen der Lohnkosteninflation können vielfältig sein:
 Die Lohnkosteninflation ist ein wichtiger Faktor, der die Preisstabilität und die Wirtschaftspolitik beeinflusst. Sie kann jedoch auch auf gesunde wirtschaftliche Entwicklungen wie steigende Beschäftigung und steigende Einkommen hinweisen. Die Auswirkungen hängen von der Höhe der Lohnkosteninflation, ihrer Nachhaltigkeit und anderen wirtschaftlichen Faktoren ab. 
 
 # Kapitel-3 
+## Unternehmensziele 
+- Gewinn (Oberziel) 
+- Investieren 
+- Versicherung für die Zeit, wenn Wirtschaft nicht so gut läuft 
+- umweltschonende Wirtschaftsweise 
+- Umsatzsteigerung (Produktionsmenge * Preis) 
+- Marktführer 
+- Kostenminimierung 
+- Innovationssteigung 
+- neuen Kunden gewinnen 
+- Wettbewerbsfähigkeiten 
+- Stabilität 
+- sozialer Engagement 
 ## Welche Nachteile können sich aufgrund des Shareholder value Ansatzes für das Unternehmen ergeben? 
 Der Shareholder-Value-Ansatz ist eine Geschäftsphilosophie, die darauf abzielt, den Wert für die Aktionäre zu maximieren. Während dieser Ansatz Vorteile für Aktionäre bieten kann, gibt es auch potenzielle Nachteile und Herausforderungen, die sich für das Unternehmen ergeben können:
 
