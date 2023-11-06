@@ -1,0 +1,6 @@
+- Oberziel: Gewinnmaximierung 
+	- Shareholder value = Aktionärswert 
+		- Ziel: Einkommens- und Vermögensposition der shareholder (Eigenkapitalgeber) verbessert wird. 
+		- Wie: den börsennotierten Marktwert und damit den Gesamtwert des Unternehmen steigert (Anzahl der ausgegebenen Aktien x Börsenkurs) 
+	- Stakeholder value = Anteilseigner 
+	- 
