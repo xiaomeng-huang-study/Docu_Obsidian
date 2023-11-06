@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_20231106.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_20231106.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_20231106.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md"
+                "file": "BWL/Notiz_20231106.md"
               }
             }
           },
@@ -177,9 +177,10 @@
   },
   "active": "c4fabad3b2df88f5",
   "lastOpenFiles": [
+    "BWL/Notiz_Kapitel-3.md",
+    "BWL/Notiz_20231106.md",
     "BWL/Notiz_20231030.md",
     "BWL/allgemein.md",
-    "BWL/Notiz_Kapitel-3.md",
     "BWL/Q&A.md",
     "BWL/Notiz_Kapitel-2.md",
     "Aktorsysteme/Notiz_Kapitel-02.md",
@@ -203,7 +204,6 @@
     "BWL/Notiz_20231009.md",
     "Latex/Latex_Syntax.md",
     "WSL/Cuda-Acceleration.md",
-    "Software Engineering/Git_Konfiguration.md",
     "WSL",
     "English/Vocabulary",
     "Pasted image 20231017144352.png",
