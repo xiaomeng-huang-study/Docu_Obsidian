@@ -124,3 +124,4 @@ history, model = run_test_harness()
 			- $\Longrightarrow$ 16 x 34944 / (8 x 1000) = 69.888 KB 
 		- Rechenaufwand 
 			- (3 x 11 x 11 + 55 x 55) x 96 
+
