@@ -133,7 +133,7 @@
 
 
 steuer 
-soz: demokrafie, Farbe "weiß" in Deutschland und China 
+soz: demokrafie, 
 poli: Gesetz, Fahren mit traditionaler Energie 
 
 
