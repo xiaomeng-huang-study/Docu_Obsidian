@@ -4,7 +4,7 @@
 		- ein Modell während des Trainings zu gut auf die Trainingsdaten passt, aber Schwierigkeiten hat, auf neuen, nicht gesehenen Daten zu generalisieren 
 	- Lösung 
 		- [[Softwarearchitekturen/Notiz_Kapitel-2#^dropout-layer|Dropout-Layer]] 
-		- [[Softwarearchitekturen/Notiz_Kapitel-2#^augmentierung|Augmentierung]]  
+		- [[Softwarearchitekturen/Notiz_Kapitel-2#^augmentierung|Augmentierung]] 
 - Vanishing Gradients 
 	- Definition 
 		- die Gradienten der Verlustfunktion, die durch den Backpropagation-Algorithmus berechnet werden, in den tiefen Schichten des Netzwerks extrem klein werden. (Dies kann dazu führen, dass die Gewichtungen in diesen Schichten nicht effektiv aktualisiert werden, was das Training schwierig oder sogar unmöglich macht.) 
