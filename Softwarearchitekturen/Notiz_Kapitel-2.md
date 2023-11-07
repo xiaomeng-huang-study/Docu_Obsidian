@@ -125,3 +125,4 @@ history, model = run_test_harness()
 		- Rechenaufwand 
 			- (3 x 11 x 11 + 55 x 55) x 96 
 
+- Problem: immer wenigere Aktivierungen in den hinteren Schichten. -> die Daten für hintere schlecht zu trainieren. 
