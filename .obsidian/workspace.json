@@ -11,8 +11,12 @@
             "id": "01b181c4a2684206",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Leadership and Business Communication/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Leadership and Business Communication/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Leadership and Business Communication/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Leadership and Business Communication/Untitled.md"
+              }
             }
           },
           {
@@ -169,6 +177,9 @@
   },
   "active": "01b181c4a2684206",
   "lastOpenFiles": [
+    "Leadership and Business Communication/Note_20231025.md",
+    "Leadership and Business Communication/Untitled.md",
+    "Leadership and Business Communication/Note_20231011.md",
     "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_20231106.md",
@@ -193,9 +204,6 @@
     "Project Management/Presentation",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "BWL/Notiz_20231016.md",
-    "BWL/Notiz_20231009.md",
-    "Latex/Latex_Syntax.md",
-    "WSL/Cuda-Acceleration.md",
     "WSL",
     "English/Vocabulary",
     "Pasted image 20231017144352.png",
