@@ -2,6 +2,7 @@
 - depict 描述 
 - superior 上级的 
 - subsidiary 附属的 
+- mentality 心态 
 - 
 
 # Knowledge
