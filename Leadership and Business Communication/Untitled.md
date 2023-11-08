@@ -10,3 +10,9 @@
 - Extract Organisation chart 
 	- solid line: 
 	- dotted line: professional authority 
+
+- Line Organisation.
+- Line and Staff Organisation.
+- Functional Organisation.
+- Project Organisation.
+- Matrix Organisation.
