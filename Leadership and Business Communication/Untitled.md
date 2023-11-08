@@ -3,7 +3,7 @@
 - superior 上级的 
 - subsidiary 附属的 
 - mentality 心态 
-- 
+- radical 基本的 
 
 # Knowledge
 - staff unit 
