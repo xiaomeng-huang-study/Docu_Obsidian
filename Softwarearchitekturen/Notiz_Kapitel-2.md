@@ -130,8 +130,16 @@ history, model = run_test_harness()
 		- Rechenaufwand 
 			- (3 x 11 x 11 + 55 x 55) x 96 
 
-- Problem: immer wenigere Aktivierungen in den hinteren Schichten. -> die Daten für hintere schlecht zu trainieren. 
+
 
 
 - Initialisierung der Gewichte 
+	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=) 
+	- Initialisierung zu klein 
+		- Die Aktivierungen sind hauptsächlich um 0 herum verteilt 
+			- Aktivierungen (bei -1 und 1) -> 0 $\Rightarrow$ Gradients -> 0 
+	- Initialisierung zu groß 
+		- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
+			- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
+	- Initialisierung geeignet 
 - 
