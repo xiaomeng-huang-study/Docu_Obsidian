@@ -71,8 +71,28 @@
 		- Anzahl der Filter = Anzahl der Ausgabeklassen 
 		- Beschreibung für 1-Dimension: "Größe" / "Size" ; für mehr-Dimension : "Volumen" / "Size" 
 
+- Initialisierung der Gewichte 
+	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=) 
+	- Initialisierung zu klein 
+		- Die Aktivierungen sind hauptsächlich um 0 herum verteilt 
+			- Aktivierungen (bei -1 und 1) -> 0 $\Rightarrow$ Gradients -> 0 
+	- Initialisierung zu groß 
+		- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
+			- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
+	- Initialisierung geeignet 
+
+- moderne CNNs 
+	- Alex-Net 
+		- Schaubild: ![|200](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_15-52-00.png?raw=) 
+	- ZF-Net 
+		- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_15-54-38.png?raw=) 
+	- VGG 
+## Q&A 
+- Warum ist Eingabe bei Alex-Net tatsächlich 227x227 nicht 224x224? 
+	- geg.: 1.conv-layer Output Shape: 55 x 55 $\Rightarrow$ Aus. = 55 
+	- Aus. = (n + 2p - f) / s + 1 $\Rightarrow$ n = (Aus. -1) x s + f - 2p 
+	- $\Longrightarrow$ (55 - 1) x 4 + 11 - 0 = 227 
 - Unterschied zwischen Alex-Net und Le-Net5 
-	- Schaubild: ![|300](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_12-38-31.png?raw=) 
 	- Anzahl der Parameter 
 	- Auflösung 
 		- Le-Net: für kleinere Eingabeauflösungen (32 x 32) 
@@ -89,22 +109,6 @@
 	- Anzahl der Ausgabeklassen 
 		- Le-Net: wenige Ausgabeklassen 
 		- Alex-Net: 1000 Ausgabeklassen 
-
-- Initialisierung der Gewichte 
-	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=) 
-	- Initialisierung zu klein 
-		- Die Aktivierungen sind hauptsächlich um 0 herum verteilt 
-			- Aktivierungen (bei -1 und 1) -> 0 $\Rightarrow$ Gradients -> 0 
-	- Initialisierung zu groß 
-		- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
-			- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
-	- Initialisierung geeignet 
-
-## Q&A 
-- Warum ist Eingabe bei Alex-Net tatsächlich 227x227 nicht 224x224? 
-	- geg.: 1.conv-layer Output Shape: 55 x 55 $\Rightarrow$ Aus. = 55 
-	- Aus. = (n + 2p - f) / s + 1 $\Rightarrow$ n = (Aus. -1) x s + f - 2p 
-	- $\Longrightarrow$ (55 - 1) x 4 + 11 - 0 = 227 
 
 ## Beispiel 
 - code 
