@@ -142,4 +142,13 @@ history, model = run_test_harness()
 		- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
 			- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
 	- Initialisierung geeignet 
-- 
+
+- Recheneigenschaften 
+	- Parameter [(hilfreiche Erklärung)](https://stackoverflow.com/questions/42786717/how-to-calculate-the-number-of-parameters-for-convolutional-neural-network ) 
+		- Input-Layer: 0 
+		- Convolutional layers: (Anzahl der Filter) x (Filter Höhe) x (Filter Breite) x (Anzahl der Kanäle in Eingabe) + Anzahl der Filter 
+			- "+ Anzahl der Filter": für den Bias-Term pro Filter 
+		- Pooling layers: 0 
+		- Fully-connected layers: (Eingabegröße) x (Ausgabegröße) + Ausgabegröße 
+			- "+ Ausgabegröße": für den Bias-Term pro Ausgabe 
+	- 
