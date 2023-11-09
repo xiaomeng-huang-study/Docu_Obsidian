@@ -34,27 +34,45 @@
 		- Training beschleunigen 
 		- Fähigkeiten des Modells verbessern 
 
-- Ausgabe Größe: $(n + 2p -f)/s + 1$ 
+- ==Ausgabe Größe==: $(n + 2p -f)/s + 1$ 
 	- Padding: Füllen mit 1 Pixel am Rand (um 1 Pixel nach außen erweitern) $\Rightarrow$ p = 1 
 	- Stride 1 $\Rightarrow$ s = 1 
 	- Eingabe: n x n 
 	- Filter: f x f 
-- Anzahl der Parameter 
-	- (Anzahl der Filter) x (Filter Höhe) x (Filter Breite) x (Anzahl der Kanäle) + Anzahl der Filter 
-		- + Anzahl der Filter: für den Bias-Term pro Filter 
-- Speicherbedarf 
-	- (Batch Size) x (Anzahl der Parameter) x (Präzision) 
-		- Präzision: float32 -> 32 
-- FLOPs
-	- Convolutions-Flops 
-		- 2 x Number of Kernel x Kernel Shape x Output Shape 
-	- Fully Connected Layers-Flops 
-		- 2 x Input Size x Output Size 
-- Anmerkungen 
-	- Anzahl der Kanäle in Eingabe = Anzahl der Kanäle pro Filter 
-	- Anzahl der Filter = Anzahl der Ausgabeklassen 
+- Recheneigenschaften 
+	- ==Anzahl der Parameter== [(hilfreiche Erklärung)](https://stackoverflow.com/questions/42786717/how-to-calculate-the-number-of-parameters-for-convolutional-neural-network ) 
+		- Input-Layer: 0 
+		- Convolutional layers 
+			- (Anzahl der Filter) x (Volumen der Filter) + Anzahl der Filter 
+				- Volumen der Filter = (Filter Höhe) x (Filter Breite) x (Anzahl der Kanäle in Eingabe)
+				- "+ Anzahl der Filter": für den Bias-Term pro Filter 
+			- eng.: (Number of Kernel) x (Kernel Shape) + Number of Kernel 
+		- Pooling layers: 0 
+		- Fully-connected layers 
+			- (Eingabegröße) x (Ausgabegröße) + Ausgabegröße 
+				- "+ Ausgabegröße": für den Bias-Term pro Ausgabe 
+			- eng.: (Input Size) x (Output Size) + Output Size 
+	- Speicherbedarf 
+		- Batchsize x Anzahl der Parameter x Präzision 
+			- Präzision: z.B. float32 -> 32 
+	- ==Flops== 
+		- Convolutional layers 
+			- 2 x (Anzahl der Filter) x (Volumen der Filter) x (Ausgabegröße) 
+			- eng.: 2 x Number of Kernel x Kernel Shape x Output Shape 
+		- Fully connected layers 
+			- 2 x (Eingabegröße) x (Ausgabegröße) 
+			- eng.: 2 x Input Size x Output Size 
+	- Eigenschaften 
+		- Anzahl der Parameter: voll verknüpfte Schichten > Faltungsschichten 
+		- Rechenaufwand (Flops): Faltungsschichten >> voll verknüpfte Schichten 
+	- Anmerkungen 
+		- Filter = Kernel 
+		- Anzahl der Kanäle in Eingabe = Anzahl der Kanäle pro Filter 
+		- Anzahl der Filter = Anzahl der Ausgabeklassen 
+		- Beschreibung für 1-Dimension: "Größe" / "Size" ; für mehr-Dimension : "Volumen" / "Size" 
 
 - Unterschied zwischen Alex-Net und Le-Net5 
+	- Schaubild: ![|300](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_12-38-31.png?raw=) 
 	- Anzahl der Parameter 
 	- Auflösung 
 		- Le-Net: für kleinere Eingabeauflösungen (32 x 32) 
@@ -72,42 +90,59 @@
 		- Le-Net: wenige Ausgabeklassen 
 		- Alex-Net: 1000 Ausgabeklassen 
 
-# Code 
-```python
-# define cnn model
-def define_model():
-    model = keras.models.Sequential()
-    model.add(keras.layers.Resizing(227, 227, interpolation="bilinear", crop_to_aspect_ratio=False))
-    model.add(keras.layers.Conv2D(filters=96, kernel_size=(11,11), strides=(4,4), activation='relu', input_shape=(227,227,3)))
-    model.add(keras.layers.MaxPool2D(pool_size=(3,3), strides=(2,2)))
-    model.add(keras.layers.Conv2D(filters=256, kernel_size=(5,5), strides=(1,1), activation='relu', padding="same"))
-    model.add(keras.layers.MaxPool2D(pool_size=(3,3), strides=(2,2)))
-    model.add(keras.layers.Conv2D(filters=384, kernel_size=(3,3), strides=(1,1), activation='relu', padding="same"))
-    model.add(keras.layers.Conv2D(filters=384, kernel_size=(1,1), strides=(1,1), activation='relu', padding="same"))
-    model.add(keras.layers.Conv2D(filters=256, kernel_size=(1,1), strides=(1,1), activation='relu', padding="same"))
-    model.add(keras.layers.MaxPool2D(pool_size=(3,3), strides=(2,2)))
-    model.add(keras.layers.Flatten())
-    model.add(keras.layers.Dense(4096, activation='relu'))
-    model.add(keras.layers.Dropout(0.5))
-    model.add(keras.layers.Dense(4096, activation='relu'))
-    model.add(keras.layers.Dropout(0.5))
-    model.add(keras.layers.Dense(10, activation='softmax'))
-    # compile model
-    opt = keras.optimizers.SGD(learning_rate=0.001, momentum=0.9)
-    model.compile(optimizer=opt, loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+- Initialisierung der Gewichte 
+	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=) 
+	- Initialisierung zu klein 
+		- Die Aktivierungen sind hauptsächlich um 0 herum verteilt 
+			- Aktivierungen (bei -1 und 1) -> 0 $\Rightarrow$ Gradients -> 0 
+	- Initialisierung zu groß 
+		- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
+			- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
+	- Initialisierung geeignet 
 
-    model.build(input_shape=(None, 227,227,3)) # `input_shape` is the shape of the input data, e.g. input_shape = (None, 32, 32, 3)
-    #summary of the model
-    #Can you calculate the number of parameters for each layer?
-    #How many parameters has the first convolutional layer?
-    #Answer: 34944 = 11 * 11 * 3 * 96 + 96
-    model.summary()
-    return model
+## Q&A 
+- Warum ist Eingabe bei Alex-Net tatsächlich 227x227 nicht 224x224? 
+	- geg.: 1.conv-layer Output Shape: 55 x 55 $\Rightarrow$ Aus. = 55 
+	- Aus. = (n + 2p - f) / s + 1 $\Rightarrow$ n = (Aus. -1) x s + f - 2p 
+	- $\Longrightarrow$ (55 - 1) x 4 + 11 - 0 = 227 
 
-# entry point, run the test harness
-history, model = run_test_harness()
-```
-- ![|625](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-01_16-27-03.png?raw=)
+## Beispiel 
+- code 
+	```python
+	# define cnn model
+	def define_model():
+	    model = keras.models.Sequential()
+	    model.add(keras.layers.Resizing(227, 227, interpolation="bilinear", crop_to_aspect_ratio=False))
+	    model.add(keras.layers.Conv2D(filters=96, kernel_size=(11,11), strides=(4,4), activation='relu', input_shape=(227,227,3)))
+	    model.add(keras.layers.MaxPool2D(pool_size=(3,3), strides=(2,2)))
+	    model.add(keras.layers.Conv2D(filters=256, kernel_size=(5,5), strides=(1,1), activation='relu', padding="same"))
+	    model.add(keras.layers.MaxPool2D(pool_size=(3,3), strides=(2,2)))
+	    model.add(keras.layers.Conv2D(filters=384, kernel_size=(3,3), strides=(1,1), activation='relu', padding="same"))
+	    model.add(keras.layers.Conv2D(filters=384, kernel_size=(1,1), strides=(1,1), activation='relu', padding="same"))
+	    model.add(keras.layers.Conv2D(filters=256, kernel_size=(1,1), strides=(1,1), activation='relu', padding="same"))
+	    model.add(keras.layers.MaxPool2D(pool_size=(3,3), strides=(2,2)))
+	    model.add(keras.layers.Flatten())
+	    model.add(keras.layers.Dense(4096, activation='relu'))
+	    model.add(keras.layers.Dropout(0.5))
+	    model.add(keras.layers.Dense(4096, activation='relu'))
+	    model.add(keras.layers.Dropout(0.5))
+	    model.add(keras.layers.Dense(10, activation='softmax'))
+	    # compile model
+	    opt = keras.optimizers.SGD(learning_rate=0.001, momentum=0.9)
+	    model.compile(optimizer=opt, loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+	
+	    model.build(input_shape=(None, 227,227,3)) # `input_shape` is the shape of the input data, e.g. input_shape = (None, 32, 32, 3)
+	    #summary of the model
+	    #Can you calculate the number of parameters for each layer?
+	    #How many parameters has the first convolutional layer?
+	    #Answer: 34944 = 11 * 11 * 3 * 96 + 96
+	    model.summary()
+	    return model
+	
+	# entry point, run the test harness
+	history, model = run_test_harness()
+	```
+- Ergebnis: ![|625](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-01_16-27-03.png?raw=)
 - Rechenbeispiel 
 	- Conv-Layer 1 
 		- Ausgabegröße 
@@ -127,28 +162,4 @@ history, model = run_test_harness()
 			- Batch Size 16 
 			- Präzision KB 
 			- $\Longrightarrow$ 16 x 34944 / (8 x 1000) = 69.888 KB 
-		- Rechenaufwand 
-			- (3 x 11 x 11 + 55 x 55) x 96 
 
-
-
-
-- Initialisierung der Gewichte 
-	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=) 
-	- Initialisierung zu klein 
-		- Die Aktivierungen sind hauptsächlich um 0 herum verteilt 
-			- Aktivierungen (bei -1 und 1) -> 0 $\Rightarrow$ Gradients -> 0 
-	- Initialisierung zu groß 
-		- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
-			- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
-	- Initialisierung geeignet 
-
-- Recheneigenschaften 
-	- Parameter [(hilfreiche Erklärung)](https://stackoverflow.com/questions/42786717/how-to-calculate-the-number-of-parameters-for-convolutional-neural-network ) 
-		- Input-Layer: 0 
-		- Convolutional layers: (Anzahl der Filter) x (Filter Höhe) x (Filter Breite) x (Anzahl der Kanäle in Eingabe) + Anzahl der Filter 
-			- "+ Anzahl der Filter": für den Bias-Term pro Filter 
-		- Pooling layers: 0 
-		- Fully-connected layers: (Eingabegröße) x (Ausgabegröße) + Ausgabegröße 
-			- "+ Ausgabegröße": für den Bias-Term pro Ausgabe 
-	- 
