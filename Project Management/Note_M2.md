@@ -11,3 +11,6 @@
 		- self-contained, clearly separated and distinguished from each other 
 		- can simply be executed by persons, teams, external providers, etc. 
 		- can generally be found on each level of the WBS 
+	- Level 
+		- 1st Level located directly below the project itself 
+	- 
