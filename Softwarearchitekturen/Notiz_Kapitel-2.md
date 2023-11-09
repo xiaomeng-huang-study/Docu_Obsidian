@@ -12,10 +12,6 @@
 		- ReLU-Aktivierungsfunktion verwenden 
 		- [[Softwarearchitekturen/Notiz_Kapitel-2#^batch-norm|Batch-Normalization]] 
 
-- Augmentierung (data augmentation) ^augmentierung
-	- Definition 
-		- vorhandene Trainingsdaten zu modifizieren bzw. erweitern um die Menge der verfügbaren Trainingsdaten zu erhöhen und die Leistung und die Fähigkeit des Modells zur Generalisierung auf neue, nicht gesehene Daten zu verbessern 
-
 - Padding 
 	- Valid Padding: kein Padding hinzugefügt 
 	- Same Padding: Padding am Rand füllen, damit die Ausgabe gleiche Größe wie Eingabe hat (wenn Stride = 1) 
@@ -70,6 +66,19 @@
 		- Anzahl der Kanäle in Eingabe = Anzahl der Kanäle pro Filter 
 		- Anzahl der Filter = Anzahl der Ausgabeklassen 
 		- Beschreibung für 1-Dimension: "Größe" / "Size" ; für mehr-Dimension : "Volumen" / "Size" 
+
+- Einschub 
+	- Data augmentation ^augmentierung
+		- Definition 
+			- vorhandene Trainingsdaten zu modifizieren bzw. erweitern um die Menge der verfügbaren Trainingsdaten zu erhöhen und die Leistung und die Fähigkeit des Modells zur Generalisierung auf neue, nicht gesehene Daten zu verbessern 
+		- Type 
+			- Crop 
+			- Flip 
+			- Translation 
+			- Rotation 
+			- Zoom 
+			- Contrast 
+			- Brightness 
 
 - Initialisierung der Gewichte 
 	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=) 
