@@ -93,9 +93,17 @@
 - moderne CNNs 
 	- Alex-Net 
 		- Schaubild: ![|200](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_15-52-00.png?raw=) 
+		- Merkmale 
+			- erstes tiefes CNN und führte ReLU und Dropout ein 
 	- ZF-Net 
 		- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_15-54-38.png?raw=) 
+		- Merkmale 
+			- betonte die Bedeutung der Merkmalsrepräsentation in frühen Schichten 
 	- VGG 
+		- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_18-27-39.png?raw=)
+		- Merkmale 
+			- eine sehr tiefe Architektur und die Verwendung von kleinen 3x3-Filtern 
+
 ## Q&A 
 - Warum ist Eingabe bei Alex-Net tatsächlich 227x227 nicht 224x224? 
 	- geg.: 1.conv-layer Output Shape: 55 x 55 $\Rightarrow$ Aus. = 55 
