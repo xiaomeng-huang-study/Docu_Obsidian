@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca9ff712b5a03362",
+        "id": "b6480008260ee284",
         "type": "tabs",
         "children": [
           {
-            "id": "01b181c4a2684206",
+            "id": "476b0452d4df2004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231109.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231109.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231109.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership and Business Communication/Note_20231109.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md"
               }
             }
           },
@@ -175,11 +175,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "01b181c4a2684206",
+  "active": "476b0452d4df2004",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Leadership and Business Communication/Note_20231011.md",
     "Leadership and Business Communication/Note_20231025.md",
     "Leadership and Business Communication/Note_20231109.md",
-    "Leadership and Business Communication/Note_20231011.md",
     "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_20231106.md",
@@ -202,7 +203,6 @@
     "Project Management/Presentation/Text_20231102.md",
     "Project Management/Presentation/Text_20231102.md",
     "Project Management/Presentation",
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "BWL/Notiz_20231016.md",
     "WSL",
     "English/Vocabulary",
