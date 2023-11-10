@@ -100,7 +100,7 @@
 		- Merkmale 
 			- betonte die Bedeutung der Merkmalsrepräsentation in frühen Schichten 
 	- VGG 
-		- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_18-27-39.png?raw=)
+		- Schaubild: ![|250](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-10_16-19-33.png?raw=)
 		- Merkmale 
 			- eine sehr tiefe Architektur und die Verwendung von kleinen 3x3-Filtern 
 			- Transfer Learning 
