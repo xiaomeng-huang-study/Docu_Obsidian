@@ -96,20 +96,35 @@
 					- Steuerpolitik 
 						- Steuergesetze und -politiken können Auswirkungen auf die Gewinnmargen und die Kapitalallokation eines Unternehmens haben 
 			- Analyse des Unternehmens 
-				- 
+				- ein möglichst genaues Bild der gegenwärtigen und zukünftigen Stärken und Schwächen des Unternehmens aufzuzeichnen. 
 		- Instrumente 
 			- Stärken – Schwächen Analyse 
+				- Schaubild: 
+				  ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-10_21-11-13.png?raw=) 
+				  ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-10_21-11-29.png?raw=)
 			- SWOT Analyse 
+				- Strengths (Stärken), Weaknesses (Schwächen), Opportunities (Chancen), Threats (Risiken) 
+				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-10_21-18-00.png?raw=) 
 			- Produktlebenszyklus 
 				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_15-58-52.png?raw=) 
 				- Einführungsphase 
+					- Produkt am Markt eingeführt 
+					- umfassende Werbung 
+					- Ende: Break-Even-Point 
 				- Wachstumsphase 
+					- Ende: Umsatzkurve nicht mehr progressiv, sondern degressiv steigt 
 				- Reifephase 
-					- zuerst steigt 
-						- Produkt ist gut am Markt eingeführt 
-					- dann verringert es sich 
-						- immer mehr Konkurrenzprodukte und Nachahmer erzielen einen immer größeren Marktanteil 
+					- Umsatz und Gewinn am höchsten 
+					- Gewinn verringert sich 
+						- Ursachen  
+							- Immer mehr Konkurrenzprodukte und Nachahmer erzielen einen immer größeren Marktanteil 
 				- Phase der Sättigung 
+					- kein Marktwachstum 
+					- Nachfrage wird von folgenden geprägt 
+						- Lebensdauer des Produktes -> Ersatzkäufe 
+						- geänderten Bevölkerungsstruktur -> Neukäufer 
+						- Wandel der Moden 时尚 -> Erneuerungskäufer 
+					- Ende: Kein Gewinn mehr 
 				- Rückgangsphase 
 				- Nachlaufphase 
 			- Boston Consulting Group Portfolio (BCG Portfolio) [hilfreiche Link](https://www.excel-controlling.com/bcg-matrix/ ) 

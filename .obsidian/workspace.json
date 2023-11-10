@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42ce7b6dd17f194f",
+        "id": "285c363c7c1e4fa5",
         "type": "tabs",
         "children": [
           {
-            "id": "7554d3a8f28a3b40",
+            "id": "24bb56bc2e69735e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Note_M3.md",
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Note_M3.md",
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Note_M3.md",
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Note_M3.md"
+                "file": "BWL/Notiz_Kapitel-3.md"
               }
             }
           },
@@ -175,12 +175,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7554d3a8f28a3b40",
+  "active": "24bb56bc2e69735e",
   "lastOpenFiles": [
+    "Project Management/Note_M3.md",
     "Project Management/Note_20231026.md",
     "Project Management/Note_20231019.md",
     "Project Management/Note_20231012.md",
-    "Project Management/Note_M3.md",
     "Project Management/Note_M2.md",
     "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "Project Management/Note_Milestone_Trend_Analysis.md",
