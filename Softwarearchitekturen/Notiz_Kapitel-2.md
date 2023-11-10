@@ -48,9 +48,12 @@
 			- (Eingabegröße) x (Ausgabegröße) + Ausgabegröße 
 				- "+ Ausgabegröße": für den Bias-Term pro Ausgabe 
 			- eng.: (Input Size) x (Output Size) + Output Size 
-	- Speicherbedarf 
-		- Batchsize x Anzahl der Parameter x Präzision 
-			- Präzision: z.B. float32 -> 32 
+	- ==Speicherbedarf== 
+		- Convolutional layers 
+			- (Batch Size) x (Ausgabevolumen) x (Präzision) 
+				- Präzision: z.B. float32 -> 32 Bit / dig. 
+		- Fully connected layers 
+			- (Batch Size) x (Ausgabegröße) x (Präzision)
 	- ==Flops== 
 		- Convolutional layers 
 			- 2 x (Anzahl der Filter) x (Volumen der Filter) x (Ausgabegröße) 
