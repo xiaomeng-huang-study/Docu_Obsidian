@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Note_M2.md",
+                "file": "Project Management/Note_M3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Note_M2.md",
+                "file": "Project Management/Note_M3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Note_M2.md",
+                "file": "Project Management/Note_M3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Note_M2.md"
+                "file": "Project Management/Note_M3.md"
               }
             }
           },
@@ -177,11 +177,14 @@
   },
   "active": "7554d3a8f28a3b40",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel-2.md",
+    "Project Management/Note_20231026.md",
+    "Project Management/Note_20231019.md",
+    "Project Management/Note_20231012.md",
+    "Project Management/Note_M3.md",
     "Project Management/Note_M2.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "Project Management/Note_Milestone_Trend_Analysis.md",
     "Markdown/Syntax.md",
-    "Project Management/Note_20231012.md",
     "Project Management/Note_M1.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Leadership and Business Communication/Note_20231011.md",
@@ -200,9 +203,6 @@
     "ROS/ROS1/Package/Paket erzeugen.md",
     "ROS/ROS1/Package/Build.md",
     "ROS/ROS1/C++/Publisher.md",
-    "ROS/Programm starten.md",
-    "ROS/Packages.md",
-    "ROS/ROS1/C++/CMakeLists.md",
     "Project Management/Presentation",
     "WSL",
     "English/Vocabulary",

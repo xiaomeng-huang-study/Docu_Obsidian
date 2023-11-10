@@ -1,0 +1,32 @@
+- 4 logical relationship between work packages 
+	- Finish-to-Start (F-S) 
+		- Definition 
+			- Only when WP1 ends, WP2 can start 
+		- Examples 
+			- Data calculation -> Building a house  
+			- Bus stops -> door opens -> get in 
+	- Start-to-Start (S-S) 
+		- Definition 
+			- Only when WP1 starts, WP2 can start 
+		- Examples 
+			- lighting in theatre ; acting 
+			- dig channel ; place cable 
+	- Finish-to-Finish (F-F) 
+		- Definition 
+			- Only when WP1 ends, WP2 can end 
+		- Examples 
+			- Work ; security check 
+			- acting in theatre ; lighting 
+	- Start-to-Finish (S-F) 
+		- Definition 
+			- Only when WP1 starts, WP2 can end 
+		- Examples 
+			- provide service (not interruption) 
+				- new server ; old server 
+
+- List of work packages 
+	- Graph: ![](https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-11-10_20-53-03.png?raw=) 
+- Network Diagram 
+	- Activity-on-Node (AON) 
+		- Graph: ![](https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-11-10_20-50-27.png?raw=) 
+		- Float = 0 -> critical path 
