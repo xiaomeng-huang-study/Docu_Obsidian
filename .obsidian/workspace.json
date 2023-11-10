@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0497126e11b38c3c",
+        "id": "42ce7b6dd17f194f",
         "type": "tabs",
         "children": [
           {
-            "id": "ac26f0ede20bf370",
+            "id": "7554d3a8f28a3b40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "file": "Project Management/Note_M2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "file": "Project Management/Note_M2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "file": "Project Management/Note_M2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md"
+                "file": "Project Management/Note_M2.md"
               }
             }
           },
@@ -175,14 +175,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ac26f0ede20bf370",
+  "active": "7554d3a8f28a3b40",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "Project Management/Note_M2.md",
     "Project Management/Note_Milestone_Trend_Analysis.md",
     "Markdown/Syntax.md",
     "Project Management/Note_20231012.md",
     "Project Management/Note_M1.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Leadership and Business Communication/Note_20231011.md",
     "Leadership and Business Communication/Note_20231025.md",
