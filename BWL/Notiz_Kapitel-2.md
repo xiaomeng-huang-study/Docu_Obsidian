@@ -18,7 +18,7 @@
 			- Messung: Preisindizes der volkswirtschaftlichen Gesamtrechnung (VPI + EPI) + Preisindex der Lebenshaltung 
 			- Inflation 
 				- Ursachen 
-					- Nachfrage induziert (Nachfrage $\uparrow$ , aber Angebot unverändert) [[Q&A#Nachfrageinduzierte Inflation|(detaillierte Erklärung)]] 
+					- Nachfrage induziert (Nachfrage $\uparrow$ , aber Angebot unverändert) [[BWL/Q&A#Nachfrageinduzierte Inflation|(detaillierte Erklärung)]] 
 						- Formen 
 							- Konsuminflation, Investitionsinflation, Staatnachfrageinflation 
 						- Beispiele 
@@ -27,8 +27,8 @@
 							- Lohnsteuer/ Gewinnsteuer/ Zins erhöhen 
 							- Abschreibung (折扣) verändern 
 							- Geldverknappung 
-					- Angebot induziert [[Q&A#Kapitel_2#Angebotsinduzierte Inflation|(detaillierte Erklärung)]] 
-						- Lohnkosteninflation [[Q&A#Lohnkosteninduzierte Inflation|(detaillierte Erklärung)]] 
+					- Angebot induziert [[BWL/Q&A#Kapitel_2#Angebotsinduzierte Inflation|(detaillierte Erklärung)]] 
+						- Lohnkosteninflation [[BWL/Q&A#Lohnkosteninduzierte Inflation|(detaillierte Erklärung)]] 
 							- Definition: Löhne und Gehälter der Arbeitnehmer signifikant ansteigen $\Rightarrow$ die Gesamtkosten für die Produktion von Waren und Dienstleistungen erhöhen 
 						- Kostensteuerinflation 
 							- Definition: Erhöhung der indirekten Steuern z.B. Mehrwertsteuerung (MWSt) 增值税 

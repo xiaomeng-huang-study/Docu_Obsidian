@@ -3,7 +3,7 @@
 
 
 ## Zielbildung 
-- [[Q&A#Unternehmensziele|mögliche Unternehmensziele]] 
+- [[BWL/Q&A#Unternehmensziele|mögliche Unternehmensziele]] 
 - Oberziel: Gewinnmaximierung 
 	- Shareholder value = Aktionärswert 
 		- Aufgabe 
@@ -14,7 +14,7 @@
 			- Warum erhält der Kapitalgeber den Gewinn? 
 				- Seite von Kapitalgeber: Sie investieren Geld, mit dem die Geschäftsaktivitäten finanziert werden, und erwarten im Gegenzug eine angemessene Rendite in Form von Dividenden und/ oder Kapitalgewinnen. 
 				- Seite von Unternehmen: Die Unternehmensentscheidungen sind darauf ausgerichtet, den Gewinn und den Aktienkurs (股票价格) zu steigern, um den Aktionären eine attraktive Rendite für ihr investiertes Kapital zu bieten. 
-			- Nachteile aufgrund des Shareholder value Ansatzes für das Unternehmen [[Q&A#Welche Nachteile können sich aufgrund des Shareholder value Ansatzes für das Unternehmen ergeben?|(ausführliche Antwort)]] 
+			- Nachteile aufgrund des Shareholder value Ansatzes für das Unternehmen [[BWL/Q&A#Welche Nachteile können sich aufgrund des Shareholder value Ansatzes für das Unternehmen ergeben?|(ausführliche Antwort)]] 
 				- Vernachlässigung anderer Stakeholder 
 				- Kurzfristiges Denken 
 				- usw. 
@@ -29,7 +29,7 @@
 		- Aufgabe 
 			- die Interessen der Anspruchsgruppen zusammenzuführen, die Gruppeninteressen im unternehmerischen Handeln zu berücksichtigen und am Ertrag teilhaben zu lassen. 
 		- Extremfall 
-			- Nachteile aufgrund des Stakeholder value Ansatzes für das Unternehmen [[Q&A#Welche Nachteile können sich aufgrund des Stakeholder value Ansatzes für das Unternehmen ergeben?|(ausführliche Antwort)]] 
+			- Nachteile aufgrund des Stakeholder value Ansatzes für das Unternehmen [[BWL/Q&A#Welche Nachteile können sich aufgrund des Stakeholder value Ansatzes für das Unternehmen ergeben?|(ausführliche Antwort)]] 
 				- Verwässerung des Shareholder Value 
 				- Konflikte zwischen Ziele/ Interessen 
 				- Komplexität und Ressourcenbedarf 
