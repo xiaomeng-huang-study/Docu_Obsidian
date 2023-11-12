@@ -7,7 +7,6 @@
 - seamless 无缝的 
 - pyramid 金字塔 
 - illustrate 插图说明, illustration 
-- 
 
 
 # Knowledge 
