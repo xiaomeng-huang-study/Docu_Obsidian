@@ -5,6 +5,13 @@
 - scarce 罕见的 
 - illusion 幻觉, 错觉 
 - concede 承认 
-
+- perish 毁灭 
 
 # Knowledge 
+- Leadership theories 
+	- Trait theory 
+	- Behavior / Styles 
+		- Dimension authoritarian vs. democratic 
+			- authoritarian: task- / performance- oriented 
+			- democratic: people-oriented 
+		- 5 different styles of leadership according to the managerial grid graph 
