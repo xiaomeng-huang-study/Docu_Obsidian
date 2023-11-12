@@ -4,6 +4,10 @@
 - acquaint ... with ... 使熟悉 
 - oral 口头的 
 - landscape ; portrait 
+- seamless 无缝的 
+- pyramid 金字塔 
+- illustrate 插图说明, illustration 
+- 
 
 
 # Knowledge 
@@ -24,4 +28,6 @@
 		- e.g. 
 			- introduction, result, method etc. 
 - Presentation composition 
-	- 
+	- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_17-09-11.png?raw=) 
+- Creation of presentations 
+	- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_17-36-05.png?raw=) 
