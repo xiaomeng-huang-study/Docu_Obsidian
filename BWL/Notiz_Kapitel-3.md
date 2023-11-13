@@ -179,6 +179,22 @@ poli: Gesetz, Fahren mit traditionaler Energie
 		- Produktionsfaktoren: Arbeit -> Personalwirtschaft ; Werkstoffe -> Materialwirtschaft ; Betriebsmittel -> Anlagenwirtschaft 
 		- Bedeutung des Produktionsfaktors Personal 
 	- Personalführung 
-	- 
 
 
+## Kontrolle 
+- Kontrollarten 
+
+
+# Rechtsformen 
+- Rechtsform 
+	- GmbH: Gesellschaft mit beschränkter Haftung 
+	- AG: Aktiengesellschaft 
+	- KG: Kommanditgesellschaft 
+	- GbR: Gesellschaft bürgerlichen Rechts 
+	- OHG: Die offene Handelsgesellschaft 
+	- Filialbetrieb 
+
+	- Gewinn- und nicht Gewinn 
+	- familienbetrieb und nicht. 
+		- familienbetrieb 
+	- Stiftungen 
