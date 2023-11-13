@@ -192,8 +192,8 @@ poli: Gesetz, Fahren mit traditionaler Energie
 		- GbR: Gesellschaft bürgerlichen Rechts 
 		- OHG: Die offene Handelsgesellschaft 
 		- KG: Kommanditgesellschaft 
-		- Ges. mit beschr. Haftung & Co. KG 
+		- Ges. mit beschränkter Haftung & Co. KG 
 	- Kapitalgesellschaft 
-	- GmbH: Gesellschaft mit beschränkter Haftung 
-	- AG: Aktiengesellschaft 
-	- OG: 
+		- GmbH: Gesellschaft mit beschränkter Haftung 
+		- UG: Unternehmergesellschaft (Mini-GmbH) 
+		- AG: Aktiengesellschaft 
