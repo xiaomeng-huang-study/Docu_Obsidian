@@ -155,21 +155,30 @@ poli: Gesetz, Fahren mit traditionaler Energie
 ## Entscheidung 
 
 ## Ausführung 
-- Definition 
-	- das Bemühen der Unternehmensleitung den komplexen Prozess betrieblicher Leistungserstellung und Leistungsverwertung so zu strukturieren, dass die Effizienzverluste auf der Ausführungsebene minimiert werden. 
+- Organisation 
+	- Definition 
+		- das Bemühen der Unternehmensleitung den komplexen Prozess betrieblicher Leistungserstellung und Leistungsverwertung so zu strukturieren, dass die Effizienzverluste auf der Ausführungsebene minimiert werden. 
+	- Arten 
+		- Aufbauorganisation 
+			- Leitungssysteme 
+				- Einliniensysteme (Single-line-system) 
+				- Mehrliniensysteme (Multiple-line-system) 
+				- Stablinienorganisation (Line-and-staff-organisation) 
+					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-13_14-33-13.png?raw=) 
+					- Stabstellen 
+						- nur indirekt durch Unterstützung einer oder mehrerer Instanzen zur Lösung einer Aufgabe beiträgt 
+						- keine Weisungsbefugnisse 
+						- z.B. statische Planung in Unternehmensführung, Arbeitsvorbereitung in Produktion, Marktforschung in Marketing 
+				- Spartenorganisation (Functional Organisation) 
+				- Matrixorganisation 
+		- Projektorganisation: Projektmanagement 
+		- Ablauforganisation 
 
-- Stellen und Abteilungsbildung 
-	- Linienstelle 
-	- Stabsstellen 
-	- Zentralstellen 
-- Leitungssysteme 
-	- Einliniensysteme (Single-line-system) 
-	- Mehrliniensysteme (Multiple-line-system) 
-	- Stablinienorganisation (Line-and-staff-organisation) 
-		- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-13_14-33-13.png?raw=) 
-		- Stabstellen 
-			- nur indirekt durch Unterstützung einer oder mehrerer Instanzen zur Lösung einer Aufgabe beiträgt 
-			- keine Weisungsbefugnisse 
-			- z.B. statische Planung in Unternehmensführung, Arbeitsvorbereitung in Produktion, Marktforschung in Marketing 
-	- Spartenorganisation (Functional Organisation) 
-	- Matrixorganisation 
+- Personalwirtschaft 
+	- als eine der Produktionsfaktoren 
+		- Produktionsfaktoren: Arbeit -> Personalwirtschaft ; Werkstoffe -> Materialwirtschaft ; Betriebsmittel -> Anlagenwirtschaft 
+		- Bedeutung des Produktionsfaktors Personal 
+	- Personalführung 
+	- 
+
+
