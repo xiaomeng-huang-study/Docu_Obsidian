@@ -187,14 +187,13 @@ poli: Gesetz, Fahren mit traditionaler Energie
 
 # Rechtsformen 
 - Rechtsform 
+	- Einzelunternehmen 
+	- Personengesellschaft 
+		- GbR: Gesellschaft bürgerlichen Rechts 
+		- OHG: Die offene Handelsgesellschaft 
+		- KG: Kommanditgesellschaft 
+		- Ges. mit beschr. Haftung & Co. KG 
+	- Kapitalgesellschaft 
 	- GmbH: Gesellschaft mit beschränkter Haftung 
 	- AG: Aktiengesellschaft 
-	- KG: Kommanditgesellschaft 
-	- GbR: Gesellschaft bürgerlichen Rechts 
-	- OHG: Die offene Handelsgesellschaft 
-	- Filialbetrieb 
-
-	- Gewinn- und nicht Gewinn 
-	- familienbetrieb und nicht. 
-		- familienbetrieb 
-	- Stiftungen 
+	- OG: 
