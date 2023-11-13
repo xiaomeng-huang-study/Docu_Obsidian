@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bfa0a96f6f890af0",
+        "id": "59c0b78f6b03e2d0",
         "type": "tabs",
         "children": [
           {
-            "id": "ff1816a54ec0d3da",
+            "id": "dd5a8305668462a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "Leadership and Business Communication/Note_Session-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "Leadership and Business Communication/Note_Session-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "Leadership and Business Communication/Note_Session-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md"
+                "file": "Leadership and Business Communication/Note_Session-2.md"
               }
             }
           },
@@ -175,14 +175,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ff1816a54ec0d3da",
+  "active": "dd5a8305668462a2",
   "lastOpenFiles": [
-    "BWL/Notiz_20231113.md",
+    "Leadership and Business Communication/Note_Session-1.md",
     "BWL/Notiz_Kapitel-3.md",
+    "BWL/Notiz_20231113.md",
     "BWL/Notiz_20231009.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Q&A.md",
-    "Leadership and Business Communication/Note_Session-1.md",
     "Leadership and Business Communication/Note_20231025.md",
     "Leadership and Business Communication/Note_20231011.md",
     "Project Management/Note_M3.md",
