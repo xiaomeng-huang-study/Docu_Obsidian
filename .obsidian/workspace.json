@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Softwarearchitekturen/Notiz_20231114.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da36f3b2d47e5d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,10 +188,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dd5a8305668462a2",
+  "active": "da36f3b2d47e5d60",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Softwarearchitekturen/Notiz_20231114.md",
     "Softwarearchitekturen/Notiz_Kapitel-2.md",
+    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-1.md",
     "BWL/Notiz_Kapitel-3.md",
@@ -202,7 +216,6 @@
     "BWL/Q&A.md",
     "BWL/Notiz_Kapitel-2.md",
     "Aktorsysteme/Notiz_Kapitel-02.md",
-    "Aktorsysteme/Notiz_VL03.md",
     "Project Management/Presentation",
     "WSL",
     "English/Vocabulary",

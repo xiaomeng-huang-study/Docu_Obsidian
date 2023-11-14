@@ -71,6 +71,8 @@
 		- Beschreibung für 1-Dimension: "Größe" / "Size" ; für mehr-Dimension : "Volumen" / "Size" 
 
 - Einschub 
+	- Dropout-Layer 
+	- Batch Normalization Layer 
 	- Data augmentation ^augmentierung
 		- Definition 
 			- vorhandene Trainingsdaten zu modifizieren bzw. erweitern um die Menge der verfügbaren Trainingsdaten zu erhöhen und die Leistung und die Fähigkeit des Modells zur Generalisierung auf neue, nicht gesehene Daten zu verbessern 
