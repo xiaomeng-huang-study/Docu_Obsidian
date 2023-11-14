@@ -86,7 +86,12 @@
 			- Videos (Rank-5 Tensor): (samples, frames, height, width, channels) 
 	- Batch 
 		- Definition: Teilmenge von Trainingsdaten, gemeinsam zum Trainieren verwendet 
-		- 
+		- Vorteile 
+			- Effizienz 
+			- Speicherplatz 
+			- Stochastizität 
+		- als ein Hyperparameter 
+	- Layers 
 
 - Normalisierung: 
 
