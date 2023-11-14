@@ -11,19 +11,25 @@
 - compensate 补偿 
 - recruitment 招人 
 - appraisal 估量 
-- 
+- congruence 一致 
+- manifest 表明 
+
 
 # Knowledge 
 - Leadership theories 
-	- Trait theory 
-	- Behavior / Styles 
-		- Dimension authoritarian vs. democratic 
-			- authoritarian: task- / performance- oriented 
-			- democratic: people-oriented 
-		- 5 different styles of leadership according to the managerial grid graph 
-			- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-57-11.png?raw=) 
-		- Situational Leadership Model 
-			- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-59-00.png?raw=) 
-			- [[Leadership and Business Communication/Q&A#Situational Leadership Model|detailed explanation]] 
-	- Motivation theory 
-	- Role theory 
+	- analytical / functional understanding 
+		- Trait theory 
+		- Behavior / Styles 
+			- Dimension authoritarian vs. democratic 
+				- authoritarian: task- / performance- oriented 
+				- democratic: people-oriented 
+			- 5 different styles of leadership according to the managerial grid graph 
+				- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-57-11.png?raw=) 
+			- Situational Leadership Model 
+				- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-59-00.png?raw=) 
+				- [[Leadership and Business Communication/Q&A#Situational Leadership Model|detailed explanation]] 
+		- Motivation theory 
+		- Role theory 
+	- communicative understanding 
+		- Story telling & symbolic Leadership 
+	- 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59c0b78f6b03e2d0",
+        "id": "f2c8928564848af1",
         "type": "tabs",
         "children": [
           {
-            "id": "dd5a8305668462a2",
+            "id": "095c02b336e2d4d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_20231114.md",
+                "file": "Leadership and Business Communication/Note_Session-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_20231114.md",
+                "file": "Leadership and Business Communication/Note_Session-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_20231114.md",
+                "file": "Leadership and Business Communication/Note_Session-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_20231114.md"
+                "file": "Leadership and Business Communication/Note_Session-2.md"
               }
             }
           },
@@ -175,10 +175,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dd5a8305668462a2",
+  "active": "095c02b336e2d4d9",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "Softwarearchitekturen/Notiz_20231114.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-1.md",
