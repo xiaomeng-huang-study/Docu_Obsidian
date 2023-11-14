@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "file": "Softwarearchitekturen/Notiz_20231114.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "file": "Softwarearchitekturen/Notiz_20231114.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md"
+                "file": "Softwarearchitekturen/Notiz_20231114.md"
               }
             }
           },
@@ -188,10 +187,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "da36f3b2d47e5d60",
+  "active": "dd5a8305668462a2",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_20231114.md",
     "Softwarearchitekturen/Notiz_Kapitel-2.md",
+    "Softwarearchitekturen/Notiz_20231114.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-1.md",
