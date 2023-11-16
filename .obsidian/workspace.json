@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60d39c5c6d947414",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BWL/Notiz_Kapitel-3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +180,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3f018c676ef86678",
+  "active": "60d39c5c6d947414",
   "lastOpenFiles": [
+    "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_Kapitel-2.md",
     "Studienarbeit/Notiz_20231115.md",
     "Leadership and Business Communication/Note_20231115.md",
@@ -186,7 +192,6 @@
     "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Leadership and Business Communication/Note_Session-1.md",
-    "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_20231113.md",
     "BWL/Notiz_20231009.md",
     "Leadership and Business Communication/Q&A.md",
