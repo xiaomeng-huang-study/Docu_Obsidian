@@ -56,6 +56,7 @@
 		- Es liegen keine Wechselwirkungen vor 
 		- Arbeitsproduktivität und Marketingbudget 
 
+
 ## Planung 
 - Definition 
 	- Die gedankliche Vorbereitung zielgerichteter Entscheidungen. Sie ist das Bindeglied zwischen der Zielbildung, der Entscheidung sowie der operativen Umsetzung. 
@@ -110,22 +111,31 @@
 				- Einführungsphase 
 					- Produkt am Markt eingeführt 
 					- umfassende Werbung 
+					- keine Gewinne 
 					- Ende: Break-Even-Point 
+						- ob das Produkt weiterhin am Markt bleiben kann 
 				- Wachstumsphase 
+					- erstmals Gewinn 
+					- Hohe Ausgaben beschleunigen das Wachstum 
+					- Preis und Konditionspolitik wichtig 
 					- Ende: Umsatzkurve nicht mehr progressiv, sondern degressiv steigt 
 				- Reifephase 
 					- Umsatz und Gewinn am höchsten 
 					- Gewinn verringert sich 
 						- Ursachen  
 							- Immer mehr Konkurrenzprodukte und Nachahmer erzielen einen immer größeren Marktanteil 
+					- Mit Erhaltungsmarketing, Produktvarianten usw. verlängert 
 				- Phase der Sättigung 
 					- kein Marktwachstum 
 					- Nachfrage wird von folgenden geprägt 
 						- Lebensdauer des Produktes -> Ersatzkäufe 
 						- geänderten Bevölkerungsstruktur -> Neukäufer 
 						- Wandel der Moden 时尚 -> Erneuerungskäufer 
+					- Produktmodifikation 
 					- Ende: Kein Gewinn mehr 
 				- Rückgangsphase 
+					- Umsatz und Gewinn sinken unwiderruflich 
+					- Produktrelaunch, Nachfolgeprodukt mit neuen Eigenschaften usw. 
 				- Nachlaufphase 
 			- Boston Consulting Group Portfolio (BCG Portfolio) [hilfreiche Link](https://www.excel-controlling.com/bcg-matrix/ ) 
 				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/bcg-portfolio.jpg?raw=) 
@@ -147,12 +157,8 @@
 	- Operative Planung 
 
 
-steuer 
-soz: demokrafie, 
-poli: Gesetz, Fahren mit traditionaler Energie 
-
-
 ## Entscheidung 
+
 
 ## Ausführung 
 - Organisation 
