@@ -26,8 +26,11 @@
 			- general definition (not only costs) 
 				- $CPI = \frac{value, ~benefit ~...}{costs, ~resources, ~...}$ 
 				- sometimes value $\neq$ costs 
-		- Problem for project analysis only according to CPI 
+		- Problem for project analysis <u>onl</u>y according to CPI 
 			- time information missed 
-			- e.g. 
-				- 
+			- e.g. ![](https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-11-16_22-05-42.png?raw=) 
+				- At $t_1$ timepoint, Actual costs may be more than planned. 
+				- But 
+					- Overall, the project cost less and took less time. 
+					- At time t1, we don’t know the progress of the project. It may be progressing faster than expected, and the cost will naturally be higher. 
 
