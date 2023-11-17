@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Q&A.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md"
+                "file": "BWL/Q&A.md"
               }
             }
           },
@@ -177,10 +177,10 @@
   },
   "active": "c142dfc53011e213",
   "lastOpenFiles": [
+    "BWL/Notiz_Kapitel-3.md",
     "BWL/allgemein.md",
     "Project Management/Note_M4.md",
     "Project Management/Q&A.md",
-    "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_Kapitel-2.md",
     "Studienarbeit/Notiz_20231115.md",
     "Leadership and Business Communication/Note_20231115.md",

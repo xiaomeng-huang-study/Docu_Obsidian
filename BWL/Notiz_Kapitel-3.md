@@ -194,7 +194,7 @@
 					- Linienstellen 
 						- Verschlankung 高效, Effizienzsteigerung 
 						- z.B. Unternehmensführung, Materialwirtschaft, Produktion, Marketing usw. 
-				- Spartenorganisation (Functional Organisation) 
+				- Spartenorganisation (Business-unit-organization) 
 					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-08-21.png?raw=) 
 					- Unterteilung nach Tätigkeitsbereichen 
 				- Matrixorganisation 
