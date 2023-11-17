@@ -184,7 +184,9 @@
 						- keine Weisungsbefugnisse 
 						- z.B. statische Planung in Unternehmensführung, Arbeitsvorbereitung in Produktion, Marktforschung in Marketing 
 				- Spartenorganisation (Functional Organisation) 
+					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-08-21.png?raw=) 
 				- Matrixorganisation 
+					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-09-16.png?raw=) 
 		- Projektorganisation: Projektmanagement 
 		- Ablauforganisation 
 
