@@ -246,6 +246,7 @@
 - Definition 
 	- Summe aller Maßnahmen zu verstehen, die dazu dienen, die Führungsbereiche so zu koordinieren, dass die Unternehmensziele optimal erreicht werden können. 
 - Kontrollarten 
+	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_18-04-00.png?raw=) 
 	- Realisationskontrolle 
 		- klassischer Soll-Ist Vergleich 
 	- Betriebs- oder Zeitreihenvergleich 
@@ -255,7 +256,7 @@
 	- Zielkontrolle 
 		- Vergleich mit den angestrebten Zielen 
 	- Fortschrittskontrolle 
-		- 
+		- langfristige Planung 
 
 
 # Rechtsformen 
