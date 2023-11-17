@@ -11,8 +11,12 @@
             "id": "c142dfc53011e213",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Notiz_Kapitel-3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BWL/Notiz_Kapitel-3.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "c142dfc53011e213",
   "lastOpenFiles": [
+    "BWL/allgemein.md",
     "Project Management/Note_M4.md",
     "Project Management/Q&A.md",
     "BWL/Notiz_Kapitel-3.md",
@@ -195,7 +204,6 @@
     "Markdown/Syntax.md",
     "Project Management/Note_M1.md",
     "Leadership and Business Communication/Note_20231109.md",
-    "BWL/Notiz_20231106.md",
     "Project Management/Presentation",
     "WSL",
     "English/Vocabulary",

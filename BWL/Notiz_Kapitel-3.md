@@ -168,7 +168,15 @@
 		- Aufbauorganisation 
 			- Leitungssysteme 
 				- Einliniensysteme (Single-line-system) 
+					- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_11-06-32.png?raw=)
+					- Eine Stelle ist nur einer Instanz unterstellt 
+					- Vorteil 
+						- klare definierte Weisungsbefugnisse 
+					- Nachteil 
+						- Kommunikationseffizienz niedrig 
 				- Mehrliniensysteme (Multiple-line-system) 
+					- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_11-09-43.png?raw=)
+					- 
 				- Stablinienorganisation (Line-and-staff-organisation) 
 					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-13_14-33-13.png?raw=) 
 					- Stabstellen 
