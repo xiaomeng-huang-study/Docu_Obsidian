@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a96b37089efffafa",
+        "id": "126d47d28213b99e",
         "type": "tabs",
         "children": [
           {
-            "id": "60d39c5c6d947414",
+            "id": "c142dfc53011e213",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Management/Note_M4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Note_M4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Note_M4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project Management/Note_M4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +167,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60d39c5c6d947414",
+  "active": "c142dfc53011e213",
   "lastOpenFiles": [
-    "Project Management/Q&A.md",
     "Project Management/Note_M4.md",
+    "Project Management/Q&A.md",
     "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_Kapitel-2.md",
     "Studienarbeit/Notiz_20231115.md",
