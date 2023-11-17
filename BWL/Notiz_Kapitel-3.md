@@ -260,6 +260,9 @@
 
 
 # Rechtsformen 
+- Begriffe 
+	- Haftung 
+		- mit beschränkter Haftung die persönlichen Vermögenswerte der Gesellschafter oder Aktionäre in der Regel nicht für die Verbindlichkeiten des Unternehmens haften. 
 - Rechtsform 
 	- Einzelunternehmen 
 	- Personengesellschaft 
