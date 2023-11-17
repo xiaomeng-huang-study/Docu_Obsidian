@@ -263,14 +263,33 @@
 - Begriffe 
 	- Haftung 
 		- mit beschränkter Haftung die persönlichen Vermögenswerte der Gesellschafter oder Aktionäre in der Regel nicht für die Verbindlichkeiten des Unternehmens haften. 
+	- Komplementäre und Kommanditisten 
+		- Komplementäre: die persönlich haftenden Gesellschafter, haften <u>unbeschränkt</u> mit ihrem gesamten Vermögen 
+		- Kommanditisten: die beschränkt haftenden Gesellschafter, haften <u>beschränkt</u> bis zur Höhe ihrer Einlage 
 - Rechtsform 
-	- Einzelunternehmen 
-	- Personengesellschaft 
-		- GbR: Gesellschaft bürgerlichen Rechts 
-		- OHG: Die offene Handelsgesellschaft 
-		- KG: Kommanditgesellschaft 
-		- Ges. mit beschränkter Haftung & Co. KG 
-	- Kapitalgesellschaft 
-		- GmbH: Gesellschaft mit beschränkter Haftung 
-		- UG: Unternehmergesellschaft (Mini-GmbH) 
-		- AG: Aktiengesellschaft 
+	- private Betriebe
+		- Einzelunternehmen 
+		- Personengesellschaften 
+			- GbR: Gesellschaft bürgerlichen Rechts 
+				- kein notariell beurkundeter Gesellschaftsvertrag erforderlich 
+			- OHG: Die offene Handelsgesellschaft 
+				- ein notariell beurkundeter Gesellschaftsvertrag erforderlich 
+			- KG: Kommanditgesellschaft : Komplementäre + Kommanditisten 
+			- Ges. mit beschränkter Haftung & Co. KG : GmbH + KG 
+		- Kapitalgesellschaft 
+			- GmbH: Gesellschaft mit beschränkter Haftung 
+			- UG: Unternehmergesellschaft 
+				- mini-GmbH, denn mind. Stammkapital 1 Euro 
+			- AG: Aktiengesellschaft 
+		- Genossenschaften 合作社 
+	- öffentliche Betriebe 
+		- in nicht-privatrechtlicher Form 
+			- ohne eigene Rechtspersönlichkeit 
+				- Regiebetrieb 国营企业 z.B. Müllabfuhr 
+				- Eigenbetrieb z.B. Museum, Theater 
+			- mit eigener Rechtspersönlichkeit 
+				- öffentlich Rechtliche Anstalt 机构 z.B. Sparkasse 
+				- öffentlich Rechtliche Körperschaft z.B. Ortskrankenkasse 
+		- in privatrechtlicher Form 
+			- rein öffentliche Betriebe z.B. AG, GmbH 
+			- gemischtwirtschaftliche Betriebe z.B. AG oder GmbH mit privater Beteiligung 
