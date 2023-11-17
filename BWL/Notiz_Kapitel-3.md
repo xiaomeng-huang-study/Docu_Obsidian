@@ -176,15 +176,27 @@
 						- Kommunikationseffizienz niedrig 
 				- Mehrliniensysteme (Multiple-line-system) 
 					- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_11-09-43.png?raw=)
-					- 
-				- Stablinienorganisation (Line-and-staff-organisation) 
+					- Eine Stelle erhält von mehreren übergeordneten Stellen Weisungen. 
+					- Vorteil 
+						- Kommunikationseffizienz hoch 
+					- Nachteil 
+						- Kompetenzstreitigkeiten 职权争议 
+				- Stablinienorganisation (Line-and-staff-organization) 
 					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-13_14-33-13.png?raw=) 
 					- Stabstellen 
 						- nur indirekt durch Unterstützung einer oder mehrerer Instanzen zur Lösung einer Aufgabe beiträgt 
-						- keine Weisungsbefugnisse 
-						- z.B. statische Planung in Unternehmensführung, Arbeitsvorbereitung in Produktion, Marktforschung in Marketing 
+						- keine Weisungsbefugnisse 命令权 
+						- z.B. statische Planung in Unternehmensführung, Arbeitsvorbereitung in Produktion, Marktforschung in Marketing usw. 
+					- Zentralstellen 
+						- nehmen Weisungen i.d.R. nur von der Unternehmensleitung an. 
+						- funktionale Weisungsbefugnisse 
+						- z.B. Rechnungswesen, Informationswirtschaft, Personalableitung 
+					- Linienstellen 
+						- Verschlankung 高效, Effizienzsteigerung 
+						- z.B. Unternehmensführung, Materialwirtschaft, Produktion, Marketing usw. 
 				- Spartenorganisation (Functional Organisation) 
 					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-08-21.png?raw=) 
+					- Unterteilung nach Tätigkeitsbereichen 
 				- Matrixorganisation 
 					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-09-16.png?raw=) 
 		- Projektorganisation: Projektmanagement 
