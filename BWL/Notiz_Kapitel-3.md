@@ -271,16 +271,23 @@
 		- Einzelunternehmen 
 		- Personengesellschaften 
 			- GbR: Gesellschaft bürgerlichen Rechts 
+				- unbeschränkte Haftung 
 				- kein notariell beurkundeter Gesellschaftsvertrag erforderlich 
 			- OHG: Die offene Handelsgesellschaft 
+				- unbeschränkte Haftung 
 				- ein notariell beurkundeter Gesellschaftsvertrag erforderlich 
 			- KG: Kommanditgesellschaft : Komplementäre + Kommanditisten 
-			- Ges. mit beschränkter Haftung & Co. KG : GmbH + KG 
+				- Komplementäre: unbeschränkt 
+				- Kommanditisten: beschränkt 
+			- GmbH & Co. KG 
+				- Komplementäre -> GmbH : mit beschränkte Haftung 
+				- KG : mit beschränkte Haftung 
 		- Kapitalgesellschaft 
 			- GmbH: Gesellschaft mit beschränkter Haftung 
 			- UG: Unternehmergesellschaft 
 				- mini-GmbH, denn mind. Stammkapital 1 Euro 
 			- AG: Aktiengesellschaft 
+				- mit beschränkter Haftung 
 		- Genossenschaften 合作社 
 	- öffentliche Betriebe 
 		- in nicht-privatrechtlicher Form 
