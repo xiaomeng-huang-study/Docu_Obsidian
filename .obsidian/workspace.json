@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Q&A.md",
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Q&A.md",
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Q&A.md",
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Q&A.md"
+                "file": "BWL/Notiz_Kapitel-3.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "c142dfc53011e213",
   "lastOpenFiles": [
+    "BWL/Q&A.md",
     "BWL/Notiz_Kapitel-3.md",
     "BWL/allgemein.md",
     "Project Management/Note_M4.md",
@@ -203,7 +204,6 @@
     "Project Management/Note_Milestone_Trend_Analysis.md",
     "Markdown/Syntax.md",
     "Project Management/Note_M1.md",
-    "Leadership and Business Communication/Note_20231109.md",
     "Project Management/Presentation",
     "WSL",
     "English/Vocabulary",

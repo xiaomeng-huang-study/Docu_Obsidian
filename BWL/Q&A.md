@@ -84,4 +84,7 @@ Der Stakeholder-Value-Ansatz ist eine Geschäftsphilosophie, die betont, dass Un
 
 8. Konflikte mit rechtlichen und regulatorischen Anforderungen: In einigen Fällen können die Interessen der Stakeholder mit rechtlichen und regulatorischen Anforderungen kollidieren. Unternehmen müssen sicherstellen, dass sie im Einklang mit den Gesetzen und Vorschriften handeln, während sie die Bedürfnisse ihrer Stakeholder berücksichtigen.
 
-Es ist wichtig zu beachten, dass der Stakeholder-Value-Ansatz nicht zwangsläufig zu diesen Nachteilen führt, und viele Unternehmen haben Wege gefunden, diese Herausforderungen zu bewältigen und erfolgreich umzusetzen. Es hängt von der jeweiligen Unternehmensführung, der Branche, den Zielen und den Umständen ab, wie gut dieser Ansatz umgesetzt werden kann. Ein ausgewogenes Management und eine kluge Abwägung der Interessen der Stakeholder können dazu beitragen, die Vorteile des Stakeholder-Value-Ansatzes zu realisieren, während die Nachteile minimiert werden.
+Es ist wichtig zu beachten, dass der Stakeholder-Value-Ansatz nicht zwangsläufig zu diesen Nachteilen führt, und viele Unternehmen haben Wege gefunden, diese Herausforderungen zu bewältigen und erfolgreich umzusetzen. Es hängt von der jeweiligen Unternehmensführung, der Branche, den Zielen und den Umständen ab, wie gut dieser Ansatz umgesetzt werden kann. Ein ausgewogenes Management und eine kluge Abwägung der Interessen der Stakeholder können dazu beitragen, die Vorteile des Stakeholder-Value-Ansatzes zu realisieren, während die Nachteile minimiert werden. 
+
+## Profit-Center 
+[Profit-Center](https://www.bwl-lexikon.de/wiki/profitcenter/) 
