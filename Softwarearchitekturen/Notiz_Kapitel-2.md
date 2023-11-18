@@ -39,10 +39,10 @@
 	- ==Anzahl der Parameter== [(hilfreiche Erklärung)](https://stackoverflow.com/questions/42786717/how-to-calculate-the-number-of-parameters-for-convolutional-neural-network ) 
 		- Input-Layer: 0 
 		- Convolutional layers 
-			- (Anzahl der Filter) x (Volumen der Filter) + Anzahl der Filter 
+			- (Anzahl der Filter) x (Volumen der Filter + 1)
 				- Volumen der Filter = (Filter Höhe) x (Filter Breite) x (Anzahl der Kanäle in Eingabe)
-				- "+ Anzahl der Filter": für den Bias-Term pro Filter 
-			- eng.: (Number of Kernel) x (Kernel Shape) + Number of Kernel 
+				- "+ 1": für den Bias-Term pro Filter 
+			- eng.: (Number of Kernel) x (Kernel Volume + 1) 
 		- Pooling layers: 0 
 		- Fully-connected layers 
 			- (Eingabegröße) x (Ausgabegröße) + Ausgabegröße 
@@ -56,11 +56,12 @@
 			- (Batch Size) x (Ausgabegröße) x (Präzision)
 	- ==Flops== 
 		- Convolutional layers 
-			- 2 x (Anzahl der Filter) x (Volumen der Filter) x (Ausgabegröße) 
-			- eng.: 2 x Number of Kernel x Kernel Shape x Output Shape 
+			- 2 x (Anzahl der Filter) x (Volumen der Filter) x (Ausgabefläche) 
+			- eng.: 2 x (Number of Kernel) x (Kernel Volume) x (Output area) 
 		- Fully connected layers 
 			- 2 x (Eingabegröße) x (Ausgabegröße) 
-			- eng.: 2 x Input Size x Output Size 
+				- (beide sind 1-dimensional) 
+			- eng.: 2 x (Input Size) x (Output Size) 
 	- Eigenschaften 
 		- Anzahl der Parameter: voll verknüpfte Schichten > Faltungsschichten 
 		- Rechenaufwand (Flops): Faltungsschichten >> voll verknüpfte Schichten 

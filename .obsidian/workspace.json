@@ -11,8 +11,12 @@
             "id": "8e4c3e0a6fd6b903",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md"
+              }
             }
           },
           {
@@ -169,6 +177,9 @@
   },
   "active": "8e4c3e0a6fd6b903",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-2.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
+    "Softwarearchitekturen/Notiz_20231114.md",
     "BWL/Notiz_Kapitel-3.md",
     "BWL/Q&A.md",
     "BWL/allgemein.md",
@@ -179,8 +190,6 @@
     "Leadership and Business Communication/Note_20231115.md",
     "Studienarbeit",
     "Leadership and Business Communication/Note_Session-2.md",
-    "Softwarearchitekturen/Notiz_20231114.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Leadership and Business Communication/Note_Session-1.md",
     "BWL/Notiz_20231113.md",
@@ -195,7 +204,6 @@
     "Project Management/Note_M2.md",
     "Project Management/Note_Milestone_Trend_Analysis.md",
     "Markdown/Syntax.md",
-    "Project Management/Note_M1.md",
     "Project Management/Presentation",
     "WSL",
     "English/Vocabulary",
