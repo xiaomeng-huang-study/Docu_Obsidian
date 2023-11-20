@@ -91,5 +91,3 @@
 		- $m_{gs} = K_f / db$ 
 	- Gewinnschwellenumsatz ($U_{gs}$) 
 		- $m_{gs} = m_{gs} \cdot p$ 
-
-- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-59-00.png?raw=" width="600" /> 
