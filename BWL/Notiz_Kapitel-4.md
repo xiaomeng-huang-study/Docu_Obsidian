@@ -10,7 +10,10 @@
 	- Theorien 
 		- ![|450](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-25-08.png?raw=) 
 		- Produktionstheorie 
-			- 
+			- analysiert ausschließlich Mengengerüst 
+			- Zusammenhang zwischen dem <u>mengenmäßigen</u> Verbrauch an Produktionsfaktoren und der daraus resultierenden Ausbringungsmenge 
+		- Kostentheorie 
+			- optimale Kombination der Produktionsfaktoren 
 
 
 ## Produktionstheorie 
@@ -24,6 +27,8 @@
 			- Schaubild ![|400](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_14-21-53.png?raw=) 
 		- nicht austauschbare bzw. limitationale Produktionsfaktoren 
 			- Schaubild ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_14-38-39.png?raw=) 
+	- Ausbringungs-Isoquante 
+		- die durchgezogene Linie auf der alle Produktionsfaktor-Kombinationen für $m$  dargestellt werden 
 
 ## Kostentheorie 
 - Kostenfunktion 
@@ -37,8 +42,9 @@
 	- Steigung 
 	- Änderbarkeit 
 		- Preis des Faktors -> Änderung des Schnittpunkts sowie der Änderung 
-		- Kostenbudget -> parallele Verschiebung ()
-	- Minimal-kostenkombination 
+		- Kostenbudget -> parallele Verschiebung (Schnittpunkte ändern sich, aber Steigung verändert sich nicht) 
+	- max. Ausbringungsmenge -> min. Kostenkombination 
+		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-52-33.png?raw=) 
 - Kostenbegriffe 
 	- Ausbringungsmenge ($m$) 
 	- Marktpreis ($p$) 
@@ -55,19 +61,23 @@
 	- Gesamtkosten ($K$) = $K_f + K_v$ 
 	- Durchschnittkosten (k) $=K / m$ 
 	- Grenzkosten ($K'$) $= \frac{dK}{dm}$ 
-- Kostenverläufe 
+		- stellt den Anstieg der Gesamtkosten bei einer zusätzlichen Produktionseinheit dar 
+- [Kostenverläufe](https://www.kostenrechnung-info.de/variable_kosten.html) 
 	- Schaubild: ![|400](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-37-00.png?raw=) 
+	- Fixkosten 
+		- z.B. Mietkosten für Produktionsräume 
 	- lineare Kosten 
 		- z.B. Arbeitskraft (Falls gleich bezahlt)
 	- degressive Kosten 
-		- z.B. Material kaufen 
+		- z.B. Material kaufen (Ratbatt) 
 	- progressive Kosten 
-		- z.B. Arbeit am Weihnachtsmarkt 
+		- z.B. Nachfrage steigt, Produktivität unverändert sogar sinkt ab -> Lohnkosten für Überstunden 
 	- regressive Kosten 
 		- z.B. Heizkosten in Kino, wenn mehr Leute 
 
 ## Produktionsplanung 
 - langfristige 
+	- $K_f$ verändert sich vielleicht 
 - kurzfristige 
 	- Deckungsbeitrag ($db$) 
 		- $db = p - kv$ 
