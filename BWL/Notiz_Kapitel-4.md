@@ -44,9 +44,8 @@
 			- Energiekosten 
 	- variable Stückkosten ($kv$) $= Kv / m$ 
 	- Gesamtkosten ($K$) = $Kf + Kv$ 
-	- Durchschnittkosten 
+	- Durchschnittkosten (k) $=K / m$ 
 	- Grenzkosten ($K'$) $= \frac{dK}{dm}$ 
-		- 1. Ableitung von Gesamtkosten 
 - Kostenverläufe 
 	- lineare Kosten 
 		- z.B. Arbeitskraft (Falls gleich bezahlt)
