@@ -61,4 +61,8 @@
 ## Produktionsplanung 
 - langfristige 
 - kurzfristige 
-- 
+- Deckungsbeitrag ($db$) 
+	- $db = e - kv$ 
+
+- Kosten- und Erlösverläufe 
+	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_16-16-34.png?raw=) 
