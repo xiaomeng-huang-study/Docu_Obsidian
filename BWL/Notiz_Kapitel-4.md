@@ -4,9 +4,17 @@
 - Produktion 
 	- Definition 
 		- die betriebliche Leistungserstellung 
+	- Flussdiagramm: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-21-34.png?raw=) 
+	- ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-22-36.png?raw=) 
+	- Produktionsfaktoren: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-23-49.png?raw=) 
+	- Theorien 
+		- ![|450](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-25-08.png?raw=) 
+		- Produktionstheorie 
+			- 
 
 
 ## Produktionstheorie 
+- ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-20-00.png?raw=) 
 - Produktionsfunktion 
 	- Definition 
 		- funktionaler Zusammenhang zwischen Faktoreinsatzmenge $r_1$ und $r_2$ (Input) und der Ausbringungsmenge m (Output) 
