@@ -216,7 +216,7 @@
 		- Ablauforganisation 
 - Personalwirtschaft 
 	- als eine der Produktionsfaktoren 
-		- Produktionsfaktoren ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_16-49-39.png?raw=) 
+		- Elementare Produktionsfaktoren ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_16-49-39.png?raw=) 
 		- Bedeutung des Produktionsfaktors Personal 
 			- Personal als Leitungsfaktor 
 				- Ressourcen benutzen 
