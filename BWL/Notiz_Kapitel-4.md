@@ -29,6 +29,9 @@
 		- Kostenbudget -> parallele Verschiebung ()
 	- Minimal-kostenkombination 
 - Kostenbegriffe 
+	- Schaubilder: 
+		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-27-34.png?raw=) 
+		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-30-09.png?raw=) 
 	- Ausbringungsmenge ($m$) 
 	- Erlös = Ausbringungsmenge x Marktpreis 
 	- Fixkosten ($Kf$) 
