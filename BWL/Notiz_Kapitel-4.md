@@ -63,7 +63,7 @@
 	- Grenzkosten ($K'$) $= \frac{dK}{dm}$ 
 		- stellt den Anstieg der Gesamtkosten bei einer zusätzlichen Produktionseinheit dar 
 - [Kostenverläufe](https://www.kostenrechnung-info.de/variable_kosten.html) 
-	- Schaubild: ![|400](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-37-00.png?raw=) 
+	- Schaubild: ![|500](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-37-00.png?raw=) 
 	- Fixkosten 
 		- z.B. Mietkosten für Produktionsräume 
 	- lineare Kosten 
@@ -91,3 +91,5 @@
 		- $m_{gs} = K_f / db$ 
 	- Gewinnschwellenumsatz ($U_{gs}$) 
 		- $m_{gs} = m_{gs} \cdot p$ 
+
+- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-37-00.png?raw=" width="400" /> 
