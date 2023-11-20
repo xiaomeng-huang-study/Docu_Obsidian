@@ -12,7 +12,7 @@
 		- 
 	- Typen 
 		- eine beliebige Teilbarkeit und Substitution der Produktionsfaktoren $R_1$ und $R_2$ 
-		- nicht austauschbare bzw. limitationale Produktionsfaktoreb 
+		- nicht austauschbare bzw. limitationale Produktionsfaktoren 
 
 ## Kostentheorie 
 - Kostenfunktion 
