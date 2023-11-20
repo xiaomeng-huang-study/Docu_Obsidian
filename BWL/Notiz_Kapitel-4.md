@@ -20,6 +20,9 @@
 ## Kostentheorie 
 - Kostenfunktion 
 	- Formel $K = q_{1} * r_{1}+q_{2} * r_{2}+\ldots+q_{n} * r_{n}$ 
+	- Schaubilder 
+		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-27-34.png?raw=) 
+		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-30-09.png?raw=) 
 	- Kostenisoquante 
 	- Schnittpunkt 
 		- Einsatzmenge von einem Faktor $r$ , wenn das Kostenbudget $K$ ausschließlich für den Faktor genutzt wird 
@@ -29,22 +32,19 @@
 		- Kostenbudget -> parallele Verschiebung ()
 	- Minimal-kostenkombination 
 - Kostenbegriffe 
-	- Schaubilder 
-		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-27-34.png?raw=) 
-		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-30-09.png?raw=) 
 	- Ausbringungsmenge ($m$) 
 	- Marktpreis ($p$) 
 	- Erlös ($e$) $= m \cdot p$ 
-	- Fixkosten ($Kf$) 
+	- Fixkosten ($K_f$) 
 		- unabhängig von Ausbringungsmenge 
-	- Fixe Stückkosten ($kf$) $= Kf / m$ 
-	- variable Kosten ($Kv$) $= kv \cdot m$ 
+	- Fixe Stückkosten ($k_f$) $= K_f / m$ 
+	- variable Kosten ($K_v$) $= k_v \cdot m$ 
 		- von Ausbringungsmenge abhängig 
 		- z.B. 
 			- Materialkosten 
 			- Energiekosten 
-	- variable Stückkosten ($kv$) $= Kv / m$ 
-	- Gesamtkosten ($K$) = $Kf + Kv$ 
+	- variable Stückkosten ($k_v$) $= K_v / m$ 
+	- Gesamtkosten ($K$) = $K_f + K_v$ 
 	- Durchschnittkosten (k) $=K / m$ 
 	- Grenzkosten ($K'$) $= \frac{dK}{dm}$ 
 - Kostenverläufe 
@@ -61,8 +61,15 @@
 ## Produktionsplanung 
 - langfristige 
 - kurzfristige 
-- Deckungsbeitrag ($db$) 
-	- $db = e - kv$ 
-
-- Kosten- und Erlösverläufe 
-	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_16-16-34.png?raw=) 
+	- Deckungsbeitrag ($db$) 
+		- $db = p - kv$ 
+	- Gewinn ($G$) 
+		- $G = db \cdot m - K_f$ 
+	- Gewinn pro Stück ($g$) 
+		- $g = G / m$ 
+	- Kosten- und Erlösverläufe 
+		- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_16-16-34.png?raw=) 
+	- Gewinnschwellenmenge ($m_{gs}$) 
+		- $m_{gs} = K_f / db$ 
+	- Gewinnschwellenumsatz ($U_{gs}$) 
+		- $m_{gs} = m_{gs} \cdot p$ 
