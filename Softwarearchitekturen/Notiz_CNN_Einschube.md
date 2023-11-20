@@ -4,8 +4,10 @@
 	- $\beta$ und $\gamma$ sind lernbare Parameter 
 	- $\mu_{mov}$ und $\sigma_{mov}$ sind gespeicherte Parameter 
 	- $\alpha$ ist ein vorgegebenes Gewicht für Vergangenheit und aktuelle 
+	- Moving Average 
+		- der während des Trainings dazu dient, stabile Schätzungen des Mittelwerts und der Standardabweichung der Aktivierungen über mehrere Mini-Batches zu erhalten 
 - Algorithmus 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_21-56-14.png?raw=" width="400" /> 
+	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_21-56-14.png?raw=" width="350" /> 
 - Funktionen 
 	- die Konvergenzgeschwindigkeit zu verbessern 
 	- die Genauigkeit zu verbessern 
