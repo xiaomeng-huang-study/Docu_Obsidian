@@ -85,6 +85,8 @@
 		- $G = db \cdot m - K_f$ 
 	- Gewinn pro Stück ($g$) 
 		- $g = G / m$ 
+	- Kritisches Prinzip 
+		- Bei negativen Gewinnen lohnt es sich nur dann, die Produktion fortzusetzen, wenn der <u>Deckungsbeitrag größer oder gleich Null</u> ist. 
 	- Kosten- und Erlösverläufe 
 		- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_16-16-34.png?raw=) 
 	- Gewinnschwellenmenge ($m_{gs}$) 
