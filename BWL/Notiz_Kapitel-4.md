@@ -47,6 +47,7 @@
 	- Durchschnittkosten (k) $=K / m$ 
 	- Grenzkosten ($K'$) $= \frac{dK}{dm}$ 
 - Kostenverläufe 
+	- Schaubild: ![|400](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-37-00.png?raw=) 
 	- lineare Kosten 
 		- z.B. Arbeitskraft (Falls gleich bezahlt)
 	- degressive Kosten 
