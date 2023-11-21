@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a7c79edaf5fd7079",
+        "id": "551e1184a967eac3",
         "type": "tabs",
         "children": [
           {
-            "id": "93b6b25c351a38d0",
+            "id": "9fdad91759fb4411",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3554fc0afb69863b",
+            "id": "fb0e9ee1e2401eea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6851420e96ba1ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md"
               }
             }
           },
@@ -200,20 +187,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3554fc0afb69863b",
+  "active": "9fdad91759fb4411",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel-2.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_VGG-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_ZF-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_VGG-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Einschube.md",
+    "Softwarearchitekturen/Notiz_20231114.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_ZF-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
-    "Softwarearchitekturen/Notiz_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
     "BWL/Notiz_Kapitel-4.md",
     "BWL/Notiz_Kapitel-3.md",
-    "Softwarearchitekturen/Notiz_20231114.md",
     "BWL/Q&A.md",
     "BWL/allgemein.md",
     "Project Management/Note_M4.md",
@@ -228,7 +216,6 @@
     "BWL/Notiz_20231009.md",
     "Leadership and Business Communication/Q&A.md",
     "Leadership and Business Communication/Note_20231025.md",
-    "Leadership and Business Communication/Note_20231011.md",
     "Project Management/Presentation",
     "WSL",
     "English/Vocabulary",

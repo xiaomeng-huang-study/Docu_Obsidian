@@ -73,8 +73,10 @@
 		```
 
 - Deep Learning: 
+	- Daten 
+		- train - validation - test 
 	- Prozess 
-		- Schaubild: siehe S91 
+		- Einfaches Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-29-26.png?raw=" width="450" /> 
 	- Input $X$ 
 		- als Tensoren 
 			- Vector data (Rank-2 Tensor): (samples, features) 
@@ -92,8 +94,20 @@
 			- Stochastizität 
 		- als ein Hyperparameter 
 	- Layers 
-
-- Normalisierung: 
+	- Aktivierungsfunktion 
+		- Jedes Neuron in einem Layer hat eine Aktivierungsfunktion 
+		- nicht lineare Beziehungen zu lernen 
+		- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-33-31.png?raw=" width="500" /> 
+	- Normalisierung 
+	- Initialisierung 
+		- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=" width="600" /> 
+		- Initialisierung zu klein 
+			- Die Aktivierungen sind hauptsächlich um 0 herum verteilt 
+				- Aktivierungen (bei -1 und 1) -> 0 $\Rightarrow$ Gradients -> 0 
+		- Initialisierung zu groß 
+			- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
+				- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
+		- Initialisierung geeignet 
 
 - Vertauschung: Zahl in Kästchen in lila groß 
 

@@ -1,3 +1,21 @@
+- Optimizer 
+	- Funktion: die Gewichtungen eines neuronalen Netzwerks anzupassen, und die Loss-Score zu minimieren 
+	- Typen 
+		- SGD (Stochastic Gradient Descent) 随机梯度下降 
+			- berechnet den Gradienten der Verlustfunktion für eine kleine Stichprobe (Minibatch) 
+		- SGD mit Momentum 
+			- kombiniert den aktuellen Gradienten mit einer gewichteten Summe der vorherigen Gradienten -> beschleunigt die Anpassung der Gewichtungen 
+		- AdaGrad (Adaptive Gradient) 
+			- basiert auf der bisherigen Gradientenhistorie 
+				- stark aktualisierte Gewichtungen -> geringere Lernrate 
+			- 
+
+
+
+
+
+
+
 # Begriffe 
 - Padding 
 	- Valid Padding: kein Padding hinzugefügt 
@@ -10,14 +28,14 @@
 	- Definition 
 		- ein Modell während des Trainings zu gut auf die Trainingsdaten passt, aber Schwierigkeiten hat, auf neuen, nicht gesehenen Daten zu generalisieren 
 	- Lösung 
-		- [[Softwarearchitekturen/Notiz_Kapitel-2#^dropout-layer|Dropout-Layer]] 
-		- [[Softwarearchitekturen/Notiz_Kapitel-2#^augmentierung|Augmentierung]] 
+		- [[Notiz_Kapitel-2_CNN_Beispiel#^dropout-layer|Dropout-Layer]] 
+		- [[Notiz_Kapitel-2_CNN_Beispiel#^augmentierung|Augmentierung]] 
 - Vanishing Gradients 
 	- Definition 
 		- die Gradienten der Verlustfunktion, die durch den Backpropagation-Algorithmus berechnet werden, in den tiefen Schichten des Netzwerks extrem klein werden. (Dies kann dazu führen, dass die Gewichtungen in diesen Schichten nicht effektiv aktualisiert werden, was das Training schwierig oder sogar unmöglich macht.) 
 	- Lösungen 
 		- ReLU-Aktivierungsfunktion verwenden 
-		- [[Softwarearchitekturen/Notiz_Kapitel-2#^batch-norm|Batch-Normalization]] 
+		- [[Notiz_Kapitel-2_CNN_Beispiel#^batch-norm|Batch-Normalization]] 
 
 # Wichtige Größen
 - ==Ausgabe Größe==: $(n + 2p -f)/s + 1$ 
@@ -39,11 +57,11 @@
 				- "+ Ausgabegröße": für den Bias-Term pro Ausgabe 
 			- eng.: (Input Size) x (Output Size) + Output Size 
 	- ==Speicherbedarf== 
-		- Convolutional layers 
+		- Convolutional layers (Ausgaben verbraucht den meisten Speicherplatz) 
 			- (Batch Size) x (Ausgabevolumen) x (Präzision) 
 				- Präzision: z.B. float32 -> 32 Bit / dig. 
-		- Fully connected layers 
-			- (Batch Size) x (Ausgabegröße) x (Präzision)
+		- Fully connected layers (Parameter verbraucht den meisten Speicherplatz) 
+			- (Batch Size) x (Anzahl der Parameter) x (Präzision)
 	- ==Flops== 
 		- Convolutional layers 
 			- 2 x (Anzahl der Filter) x (Volumen der Filter) x (Ausgabefläche) 
@@ -59,4 +77,3 @@
 		- Filter = Kernel 
 		- Anzahl der Kanäle in Eingabe = Anzahl der Kanäle pro Filter 
 		- Anzahl der Filter = Anzahl der Ausgabeklassen 
-		- Beschreibung für 1-Dimension: "Größe" / "Size" ; für mehr-Dimension : "Volumen" / "Size" 
