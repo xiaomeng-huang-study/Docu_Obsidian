@@ -19,3 +19,44 @@
 		- ReLU-Aktivierungsfunktion verwenden 
 		- [[Softwarearchitekturen/Notiz_Kapitel-2#^batch-norm|Batch-Normalization]] 
 
+# Wichtige Größen
+- ==Ausgabe Größe==: $(n + 2p -f)/s + 1$ 
+	- Padding: Füllen mit 1 Pixel am Rand (um 1 Pixel nach außen erweitern) $\Rightarrow$ p = 1 
+	- Stride 1 $\Rightarrow$ s = 1 
+	- Eingabe: n x n 
+	- Filter: f x f 
+- Recheneigenschaften 
+	- ==Anzahl der Parameter== [(hilfreiche Erklärung)](https://stackoverflow.com/questions/42786717/how-to-calculate-the-number-of-parameters-for-convolutional-neural-network ) 
+		- Input-Layer: 0 
+		- Convolutional layers 
+			- (Anzahl der Filter) x (Volumen der Filter + 1)
+				- Volumen der Filter = (Filter Höhe) x (Filter Breite) x (Anzahl der Kanäle in Eingabe)
+				- "+ 1": für den Bias-Term pro Filter 
+			- eng.: (Number of Kernel) x (Kernel Volume + 1) 
+		- Pooling layers: 0 
+		- Fully-connected layers 
+			- (Eingabegröße) x (Ausgabegröße) + Ausgabegröße 
+				- "+ Ausgabegröße": für den Bias-Term pro Ausgabe 
+			- eng.: (Input Size) x (Output Size) + Output Size 
+	- ==Speicherbedarf== 
+		- Convolutional layers 
+			- (Batch Size) x (Ausgabevolumen) x (Präzision) 
+				- Präzision: z.B. float32 -> 32 Bit / dig. 
+		- Fully connected layers 
+			- (Batch Size) x (Ausgabegröße) x (Präzision)
+	- ==Flops== 
+		- Convolutional layers 
+			- 2 x (Anzahl der Filter) x (Volumen der Filter) x (Ausgabefläche) 
+			- eng.: 2 x (Number of Kernel) x (Kernel Volume) x (Output area) 
+		- Fully connected layers 
+			- 2 x (Eingabegröße) x (Ausgabegröße) 
+				- (beide sind 1-dimensional) 
+			- eng.: 2 x (Input Size) x (Output Size) 
+	- Eigenschaften 
+		- Anzahl der Parameter: voll verknüpfte Schichten > Faltungsschichten 
+		- Rechenaufwand (Flops): Faltungsschichten >> voll verknüpfte Schichten 
+	- Anmerkungen 
+		- Filter = Kernel 
+		- Anzahl der Kanäle in Eingabe = Anzahl der Kanäle pro Filter 
+		- Anzahl der Filter = Anzahl der Ausgabeklassen 
+		- Beschreibung für 1-Dimension: "Größe" / "Size" ; für mehr-Dimension : "Volumen" / "Size" 
