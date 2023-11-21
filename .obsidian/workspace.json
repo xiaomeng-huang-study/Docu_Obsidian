@@ -11,11 +11,28 @@
             "id": "98e4cb0a032a4237",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e7a28fa7a84dfb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 280.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2.md"
+              }
             }
           },
           {
@@ -167,10 +188,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "98e4cb0a032a4237",
+  "active": "4e7a28fa7a84dfb9",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
     "Softwarearchitekturen/Notiz_Kapitel-2.md",
+    "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
     "Softwarearchitekturen/Notiz_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
     "BWL/Notiz_Kapitel-4.md",
@@ -193,9 +217,6 @@
     "Leadership and Business Communication/Note_20231011.md",
     "Project Management/Note_M3.md",
     "Project Management/Note_20231026.md",
-    "Project Management/Note_20231019.md",
-    "Project Management/Note_20231012.md",
-    "Project Management/Note_M2.md",
     "Project Management/Presentation",
     "WSL",
     "English/Vocabulary",
