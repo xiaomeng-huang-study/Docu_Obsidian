@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-1.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md"
               }
             }
           },
@@ -187,19 +188,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9fdad91759fb4411",
+  "active": "fb0e9ee1e2401eea",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_VGG-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_ZF-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_VGG-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_20231114.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_ZF-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
     "BWL/Notiz_Kapitel-4.md",
     "BWL/Notiz_Kapitel-3.md",
     "BWL/Q&A.md",

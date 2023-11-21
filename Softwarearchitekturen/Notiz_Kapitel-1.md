@@ -1,7 +1,10 @@
+# Vocabulary 
 - Deformation 形变 
 - stimulate 刺激,激励 
 - inhibit 抑制 
 
+
+# KI 
 - Herausforderungen für KI 
 	- Verzerrungen 
 	- Blackbox 
@@ -16,6 +19,7 @@
 
 - examples unlabeled: unsupervised machine learning 
 - examples labeled: Clustering (Grouping unlabeled examples) 
+
 
 # Neuronales Netz 
 - learning rate: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Learning-rate.png?raw=)  
@@ -72,6 +76,7 @@
 		
 		    return W1, b1, W2, b2
 		```
+
 
 # Deep Learning 
 - Einführung 
