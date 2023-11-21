@@ -17,6 +17,7 @@
 - examples unlabeled: unsupervised machine learning 
 - examples labeled: Clustering (Grouping unlabeled examples) 
 
+# Neuronales Netz 
 - learning rate: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Learning-rate.png?raw=)  
 - epoch: Vorwärtsdurchlauf + Rückwärtsdurchlauf 
 - Backpropagation 反向传播算法 
@@ -72,7 +73,8 @@
 		    return W1, b1, W2, b2
 		```
 
-- Deep Learning: 
+# Deep Learning 
+- Einführung 
 	- Daten 
 		- train - validation - test 
 	- Prozess 
@@ -108,18 +110,24 @@
 			- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
 				- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
 		- Initialisierung geeignet 
-
-- Vertauschung: Zahl in Kästchen in lila groß 
-
-
-- Optimizer 
-	- Funktion: die Gewichtungen eines neuronalen Netzwerks anzupassen, und die Loss-Score zu minimieren 
-	- Typen 
-		- SGD (Stochastic Gradient Descent) 随机梯度下降 
-			- berechnet den Gradienten der Verlustfunktion für eine kleine Stichprobe (Minibatch) 
-		- SGD mit Momentum 
-			- kombiniert den aktuellen Gradienten mit einer gewichteten Summe der vorherigen Gradienten -> beschleunigt die Anpassung der Gewichtungen 
-		- AdaGrad (Adaptive Gradient) 
-			- basiert auf der bisherigen Gradientenhistorie 
-				- stark aktualisierte Gewichtungen -> geringere Lernrate 
-			- 
+	- Loss-Funktion / Kosten-Funktion 
+		- Mean-Squared-Error (MSE) 
+		- Binary-Cross-Entropy (BCE) 
+		- Categorical-Cross-Entropy (CCE) 
+		- Sparse-Categorical-Cross-Entropy (SCCE) 
+		- MAE 
+		- RMSE 
+	- Optimizer 
+		- Funktion: die Gewichtungen eines neuronalen Netzwerks anzupassen, und die Loss-Score zu minimieren 
+		- Typen 
+			- Stochastic Gradient Descent (SGD) 随机梯度下降 
+				- berechnet den Gradienten der Verlustfunktion für eine kleine Stichprobe (Minibatch) 
+			- SGD mit Momentum 
+				- kombiniert den aktuellen Gradienten mit einer gewichteten Summe der vorherigen Gradienten -> beschleunigt die Anpassung der Gewichtungen 
+			- Adaptive Gradient (AdaGrad) 
+				- basiert auf der bisherigen Gradientenhistorie 
+					- stark aktualisierte Gewichtungen -> geringere Lernrate 
+			- Root Mean Square Propagation (RMSprop) 
+				- ähnlich wie Adagrad, aber mit einer exponentiell abnehmenden Durchschnittfunktion für die vergangenen Gradienten 
+			- Adaptive Moment Estimation (Adam) 
+				- kombiniert Ideen aus Momentum und RMSprop 
