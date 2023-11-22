@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "551e1184a967eac3",
+        "id": "e9457ecf2ff0202e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb0e9ee1e2401eea",
+            "id": "2b4433b3e833de61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,14 +167,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fb0e9ee1e2401eea",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_Res-.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_VGG-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_ZF-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
