@@ -33,6 +33,9 @@
 					- $\Delta P$ : Preis-Differenz 
 				- Bewertung 
 					- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-45-18.png?raw=" width="400" /> 
+						- <u>p</u> : Prohibitivpreis: kein Stück abgesetzt 
+						- <u>m</u> : Sättigungsmenge: zahlreich vorhanden, aber wertlos 
+						- Punkt $G$ : Nachfrageelastizität $= 1$ 
 					- vollkommen elastisch: $n_{x,p} \rightarrow \infty$ 
 						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-50-12.png?raw=" width="300" /> 
 						- kleine Preisänderung -> eine extrem starke Änderung der Nachfragemenge 
@@ -56,7 +59,13 @@
 						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_19-08-41.png?raw=" width="300" /> 
 						- Preisänderung -> gleichgerichtete Mengenänderung 
 						- z.B. Exklusives Produkt ([[BWL/Q&A#Snob-Effekt|Snob-Effekt]]), Anzeichen für Verknappung (Hamsterkäufe) 抢购现象 
-					- 
+					- Preissenkung bei hoher & niedriger Nachfrageelastizität 
+						- bei hoher Nachfrageelastizität 
+							- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_19-30-56.png?raw=" width="600" /> 
+							- preisbedingter Umsatzverlust < mengenbedingter Umsatzzuwachs 
+						- bei niedriger Nachfrageelastizität 
+							- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_19-32-22.png?raw=" width="600" /> 
+							- preisbedingter Umsatzverlust > mengenbedingter Umsatzzuwachs 
 		- praktische Preispolitik 
 	- Kommunikationspolitik 
 		- die Art der Kommunikation des Unternehmens mit den Kunden und Handelsunternehmen. Ziel ist eine positive Einstellung zum Produkt oder der Dienstleistung zu erzeugen und somit zum Kauf anzuregen 
