@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9457ecf2ff0202e",
+        "id": "52d4f29378fc6955",
         "type": "tabs",
         "children": [
           {
-            "id": "2b4433b3e833de61",
+            "id": "c1d6993644bcf684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/ROS1/C++/CMakeLists.md",
+                "file": "BWL/Notiz_Kapitel-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS1/C++/CMakeLists.md",
+                "file": "BWL/Notiz_Kapitel-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS1/C++/CMakeLists.md",
+                "file": "BWL/Notiz_Kapitel-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS/ROS1/C++/CMakeLists.md"
+                "file": "BWL/Notiz_Kapitel-5.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2b4433b3e833de61",
+  "active": "c1d6993644bcf684",
   "lastOpenFiles": [
-    "ROS/ROS1/C++/Untitled.md",
+    "BWL/Notiz_Kapitel-5.md",
     "ROS/ROS1/C++/CMakeLists.md",
+    "ROS/ROS1/C++/Untitled.md",
     "ROS/ROS1/Package/Build.md",
     "ROS/ROS1/Package/Paket erzeugen.md",
     "ROS/ROS1/C++/Publisher.md",
@@ -202,7 +203,6 @@
     "BWL/allgemein.md",
     "Project Management/Note_M4.md",
     "Project Management/Q&A.md",
-    "BWL/Notiz_Kapitel-2.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
