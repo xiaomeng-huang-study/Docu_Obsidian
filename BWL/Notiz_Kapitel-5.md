@@ -1,9 +1,14 @@
 # Absatz 
 
 ## Grundlagen 
-- Definition 
+- Definition von Marketing 
+	- Ausrichtung der Unternehmensentscheidungen auf den Markt. 
+	- im Gegensatz zur Orientierung an unternehmensinternen Gegebenheiten wie Produktionskapazitäten. 
 - Absatzpolitische Instrument 
+	- Definition 
+		- alle Maßnahmen, die ein Anbieter ergreifen kann, um Absatzwiderstände zu reduzieren und die eigene Wettbewerbsposition zu stärken. 
 	- Produktpolitik 
+		- Produkt -> attraktiv, positiv von der Konkurrenz 
 		- Produktions[[Notiz_Kapitel-5#^innovation|innovation]] 
 		- Produktvariation 
 		- Produktdiversifikation 
@@ -17,7 +22,9 @@
 					- Verhältnis zwischen einer prozentualen Nachfrageänderung zur verursachenden prozentualen Preisänderung 
 		- praktische Preispolitik 
 	- Kommunikationspolitik 
+		- Werbung -> homogenes Produkt z.B. Markenprodukt 
 	- Distributionspolitik 
+		- richtige Zeit, richtiger Ort 
 
 - Innovation ^innovation
 	- Definition 
