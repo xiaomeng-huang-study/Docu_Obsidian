@@ -88,3 +88,12 @@ Es ist wichtig zu beachten, dass der Stakeholder-Value-Ansatz nicht zwangsläufi
 
 ## Profit-Center 
 [Profit-Center](https://www.bwl-lexikon.de/wiki/profitcenter/) 
+
+
+# Kapitel_5 
+## Snob-Effekt 
+Der Snob-Effekt bezieht sich auf das Verhalten von Menschen, die dazu neigen, Produkte oder Güter zu bevorzugen, die nicht allgemein verfügbar oder weit verbreitet sind. Es handelt sich um eine Form des Konsumverhaltens, bei dem Individuen den Wert eines Produkts oder einer Marke steigern, weil sie glauben, dass es exklusiv oder selten ist.
+
+Der Begriff "Snob" bezieht sich auf jemanden, der sich abgrenzen möchte, indem er Dinge wählt, die nicht von der breiten Masse akzeptiert oder genutzt werden. Der Snob-Effekt tritt auf, wenn Menschen denken, dass die Attraktivität eines Produkts oder einer Marke umso größer ist, je weniger Menschen es besitzen oder nutzen.
+
+Beispiele für den Snob-Effekt finden sich in verschiedenen Bereichen wie Mode, Luxusgüter, Kunst oder auch in bestimmten Konsumgütern. Ein Produkt, das als exklusiv oder schwer zu bekommen gilt, kann für manche Menschen attraktiver werden, weil es das Gefühl der Einzigartigkeit und der sozialen Unterscheidung vermittelt.
