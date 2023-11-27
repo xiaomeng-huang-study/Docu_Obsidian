@@ -80,7 +80,7 @@
 	- $K_f$ verändert sich vielleicht 
 - kurzfristige 
 	- Deckungsbeitrag ($db$) 
-		- $db = p - kv$ 
+		- $db = p - k_v$ 
 	- Gewinn ($G$) 
 		- $G = db \cdot m - K_f$ 
 	- Gewinn pro Stück ($g$) 
