@@ -30,7 +30,7 @@
 				- An Employee can only report to one supervisor 
     * Multiple-line-system 
 	* Lin
-	* 
+	* p
     * Line-and-staff-Organisation 
 	    * 
 	* Advantages 
