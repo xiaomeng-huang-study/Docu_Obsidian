@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d866e9bdfebd5e5",
+        "id": "6d2b6143cc78a598",
         "type": "tabs",
         "children": [
           {
-            "id": "081c2687baf7df16",
+            "id": "cee4ef5f781824d9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "081c2687baf7df16",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-2_TransferLearning.md",
     "BWL/Notiz_Kapitel-5.md",
     "BWL/Q&A.md",
     "BWL/Notiz_Kapitel-5^innovation.md",
@@ -194,7 +195,6 @@
     "Softwarearchitekturen/Notiz_20231114.md",
     "BWL/Notiz_Kapitel-3.md",
     "BWL/allgemein.md",
-    "Project Management/Note_M4.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
