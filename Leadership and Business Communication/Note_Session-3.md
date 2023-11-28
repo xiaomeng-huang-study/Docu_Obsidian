@@ -17,28 +17,28 @@
 
 # Knowledge 
 * Extract Organisation chart 
-    * Single-line-System 
-        * Advantages 
-            * clear order- and reporting paths 
-            * Clear rules of competence 
-            * Easy control 
-        * Disadvantages 
-            * Time loss 
-            * Foster rivalry 
-            * Routine/ Monotony 
-            * “compartment thinking” 部门思维 
-                * An Employee can only report to one supervisor 
+	* Single-line-System 
+		* Advantages 
+			* clear order- and reporting paths 
+			* Clear rules of competence 
+			* Easy control 
+		* Disadvantages 
+			* Time loss 
+			* Foster rivalry 
+			* Routine/ Monotony 
+			* “compartment thinking” 部门思维 
+				- An Employee can only report to one supervisor 
     * Multiple-line-system 
+	* Lin
+	* 
     * Line-and-staff-Organisation 
-	    * Advantages 
-		    * Relief for the management, use of expertise 专业技能 
-	    * Disadvantages 
-		    * lack of acceptance of staff units or clandestine 秘密的 leadership of staff units 
-    * Functional Organisation 
+	    * 
 	* Advantages 
-		    * technical specialization of divisions 
-		    * operational with homogenes product portfolio 
-		* 
+		* Relief for the management, use of expertise 专业技能 
+	* Disadvantages 
+		* lack of acceptance of staff units or clandestine 秘密的 leadership of staff units 
+    * Functional Organisation 
+	* Advantages technical specialization of divisions operational with homogenes product portfolio 
     * Business unit Organisation 
     * Holding Organisation 
     * Matrix-Organisation 

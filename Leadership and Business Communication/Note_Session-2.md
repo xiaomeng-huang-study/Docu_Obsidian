@@ -32,4 +32,3 @@
 		- Role theory 
 	- communicative understanding 
 		- Story telling & symbolic Leadership 
-	- 
