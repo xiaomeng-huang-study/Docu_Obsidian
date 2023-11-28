@@ -30,7 +30,15 @@
                 * An Employee can only report to one supervisor 
     * Multiple-line-system 
     * Line-and-staff-Organisation 
+	    * Advantages 
+		    * Relief for the management, use of expertise 专业技能 
+	    * Disadvantages 
+		    * lack of acceptance of staff units or clandestine 秘密的 leadership of staff units 
     * Functional Organisation 
+	* Advantages 
+		    * technical specialization of divisions 
+		    * operational with homogenes product portfolio 
+		* 
     * Business unit Organisation 
     * Holding Organisation 
     * Matrix-Organisation 
@@ -67,4 +75,16 @@
     * Evolutional Organizations 
 
 * Holacracy 
-    * 
+    * agility and collective intelligence instead of hierarchical power 
+    * Advantages 
+	    * radical 激进的 approach of empowerment that tackles structural problems in corporation 
+	    * Agile flow of information, easy access to experts 
+	    * Explicit work on role conflicts independently from technical questions 
+	    * High motivation potential through empowerment 
+	    * Enforcement 强制 of best idea, hierarchy positions notwithstanding 尽管 
+	* Disadvantages 
+		* complex rulebook and constantly changing responsibilities often attenuate (使)变弱 the empowerment effect 
+		* requires constantly high motivation and maturity of employees 
+		* Decisions purely rational 
+		* requires readiness 准备状态 to give up power and control 
+		* Constitution 宪法 ignores legal reality of power arbitrament 仲裁 and responsibility 
