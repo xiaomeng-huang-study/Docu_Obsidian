@@ -14,12 +14,12 @@
 		- Macroanalysis 
 		- Style analysis 
 
-	- Hofstede's study 
-		- dimensions 
-			- Power distance 
-			- Individualism 个人主义 
-			- Masculinity 男子气 
-			- Uncertainty avoidance 
+- Hofstede's study 
+	- dimensions 
+		- Power distance 
+		- Individualism 个人主义 
+		- Masculinity 男子气 
+		- Uncertainty avoidance 
 
 - Plural perspective 
 	- Customs of a collective 
@@ -33,4 +33,4 @@
 	- Cultures are interwoven and mixed 
 	- Contrast between foreign culture and own culture cannot be upheld (transculturality) 
 	- Affiliation to a culture only requires to be familiar with the customs of a culture 
-- 
+- Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-30_23-12-10.png?raw=" width="600" /> 
