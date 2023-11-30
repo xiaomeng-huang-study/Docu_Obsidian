@@ -20,3 +20,17 @@
 			- Individualism 个人主义 
 			- Masculinity 男子气 
 			- Uncertainty avoidance 
+
+- Plural perspective 
+	- Customs of a collective 
+- Individual perspective 
+	- Customs of individual 
+- Collective perspective 
+	- Clear borders 
+	- Affiliation / membership is regulated by implicit or explicit criteria 
+	- Fulfilment of criteria is decisive for acceptance 
+- Cultural perspective 
+	- Cultures are interwoven and mixed 
+	- Contrast between foreign culture and own culture cannot be upheld (transculturality) 
+	- Affiliation to a culture only requires to be familiar with the customs of a culture 
+- 
