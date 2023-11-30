@@ -1,5 +1,22 @@
 - Approaches to measure culture 
 	- According to culture 
+		- Description of culture 
+		- Comparison of culture 
+		- Intercultural analysis 
 	- According to method 
+		- Quantitative 
+		- Qualitative 
 	- According to perspective 
+		- Etic (from an external perspective) 
+		- Emic (from an internal perspective) 
 	- According to level of generalization 
+		- Microanalysis 
+		- Macroanalysis 
+		- Style analysis 
+
+	- Hofstede's study 
+		- dimensions 
+			- Power distance 
+			- Individualism 个人主义 
+			- Masculinity 男子气 
+			- Uncertainty avoidance 
