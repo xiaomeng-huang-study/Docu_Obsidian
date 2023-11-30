@@ -1,0 +1,5 @@
+- Approaches to measure culture 
+	- According to culture 
+	- According to method 
+	- According to perspective 
+	- According to level of generalization 

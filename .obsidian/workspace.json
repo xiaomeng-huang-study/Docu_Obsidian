@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be47e8c46033657a",
+        "id": "d071d0b7709c3346",
         "type": "tabs",
         "children": [
           {
-            "id": "ccbcf5ddb25b5762",
+            "id": "9f30228c17c3e1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Presentation/Text_20231129.md",
+                "file": "Leadership and Business Communication/Note_Session-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Presentation/Text_20231129.md",
+                "file": "Leadership and Business Communication/Note_Session-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Presentation/Text_20231129.md",
+                "file": "Leadership and Business Communication/Note_Session-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Presentation/Text_20231129.md"
+                "file": "Leadership and Business Communication/Note_Session-4.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ccbcf5ddb25b5762",
+  "active": "9f30228c17c3e1ed",
   "lastOpenFiles": [
-    "Project Management/Presentation/Text_20231102.md",
+    "Leadership and Business Communication/Note_Session-4.md",
     "Project Management/Presentation/Text_20231129.md",
+    "Project Management/Presentation/Text_20231102.md",
     "Leadership and Business Communication/Note_20231129.md",
     "Leadership and Business Communication/Note_Session-3.md",
     "Leadership and Business Communication/Note_Session-2.md",
@@ -202,7 +203,6 @@
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_VGG-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_ZF-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_GoogLe-Net.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
