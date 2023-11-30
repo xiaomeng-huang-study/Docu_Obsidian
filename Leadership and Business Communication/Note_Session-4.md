@@ -34,3 +34,8 @@
 	- Contrast between foreign culture and own culture cannot be upheld (transculturality) 
 	- Affiliation to a culture only requires to be familiar with the customs of a culture 
 - Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-30_23-12-10.png?raw=" width="600" /> 
+- E.g. 
+	- **Rivalry from a Collective Perspective**: The company has several departments, each with staff from different nationalities and cultural backgrounds. They compete with each other for the company's resources and the prioritization of their projects.
+	- **Foreignness from a Cultural Perspective**: There are employees in the company from diverse countries whose work habits and communication styles might differ from the mainstream culture of the company, making them seem out of place as they try to fit in.
+	- **Discrimination from an Individual Perspective**: If the company's senior management is predominantly composed of individuals from a particular country, employees from other nations might feel discriminated against, as promotions and significant projects tend to favor those from the dominant country.
+	- **Stigmatisation from an Individual Perspective**: If an individual from a certain culture has specific behavioral habits, such as being very outspoken in public settings, this could be misunderstood by people from other cultural backgrounds within the company and lead to the entire culture being labeled as "rude".
