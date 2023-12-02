@@ -1,0 +1,5 @@
+- Schichten 
+	- untere: generisch 
+	- mittlere: Teile eines Objekts 
+		- das rezeptives Feld noch nicht groß genug 
+	- hohe: ganze Objekte 
