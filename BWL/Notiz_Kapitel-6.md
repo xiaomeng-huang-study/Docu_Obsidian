@@ -1,8 +1,22 @@
 # Investition 
-- Definition 
-	- die heutige Hingabe von Geld (Auszahlung) mit dem Ziel, durch den Mitteleinsatz einen höheren Geldrückfluss (Einzahlung) in Zukunft zu erzielen 
-- Typen 
-	- Sachinvestition 
-	- Finanzinvestitionen 
-	- Immaterielle Investitionen 
-	- 
+- Investitionen 
+	- Definition 
+		- die heutige Hingabe von Geld (Auszahlung) mit dem Ziel, durch den Mitteleinsatz einen höheren Geldrückfluss (Einzahlung) in Zukunft zu erzielen 
+		- eine Zahlungsreihe, die mit einer Auszahlung beginnt 
+	- Typen 
+		- Sachinvestition 
+		- Finanzinvestitionen 
+		- Immaterielle Investitionen 
+- Finanzierung 
+	- die Bereitstellung finanzieller Mittel, die zur Durchführung von Investitionen benötigt werden 
+	- eine Zahlungsreihe, die mit einer Einzahlung beginnt 
+	- Typen 
+		- Eigenfinanzierung 
+		- Fremdfinanzierung 
+		- Innenfinanzierung 
+		- Außenfinanzierung 
+- Investitionsrechnung 
+	- den zukünftigen Investitionserfolg zu prognostizieren und zu bewerten 
+	- Entscheidung über Einzelinvestitionen 
+	- Alternativvergleiche mehrere Investitionen 
+	- Nutzungsdauer- und Ersatzproblem 
