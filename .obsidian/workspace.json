@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-5.md",
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-5.md",
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-5.md",
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-5.md"
+                "file": "BWL/Notiz_Kapitel-6.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "47119f0e35f0d43e",
   "lastOpenFiles": [
-    "BWL/Notiz_Kapitel-4.md",
     "BWL/Notiz_Kapitel-5.md",
+    "BWL/Notiz_Kapitel-6.md",
+    "BWL/Notiz_Kapitel-4.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_TransferLearning.md",
     "Leadership and Business Communication/Note_Session-4.md",
     "Project Management/Presentation/Text_20231129.md",
@@ -202,7 +203,6 @@
     "Softwarearchitekturen/Notiz_Kapitel-2_Res-.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_VGG-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_ZF-Net.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
