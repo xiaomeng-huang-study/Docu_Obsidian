@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64a05ab662ab763d",
+        "id": "0328fafb3213e9af",
         "type": "tabs",
         "children": [
           {
-            "id": "47119f0e35f0d43e",
+            "id": "e1369974fa0b6f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-5.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-5.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-5.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-5.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md"
               }
             }
           },
@@ -175,10 +175,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47119f0e35f0d43e",
+  "active": "e1369974fa0b6f89",
   "lastOpenFiles": [
-    "BWL/Notiz_Kapitel-6.md",
+    "Softwarearchitekturen/Notiz_Kapitel-1.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
     "BWL/Notiz_Kapitel-5.md",
+    "BWL/Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-4.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_TransferLearning.md",
     "Leadership and Business Communication/Note_Session-4.md",
@@ -189,8 +191,6 @@
     "Leadership and Business Communication/Note_Session-2.md",
     "BWL/Q&A.md",
     "BWL/Notiz_Kapitel-5^innovation.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "ROS/ROS1/C++/CMakeLists.md",
     "ROS/ROS1/C++/Untitled.md",
     "ROS/ROS1/Package/Build.md",

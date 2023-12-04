@@ -5,7 +5,13 @@
 - Stride 
 	- Schrittweite, mit der der Filter (oder Kernel) über die Eingabe verschoben wird, wenn die Faltung durchgeführt wird. 
 
-## Probleme 
+
+# Animation 
+- Convolution 
+	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-04_22-49-00.gif?raw=" width="600" /> 
+
+
+# Probleme 
 - Overfitting 
 	- Definition 
 		- ein Modell während des Trainings zu gut auf die Trainingsdaten passt, aber Schwierigkeiten hat, auf neuen, nicht gesehenen Daten zu generalisieren 
