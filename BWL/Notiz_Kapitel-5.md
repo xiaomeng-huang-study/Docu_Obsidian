@@ -68,6 +68,10 @@
 							- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_19-32-22.png?raw=" width="600" /> 
 							- preisbedingter Umsatzverlust > mengenbedingter Umsatzzuwachs 
 		- praktische Preispolitik 
+			- kostenorientierte Preisbildung 
+				- Vollkostenbasis 
+				- Teilkostenbasis 
+				- 
 	- Kommunikationspolitik 
 		- die Art der Kommunikation des Unternehmens mit den Kunden und Handelsunternehmen. Ziel ist eine positive Einstellung zum Produkt oder der Dienstleistung zu erzeugen und somit zum Kauf anzuregen 
 			- z.B. Werbung, Verkaufsförderung 促销, Öffentlichkeitsarbeit (PR, public relations 公关) 
