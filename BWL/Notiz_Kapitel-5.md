@@ -19,6 +19,7 @@
 	- Preispolitik 
 		- durch die gezielte Gestaltung des Kaufpreises bestimmte Kaufanreize zu setzen 
 			- z.B. Preis, Rabatt, Zahlungsbedingungen 
+		- (nicht bevorzugt, denn wenige Gewinn) 
 		- klassische Preispolitik 
 			- betrachtet nur die Mengenreaktion unter bestimmten Einheitspreisen 
 			- Ziel 
