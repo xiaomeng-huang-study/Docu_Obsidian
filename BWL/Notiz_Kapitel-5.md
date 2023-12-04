@@ -43,7 +43,7 @@
 					- elastisch: $n_{x,p}>1$ 
 						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-52-52.png?raw=" width="300" /> 
 						- kleine Preisänderung -> überproportionale Mengenänderung 
-						- z.B. gut substituierbare Produkten 
+						- z.B. gut substituierbare Produkten, die keine Qualitätsunterschied haben 
 					- proportional elastisch: $n_{x,p} = 1$ 
 						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-54-39.png?raw=" width="300" /> 
 						- Preisänderung um $x$ Prozent -> gleich starke Veränderung der Nachfragemenge 

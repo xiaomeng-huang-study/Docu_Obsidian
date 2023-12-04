@@ -11,8 +11,12 @@
             "id": "47119f0e35f0d43e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Notiz_Kapitel-5.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BWL/Notiz_Kapitel-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BWL/Notiz_Kapitel-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BWL/Notiz_Kapitel-5.md"
+              }
             }
           },
           {
@@ -167,7 +175,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "47119f0e35f0d43e",
   "lastOpenFiles": [
     "Softwarearchitekturen/Notiz_Kapitel-2_TransferLearning.md",
     "Leadership and Business Communication/Note_Session-4.md",
