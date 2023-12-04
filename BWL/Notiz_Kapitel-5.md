@@ -72,8 +72,11 @@
 				- Vollkostenbasis 
 				- Teilkostenbasis 
 				- Vor- und Nachteile 
-			- kostenorientierte Preisbildung 
+				- Kriterien 
+					- langfristige Preisuntergrenze = $K_{ges}$ 
+					- kurzfristige Preisuntergrenze = $K_{var}$ 
 			- nachfrageorientierte Preisbildung 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-04_21-03-01.png?raw=" width="600" /> 
 			- konkurrenzorientierte Preisbildung 
 	- Kommunikationspolitik 
 		- die Art der Kommunikation des Unternehmens mit den Kunden und Handelsunternehmen. Ziel ist eine positive Einstellung zum Produkt oder der Dienstleistung zu erzeugen und somit zum Kauf anzuregen 
@@ -85,6 +88,12 @@
 	- Distributionspolitik 
 		- richtige Zeit, richtiger Ort 
 			- z.B. physische Distribution, Verkaufsorgane 销售机关, Absatzwege 销售路线 
+		- Ziel
+			- die eigene Leistung (Produkt) in bedarfsgerechter Form möglichst nahe an den Nachfrager zu bringen 
+		- Bereiche 
+			- Distributionswünsche der Nachfrager 
+			- Wahl der Präsentationsform 
+			- Wahl des Standortes 
 
 
 - Innovation ^innovation

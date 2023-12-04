@@ -17,6 +17,12 @@
 		- Außenfinanzierung 
 - Investitionsrechnung 
 	- den zukünftigen Investitionserfolg zu prognostizieren und zu bewerten 
-	- Entscheidung über Einzelinvestitionen 
-	- Alternativvergleiche mehrere Investitionen 
-	- Nutzungsdauer- und Ersatzproblem 
+	- Aufgaben 
+		- Entscheidung über Einzelinvestitionen 
+		- Alternativvergleiche mehrere Investitionen 
+		- Nutzungsdauer- und Ersatzproblem 
+	- nur dynamisch berücksichtigt 
+	- Abhängigkeiten 
+		- "Z"ahlungshöhe 本金 
+		- "Z"insatz des Investors 利润率 
+		- "Z"eitliche Verteilung der Zahlungen 时间 
