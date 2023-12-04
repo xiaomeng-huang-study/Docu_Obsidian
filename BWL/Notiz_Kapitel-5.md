@@ -74,10 +74,14 @@
 				- Vor- und Nachteile 
 			- kostenorientierte Preisbildung 
 			- nachfrageorientierte Preisbildung 
-			- 
+			- konkurrenzorientierte Preisbildung 
 	- Kommunikationspolitik 
 		- die Art der Kommunikation des Unternehmens mit den Kunden und Handelsunternehmen. Ziel ist eine positive Einstellung zum Produkt oder der Dienstleistung zu erzeugen und somit zum Kauf anzuregen 
 			- z.B. Werbung, Verkaufsförderung 促销, Öffentlichkeitsarbeit (PR, public relations 公关) 
+		- Werbung 
+		- Verkaufsförderung 
+		- Öffentlichkeitsarbeit 
+		- Persönlicher Verkauf 
 	- Distributionspolitik 
 		- richtige Zeit, richtiger Ort 
 			- z.B. physische Distribution, Verkaufsorgane 销售机关, Absatzwege 销售路线 
