@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0328fafb3213e9af",
+        "id": "2e30aa028a8a80c5",
         "type": "tabs",
         "children": [
           {
-            "id": "e1369974fa0b6f89",
+            "id": "ba70b9dfc6163bca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e1369974fa0b6f89",
+  "active": "ba70b9dfc6163bca",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "BWL/Notiz_Kapitel-5.md",
@@ -198,7 +191,6 @@
     "ROS/ROS1/C++/Publisher.md",
     "ROS/ROS2/Package/Paket erzeugen.md",
     "ROS/ROS2/Package/Build.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_Res-.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Einschube.md",
