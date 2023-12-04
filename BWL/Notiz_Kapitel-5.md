@@ -59,7 +59,7 @@
 					- $n_{x,p} < 0$ 
 						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_19-08-41.png?raw=" width="300" /> 
 						- Preisänderung -> gleichgerichtete Mengenänderung 
-						- z.B. Exklusives Produkt ([[BWL/Q&A#Snob-Effekt|Snob-Effekt]]), Anzeichen für Verknappung (Hamsterkäufe) 抢购现象 
+						- z.B. Exklusives Produkt ([[BWL/Q&A#Snob-Effekt|Snob-Effekt]]), Anzeichen für Verknappung (Hamsterkäufe 类似于仓鼠屯食物的) 抢购现象 
 					- Preissenkung bei hoher & niedriger Nachfrageelastizität 
 						- bei hoher Nachfrageelastizität 
 							- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_19-30-56.png?raw=" width="600" /> 
