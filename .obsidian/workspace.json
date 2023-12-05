@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-4.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel-4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel-4.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "ba70b9dfc6163bca",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+    "Softwarearchitekturen/Notiz_Kapitel-4.md",
+    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-6.md",
@@ -202,7 +203,6 @@
     "Softwarearchitekturen/Notiz_Kapitel-2_Le-Net_Alex-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_Res-.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Einschube.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_VGG-Net.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
