@@ -11,8 +11,12 @@
             "id": "ba70b9dfc6163bca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md"
+              }
             }
           },
           {

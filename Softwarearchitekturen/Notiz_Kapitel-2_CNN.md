@@ -50,7 +50,7 @@
 				- Präzision: z.B. float32 -> 32 Bit / dig. 
 		- Fully connected layers (Parameter verbraucht den meisten Speicherplatz) 
 			- (Batch Size) x (Anzahl der Parameter) x (Präzision)
-	- ==Flops== 
+	- ==Flops== (i.d.R. 1 MAC = 2 Flops)
 		- Convolutional layers 
 			- 2 x (Anzahl der Filter) x (Volumen der Filter) x (Ausgabefläche) 
 			- eng.: 2 x (Number of Kernel) x (Kernel Volume) x (Output area) 
