@@ -14,11 +14,13 @@
 - auf Basis von V1, Inverted Residuals wird erst verwendet 
 - Inverted Residuals 
 	- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-06_20-03-56.png?raw=" width="700" /> 
-	- Expansion - Faltung - Kompression (in Form Schiffchen 梭形) 
+		- Expansion-factor $t$ 
+	- Expansion - Faltung - Kompression / Projection (in Form Schiffchen 梭形) 
 	- Dimension $\uparrow$ mit 1×1-Conv -> DW-Faltung zur Extraktion der Merkmale (3×3) -> Dimension $\downarrow$ mit 1×1-Conv 
 	- ReLU6-Aktivierungsfunktion + lineare Aktivierungsfunktion 
 		- ReLU6: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-06_20-13-47.png?raw=" width="200" /> 
 	- im Vergleich mit Restliches Modul 
-		- Kompression - Faltung - Expansion (in Form einer Sanduhr 沙漏) 
+		- Kompression - Faltung - Expansion / Projection (in Form einer Sanduhr 沙漏) 
 		- Dimension  $\downarrow$ mit 1×1-Conv -> normale Faltung zur Extraktion der Merkmale (3×3) -> Dimension $\uparrow$ mit 1×1-Conv 
 		- ReLU-Aktivierungsfunktion 
+# Efficient-Net 
