@@ -8,3 +8,5 @@
 ## Bottleneck 
 
 # Mobile-Net 
+- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-06_19-42-55.png?raw=" width="700" /> 
+- 
