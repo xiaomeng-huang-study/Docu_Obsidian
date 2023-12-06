@@ -24,3 +24,9 @@
 		- Dimension  $\downarrow$ mit 1×1-Conv -> normale Faltung zur Extraktion der Merkmale (3×3) -> Dimension $\uparrow$ mit 1×1-Conv 
 		- ReLU-Aktivierungsfunktion 
 # Efficient-Net 
+- Individual upscaling 
+	- deeper 
+	- wider 
+	- higher resolution 
+- Compound scaling 
+	- 
