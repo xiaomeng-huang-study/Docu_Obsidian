@@ -25,8 +25,15 @@
 		- ReLU-Aktivierungsfunktion 
 # Efficient-Net 
 - Individual upscaling 
-	- deeper 
-	- wider 
-	- higher resolution 
+	- Typen 
+		- wider 
+			- more feature-maps 
+			- eine größere Vielfalt an Merkmalen zu lernen und kann daher komplexere Muster in den Daten erfassen 
+			- Overfitting-Gefahr 
+		- deeper 
+			- more convolutional layers 
+		- higher resolution 
+			- images have a larger width and height 
+	- 
 - Compound scaling 
 	- 
