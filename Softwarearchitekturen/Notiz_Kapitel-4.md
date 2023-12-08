@@ -30,7 +30,7 @@
 - Individual upscaling 
 	- Typen 
 		- Erhöhung der Netzwerksbreite 
-			- more feature-maps 
+			- more feature-maps / filters 
 			- Vorteile 
 				- eine größere Vielfalt an Merkmalen zu lernen und kann daher komplexere Muster in den Daten erfassen 
 			- Nachteile 
@@ -43,7 +43,7 @@
 			- Nachteil 
 				- Vanishing Gradient Problem 
 		- Erhöhung der Auflösung 
-			- Bilder haben eine größere Breite und Höhe 
+			- Bilder sowie feature-maps haben eine größere Breite und Höhe 
 	- Probleme 
 		- wenn das Modell bereits ausreichend groß ist, nehmen die Vorteile einer weiteren Skalierung in diesen Dimensionen ab. 
 		  -> Asymptote 
@@ -51,5 +51,11 @@
 	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-08_14-04-19.png?raw=" width="500" /> 
 		- Netzwerktiefe x 2 $\Rightarrow$ FLOPS x 2 
 		- Breite oder Auflösung x 2 $\Rightarrow$ FLOPS x 4 
-			- 
+			- denn in $D_{K} \cdot D_{K} \cdot M \cdot N \cdot D_{F} \cdot D_{F}$ werden M und N verdoppelt 
 	- $\Rightarrow$ $2^{\phi}$ 
+	- Schritte 
+		- $\phi = 1$ , $\alpha, \beta, \gamma$ zu bestimmen 
+		- $\alpha, \beta, \gamma$ fest, $\phi$ nach HW anzupassen 
+			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-08_14-47-25.png?raw=" width="350" /> 
+
+# Quantisierung 
