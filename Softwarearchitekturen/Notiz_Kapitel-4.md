@@ -7,6 +7,7 @@
 
 ## Bottleneck 
 
+
 # Mobile-Net 
 ## V1 
 - DW-Conv wird erst verwendet 
@@ -23,17 +24,28 @@
 		- Kompression - Faltung - Expansion / Projection (in Form einer Sanduhr 沙漏) 
 		- Dimension  $\downarrow$ mit 1×1-Conv -> normale Faltung zur Extraktion der Merkmale (3×3) -> Dimension $\uparrow$ mit 1×1-Conv 
 		- ReLU-Aktivierungsfunktion 
+
+
 # Efficient-Net 
 - Individual upscaling 
 	- Typen 
-		- wider 
+		- Erhöhung der Netzwerksbreite 
 			- more feature-maps 
-			- eine größere Vielfalt an Merkmalen zu lernen und kann daher komplexere Muster in den Daten erfassen 
-			- Overfitting-Gefahr 
-		- deeper 
+			- Vorteile 
+				- eine größere Vielfalt an Merkmalen zu lernen und kann daher komplexere Muster in den Daten erfassen 
+			- Nachteile 
+				- Overfitting-Gefahr 
+		- Erhöhung der Netzwerkstiefe 
 			- more convolutional layers 
-		- higher resolution 
-			- images have a larger width and height 
-	- 
+			- Vorteile 
+				- spezifischere und diskriminierendere Merkmale extrahieren 
+				- Bessere Generalisierung 
+			- Nachteil 
+				- Vanishing Gradient Problem 
+		- Erhöhung der Auflösung 
+			- Bilder haben eine größere Breite und Höhe 
+	- Probleme 
+		- wenn das Modell bereits ausreichend groß ist, nehmen die Vorteile einer weiteren Skalierung in diesen Dimensionen ab. 
+		  -> Asymptote 
 - Compound scaling 
 	- 
