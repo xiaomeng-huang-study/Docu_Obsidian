@@ -59,3 +59,4 @@
 			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-08_14-47-25.png?raw=" width="350" /> 
 
 # Quantisierung 
+- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-08_15-17-00.png?raw=" width="700" /> 
