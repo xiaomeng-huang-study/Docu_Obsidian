@@ -48,4 +48,8 @@
 		- wenn das Modell bereits ausreichend groß ist, nehmen die Vorteile einer weiteren Skalierung in diesen Dimensionen ab. 
 		  -> Asymptote 
 - Compound scaling 
-	- 
+	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-08_14-04-19.png?raw=" width="500" /> 
+		- Netzwerktiefe x 2 $\Rightarrow$ FLOPS x 2 
+		- Breite oder Auflösung x 2 $\Rightarrow$ FLOPS x 4 
+			- 
+	- $\Rightarrow$ $2^{\phi}$ 
