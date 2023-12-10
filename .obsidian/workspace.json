@@ -11,8 +11,12 @@
             "id": "59b38dd0d08a0b19",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md"
+              }
             }
           },
           {
@@ -169,6 +177,9 @@
   },
   "active": "59b38dd0d08a0b19",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
+    "Softwarearchitekturen/Musterlösung_Res-Net.md",
+    "Softwarearchitekturen/Musterlösung_Labor",
     "Softwarearchitekturen/Notiz_Kapitel-4.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
     "Leadership and Business Communication/Note_Session-5.md",
@@ -193,8 +204,6 @@
     "ROS/ROS1/C++/Untitled.md",
     "ROS/ROS1/Package/Build.md",
     "ROS/ROS1/Package/Paket erzeugen.md",
-    "ROS/ROS1/C++/Publisher.md",
-    "ROS/ROS2/Package/Paket erzeugen.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
@@ -206,7 +215,6 @@
     "English",
     "Leadership and Business Communication",
     "Aktorsysteme",
-    "Softwarearchitekturen",
     "Snipaste_2023-06-17_16-47-01.png",
     "Pasted image 20230725111156.png"
   ]
