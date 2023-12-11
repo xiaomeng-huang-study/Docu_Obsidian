@@ -11,8 +11,12 @@
             "id": "2895066377311c2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Notiz_Kapitel-6.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BWL/Notiz_Kapitel-6.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "2895066377311c2e",
   "lastOpenFiles": [
+    "BWL/allgemein.md",
     "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
     "Softwarearchitekturen/Musterlösung_Res-Net.md",
     "Softwarearchitekturen/Musterlösung_Labor",
@@ -195,7 +204,6 @@
     "ROS/ROS1/C++/CMakeLists.md",
     "ROS/ROS1/C++/Untitled.md",
     "ROS/ROS1/Package/Build.md",
-    "ROS/ROS1/Package/Paket erzeugen.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",

@@ -24,5 +24,20 @@
 	- nur dynamisch berücksichtigt 
 	- Abhängigkeiten 
 		- "Z"ahlungshöhe 本金 
-		- "Z"insatz des Investors 利润率 
+		- "Z"inssatz des Investors 利润率 
 		- "Z"eitliche Verteilung der Zahlungen 时间 
+	- Formeln 
+		- Größen 
+			- $i$ : Zinssatz 
+			- $n$ : Dauer 
+			- $K_{0}$ : heutiger Wert / Barwert / Gegenwartswert 
+			- $K_{n}$ : späterer Wert / Endwert 
+		- Faktoren 
+			- Aufzinsungsfaktor (AuF) 
+				- $(1 + i)^{n}$ 
+			- Abzinsungsfaktor / Diskontierungsfaktor (AbF) 
+				- $(1 + i)^{-n}$ 
+			- Diskontierungssummenfaktor (DSF) 
+				- $\frac{(1 + i)^{n} - 1}{i \cdot (1 + i)^{n}}$ 
+			- Aufzinsungssummenfaktor / Endwertfaktor (EWF) 
+				- $\frac{(1 + i)^{n} - 1}{i}$ 
