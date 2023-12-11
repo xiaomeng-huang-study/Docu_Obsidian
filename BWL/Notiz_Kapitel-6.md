@@ -41,3 +41,5 @@
 				- $\frac{(1 + i)^{n} - 1}{i \cdot (1 + i)^{n}}$ 
 			- Aufzinsungssummenfaktor / Endwertfaktor (EWF) 
 				- $\frac{(1 + i)^{n} - 1}{i}$ 
+	- Kalkulationszinssatz 
+		- 
