@@ -55,10 +55,16 @@
 	- Kapitalwertmethode 
 		- Definition ==???== 
 		- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_16-12-31.png?raw=" width="600" /> 
-		- $\begin{array}{l}C_{0} &=& \left(e_{1}-a_{1}\right) \cdot AbF_{1} + \left(e_{2}-a_{2}\right) \cdot AbF_{2} + ~...~ + \left(e_{n}-a_{n}\right) \cdot AbF_{n} \\ &=& + R \cdot AbF_{n} \\&=& - A\end{array}$ 
 		- $A$ : Anschaffungsauszahlung 
 		- $a$ : jährliche Betriebs- und Instandsetzungskosten 
 		- $e$ : jährliche Einzahlungen 
 		- $R$ : Restwert 
 		- $n$ : Nutzungsdauer 
-	- 
+		- konstante Jahreszahlungen 
+			- $\begin{array}{l}C_{0} &=& \left(e-a\right) \cdot DSF_{n} \\ & & + ~ R \cdot AbF_{n} \\& & + ~ A\end{array}$ 
+		- unterschiedliche Jahreszahlungen 
+			- $\begin{array}{l}C_{0} &=& \left(e_{1}-a_{1}\right) \cdot AbF_{1} + \left(e_{2}-a_{2}\right) \cdot AbF_{2} + ~...~ + \left(e_{n}-a_{n}\right) \cdot AbF_{n} \\ & & + ~ R \cdot AbF_{n} \\& & + ~ A\end{array}$ 
+		- unbegrenzte Laufzeit 
+			- $C_{0} = g \cdot \frac{1}{i} - A$ 
+	- Annuitätenmethode 
+		- 
