@@ -34,12 +34,16 @@
 			- $K_{n}$ : späterer Wert / Endwert 
 		- Faktoren 
 			- Aufzinsungsfaktor (AuF) 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-52-37.png?raw=" width="400" /> 
 				- $(1 + i)^{n}$ 
 			- Abzinsungsfaktor / Diskontierungsfaktor (AbF) 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-53-26.png?raw=" width="400" /> 
 				- $(1 + i)^{-n}$ 
-			- Diskontierungssummenfaktor (DSF) 
-				- $\frac{(1 + i)^{n} - 1}{i \cdot (1 + i)^{n}}$ 
 			- Aufzinsungssummenfaktor / Endwertfaktor (EWF) 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-54-18.png?raw=" width="400" /> 
 				- $\frac{(1 + i)^{n} - 1}{i}$ 
+			- Diskontierungssummenfaktor (DSF) 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-55-14.png?raw=" width="400" /> 
+				- $\frac{(1 + i)^{n} - 1}{i \cdot (1 + i)^{n}}$ 
 	- Kalkulationszinssatz 
 		- 
