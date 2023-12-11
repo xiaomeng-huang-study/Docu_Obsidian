@@ -45,8 +45,15 @@
 			- Diskontierungssummenfaktor (DSF) 
 				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-55-14.png?raw=" width="400" /> 
 				- $\frac{(1 + i)^{n} - 1}{i \cdot (1 + i)^{n}}$ 
-	- Kalkulationszinssatz 
+	- Kalkulationszinssatz ==???== 
+		- Typen 
+			- Habenzinssatz 
+			- Sollzinssatz 
+		- Bestimmungsverfahren 
+			- nach der Nutzwertanalyse 
+			- nach den Opportunitätskosten 
 	- Kapitalwertmethode 
+		- Definition ==???== 
 		- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_16-12-31.png?raw=" width="600" /> 
 		- $\begin{array}{l}C_{0} &=& \left(e_{1}-a_{1}\right) \cdot AbF_{1} + \left(e_{2}-a_{2}\right) \cdot AbF_{2} + ~...~ + \left(e_{n}-a_{n}\right) \cdot AbF_{n} \\ &=& + R \cdot AbF_{n} \\&=& - A\end{array}$ 
 		- $A$ : Anschaffungsauszahlung 
@@ -54,3 +61,4 @@
 		- $e$ : jährliche Einzahlungen 
 		- $R$ : Restwert 
 		- $n$ : Nutzungsdauer 
+	- 
