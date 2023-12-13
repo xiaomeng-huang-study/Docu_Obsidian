@@ -1,0 +1,22 @@
+- Situation 
+	- In the past necessary decisions had not been taken --> very expensive erroneous planning was made for various projects. 
+	- Why? 
+		- inconsistent information flow  
+		- Failure to address critical issues in time 
+- Purpose 
+	- Basics 
+		- Garbage-Can-Model 
+		- Shortcoming of pure Garbage-Can-Model 
+	- to overcome the downsides 
+- Method 
+	- improve the Model 
+	- refer to the previous projects and analyze 
+	- Changes 
+		- Leader Structure 
+		- create Hierarchy of Project (important, not important ...) 
+		- involve more stakeholders and shareholders 
+- Results 
+	- Reduced Decision-Making Errors 
+	- Projects --> benefits and if lose, not very expensive 
+- Forecast 
+	- adaptability, responsiveness, and efficiency will be increased 
