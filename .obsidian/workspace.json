@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a477d1e5623287a6",
+        "id": "bcb18cceb05f8440",
         "type": "tabs",
         "children": [
           {
-            "id": "2895066377311c2e",
+            "id": "1daa12722163a605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md",
+                "file": "Leadership and Business Communication/Note_20231213.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md",
+                "file": "Leadership and Business Communication/Note_20231213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md",
+                "file": "Leadership and Business Communication/Note_20231213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md"
+                "file": "Leadership and Business Communication/Note_20231213.md"
               }
             }
           },
@@ -175,8 +175,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2895066377311c2e",
+  "active": "1daa12722163a605",
   "lastOpenFiles": [
+    "Leadership and Business Communication/Note_Session-1.md",
+    "Leadership and Business Communication/Note_Session-2.md",
+    "Leadership and Business Communication/Note_Session-3.md",
+    "Leadership and Business Communication/Note_20231213.md",
+    "Leadership and Business Communication/Note_20231109.md",
+    "Leadership and Business Communication/Note_20231025.md",
+    "Leadership and Business Communication/Note_Session-4.md",
+    "BWL/Notiz_Kapitel-6.md",
     "BWL/allgemein.md",
     "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
     "Softwarearchitekturen/Musterlösung_Res-Net.md",
@@ -185,25 +193,17 @@
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
     "Leadership and Business Communication/Note_Session-5.md",
     "Leadership and Business Communication/Note_20231206.md",
-    "Leadership and Business Communication/Note_Session-1.md",
     "Leadership and Business Communication/Note_20231011.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
     "BWL/Notiz_Kapitel-5.md",
-    "BWL/Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-4.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_TransferLearning.md",
-    "Leadership and Business Communication/Note_Session-4.md",
     "Project Management/Presentation/Text_20231129.md",
     "Project Management/Presentation/Text_20231102.md",
     "Leadership and Business Communication/Note_20231129.md",
-    "Leadership and Business Communication/Note_Session-3.md",
-    "Leadership and Business Communication/Note_Session-2.md",
     "BWL/Q&A.md",
     "BWL/Notiz_Kapitel-5^innovation.md",
-    "ROS/ROS1/C++/CMakeLists.md",
-    "ROS/ROS1/C++/Untitled.md",
-    "ROS/ROS1/Package/Build.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
