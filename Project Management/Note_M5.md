@@ -1,0 +1,5 @@
+- key causes of project failure 
+	- Unclear objectives 
+	- Inadequate definition 
+	- Scope not fully defined 
+- 
