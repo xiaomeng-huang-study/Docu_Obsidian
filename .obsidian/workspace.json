@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and Business Communication/Presentation/20231220/Ideas.md",
+                "file": "Leadership and Business Communication/Note_Session-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and Business Communication/Presentation/20231220/Ideas.md",
+                "file": "Leadership and Business Communication/Note_Session-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership and Business Communication/Presentation/20231220/Ideas.md"
+                "file": "Leadership and Business Communication/Note_Session-1.md"
               }
             }
           },
@@ -199,11 +200,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1daa12722163a605",
+  "active": "85b6f846cc027516",
   "lastOpenFiles": [
-    "Leadership and Business Communication/Note_Session-1.md",
-    "Leadership and Business Communication/Presentation/20231220/Ideas.md",
     "Leadership and Business Communication/Note_Session-3.md",
+    "Leadership and Business Communication/Presentation/20231220/Ideas.md",
+    "Leadership and Business Communication/Note_Session-1.md",
     "Leadership and Business Communication/Presentation/20231220",
     "Leadership and Business Communication/Presentation",
     "Leadership and Business Communication/Note_Session-2.md",
