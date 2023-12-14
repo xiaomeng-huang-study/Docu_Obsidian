@@ -11,4 +11,11 @@
 	- <img src="https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-12-14_19-51-40.png?raw=" width="300" /> 
 - Derive Measures 
 	- Preventive measures 
-	- Corrective measures 
+	- Corrective measures / Plan-B 
+- Stakeholder Analysis 
+	- a specific sub-category of risk management 
+	- Definition for Stakeholder 
+		- persons or parties, who are involved in the project, who are affected by the project, or who are interested in the success of failure of the project. 
+	- Goals 
+	- Measures 
+		- about coordination and communication 
