@@ -45,10 +45,16 @@
 			- Diskontierungssummenfaktor (DSF) 
 				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-55-14.png?raw=" width="400" /> 
 				- $\frac{(1 + i)^{n} - 1}{i \cdot (1 + i)^{n}}$ 
-	- Kalkulationszinssatz ==???== 
+	- Kalkulationszinssatz 
+		- Definition 
+			- die subjektive Mindestverzinsungsanforderung des Investors an sein Investitionsobjekt. 
 		- Typen 
 			- Habenzinssatz 
+				- der Zinssatz, den eine Bank oder ein Finanzinstitut seinen Kunden auf deren Guthaben oder Einlagen zahlt. 
+					- Wenn Sie Geld auf einem Sparkonto, Girokonto oder einem anderen Konto bei einer Bank haben, wird Ihnen normalerweise ein Zinssatz auf diesen Betrag gezahlt. Dieser Zinssatz wird als Habenzinssatz bezeichnet. Er repräsentiert die Vergütung, die Sie für das Halten von Geld auf Ihrem Konto erhalten. 
 			- Sollzinssatz 
+				- der Zinssatz, den eine Bank oder ein Kreditgeber für geliehenes Geld erhebt. 
+					- Wenn Sie beispielsweise einen Kredit aufnehmen, wird Ihnen ein Zinssatz berechnet, der als Sollzinssatz bezeichnet wird. Dieser Zinssatz spiegelt die Kosten für die Bereitstellung des Kapitals durch die Bank oder den Kreditgeber wider. 
 		- Bestimmungsverfahren 
 			- nach der Nutzwertanalyse 
 			- nach den Opportunitätskosten 
