@@ -33,10 +33,10 @@
 			- $K_{0}$ : heutiger Wert / Barwert / Gegenwartswert 
 			- $K_{n}$ : späterer Wert / Endwert 
 		- Faktoren 
-			- Aufzinsungsfaktor (AuF) 
+			- Aufzinsungsfaktor (AuF) bei Aufzinsung einer heutigen Zahlung 
 				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-52-37.png?raw=" width="400" /> 
 				- $(1 + i)^{n}$ 
-			- Abzinsungsfaktor / Diskontierungsfaktor (AbF) 
+			- Abzinsungsfaktor / Diskontierungsfaktor (AbF) bei Abzinsung einer späteren Zahlung 
 				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-53-26.png?raw=" width="400" /> 
 				- $(1 + i)^{-n}$ 
 			- Aufzinsungssummenfaktor / Endwertfaktor (EWF) 

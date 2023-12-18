@@ -11,8 +11,12 @@
             "id": "e7e3820fa0b69da6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Notiz_Kapitel-6.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BWL/Notiz_Kapitel-6.md"
+              }
             }
           },
           {
@@ -169,6 +177,8 @@
   },
   "active": "e7e3820fa0b69da6",
   "lastOpenFiles": [
+    "BWL/Notiz_20231009.md",
+    "BWL/allgemein.md",
     "Leadership and Business Communication/Presentation/20231220/Assignment.md",
     "Leadership and Business Communication/Presentation/20231220/Forecast.md",
     "BWL/Notiz_Kapitel-6.md",
@@ -184,7 +194,6 @@
     "Leadership and Business Communication/Note_20231109.md",
     "Leadership and Business Communication/Note_20231025.md",
     "Leadership and Business Communication/Note_Session-4.md",
-    "BWL/allgemein.md",
     "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
     "Softwarearchitekturen/Musterlösung_Res-Net.md",
     "Softwarearchitekturen/Musterlösung_Labor",
@@ -198,7 +207,6 @@
     "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-4.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_TransferLearning.md",
-    "Project Management/Presentation/Text_20231129.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
