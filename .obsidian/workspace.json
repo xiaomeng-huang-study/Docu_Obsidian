@@ -11,8 +11,12 @@
             "id": "925f3e885b4eb793",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Notiz_Kapitel-6.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BWL/Notiz_Kapitel-6.md"
+              }
             }
           },
           {
@@ -169,8 +177,9 @@
   },
   "active": "925f3e885b4eb793",
   "lastOpenFiles": [
-    "Leadership and Business Communication/Presentation/20231220/Text.md",
+    "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-6.md",
+    "Leadership and Business Communication/Presentation/20231220/Text.md",
     "Pasted image 20231218145434.png",
     "BWL/Notiz_20231009.md",
     "BWL/allgemein.md",
@@ -198,7 +207,6 @@
     "Leadership and Business Communication/Note_20231011.md",
     "Softwarearchitekturen/Notiz_Kapitel-1.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
-    "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-4.md",
     "Studienarbeit",
     "Project Management/Presentation",
