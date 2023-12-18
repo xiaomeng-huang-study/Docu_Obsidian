@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3ba97b6af27fadd",
+        "id": "b500d1f44a9a56c0",
         "type": "tabs",
         "children": [
           {
-            "id": "55e10ce8aac676b6",
+            "id": "e7e3820fa0b69da6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership and Business Communication/Presentation/20231220/Assignment.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and Business Communication/Presentation/20231220/Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and Business Communication/Presentation/20231220/Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leadership and Business Communication/Presentation/20231220/Assignment.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +167,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "55e10ce8aac676b6",
+  "active": "e7e3820fa0b69da6",
   "lastOpenFiles": [
-    "Leadership and Business Communication/Presentation/20231220/Forecast.md",
     "Leadership and Business Communication/Presentation/20231220/Assignment.md",
+    "Leadership and Business Communication/Presentation/20231220/Forecast.md",
     "BWL/Notiz_Kapitel-6.md",
     "Studienarbeit/Arbeitsbericht",
     "Project Management/Note_M5.md",
