@@ -45,6 +45,12 @@
 			- Diskontierungssummenfaktor (DSF) 
 				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-55-14.png?raw=" width="400" /> 
 				- $\frac{(1 + i)^{n} - 1}{i \cdot (1 + i)^{n}}$ 
+			- Kapitalwiedergewinnungsfaktor (KWF) / Verrentungsfaktor / Annuitätenfaktor bei Verrentung einer heutigen Zahlung 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-18_14-44-49.png?raw=" width="400" /> 
+				- $\frac{i \cdot (1+i)^{n}}{(1+i)^{n}-1}$ 
+			- Restwertverteilungsfaktor (RVF) bei Verrentung einer späteren Zahlung 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-18_14-54-53.png?raw=" width="400" /> 
+				- $\frac{i}{(1+i)^{n}-1}$ 
 	- Kalkulationszinssatz 
 		- Definition 
 			- die subjektive Mindestverzinsungsanforderung des Investors an sein Investitionsobjekt. 
@@ -67,9 +73,9 @@
 		- $R$ : Restwert 
 		- $n$ : Nutzungsdauer 
 		- konstante Jahreszahlungen 
-			- $\begin{array}{l}C_{0} &=& \left(e-a\right) \cdot DSF_{n} \\ & & + ~ R \cdot AbF_{n} \\& & + ~ A\end{array}$ 
+			- $\begin{array}{l}C_{0} &=& \left(e-a\right) \cdot DSF_{n} \\ & & + ~ R \cdot AbF_{n} \\& & - ~ A\end{array}$ 
 		- unterschiedliche Jahreszahlungen 
-			- $\begin{array}{l}C_{0} &=& \left(e_{1}-a_{1}\right) \cdot AbF_{1} + \left(e_{2}-a_{2}\right) \cdot AbF_{2} + ~...~ + \left(e_{n}-a_{n}\right) \cdot AbF_{n} \\ & & + ~ R \cdot AbF_{n} \\& & + ~ A\end{array}$ 
+			- $\begin{array}{l}C_{0} &=& \left(e_{1}-a_{1}\right) \cdot AbF_{1} + \left(e_{2}-a_{2}\right) \cdot AbF_{2} + ~...~ + \left(e_{n}-a_{n}\right) \cdot AbF_{n} \\ & & + ~ R \cdot AbF_{n} \\& & - ~ A\end{array}$ 
 		- unbegrenzte Laufzeit 
 			- $C_{0} = g \cdot \frac{1}{i} - A$ 
 	- Annuitätenmethode 
