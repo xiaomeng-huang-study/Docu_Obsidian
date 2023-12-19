@@ -1,5 +1,5 @@
 # Slide 5 
-- We need to analyse the current structure, the Garbage-Can-Model. 
+- We need to analyse the current model, the Garbage-Can-Model. 
 - There are 4 Elements, that have influence on the decision. 
 	- situations -> factors, that affect the decision
 	- problems -> issues or challenges, that we are facing 
