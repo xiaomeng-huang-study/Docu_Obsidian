@@ -1,5 +1,5 @@
 # Slide 5 
-- We need to analyse the current model, the Garbage-Can-Model. 
+- We need to analyze the current model, the Garbage-Can-Model. 
 - There are 4 Elements, that have influence on the decision. 
 	- situations -> factors, that affect the decision
 	- problems -> issues or challenges, that we are facing 
@@ -11,7 +11,7 @@
 	- There is also restriction, if you want to use it. 
 
 # Slide 6 
-- The model has three main problems 
+- After the analysis, we find 3 shortcomings 
 	- First, the decision processes are unstructured and chaotic, because people don’t know their roles and responsibilities 
 	- Second, there is a lack of communication between people and departments, which makes the information flow and the plans unclear. 
 	- Third, the decisions are not based on data, but on chance, which makes them unreliable. 
