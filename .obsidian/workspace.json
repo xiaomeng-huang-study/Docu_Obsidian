@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-4.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-4.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-4.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-4.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md"
               }
             }
           },
@@ -175,8 +175,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "925f3e885b4eb793",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel_4.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_ZF-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_VGG-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_TransferLearning.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_Res-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_Le-Net_Alex-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_GoogLe-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
+    "Softwarearchitekturen/Notiz_Kapitel_1.md",
+    "Softwarearchitekturen/Notiz_Kapitel-4.md",
+    "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
     "BWL/Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-5.md",
     "Leadership and Business Communication/Presentation/20231220/Text.md",
@@ -194,20 +207,7 @@
     "Leadership and Business Communication/Presentation",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_20231213.md",
-    "Leadership and Business Communication/Note_20231109.md",
-    "Leadership and Business Communication/Note_20231025.md",
-    "Leadership and Business Communication/Note_Session-4.md",
-    "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
-    "Softwarearchitekturen/Musterlösung_Res-Net.md",
     "Softwarearchitekturen/Musterlösung_Labor",
-    "Softwarearchitekturen/Notiz_Kapitel-4.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_CNN.md",
-    "Leadership and Business Communication/Note_Session-5.md",
-    "Leadership and Business Communication/Note_20231206.md",
-    "Leadership and Business Communication/Note_20231011.md",
-    "Softwarearchitekturen/Notiz_Kapitel-1.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_Res-Net.md",
-    "BWL/Notiz_Kapitel-4.md",
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
