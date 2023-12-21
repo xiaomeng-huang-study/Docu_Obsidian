@@ -1,0 +1,7 @@
+- Team development 
+	- Phase model 
+		- Forming: Phase of contact 
+		- Storming: Phase of conflicts 
+		- Norming: Phase of contracts 
+		- Performing: Phase of cooperation 
+		- Adjourning: Phase of project exit (optional) 
