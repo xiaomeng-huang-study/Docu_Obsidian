@@ -65,7 +65,7 @@
 		* Disadvantages 
 			* Divide between autonomy and centrality 
 	* Matrix-Organisation 
-		* Graph: 
+		* Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-30-34.png?raw=" width="400" /> 
 		* Overlapping of functional and object criteria 
 		* Advantages 
 			* balanced interests of object and function 
