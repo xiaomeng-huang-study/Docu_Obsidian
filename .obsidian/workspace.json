@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ae68e5736867359",
+        "id": "744a975a1468614a",
         "type": "tabs",
         "children": [
           {
-            "id": "ffebd1392a02df1a",
+            "id": "07ed78a98c10e7b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Note_A1.md",
+                "file": "Bachelorarbeit/Vorstellungsgespräch.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Note_A1.md",
+                "file": "Bachelorarbeit/Vorstellungsgespräch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Note_A1.md",
+                "file": "Bachelorarbeit/Vorstellungsgespräch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Note_A1.md"
+                "file": "Bachelorarbeit/Vorstellungsgespräch.md"
               }
             }
           },
@@ -175,12 +175,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ffebd1392a02df1a",
+  "active": "07ed78a98c10e7b7",
   "lastOpenFiles": [
+    "Praktikum/Bewerbung/Dankschreiben_Muster.md",
+    "Bachelorarbeit/Vorstellungsgespräch.md",
+    "Bachelorarbeit",
+    "Praktikum/Bewerbung/Hinweis_Praxissemester.md",
+    "Praktikum/Bewerbung/Terminverschiebung.md",
+    "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md",
+    "Praktikum/Bewerbung/Vorstellungsgespräch_Stärken.md",
+    "Leadership and Business Communication/Note_20231011.md",
+    "Project Management/Note_A1.md",
     "Project Management/Note_M5.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Q&A.md",
-    "Project Management/Note_A1.md",
     "Leadership and Business Communication/Note_Session-3.md",
     "Leadership and Business Communication/Presentation/20231220/Text.md",
     "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
@@ -196,15 +204,8 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Softwarearchitekturen/Notiz_Kapitel_1.md",
     "Softwarearchitekturen/Notiz_Kapitel-4.md",
-    "BWL/Notiz_Kapitel-6.md",
-    "BWL/Notiz_Kapitel-5.md",
     "Pasted image 20231218145434.png",
-    "BWL/Notiz_20231009.md",
-    "BWL/allgemein.md",
-    "Leadership and Business Communication/Presentation/20231220/Assignment.md",
-    "Leadership and Business Communication/Presentation/20231220/Forecast.md",
     "Studienarbeit/Arbeitsbericht",
-    "Leadership and Business Communication/Presentation/20231220/Ideas.md",
     "Leadership and Business Communication/Presentation/20231220",
     "Leadership and Business Communication/Presentation",
     "Softwarearchitekturen/Musterlösung_Labor",
@@ -215,7 +216,6 @@
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
     "Project Management",
-    "English/Grammar",
     "Snipaste_2023-06-17_16-47-01.png",
     "Pasted image 20230725111156.png"
   ]
