@@ -10,3 +10,4 @@ Ich studiere Elektrotechnik und Informationstechnik an der Technischen Hochschul
 - Da ich nicht an einer Uni sondern an einer Hochschule studiere, bietet es mir mehr Chancen, mich in Labor zu setzen. Ich habe verschiedene Projekte in Gruppenarbeit gemacht. Hier würde ich ein Projekt Line-Follow-Robot, das ich mit anderen Kommilitonen im 4.Semester gemacht habe, erwähnen. 
 	- Vorgegeben wird eine schwarze Linie mit einem weißen Hintergrund auf dem Boden. Dann kann der Roboter diese Linie erkennen und verfolgen. 
 	- Dadurch habe ich nicht nur Kenntnisse über eingebettete Systeme erworben, sondern auch einige Kenntnisse im Bereich der Automatisierung, wie z. B. den PID-Controller, angewendet. 
+- Im 5.Semester habe ich ein Praktikum absolviert. Meine Hauptaufgabe bestand darin, ein autonomes System zu testen. 
