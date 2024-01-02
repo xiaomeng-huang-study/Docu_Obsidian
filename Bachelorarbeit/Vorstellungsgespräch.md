@@ -1,6 +1,6 @@
 vielen Dank, dass Sie mir die Gelegenheit geben, mich Ihnen vorzustellen. Mein Name ist Xiaomeng Huang. Sie können mich einfach Huang nennen. 
 
-Ich studiere Elektrotechnik und Informationstechnik an der Technischen Hochschule Ulm. 
+Ich studiere Elektrotechnik und Informationstechnik an der Technischen Hochschule Ulm. Im nächsten Semester würde ich meine Bachelorarbeit verfassen. 
 
 - Im Grundstudium habe ich die Hochsprachen-Kenntnisse C, C++ studiert. Die sind wichtig für den Bereich der Programmierung und werden sehr häufig verwendet. 
 - Als Schwerpunkte habe ich Automatisierungstechnik und IoT gewählt. 
@@ -11,4 +11,8 @@ Ich studiere Elektrotechnik und Informationstechnik an der Technischen Hochschul
 	- Vorgegeben wird eine schwarze Linie mit einem weißen Hintergrund auf dem Boden. Dann kann der Roboter diese Linie erkennen und verfolgen. 
 	- Dadurch habe ich nicht nur Kenntnisse über eingebettete Systeme erworben, sondern auch einige Kenntnisse im Bereich der Automatisierung, wie z. B. den PID-Controller, angewendet. 
 - Im 5.Semester habe ich ein Praktikum absolviert. Meine Hauptaufgabe bestand darin, ein autonomes System zu testen. Konkret zu sagen, ein Open-Source-Algorithmus für autonomes Fahren in eine Simulationsumgebung, die von der Firma angeboten ist, zu integrieren. Dadurch habe ich einen ersten Einblick in Robotersysteme erworben, zumindest auf "Simulation". 
-- Im aktuellen Semester beschäftige ich mich mit einem Projekt Hund-Roboter. 
+- Im aktuellen Semester beschäftige ich mich mit einem Projekt Hund-Roboter. Die Hochschule stellt einen Hund-Roboter zur Verfügung. Ich kann das Wissen über ROS auf dem anwenden. Jetzt kann der Roboter ein rotes Objekt anhand der Farberkennung verfolgen. Wenn Sie Interesse haben, kann ich Ihnen gerne ein Video zeigen. 
+- In meiner Freizeit arbeite ich gerne an meinen eigenen Projekten.
+	- Z.B. Um das Licht auszuschalten, ohne das Bett zu verlassen, verwende ich einen Servomotor, der die menschliche Hand simuliert, um das Licht auszuschalten. Und ich habe ihn mit Homekit (ein Protokoll von Apple) und einer IoT-Plattform verbunden für die Fernbedienung. 
+
+Ich hoffe, dass meine Interessen, Fähigkeiten und Erfahrungen Ihren Anforderungen entsprechen und dass ich ein Mitglied Ihres Teams werden kann. Falls Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung. 
