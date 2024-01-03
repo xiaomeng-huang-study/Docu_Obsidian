@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -175,7 +176,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "07ed78a98c10e7b7",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
     "Praktikum/ProjektWoche/PPT_0725.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Stärken.md",
