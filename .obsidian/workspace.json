@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bachelorarbeit/Vorstellungsgespräch/Rotfaden.md",
+                "file": "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bachelorarbeit/Vorstellungsgespräch/Rotfaden.md",
+                "file": "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bachelorarbeit/Vorstellungsgespräch/Rotfaden.md",
+                "file": "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bachelorarbeit/Vorstellungsgespräch/Rotfaden.md"
+                "file": "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md"
               }
             }
           },
@@ -177,11 +177,11 @@
   },
   "active": "9aed3fc00f54bf45",
   "lastOpenFiles": [
-    "Bachelorarbeit/Vorstellungsgespräch/Text.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Stärken.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md",
+    "Bachelorarbeit/Vorstellungsgespräch/Text.md",
     "Bachelorarbeit/Vorstellungsgespräch/Rotfaden.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Bachelorarbeit/Vorstellungsgespräch",
     "Untitled",
     "Praktikum/ProjektWoche/PPT_0725.md",
