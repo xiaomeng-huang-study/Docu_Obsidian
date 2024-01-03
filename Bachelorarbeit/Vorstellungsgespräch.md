@@ -15,5 +15,5 @@ Ich studiere Elektrotechnik und Informationstechnik an der Technischen Hochschul
 - In meiner Freizeit arbeite ich gerne an meinen eigenen Projekten.
 	- Z.B. Um das Licht auszuschalten, ohne das Bett zu verlassen, verwende ich einen Servomotor, der die menschliche Hand simuliert, um das Licht auszuschalten. Und ich habe ihn mit Homekit (ein Protokoll von Apple) und einer IoT-Plattform verbunden für die Fernbedienung. 
 
-kompletten Prozesskette mit nahtloser Integration und präziser Abstimmung aller Schritte
-Ich hoffe, dass meine Interessen, Fähigkeiten und Erfahrungen Ihren Anforderungen entsprechen und dass ich ein Mitglied Ihres Teams werden kann. Falls Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung. 
+Nach dem, was ich über Ihr Unternehmen weiß, liegt der Vorteil darin, dass Sie eine komplette Prozesskette anbieten können, von Beratung bis zur Inbetriebnahme und Optimierung. Das gefällt mir. Ich würde gerne mit Ihnen zusammen ein passendes Projekt finden und hoffe, dass meine Interessen, Fähigkeiten und Erfahrungen den Anforderungen der Stelle entsprechen. 
+Falls Sie Fragen haben, stehe ich Ihnen gerne zur Verfügung. 
