@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bachelorarbeit/Vorstellungsgespräch.md",
+                "file": "Bachelorarbeit/Vorstellungsgespräch/Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bachelorarbeit/Vorstellungsgespräch.md",
+                "file": "Bachelorarbeit/Vorstellungsgespräch/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bachelorarbeit/Vorstellungsgespräch.md",
+                "file": "Bachelorarbeit/Vorstellungsgespräch/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bachelorarbeit/Vorstellungsgespräch.md"
+                "file": "Bachelorarbeit/Vorstellungsgespräch/Text.md"
               }
             }
           },
@@ -176,11 +175,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "07ed78a98c10e7b7",
   "lastOpenFiles": [
+    "Bachelorarbeit/Vorstellungsgespräch/Rotfaden.md",
+    "Bachelorarbeit/Vorstellungsgespräch/Text.md",
+    "Bachelorarbeit/Vorstellungsgespräch",
+    "Untitled",
     "Praktikum/ProjektWoche/PPT_0725.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Stärken.md",
-    "Bachelorarbeit/Vorstellungsgespräch.md",
     "Praktikum/Bewerbung/Dankschreiben_Muster.md",
     "Bachelorarbeit",
     "Praktikum/Bewerbung/Hinweis_Praxissemester.md",
@@ -204,7 +206,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
-    "Softwarearchitekturen/Notiz_Kapitel_1.md",
     "Pasted image 20231218145434.png",
     "Studienarbeit/Arbeitsbericht",
     "Leadership and Business Communication/Presentation/20231220",
@@ -213,10 +214,8 @@
     "Studienarbeit",
     "Project Management/Presentation",
     "WSL",
-    "English/Vocabulary",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
-    "Project Management",
     "Snipaste_2023-06-17_16-47-01.png",
     "Pasted image 20230725111156.png"
   ]
