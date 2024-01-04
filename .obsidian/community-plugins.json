@@ -1,7 +1,6 @@
 [
   "obsidian-plantuml",
   "mousewheel-image-zoom",
-  "obsidian-git",
   "table-editor-obsidian",
   "obsidian-mind-map",
   "obsidian-custom-frames",
@@ -13,5 +12,6 @@
   "obsidian-table-generator",
   "code-block-from-selection",
   "remotely-save",
-  "obsidian-fullscreen-plugin"
+  "obsidian-fullscreen-plugin",
+  "obsidian-git"
 ]
