@@ -157,6 +157,24 @@
 	- Operative Planung 
 
 
+## Koordination 
+- Teilpläne zu koordinieren 
+- Arten 
+	- retrograde Planung (top-down Planung): Teilpläne aus Gesamtplan abgeleitet 
+	- progressive Planung (bottom-up Planung): Gesamtplan aus den Teilplänen abgeleitet 
+	- Gegenstromverfahren 
+- Vor- und Nachteile 
+	- retrograde Planung 
+		- Vorteil: Teilpläne sind in einem hohen Maße des Gesamtplans übereinstimmen 
+		- Nachteil: Entscheidungsebene hat zu wenig operative Kenntnisse 
+	- progressive Planung 
+		- Vorteil: von den Betroffenen ausgegangen --> umfangreiche Erfahrungen 
+		- Nachteil: die Teilpläne widersprechen 
+	- Gegenstromverfahren 
+		- Vorteile: die Vorteile von den vorherigen 
+		- Nachteil: zeitaufwändig 
+
+
 ## Entscheidung 
 
 
