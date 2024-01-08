@@ -280,7 +280,7 @@
 # Rechtsformen 
 - Begriffe 
 	- Haftung 
-		- mit beschränkter Haftung die persönlichen Vermögenswerte der Gesellschafter oder Aktionäre in der Regel nicht für die Verbindlichkeiten des Unternehmens haften. 
+		- mit beschränkter Haftung: die persönlichen Vermögenswerte der Gesellschafter oder Aktionäre in der Regel nicht für die Verbindlichkeiten des Unternehmens haften. 
 	- Komplementäre und Kommanditisten 
 		- Komplementäre: die persönlich haftenden Gesellschafter, haften <u>unbeschränkt</u> mit ihrem gesamten Vermögen 
 		- Kommanditisten: die beschränkt haftenden Gesellschafter, haften <u>beschränkt</u> bis zur Höhe ihrer Einlage 
