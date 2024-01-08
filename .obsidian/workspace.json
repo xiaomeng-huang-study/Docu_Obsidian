@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6252a5f896ab04a",
+        "id": "2bc2e61705a4fa58",
         "type": "tabs",
         "children": [
           {
-            "id": "b397de1fcc7a6397",
+            "id": "50d78e6b49bc98b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_Kapitel-8.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_Kapitel-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_Kapitel-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md"
+                "file": "BWL/Notiz_Kapitel-8.md"
               }
             }
           },
@@ -175,11 +175,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "50d78e6b49bc98b5",
   "lastOpenFiles": [
+    "BWL/Notiz_Kapitel-6.md",
+    "BWL/Notiz_Kapitel-8.md",
+    "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-2.md",
-    "BWL/Notiz_Kapitel-3.md",
     "conflict-files-obsidian-git.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Stärken.md",
@@ -204,8 +206,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_4.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_ZF-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_VGG-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_TransferLearning.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_Res-Net.md",
     "Pasted image 20231218145434.png",
     "Studienarbeit/Arbeitsbericht",
     "Leadership and Business Communication/Presentation/20231220",
