@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc2e61705a4fa58",
+        "id": "3153e23f03f29111",
         "type": "tabs",
         "children": [
           {
-            "id": "50d78e6b49bc98b5",
+            "id": "3a9bdbe92621aa42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-8.md",
+                "file": "Studienarbeit/Präsentation/Text.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-8.md",
+                "file": "Studienarbeit/Präsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-8.md",
+                "file": "Studienarbeit/Präsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-8.md"
+                "file": "Studienarbeit/Präsentation/Text.md"
               }
             }
           },
@@ -175,10 +175,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "50d78e6b49bc98b5",
+  "active": "3a9bdbe92621aa42",
   "lastOpenFiles": [
-    "BWL/Notiz_Kapitel-6.md",
+    "Studienarbeit/Präsentation",
+    "Studienarbeit/Notiz_20231115.md",
+    "Studienarbeit/Präsentation/Text.md",
     "BWL/Notiz_Kapitel-8.md",
+    "BWL/Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-2.md",
@@ -203,9 +206,6 @@
     "Leadership and Business Communication/Note_Session-3.md",
     "Leadership and Business Communication/Presentation/20231220/Text.md",
     "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
-    "Softwarearchitekturen/Notiz_Kapitel_4.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_ZF-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_VGG-Net.md",
     "Pasted image 20231218145434.png",
     "Studienarbeit/Arbeitsbericht",
     "Leadership and Business Communication/Presentation/20231220",
