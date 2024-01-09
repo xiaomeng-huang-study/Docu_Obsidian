@@ -1,8 +1,10 @@
-- Begriffe 
-	- Auszahlungen = Abgang liquider Mittel 
-	- Einzahlungen = Zugang liquider Mittel 
-	- Ausgaben = Geldwert der Einkäufe an Gütern und DL pro Periode (Beschaffungswert) 
-	- Einnahmen = Geldwert der Verkäufe von Gütern und DL pro Periode (Erlös, Umsatz) 
-	- Aufwand = Wert aller verbrauchten Güter und DL einer Abrechnungsperiode bezogen auf das Gesamtunternehmen 
-	- Ertrag = Wert aller erstellen Güter und DL einer Abrechnungsperiode bezogen auf das Gesamtunternehmen 
 - Grundlagen des Rechnungswesen <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2024-01-08_15-15-39.png?raw=" width="600" /> 
+- extern 
+	- Begriffe 
+		- Auszahlungen = Abgang liquider Mittel 
+		- Einzahlungen = Zugang liquider Mittel 
+		- Ausgaben = Geldwert der Einkäufe an Gütern und DL pro Periode (Beschaffungswert) 
+		- Einnahmen = Geldwert der Verkäufe von Gütern und DL pro Periode (Erlös, Umsatz) 
+		- Aufwand = Wert aller verbrauchten Güter und DL einer Abrechnungsperiode bezogen auf das Gesamtunternehmen 
+		- Ertrag = Wert aller erstellen Güter und DL einer Abrechnungsperiode bezogen auf das Gesamtunternehmen 
+- intern 
