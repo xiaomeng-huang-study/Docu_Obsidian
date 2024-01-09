@@ -11,7 +11,7 @@
 
 - Der Roboter ist jetzt nach oben ausgerichtet.
 - Dieses rote Objekt ist das Ziel, das der Roboter verfolgen soll. 
-- Wie man nach den grünen gepunkteten Linien und den Pfeil erkennen kann, befindet sich das aktuelle Objekt vor dem Roboter auf der linken Seite. 
+- Nach den grünen gepunkteten Linien und den Pfeil kann man erkennen, befindet sich das aktuelle Objekt vor dem Roboter auf der linken Seite. 
 
 - Wenn dieses Programm die Kontrolle über die Bewegungen des Roboters übernimmt, können Sie die Ergebnisse im rechten Teil sehen. Der Roboter hat seine Richtung und seinen Abstand zum Ziel angepasst, um dieses Objekt zu verfolgen. 
 - Wenn man diese Bewegung zerlegt, kann man sich vorstellen, dass der Roboter sich auf der Stelle dreht, um sich zu orientieren, und sich hin und her bewegt, um den Abstand zum Objekt zu halten. 
@@ -22,7 +22,7 @@
 - In dem linken Teil müssen wir Ziele eingeben, z. B. den Abstand, der zwischen dem Objekt und dem Roboter eingehalten werden soll. 
 - In dem rechten Teil können wir die Bewegung des Roboters als Ausgabe sehen. 
 - Über die am Roboter montierte Kamera werden Bilddaten erfasst, verarbeitet und für die Bewegungssteuerung verwendet. 
-- In Bezug auf das vorgegebene Ziel und die aktuelle Situation wird die Bewegungskontrolle dem Roboter Bewegungsbefehle geben. 
+- In Bezug auf die vorgegebenen Ziele und die aktuelle Situation wird die Bewegungskontrolle dem Roboter Bewegungsbefehle geben. 
 - Dieser Regelkreis arbeitet zyklisch, d.h. er wird dynamisch dem Objekt verfolgen. 
 
 ## ColorFollower Bildverarbeitung 
