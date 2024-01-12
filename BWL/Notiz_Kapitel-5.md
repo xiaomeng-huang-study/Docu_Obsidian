@@ -13,9 +13,9 @@
 	- Produktpolitik: Produkt -> attraktiv, positiv von der Konkurrenz 
 		- Produktqualität 
 		- Produktvariation 
-			- bestehende Produkte verbessert 
+			- bestehende Produkte technisch verbessert, oder ein neues Modell eingeführt 
 		- Produkt[[Notiz_Kapitel-5#^innovation|innovation]] 
-			- technischer Fortschritt, Bedarfsverschiebung -> Entwicklung neuer Produkte 
+			- Entwicklung neuer Produkte wegen technischer Fortschritt oder Bedarfsverschiebung 
 		- Kundendienst 
 	- Preispolitik 
 		- durch die gezielte Gestaltung des Kaufpreises bestimmte Kaufanreize zu setzen 
