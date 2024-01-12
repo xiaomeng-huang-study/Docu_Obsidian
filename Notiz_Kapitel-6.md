@@ -1,0 +1,90 @@
+# Investition 
+- Investitionen 
+	- Definition 
+		- die heutige Hingabe von Geld (Auszahlung) mit dem Ziel, durch den Mitteleinsatz einen höheren Geldrückfluss (Einzahlung) in Zukunft zu erzielen 
+		- eine Zahlungsreihe, die mit einer Auszahlung beginnt 
+	- Typen 
+		- Sachinvestition 
+		- Finanzinvestitionen 
+		- Immaterielle Investitionen 
+- Finanzierung 
+	- die Bereitstellung finanzieller Mittel, die zur Durchführung von Investitionen benötigt werden 
+	- eine Zahlungsreihe, die mit einer Einzahlung beginnt 
+	- Typen 
+		- Eigenfinanzierung 
+		- Fremdfinanzierung 
+		- Innenfinanzierung 
+		- Außenfinanzierung 
+- Investitionsrechnung 
+	- den zukünftigen Investitionserfolg zu prognostizieren und zu bewerten 
+	- Aufgaben 
+		- Entscheidung über Einzelinvestitionen 
+		- Alternativvergleiche mehrere Investitionen 
+		- Nutzungsdauer- und Ersatzproblem 
+	- (nur dynamisch berücksichtigt) 
+	- Abhängigkeiten 
+		- "Z"ahlungshöhe 本金 
+		- "Z"inssatz des Investors 利润率 
+		- "Z"eitliche Verteilung der Zahlungen 时间 
+	- Kalkulationszinssatz 
+		- Definition 
+			- die subjektive Mindestverzinsungsanforderung des Investors an sein Investitionsobjekt. 
+		- Typen 
+			- Habenzinssatz 
+				- der Zinssatz, den eine Bank oder ein Finanzinstitut seinen Kunden auf deren Guthaben oder Einlagen zahlt. 
+					- Wenn Sie Geld auf einem Sparkonto, Girokonto oder einem anderen Konto bei einer Bank haben, wird Ihnen normalerweise ein Zinssatz auf diesen Betrag gezahlt. Dieser Zinssatz wird als Habenzinssatz bezeichnet. Er repräsentiert die Vergütung, die Sie für das Halten von Geld auf Ihrem Konto erhalten. 
+			- Sollzinssatz 
+				- der Zinssatz, den eine Bank oder ein Kreditgeber für geliehenes Geld erhebt. 
+					- Wenn Sie beispielsweise einen Kredit aufnehmen, wird Ihnen ein Zinssatz berechnet, der als Sollzinssatz bezeichnet wird. Dieser Zinssatz spiegelt die Kosten für die Bereitstellung des Kapitals durch die Bank oder den Kreditgeber wider. 
+		- Bestimmungsverfahren 
+			- nach der Nutzwertanalyse 
+			- nach den Opportunitätskosten 
+	- ==Formeln== 
+		- Größen 
+			- $i$ : Zinssatz 
+			- $n$ : Dauer 
+			- $K_{0}$ : heutiger Wert / Barwert / Gegenwartswert 
+			- $K_{n}$ : späterer Wert / Endwert 
+		- Faktoren 
+			- Aufzinsungsfaktor (AuF) bei Aufzinsung einer heutigen Zahlung 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-52-37.png?raw=" width="400" /> 
+				- $(1 + i)^{n}$ 
+			- Abzinsungsfaktor / Diskontierungsfaktor (AbF) bei Abzinsung einer späteren Zahlung 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-53-26.png?raw=" width="400" /> 
+				- $(1 + i)^{-n}$ 
+			- Aufzinsungssummenfaktor / Endwertfaktor (EWF) 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-54-18.png?raw=" width="400" /> 
+				- $\frac{(1 + i)^{n} - 1}{i}$ 
+			- Diskontierungssummenfaktor (DSF) 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-55-14.png?raw=" width="400" /> 
+				- $\frac{(1 + i)^{n} - 1}{i \cdot (1 + i)^{n}}$ 
+			- Kapitalwiedergewinnungsfaktor (KWF) / Verrentungsfaktor / Annuitätenfaktor bei Verrentung einer heutigen Zahlung 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-18_14-44-49.png?raw=" width="400" /> 
+				- $\frac{i \cdot (1+i)^{n}}{(1+i)^{n}-1}$ 
+			- Restwertverteilungsfaktor (RVF) bei Verrentung einer späteren Zahlung 
+				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-18_14-54-53.png?raw=" width="400" /> 
+				- $\frac{i}{(1+i)^{n}-1}$ 
+	- ==Kapitalwertmethode== 
+		- Definition 
+			- basiert auf dem Konzept des Zeitwerts des Geldes, das besagt, dass Geld heute mehr wert ist als in der Zukunft. 
+			- zielt darauf ab, den Barwert aller zukünftigen Cashflows eines Investitionsprojekts zu berechnen, um festzustellen, ob die Investition rentabel ist oder nicht. 
+		- relevante Faktoren 
+			- AbF, DSF 
+		- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_16-12-31.png?raw=" width="600" /> 
+		- $A$ : Anschaffungsauszahlung 
+		- $a$ : jährliche Betriebs- und Instandsetzungskosten 
+		- $e$ : jährliche Einzahlungen 
+		- $R$ : Restwert 
+		- $n$ : Nutzungsdauer 
+		- $C_0$ : Kapitalwert : <u>Investition lohnt sich</u>, wenn $C_0 > 0$ 
+		- konstante Jahreszahlungen 
+			- $\begin{array}{l}C_{0} &=& \left(e-a\right) \cdot DSF_{n} \\ & & + ~ R \cdot AbF_{n} \\& & - ~ A\end{array}$ 
+		- unterschiedliche Jahreszahlungen 
+			- $\begin{array}{l}C_{0} &=& \left(e_{1}-a_{1}\right) \cdot AbF_{1} + \left(e_{2}-a_{2}\right) \cdot AbF_{2} + ~...~ + \left(e_{n}-a_{n}\right) \cdot AbF_{n} \\ & & + ~ R \cdot AbF_{n} \\& & - ~ A\end{array}$ 
+		- unbegrenzte Laufzeit 
+			- $C_{0} = g \cdot \frac{1}{i} - A$ 
+	- ==Annuitätenmethode== 
+		- Definition 
+			- eine Methode zur Bewertung von Investitionsprojekten, die sich auf die Berechnung gleichbleibender Zahlungen pro Periode (Annuitäten) konzentriert. 
+		- relevante Faktoren 
+			- KWF, KVF 

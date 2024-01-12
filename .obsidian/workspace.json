@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-4.md",
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-4.md",
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-4.md",
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-4.md"
+                "file": "BWL/Notiz_Kapitel-6.md"
               }
             }
           },
@@ -177,16 +177,18 @@
   },
   "active": "59637688e32dc7ae",
   "lastOpenFiles": [
+    "BWL/Notiz_Kapitel-5.md",
+    "BWL/Notiz_Kapitel-6.md",
+    "BWL/Nicht bestätigt 846003.crdownload",
     "BWL/Notiz_Kapitel-4.md",
+    "BWL/Notiz_Kapitel-8.md",
     "BWL/Notiz_Kapitel-2.md",
     "Leadership and Business Communication/Note_20240110.md",
     "Studienarbeit/Präsentation/Text.md",
     "Studienarbeit/Präsentation",
     "Studienarbeit/Notiz_20231115.md",
-    "BWL/Notiz_Kapitel-8.md",
-    "BWL/Notiz_Kapitel-6.md",
+    "Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-3.md",
-    "BWL/Notiz_Kapitel-5.md",
     "conflict-files-obsidian-git.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Stärken.md",
@@ -206,14 +208,12 @@
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Q&A.md",
     "Leadership and Business Communication/Note_Session-3.md",
-    "Leadership and Business Communication/Presentation/20231220/Text.md",
     "Pasted image 20231218145434.png",
     "Studienarbeit/Arbeitsbericht",
     "Leadership and Business Communication/Presentation/20231220",
     "Leadership and Business Communication/Presentation",
     "Softwarearchitekturen/Musterlösung_Labor",
     "Studienarbeit",
-    "Project Management/Presentation",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
     "Snipaste_2023-06-17_16-47-01.png",
