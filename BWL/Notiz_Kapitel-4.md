@@ -96,10 +96,12 @@
 	- Gewinn pro Stück ($g$) 
 		- $g = G / m$ 
 	- Kritisches Prinzip 
-		- Bei negativen Gewinnen lohnt es sich nur dann, die Produktion fortzusetzen, wenn der <u>Deckungsbeitrag größer oder gleich Null</u> ist. 
+		- Bei negativen Gewinnen lohnt es sich nur dann, die Produktion fortzusetzen, wenn der <u>Deckungsbeitrag größer oder gleich Null</u> ist. $\Rightarrow$ Fixkosten werde begleichen 
 	- Kosten- und Erlösverläufe 
 		- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_16-16-34.png?raw=) 
-	- Gewinnschwellenmenge ($m_{gs}$) 
+	- Gewinnschwellenmenge ($m_{gs}$) $\Rightarrow$ Break-Event-Point 
 		- $m_{gs} = K_f / db$ 
 	- Gewinnschwellenumsatz ($U_{gs}$) 
-		- $m_{gs} = m_{gs} \cdot p$ 
+		- $U_{gs} = m_{gs} \cdot p$ 
+	- Kosten ($K_{gs}$) 
+		- $K_{gs} = K_f + m_{gs}*k_v$ 
