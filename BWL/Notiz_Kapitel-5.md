@@ -70,13 +70,26 @@
 							- preisbedingter Umsatzverlust > mengenbedingter Umsatzzuwachs 
 		- praktische Preispolitik 
 			- kostenorientierte Preisbildung 
-				- Vollkostenbasis 
-				- Teilkostenbasis 
+				- Kalkulation 
+					- auf Vollkostenbasis 
+						- Formel: $p=k(1+g/100)$ 
+							- $k$: Selbstkosten 
+							- $g$: Gewinnaufschlag 
+						- $p$ wird von $m$ abhängig, aber eigentlich $m$ ist von $p$ abhängig 
+					- auf Teilkostenbasis 
+						- Formel: $p=k_v + db$ 
+						- Problem: Solldeckungsbeitrag zu ermitteln 
 				- Vor- und Nachteile 
+					- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-12_23-46-07.png?raw=" width="700" /> 
 				- Kriterien 
 					- langfristige Preisuntergrenze = $K_{ges}$ 
 					- kurzfristige Preisuntergrenze = $K_{var}$ 
 			- nachfrageorientierte Preisbildung 
+				- Preis in Abhängigkeit von der Bereitschaft der Kunden, das Produkt zu kaufen 
+				- Orientierungen 
+					- welcher Preis -> bereit zu zahlen 
+					- wie ist das aktuelle Preis-Leistungsverhältnis zu beurteilen 
+					- wie sie auf Preisänderungen reagieren 
 				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-04_21-03-01.png?raw=" width="600" /> 
 			- konkurrenzorientierte Preisbildung 
 	- Kommunikationspolitik 
