@@ -52,9 +52,11 @@
 	- Marktpreis ($p$) 
 	- Erlös ($e$) $= m \cdot p$ 
 	- Fixkosten ($K_f$) 
-		- unabhängig von Ausbringungsmenge 
+		- Teil der Gesamtkosten 
+		- fällt an unabhängig von Ausbringungsmenge 
 	- Fixe Stückkosten ($k_f$) $= K_f / m$ 
 	- variable Kosten ($K_v$) $= k_v \cdot m$ 
+		- Teil der Gesamtkosten 
 		- von Ausbringungsmenge abhängig 
 		- z.B. 
 			- Materialkosten 
@@ -69,12 +71,16 @@
 	- Fixkosten 
 		- z.B. Mietkosten für Produktionsräume 
 	- lineare Kosten 
-		- z.B. Arbeitskraft (Falls gleich bezahlt)
+		- Kosten steigen proportional je Faktoreinsatzeinheit 
+		- z.B. Arbeitskraft (Falls gleich bezahlt) 
 	- degressive Kosten 
+		- Kosten steigen unterproportional je Faktoreinsatzeinheit 
 		- z.B. Material kaufen (Ratbatt) 
 	- progressive Kosten 
+		- Kosten steigen überproportional je Faktoreinsatzeinheit 
 		- z.B. Nachfrage steigt, Produktivität unverändert sogar sinkt ab -> Lohnkosten für Überstunden 
 	- regressive Kosten 
+		- Kosten verringern sich bei steigender Menge 
 		- z.B. Heizkosten in Kino, wenn mehr Leute 
 
 ## Produktionsplanung 
