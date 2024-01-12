@@ -87,10 +87,12 @@
 - langfristige 
 	- $K_f$ verändert sich vielleicht 
 - kurzfristige 
-	- Deckungsbeitrag ($db$) 
+	- Deckungsbeitrag pro Stück ($db$) 
 		- $db = p - k_v$ 
+	- Deckungsbeitrag (DB) 
+		- $DB = db \cdot m$ 
 	- Gewinn ($G$) 
-		- $G = db \cdot m - K_f$ 
+		- $G = DB - K_f$ 
 	- Gewinn pro Stück ($g$) 
 		- $g = G / m$ 
 	- Kritisches Prinzip 
