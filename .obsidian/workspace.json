@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md",
+                "file": "BWL/Notiz_Kapitel-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md",
+                "file": "BWL/Notiz_Kapitel-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md",
+                "file": "BWL/Notiz_Kapitel-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md"
+                "file": "BWL/Notiz_Kapitel-5.md"
               }
             }
           },
@@ -177,10 +177,11 @@
   },
   "active": "59637688e32dc7ae",
   "lastOpenFiles": [
+    "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_Kapitel-5.md",
+    "BWL/Notiz_Kapitel-4.md",
     "BWL/Notiz_Kapitel-6.md",
     "BWL/Nicht bestätigt 846003.crdownload",
-    "BWL/Notiz_Kapitel-4.md",
     "BWL/Notiz_Kapitel-8.md",
     "BWL/Notiz_Kapitel-2.md",
     "Leadership and Business Communication/Note_20240110.md",
@@ -188,7 +189,6 @@
     "Studienarbeit/Präsentation",
     "Studienarbeit/Notiz_20231115.md",
     "Notiz_Kapitel-6.md",
-    "BWL/Notiz_Kapitel-3.md",
     "conflict-files-obsidian-git.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Stärken.md",

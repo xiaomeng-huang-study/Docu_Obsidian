@@ -4,6 +4,9 @@
 - Definition von Marketing 
 	- Ausrichtung der Unternehmensentscheidungen auf den Markt. 
 	- im Gegensatz zur Orientierung an unternehmensinternen Gegebenheiten wie Produktionskapazitäten. 
+- Typen 
+	- Verkäufermarkt 
+	- Käufermarkt 
 - Absatzpolitische Instrument 
 	- Definition 
 		- alle Maßnahmen, die ein Anbieter ergreifen kann, um Absatzwiderstände zu reduzieren und die eigene Wettbewerbsposition zu stärken. 
