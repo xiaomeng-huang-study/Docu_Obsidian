@@ -10,10 +10,12 @@
 	- Theorien 
 		- ![|450](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-25-08.png?raw=) 
 		- Produktionstheorie 
-			- analysiert ausschließlich Mengengerüst 
-			- Zusammenhang zwischen dem <u>mengenmäßigen</u> Verbrauch an Produktionsfaktoren und der daraus resultierenden Ausbringungsmenge 
+			- analysiert ==ausschließlich Mengengerüst== der betrieblichen Leistungserstellung 
+			- erklärt Zusammenhang zwischen dem ==mengenmäßigen Verbrauch an Produktionsfaktoren== und der ==daraus resultierenden Ausbringungsmenge== 
 		- Kostentheorie 
-			- optimale Kombination der Produktionsfaktoren 
+			- Mengengerüst mit Preisen zu bewerten -> ==Wertgerüst== 
+			- ==optimale Kombination== der Produktionsfaktoren 
+			- (basiert auf Produktionstheorie) 
 
 
 ## Produktionstheorie 
@@ -28,7 +30,7 @@
 		- nicht austauschbare bzw. limitationale Produktionsfaktoren 
 			- Schaubild ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_14-38-39.png?raw=) 
 	- Ausbringungs-Isoquante 
-		- die durchgezogene Linie auf der alle Produktionsfaktor-Kombinationen für $m$  dargestellt werden 
+		- Für bestimmte Ausbringungsmenge $m$, die durchgezogene Linie auf der alle Produktionsfaktor-Kombinationen 
 
 ## Kostentheorie 
 - Kostenfunktion 
