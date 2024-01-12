@@ -10,18 +10,16 @@
 - Absatzpolitische Instrument 
 	- Definition 
 		- alle Maßnahmen, die ein Anbieter ergreifen kann, um Absatzwiderstände zu reduzieren und die eigene Wettbewerbsposition zu stärken. 
-	- Produktpolitik 
-		- Produkt -> attraktiv, positiv von der Konkurrenz 
-			- z.B. Produktinnovation, Produktqualität, Sortiment 商品品种, Kundendienst 
+	- Produktpolitik: Produkt -> attraktiv, positiv von der Konkurrenz 
+		- Produktqualität 
+		- Produktvariation 
+			- bestehende Produkte verbessert 
 		- Produkt[[Notiz_Kapitel-5#^innovation|innovation]] 
 			- technischer Fortschritt, Bedarfsverschiebung -> Entwicklung neuer Produkte 
-		- Produktvariation 
-			- bestehende Produkte technisch verbessert oder ein neues Modell eingeführt 
-		- Produktdiversifikation 
-			- eine neue Produktlinie wird in Unternehmen eingeführt 
+		- Kundendienst 
 	- Preispolitik 
 		- durch die gezielte Gestaltung des Kaufpreises bestimmte Kaufanreize zu setzen 
-			- z.B. Preis, Rabatt, Zahlungsbedingungen 
+			- z.B. Rabatt, Zahlungsbedingungen 
 		- (nicht bevorzugt, denn wenige Gewinn) 
 		- klassische Preispolitik 
 			- betrachtet nur die Mengenreaktion unter bestimmten Einheitspreisen 
@@ -83,11 +81,11 @@
 			- konkurrenzorientierte Preisbildung 
 	- Kommunikationspolitik 
 		- die Art der Kommunikation des Unternehmens mit den Kunden und Handelsunternehmen. Ziel ist eine positive Einstellung zum Produkt oder der Dienstleistung zu erzeugen und somit zum Kauf anzuregen 
-			- z.B. Werbung, Verkaufsförderung 促销, Öffentlichkeitsarbeit (PR, public relations 公关) 
-		- Werbung 
-		- Verkaufsförderung 
-		- Öffentlichkeitsarbeit 
-		- Persönlicher Verkauf 
+		- Beispiele 
+			- Werbung 
+			- Verkaufsförderung 促销 
+			- Öffentlichkeitsarbeit (PR, public relations 公关) 
+			- Persönlicher Verkauf 
 	- Distributionspolitik 
 		- richtige Zeit, richtiger Ort 
 			- z.B. physische Distribution, Verkaufsorgane 销售机关, Absatzwege 销售路线 
