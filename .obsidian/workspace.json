@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5052f4f8d03bdfbc",
+        "id": "54ac066577b596e6",
         "type": "tabs",
         "children": [
           {
-            "id": "59637688e32dc7ae",
+            "id": "9a2d4e08ede6cd7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,12 +175,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "59637688e32dc7ae",
+  "active": "9a2d4e08ede6cd7d",
   "lastOpenFiles": [
-    "BWL/Notiz_Kapitel-3.md",
-    "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-4.md",
+    "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-6.md",
+    "BWL/Notiz_Kapitel-3.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "BWL/Notiz_Kapitel-8.md",
     "BWL/Notiz_Kapitel-2.md",
