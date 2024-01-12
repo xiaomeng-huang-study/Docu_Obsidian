@@ -92,18 +92,23 @@
 					- wie sie auf Preisänderungen reagieren 
 				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-04_21-03-01.png?raw=" width="600" /> 
 			- konkurrenzorientierte Preisbildung 
+				- nach dem Leiterpreis orientieren 
 	- Kommunikationspolitik 
 		- die Art der Kommunikation des Unternehmens mit den Kunden und Handelsunternehmen. Ziel ist eine positive Einstellung zum Produkt oder der Dienstleistung zu erzeugen und somit zum Kauf anzuregen 
-		- Beispiele 
+		- Bereiche 
 			- Werbung 
+				- Werbeflut 广告泛滥 -> Ineffizienzen 
 			- Verkaufsförderung 促销 
+				- stärker ausgedehnt, da effizienter 
 			- Öffentlichkeitsarbeit (PR, public relations 公关) 
+				- in der öffentlichen Beurteilung positiv gesehen 
 			- Persönlicher Verkauf 
+				- effizient aber teuer 
 	- Distributionspolitik 
 		- richtige Zeit, richtiger Ort 
 			- z.B. physische Distribution, Verkaufsorgane 销售机关, Absatzwege 销售路线 
 		- Ziel
-			- die eigene Leistung (Produkt) in bedarfsgerechter Form möglichst nahe an den Nachfrager zu bringen 
+			- die eigene Leistung (Produkt) in bedarfsgerechter Form und möglichst nahe an den Nachfrager zu bringen (Distanz + Zufriedenheit) 
 		- Bereiche 
 			- Distributionswünsche der Nachfrager 
 			- Wahl der Präsentationsform 
