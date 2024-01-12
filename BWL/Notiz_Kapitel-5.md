@@ -5,8 +5,8 @@
 	- Ausrichtung der Unternehmensentscheidungen auf den Markt. 
 	- im Gegensatz zur Orientierung an unternehmensinternen Gegebenheiten wie Produktionskapazitäten. 
 - Typen 
-	- Verkäufermarkt 
-	- Käufermarkt 
+	- Verkäufermarkt & Käufermarkt 
+		- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-12_21-37-50.png?raw=" width="700" /> 
 - Absatzpolitische Instrument 
 	- Definition 
 		- alle Maßnahmen, die ein Anbieter ergreifen kann, um Absatzwiderstände zu reduzieren und die eigene Wettbewerbsposition zu stärken. 
