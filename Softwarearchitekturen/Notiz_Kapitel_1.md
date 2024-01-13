@@ -28,14 +28,6 @@
 
 # Neuronales Netz 
 - learning rate: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Learning-rate.png?raw=)  
-- epoch: Vorwärtsdurchlauf + Rückwärtsdurchlauf 
-- Backpropagation 反向传播算法 
-	- Verlauf 
-		- 1) Vorwärtsdurchlauf (Forward Pass) 
-		- 2) Berechnung des Fehlers (Loss) 
-		- 3) Rückwärtsdurchlauf (Backward Pass) 
-		- 4) Partielle Ableitungen mit dem Kettenregel (Chain Rule) 
-		- 5) Aktualisierung des Gewichtsparameter 
 
 - Multi-Layer-Perzeptron 
 	- Schaubild: ![|400](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-10-20_22-18-09.png?raw=) 
@@ -89,6 +81,13 @@
 		- train - validation - test 
 	- Prozess 
 		- Einfaches Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-29-26.png?raw=" width="450" /> 
+		- Verlauf 
+			- 1) Vorwärtsdurchlauf (Forward Pass) 
+			- 2) Berechnung des Fehlers (Loss) 
+			- 3) Rückwärtsdurchlauf (Backward Pass) 
+			- 4) Partielle Ableitungen mit dem Kettenregel (Chain Rule) 
+			- 5) Aktualisierung des Gewichtsparameter 
+		- epoch: Vorwärtsdurchlauf + Rückwärtsdurchlauf 
 	- Input $X$ 
 		- als Tensoren 
 			- Vector data (Rank-2 Tensor): (samples, features) 
