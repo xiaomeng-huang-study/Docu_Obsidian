@@ -97,20 +97,28 @@
 			- Images (Rank-4 Tensor): (samples, height, width, channels) 
 				- channels -> RGB
 			- Videos (Rank-5 Tensor): (samples, frames, height, width, channels) 
-	- Batch 
-		- Definition: Teilmenge von Trainingsdaten, gemeinsam zum Trainieren verwendet 
-		- Vorteile 
-			- Effizienz 
-			- Speicherplatz 
-			- Stochastizität 
-		- als ein Hyperparameter 
+		- Batch 
+			- Definition: Teilmenge von Trainingsdaten, gemeinsam zum Trainieren verwendet 
+			- Vorteile 
+				- Effizienz 
+				- Speicherplatz 
+				- Stochastizität 
+			- als ein Hyperparameter 
 	- Layer 
 		- eine Schicht von Neuronen oder Neuronenverbindungen in einem neuronalen Netzwerk 
-	- Aktivierungsfunktion 
-		- Jedes Neuron in einem Layer hat eine Aktivierungsfunktion 
-		- nicht lineare Beziehungen zu lernen 
-		- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-33-31.png?raw=" width="500" /> 
-	- Normalisierung 
+		- Typen 
+			- Fully-Connected-Layer 
+			- Convolutional-Layer 
+			- Pooling-Layer 
+			- Recurrent-Layer 
+			- Normalization-Layer 
+		- Aktivierungsfunktion 
+			- Jedes Neuron in einem Layer hat eine Aktivierungsfunktion 
+			- nicht lineare Beziehungen zu lernen 
+			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-33-31.png?raw=" width="500" /> 
+		- Normalisierung 
+			- Einschub: Log-Wahrscheinlichkeit 
+				- manchmal sind die Wahrscheinlichkeiten extrem winzig oder sehr nahe bei 1, problematisch mit begrenzter nummerischer Präzision auf einem Computer 
 	- Initialisierung 
 		- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=" width="600" /> 
 		- Initialisierung zu klein 
@@ -122,7 +130,9 @@
 		- Initialisierung geeignet 
 	- Loss-Funktion / Kosten-Funktion 
 		- Mean-Squared-Error (MSE) 
+			- bei Regressionsproblemen verwendet, Output ist eine kontinuierliche Zahl 
 		- Binary-Cross-Entropy (BCE) 
+			- bei binären Klassifikationsproblemen 
 		- Categorical-Cross-Entropy (CCE) 
 		- Sparse-Categorical-Cross-Entropy (SCCE) 
 		- MAE 
