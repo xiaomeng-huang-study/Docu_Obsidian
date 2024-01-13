@@ -119,24 +119,37 @@
 		- Normalisierung 
 			- Einschub: Log-Wahrscheinlichkeit 
 				- manchmal sind die Wahrscheinlichkeiten extrem winzig oder sehr nahe bei 1, problematisch mit begrenzter nummerischer Präzision auf einem Computer 
-	- Initialisierung 
-		- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=" width="600" /> 
-		- Initialisierung zu klein 
-			- Die Aktivierungen sind hauptsächlich um 0 herum verteilt 
-				- Aktivierungen (bei -1 und 1) -> 0 $\Rightarrow$ Gradients -> 0 
-		- Initialisierung zu groß 
-			- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
-				- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
-		- Initialisierung geeignet 
+		- Initialisierung 
+			- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=" width="600" /> 
+			- Initialisierung zu klein 
+				- Die Aktivierungen sind hauptsächlich um 0 herum verteilt 
+					- Aktivierungen (bei -1 und 1) -> 0 $\Rightarrow$ Gradients -> 0 
+			- Initialisierung zu groß 
+				- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
+					- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
+			- Initialisierung geeignet 
+	- Predictions 
+		- Klassifikation z.B. 80% A, 20% B 
+		- Regression z.B. die Kosten 3000 Euro 
+		- Textgenerierung 
+		- Anomalie-Erkennung 
+		- Objekterkennung 
+		- Sprachübersetzung 
 	- Loss-Funktion / Kosten-Funktion 
 		- Mean-Squared-Error (MSE) 
 			- bei Regressionsproblemen verwendet, Output ist eine kontinuierliche Zahl 
+			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-46-11.png?raw=" width="500" /> 
 		- Binary-Cross-Entropy (BCE) 
 			- bei binären Klassifikationsproblemen 
+			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-47-11.png?raw=" width="650" /> 
 		- Categorical-Cross-Entropy (CCE) 
+			- bei Multi-Klassen Klassifikationsproblemen 
+			- One-Hot-Encoding 
+			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-48-49.png?raw=" width="500" /> 
 		- Sparse-Categorical-Cross-Entropy (SCCE) 
-		- MAE 
-		- RMSE 
+			- bei Multi-Klassen Klassifikationsproblemen 
+			- nicht One-Hot-Encoding 
+			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-51-28.png?raw=" width="500" /> 
 	- Optimizer 
 		- Funktion: die Gewichtungen eines neuronalen Netzwerks anzupassen, und die Loss-Score zu minimieren 
 		- Typen 
