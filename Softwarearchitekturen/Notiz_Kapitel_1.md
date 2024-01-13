@@ -9,7 +9,10 @@
 	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_14-58-15.png?raw=" width="400" /> 
 	- Künstliche Intelligenz (KI, engl. Artificial Intelligence): bezieht sich auf die Fähigkeit von Computern oder Maschinen, Aufgaben auszuführen, die normalerweise menschliche Intelligenz erfordern. 
 	- Maschinelles Lernen (ML, engl. Machine Learning): ist ein Teilgebiet der künstlichen Intelligenz, das sich auf die Entwicklung von <u>Algorithmen</u> konzentriert, die es Computern ermöglichen, aus Daten zu lernen. 
-	- Überwachtes Lernen (engl. Supervised Learning): 
+	- Überwachtes Lernen (engl. Supervised Learning): Bei überwachtem Lernen werden Algorithmen auf Grundlage von <u>gelabelten</u> Trainingsdaten trainiert. 
+	- Unüberwachtes Lernen (engl. Unsupervised Learning): Im unüberwachten Lernen werden Algorithmen mit <u>nicht gelabelten</u> Daten trainiert. 
+	- Tiefes Lernen (engl. Deep Learning): Tiefes Lernen bezieht sich auf den Einsatz von <u>neuronalen Netzwerken</u> mit vielen Schichten (tiefe Netzwerke), um komplexe Aufgaben zu lösen. 
+	- Verstärkungslernen (engl. Reinforcement Learning): Bei Verstärkungslernen wird ein Agent in einer Umgebung platziert und lernt, Aktionen auszuführen, um eine Belohnung zu maximieren. Das System trifft Entscheidungen basierend auf <u>Feedback</u> in Form von <u>Belohnungen oder Strafen</u>. 
 - Herausforderungen für KI 
 	- Verzerrungen 
 	- Blackbox 
@@ -21,9 +24,6 @@
 	- Verdeckung 
 	- Background 
 	- Variation innerhalb einer Klasse 
-
-- examples unlabeled: unsupervised machine learning 
-- examples labeled: Clustering (Grouping unlabeled examples) 
 
 
 # Neuronales Netz 
