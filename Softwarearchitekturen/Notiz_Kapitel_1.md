@@ -116,9 +116,6 @@
 			- Jedes Neuron in einem Layer hat eine Aktivierungsfunktion 
 			- nicht lineare Beziehungen zu lernen 
 			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-33-31.png?raw=" width="500" /> 
-		- Normalisierung 
-			- Einschub: Log-Wahrscheinlichkeit 
-				- manchmal sind die Wahrscheinlichkeiten extrem winzig oder sehr nahe bei 1, problematisch mit begrenzter nummerischer Präzision auf einem Computer 
 		- Initialisierung 
 			- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=" width="600" /> 
 			- Initialisierung zu klein 
@@ -128,6 +125,10 @@
 				- Die Aktivierungen sind hauptsächlich um 0 und 1 herum verteilt 
 					- Gradients bei 0 und 1 (z.B. für tanh, sigmoid) -> 0
 			- Initialisierung geeignet 
+	- Weights 
+		- Fully-Connected-Layer: Gewichtungsmatrix + Bias 
+		- Convolutional-Layer: Gewichtungsmatrix + Bias 
+		- Pooling-Layer: keine lernbaren Parameter 
 	- Predictions 
 		- Klassifikation z.B. 80% A, 20% B 
 		- Regression z.B. die Kosten 3000 Euro 
@@ -136,6 +137,8 @@
 		- Objekterkennung 
 		- Sprachübersetzung 
 	- Loss-Funktion / Kosten-Funktion 
+		- Einschub: Log-Wahrscheinlichkeit 
+			- manchmal sind die Wahrscheinlichkeiten extrem winzig oder sehr nahe bei 1, problematisch mit begrenzter nummerischer Präzision auf einem Computer 
 		- Mean-Squared-Error (MSE) 
 			- bei Regressionsproblemen verwendet, Output ist eine kontinuierliche Zahl 
 			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-46-11.png?raw=" width="500" /> 
@@ -151,7 +154,7 @@
 			- nicht One-Hot-Encoding 
 			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-51-28.png?raw=" width="500" /> 
 	- Optimizer 
-		- Funktion: die Gewichtungen eines neuronalen Netzwerks anzupassen, und die Loss-Score zu minimieren 
+		- Funktion: die <u>Gewichtungen</u> eines neuronalen Netzwerks anzupassen, und die <u>Loss-Score</u> zu minimieren 
 		- Typen 
 			- Stochastic Gradient Descent (SGD) 随机梯度下降 
 				- berechnet den Gradienten der Verlustfunktion für eine kleine Stichprobe (Minibatch) 
