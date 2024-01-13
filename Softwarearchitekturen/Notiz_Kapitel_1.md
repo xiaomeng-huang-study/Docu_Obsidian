@@ -105,7 +105,8 @@
 			- Speicherplatz 
 			- Stochastizität 
 		- als ein Hyperparameter 
-	- Layers 
+	- Layer 
+		- eine Schicht von Neuronen oder Neuronenverbindungen in einem neuronalen Netzwerk 
 	- Aktivierungsfunktion 
 		- Jedes Neuron in einem Layer hat eine Aktivierungsfunktion 
 		- nicht lineare Beziehungen zu lernen 
