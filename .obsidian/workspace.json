@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01b7b7f9392362fb",
+        "id": "991a2bc6b7fbbdbc",
         "type": "tabs",
         "children": [
           {
-            "id": "1500a35cad0fa213",
+            "id": "175d080453c60245",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_1.md",
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_1.md",
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_1.md",
+                "file": "BWL/Notiz_Kapitel-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_1.md"
+                "file": "BWL/Notiz_Kapitel-3.md"
               }
             }
           },
@@ -175,13 +175,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1500a35cad0fa213",
+  "active": "175d080453c60245",
   "lastOpenFiles": [
+    "BWL/Notiz_Kapitel-4.md",
+    "BWL/Notiz_Kapitel-3.md",
     "Softwarearchitekturen/Notiz_Kapitel_1.md",
     "BWL/Notiz_Kapitel-5.md",
-    "BWL/Notiz_Kapitel-4.md",
     "BWL/Notiz_Kapitel-6.md",
-    "BWL/Notiz_Kapitel-3.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "BWL/Notiz_Kapitel-8.md",
     "BWL/Notiz_Kapitel-2.md",
