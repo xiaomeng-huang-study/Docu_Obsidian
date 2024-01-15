@@ -87,4 +87,4 @@
 		- Definition 
 			- eine Methode zur Bewertung von Investitionsprojekten, die sich auf die Berechnung gleichbleibender Zahlungen pro Periode (Annuitäten) konzentriert. 
 		- relevante Faktoren 
-			- KWF, KVF 
+			- KWF, RVF 
