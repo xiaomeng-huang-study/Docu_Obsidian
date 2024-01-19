@@ -1,5 +1,5 @@
 # Homogeneity 
-## ASA-pattern 
+## ==ASA-pattern== 
 - A: Attraction : attractive 
 - S: Selection : match 
 - A: Attribution : thinking differently 
