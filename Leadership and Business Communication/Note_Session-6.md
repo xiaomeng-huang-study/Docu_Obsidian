@@ -19,8 +19,9 @@
 
 # Diversity Management 
 
-## Reason 
+## ==Reason== 
 - ethical 
+	- includes appreciation and support for all employees alike 
 - economical 
 	- Anti discrimination policies 
 	- HR recruitment 
@@ -39,7 +40,7 @@
 
 
 
-## Problem 
+## ==Problem== 
 - Lip service problem 只说不做 
 - Do-gooder problem 出于善意->问题 
 
