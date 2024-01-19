@@ -24,7 +24,7 @@
 
 If Diversity-Management can create additional value 
 
-## Inclusion 包容性 
+## A promising approach: Inclusion 包容性 -> Cohesion 凝聚力 
 - Requirements 
 	- Conviction 信心 of the top management 
 	- readiness 愿意 to give up privileges 
