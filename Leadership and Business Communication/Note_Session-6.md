@@ -63,7 +63,9 @@ If Diversity-Management can create additional value
 - build up power 
 - to make the scope of action not under the external control 
 
-## Conditions and Measurements 
+## ==Accounts for self-interest of individuals== 
+
+## ==Conditions and Measurements== 
 - Interdependency 
 	- Enable individual performance and measurement 
 	- Transparent and fair distribution of resources 
