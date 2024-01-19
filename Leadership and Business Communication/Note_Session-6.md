@@ -41,6 +41,17 @@ If Diversity-Management can create additional value
 - build up power 
 - to make the scope of action not under the external control 
 
-## Conditions 
+## Conditions and Measurements 
 - Interdependency 
-	- 
+	- Enable individual performance and measurement 
+	- Transparent and fair distribution of resources 
+- Different interests 
+	- align individual goal with the company goal 
+- informal power difference 
+	- balance the power of employees at the same level 
+- Ambiguity 
+	- Enhance communication 
+- Pronounced formality 
+	- communicational fostering of independence 
+- Compulsion 强迫 to act 
+	- communicational rewards for results not actions 
