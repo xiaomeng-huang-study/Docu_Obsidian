@@ -49,8 +49,11 @@
 		* Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-29-09.png?raw=" width="350" /> 
 		* Classification criterion: object 
 		* Advantages 
-			* Focus on different divisions 
+			* different divisions 
 			* operational with differentiated product portfolio 以差异化的产品组合开展业务 
+		* Disadvantages 
+			* Multiplying of functions 
+			* Coordination efforts 
 	* Holding Organisation 
 		* Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-29-58.png?raw=" width="350" /> 
 		* Types 
