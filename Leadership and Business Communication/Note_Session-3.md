@@ -99,10 +99,10 @@
 	* Silo 窖藏 mentality 智慧 of departments and business areas 
 	* Prevention of good ideas due to hierarchies 
 	* Demotivation and loss of meaning for employees due to lack of responsibility and task identity 
-* Models to overcome 
-	* Working group 
+* Models to react more flexibly towards change 
+	* Semiautonomous 半自治的 working group 
 	* Linking Pins 
-	* Evolutional Organizations 
+	* Evolutional 进化的 Organizations 
 
 * Holacracy 
 	* agility and collective intelligence instead of hierarchical power 
