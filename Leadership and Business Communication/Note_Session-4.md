@@ -34,7 +34,7 @@
 		- Style analysis 
 
 - Hofstede's study 
-	- dimensions 
+	- dimensions -> significantly different characteristics among countries 
 		- Power distance 
 		- Individualism 个人主义 
 		- Masculinity 男子气 
