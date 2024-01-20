@@ -19,6 +19,11 @@
 - Leadership theories 
 	- analytical / functional understanding 
 		- Trait theory 
+			- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-45-06.png?raw=" width="400" /> 
+			- current approaches 
+				- Intelligence 
+				- emotional Intelligence 
+				- Five-Factor-Model 
 		- Behavior / Styles 
 			- Dimension authoritarian vs. democratic 
 				- authoritarian: task- / performance- oriented 
@@ -29,6 +34,30 @@
 				- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-59-00.png?raw=) 
 				- [[Leadership and Business Communication/Q&A#Situational Leadership Model|detailed explanation]] 
 		- Motivation theory 
+			- VIE-Theory 
+				- Valence: desirability of the future 
+				- Instrumentality: performance -> outcome 
+				- Expectancy: effort -> performance 
 		- Role theory 
+			- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-50-14.png?raw=" width="400" /> 
 	- communicative understanding 
 		- Story telling & symbolic Leadership 
+		- Story telling 
+			- 6 basic rules 
+				- Start with the context 
+				- Use metaphors and analogies 
+				- Appeal to emotion 
+				- Keep it tangible and concrete 
+				- Include a surprise 
+				- Use a narrative style appropriate for business 
+			- Four-Frame Theory 
+				- Frames are the mindset that leaders use to explain reality and organize ideas of a complex work environment 
+				- Structural framework 
+				- Political framework 
+				- Human resource framework 
+				- Symbolic framework 
+		- symbolic Leadership 
+			- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-57-05.png?raw=" width="500" /> 
+	- Instrument: MBTI 
+		- takes up some of the disadvantages of trait measurement 
+		- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_22-00-45.png?raw=" width="600" /> 
