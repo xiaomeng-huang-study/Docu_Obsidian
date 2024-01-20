@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07d1dca17285f83b",
+        "id": "6f880c4509665899",
         "type": "tabs",
         "children": [
           {
-            "id": "b5519df5e17815fc",
+            "id": "da1350560ac6c6aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership and Business Communication/Note_Session-5.md",
+                "file": "Leadership and Business Communication/Note_Session-9.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and Business Communication/Note_Session-5.md",
+                "file": "Leadership and Business Communication/Note_Session-9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and Business Communication/Note_Session-5.md",
+                "file": "Leadership and Business Communication/Note_Session-9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership and Business Communication/Note_Session-5.md"
+                "file": "Leadership and Business Communication/Note_Session-9.md"
               }
             }
           },
@@ -175,12 +175,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b5519df5e17815fc",
+  "active": "da1350560ac6c6aa",
   "lastOpenFiles": [
+    "Leadership and Business Communication/Note_Session-9.md",
+    "Leadership and Business Communication/Note_Session-5.md",
     "Leadership and Business Communication/Note_Session-6.md",
     "Leadership and Business Communication/Note_Session-7.md",
     "Leadership and Business Communication/Note_Session-8.md",
-    "Leadership and Business Communication/Note_Session-5.md",
     "Leadership and Business Communication/Note_Session-4.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Markdown/Syntax.md",
@@ -204,7 +205,6 @@
     "Notiz_Kapitel-6.md",
     "conflict-files-obsidian-git.md",
     "Praktikum/Bewerbung/Vorstellungsgespräch_Schwächen.md",
-    "Praktikum/Bewerbung/Vorstellungsgespräch_Stärken.md",
     "Bachelorarbeit/Vorstellungsgespräch",
     "Untitled",
     "Bachelorarbeit",

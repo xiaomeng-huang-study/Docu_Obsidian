@@ -5,19 +5,28 @@
 
 # Knowledge 
 ## Traditional 
-### Traditional assumptions 
+### ==Traditional assumptions== 
 - Coherence 
 	- Homogeneous cultures 
 - Primary collectivity 
 	- everyone is member of one culture and one collective 
-### 2 concepts based on the traditional assumptions 
+### 2 ==concepts== based on the traditional assumptions 
 - Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_18-11-20.png?raw=" width="600" /> 
 - Leitkultur 
 - Multiculturalism 
 
 ## Contemporary 当代的 
-### Culture 
-<img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_18-13-27.png?raw=" width="500" /> 
+### ==Culture== 
+- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_18-13-27.png?raw=" width="500" /> 
+- Multicollectivity 
+	- situational relevance -> virulence 
+#### Stabilization 
+- Culture as customs of human group 
+- characterized by <u>diversity</u> and differences <u>within</u> these customs 
+- Multicollectivity of individuals and their multiple rootedness lead to followings with differences 
+	- collective stability 
+	- cultural familiarity 
+- Cohesion made of multicollectivity and familiarity with differences 
 ### Assumption 
 - Differences within cultures and multicollectivity of individuals 
 - Requirement for interculturality: interpretation of non-overlapping group memberships and the feeling of foreignness due to unknown differences 
