@@ -21,4 +21,6 @@
 ### Assumption 
 - Differences within cultures and multicollectivity of individuals 
 - Requirement for interculturality: interpretation of non-overlapping group memberships and the feeling of foreignness due to unknown differences 
-- 
+### Intercultural competence 
+- as the ability to create normality, enable inclusion, produce culture in situations where there si a lack of collective belonging. 
+- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_18-36-19.png?raw=" width="700" /> 
