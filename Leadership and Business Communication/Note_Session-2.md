@@ -35,11 +35,20 @@
 				- [[Leadership and Business Communication/Q&A#Situational Leadership Model|detailed explanation]] 
 		- Motivation theory 
 			- VIE-Theory 
-				- Valence: desirability of the future 
-				- Instrumentality: performance -> outcome 
+				- Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_22-25-38.png?raw=" width="600" /> 
 				- Expectancy: effort -> performance 
+					- If I take effort, how probable is the success? 
+				- Valence: desirability of the outcome  
+					- How should I value the outcome? rewarding? 
+				- Instrumentality: performance -> outcome 
+					- If I achieve the outcome, how directly is it linked with the goal? 
 		- Role theory 
 			- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-50-14.png?raw=" width="400" /> 
+		- Management 
+			- Role theory -> Recruitment selection 
+			- Behavior theory -> Training 
+			- Motivation theory -> Appraisals 评估, objective agreements 
+			- Role theory -> Task definition 
 	- communicative understanding 
 		- Story telling & symbolic Leadership 
 		- Story telling 
@@ -58,6 +67,8 @@
 				- Symbolic framework 
 		- symbolic Leadership 
 			- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-57-05.png?raw=" width="500" /> 
+			- Facts are charged symbolically with new meaning. 
+			- A certain meaning manifests by creating new facts accordingly. 
 	- Instrument: MBTI 
 		- takes up some of the disadvantages of trait measurement 
 		- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_22-00-45.png?raw=" width="600" /> 
