@@ -8,16 +8,14 @@
 ## Management to design corporate culture 
 <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_16-04-36.png?raw=" width="650" /> 
 
-## Culture 
+# Culture 
 - Diversity of culture 
 - "customs" 
 - Group, Collectivities, "Society" 
-- $\Rightarrow$ in the broadest sense, culture can be defined as customs of human groups or societies 
+- $\Rightarrow$ in the <u>broadest</u> sense, culture can be defined as <u>customs of human groups or societies</u> 
 
-
-
-# Measurement of culture 
-- Approaches to measure culture 
+## Measurement of culture 
+- ==Approaches to measure culture== 
 	- According to object 
 		- Description of culture 
 		- Comparison of culture 
@@ -33,25 +31,35 @@
 		- Macroanalysis 
 		- Style analysis 
 
-- Hofstede's study 
+- ==Hofstede's study== 
 	- dimensions -> significantly different characteristics among countries 
 		- Power distance: degree of inequality 
 		- Individualism 个人主义 : degree of pursuit of individual interests 
 		- Masculinity 男子气 : degree of differences 
 		- Uncertainty avoidance : tolerance of non-structured and ambiguous situations 
+	- PRO 
+		- empirical evidence for cultural differences in companies depending on countries 
+		- Discovery of "economic factor culture" 
+	- CON 
+		- Lack of currentness 
+		- over-generalization 
+		- quantization of culture -> wrong 
+		- scale values don't give info about behavior to be expected 
+		- scale values don't give info about interculturality 
 
+## Different definition 
 - Plural perspective 
 	- Customs of a collective 
 - Individual perspective 
 	- Customs of individual 
 - Collective perspective 
-	- Clear borders 
-	- Affiliation / membership is regulated by implicit or explicit criteria 
+	- <u>Clear borders</u> 
+	- Affiliation / membership is regulated by implicit or explicit <u>criteria</u> 
 	- Fulfilment of criteria is decisive for acceptance 
 - Cultural perspective 
-	- Cultures are interwoven and mixed 
-	- Contrast between foreign culture and own culture cannot be upheld (transculturality) 
-	- Affiliation to a culture only requires to be familiar with the customs of a culture 
+	- Cultures are <u>interwoven and mixed</u> 
+	- Contrast between foreign culture and own culture cannot be upheld (transculturality) 不能对比 
+	- Affiliation to a culture only requires to be <u>familiar</u> with the customs of a culture 
 - Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-30_23-12-10.png?raw=" width="600" /> 
 - E.g. 
 	- **Rivalry from a Collective Perspective**: The company has several departments, each with staff from different nationalities and cultural backgrounds. They compete with each other for the company's resources and the prioritization of their projects.
