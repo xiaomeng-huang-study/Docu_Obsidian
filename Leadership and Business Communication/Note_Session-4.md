@@ -35,10 +35,10 @@
 
 - Hofstede's study 
 	- dimensions -> significantly different characteristics among countries 
-		- Power distance 
-		- Individualism 个人主义 
-		- Masculinity 男子气 
-		- Uncertainty avoidance 
+		- Power distance: degree of inequality 
+		- Individualism 个人主义 : degree of pursuit of individual interests 
+		- Masculinity 男子气 : degree of differences 
+		- Uncertainty avoidance : tolerance of non-structured and ambiguous situations 
 
 - Plural perspective 
 	- Customs of a collective 
