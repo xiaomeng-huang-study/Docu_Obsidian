@@ -1,5 +1,24 @@
+# Corporate culture 
+## Definition 
+- Complex entirety of human customs within organizations. 
+
+## Model 
+<img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_16-01-43.png?raw=" width="600" /> 
+
+## Management to design corporate culture 
+<img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_16-04-36.png?raw=" width="650" /> 
+
+## Culture 
+- Diversity of culture 
+- "customs" 
+- Group, Collectivities, "Society" 
+- $\Rightarrow$ in the broadest sense, culture can be defined as customs of human groups or societies 
+
+
+
+# Measurement of culture 
 - Approaches to measure culture 
-	- According to culture 
+	- According to object 
 		- Description of culture 
 		- Comparison of culture 
 		- Intercultural analysis 
