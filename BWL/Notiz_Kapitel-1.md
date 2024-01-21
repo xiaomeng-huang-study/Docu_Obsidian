@@ -16,3 +16,16 @@
 - Derjenige Preis, bei dem sich die Vorstellung der Anbieter und der Nachfrager treffen, heißt Marktpreis bzw. Gleichgewichtspreis. 
 ### im statischen Modell 
 <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_12-44-36.png?raw=" width="600" /> 
+- Überhang 
+	- Nachfrageüberhang: q von Nachfrage > q von Angebot 
+	- Angebotsüberhang: q von Angebot > q von Nachfrage 
+#### Verschiebung der Angebotskurve 
+- Angebotsverringerung 
+	- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_12-57-18.png?raw=" width="400" /> 
+	- mögliche Ursachen 
+		- Erhöhung der Inputpreise, exogene Schocks, weniger Anbieter 
+- Angebotserhöhung 
+	- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_12-59-29.png?raw=" width="400" /> 
+	- mögliche Ursachen 
+		- Verringerung der Inputpreise, technischer Fortschritt, mehr Anbieter 
+#### Verschiebung der Nachfragekurve 
