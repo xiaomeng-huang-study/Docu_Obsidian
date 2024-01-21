@@ -17,15 +17,33 @@
 ### im statischen Modell 
 <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_12-44-36.png?raw=" width="600" /> 
 - Überhang 
-	- Nachfrageüberhang: q von Nachfrage > q von Angebot 
 	- Angebotsüberhang: q von Angebot > q von Nachfrage 
+	- Nachfrageüberhang: q von Nachfrage > q von Angebot 
+		- Anpassungsprozess 
+			- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_13-16-09.png?raw=" width="500" /> 
+			- $p$ -> $p*$ 
 #### Verschiebung der Angebotskurve 
 - Angebotsverringerung 
 	- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_12-57-18.png?raw=" width="400" /> 
 	- mögliche Ursachen 
 		- Erhöhung der Inputpreise, exogene Schocks, weniger Anbieter 
+	- Anpassungsprozess 
+		- $p_1 \rightarrow p_2$ , $q_1 \rightarrow q_2$ 
 - Angebotserhöhung 
 	- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_12-59-29.png?raw=" width="400" /> 
 	- mögliche Ursachen 
 		- Verringerung der Inputpreise, technischer Fortschritt, mehr Anbieter 
+	- Anpassungsprozess 
+		- $p_1 \rightarrow p_2$ , $q_1 \rightarrow q_2$ 
 #### Verschiebung der Nachfragekurve 
+- Nachfrageverringerung 
+	- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_13-23-22.png?raw=" width="400" /> 
+	- mögliche Ursachen 
+		- Einkommensverringerung, Preissenkung substitutiver Güter, weniger Nachfrage, gesunkene Wertschätzung 
+	- Anpassungsprozess 
+		- $p_1 \rightarrow p_2$ , $q_1 \rightarrow q_2$ 
+- Nachfrageerhöhung 
+	- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_13-26-51.png?raw=" width="400" /> 
+	- mögliche Ursachen 
+		- Einkommenserhöhung, Preissteigerungen substitutiver Güter, mehr Nachfrage, gestiegene Wertschätzung 
+	- 
