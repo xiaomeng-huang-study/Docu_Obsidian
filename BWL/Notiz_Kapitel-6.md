@@ -39,6 +39,7 @@
 		- Bestimmungsverfahren 
 			- nach der Nutzwertanalyse 
 			- nach den Opportunitätskosten 
+				- die Rendite der besten nicht gewählten Investitionsmöglichkeit 
 	- ==Formeln== 
 		- Größen 
 			- $i$ : Zinssatz 
@@ -65,6 +66,8 @@
 				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-18_14-54-53.png?raw=" width="400" /> 
 				- $\frac{i}{(1+i)^{n}-1}$ 
 	- ==Kapitalwertmethode== 
+		- Grundgedanke 
+			- die Gesamtheit aller Einzahlungen und Auszahlungen, die auf den Investitionsbeginn diskontiert werden, zu vergleichen 
 		- Definition 
 			- basiert auf dem Konzept des Zeitwerts des Geldes, das besagt, dass Geld heute mehr wert ist als in der Zukunft. 
 			- zielt darauf ab, den Barwert aller zukünftigen Cashflows eines Investitionsprojekts zu berechnen, um festzustellen, ob die Investition rentabel ist oder nicht. 
@@ -84,6 +87,8 @@
 		- unbegrenzte Laufzeit 
 			- $C_{0} = g \cdot \frac{1}{i} - A$ 
 	- ==Annuitätenmethode== 
+		- Grundgedanke 
+			- das Umrechnen von einer einmaligen Zahlung in eine Reihe gleicher Zahlung 
 		- Definition 
 			- eine Methode zur Bewertung von Investitionsprojekten, die sich auf die Berechnung gleichbleibender Zahlungen pro Periode (Annuitäten) konzentriert. 
 		- relevante Faktoren 
