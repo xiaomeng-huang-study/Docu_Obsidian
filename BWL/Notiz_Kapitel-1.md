@@ -46,4 +46,9 @@
 	- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-21_13-26-51.png?raw=" width="400" /> 
 	- mögliche Ursachen 
 		- Einkommenserhöhung, Preissteigerungen substitutiver Güter, mehr Nachfrage, gestiegene Wertschätzung 
-	- 
+## Marktsystem 
+- vollkommener Markt 
+	- homogene Güter: genormte Qualität 
+	- Die Anbieter und Nachfrager haben keine persönliche und sachliche (Serviceunterschiede), räumliche (Standortvorteile, z.B. Shopping Mal) und zeitliche Präferenzen. 
+	- Markttransparenz: Anbieter und Nachfrager reagieren sofort auf die Änderung der Marktvariablen. 
+	- Annahme der Gewinnmaximierung (Anbieter) und der Nutzenmaximierung (Nachfrager) 
