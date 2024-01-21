@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "BWL/Notiz_Kapitel-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md"
+                "file": "BWL/Notiz_Kapitel-6.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "76b98793e781ed66",
   "lastOpenFiles": [
-    "Markdown/Syntax.md",
     "BWL/Notiz_Kapitel-3.md",
+    "Markdown/Syntax.md",
     "BWL/Notiz_Kapitel-4.md",
     "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-1.md",
