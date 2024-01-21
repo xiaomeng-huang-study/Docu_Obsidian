@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md",
+                "file": "BWL/Notiz_Kapitel-8.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md",
+                "file": "BWL/Notiz_Kapitel-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md",
+                "file": "BWL/Notiz_Kapitel-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-6.md"
+                "file": "BWL/Notiz_Kapitel-8.md"
               }
             }
           },
@@ -177,14 +177,14 @@
   },
   "active": "76b98793e781ed66",
   "lastOpenFiles": [
-    "BWL/Notiz_Kapitel-3.md",
-    "BWL/Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-5.md",
-    "Markdown/Syntax.md",
     "BWL/Notiz_Kapitel-4.md",
+    "BWL/Notiz_Kapitel-8.md",
+    "BWL/Notiz_Kapitel-6.md",
+    "BWL/Notiz_Kapitel-3.md",
+    "Markdown/Syntax.md",
     "BWL/Notiz_Kapitel-1.md",
     "BWL/Notiz_Kapitel-2.md",
-    "BWL/Notiz_Kapitel-8.md",
     "Notiz_Kapitel-6.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-10.md",

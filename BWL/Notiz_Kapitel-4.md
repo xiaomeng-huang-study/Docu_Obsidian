@@ -36,7 +36,7 @@
 - Kostenfunktion 
 	- Formel $K = q_{1} * r_{1}+q_{2} * r_{2}+\ldots+q_{n} * r_{n}$ 
 	- Schaubilder 
-		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-27-34.png?raw=) 
+		- ![|325](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-27-34.png?raw=) 
 		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-30-09.png?raw=) 
 	- Kostenisoquante 
 	- Schnittpunkt 
