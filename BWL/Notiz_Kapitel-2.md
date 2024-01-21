@@ -41,17 +41,17 @@
 						- kurzfristig: wegen der erhöhten Produktion steigern 
 						- langfristig: wegen des niedrigen Absatz Entlassen 
 					- Internationale Wettbewerbsfähigkeit 
-				- Verteilungseffekte 
-					- Lohn-lag-Hypothese 
-						- Lohn steigt langsamer als die Preise. Dadurch sinkt das Realeinkommen 
-					- Transfer-lag-Hypothese 
-						- Transferzahlungen (BAföG, Sozialhilfe, Renten usw.) steigen langsamer als die Preise. Dadurch verringert sich das Realeinkommen 
-					- Gläubiger-Schuldner-Hypothese 
-						- Die Forderung des Gläubigers (Kreditgebers) verliert an Kaufkraft. 
-							- Denn die Inflation die allgemeinen Preise erhöht, sodass der ursprüngliche Betrag in realen Gütern und Dienstleistungen weniger kaufen kann. 
-						- Die Geldschulden können einfacher zurückgezahlt werden. 
-							- Denn das Einkommen steigt inflationsbedingt. 
-						- $\Longrightarrow$ Inflationsverlierer: Gläubiger ; Inflationsgewinner: Schuldner 
+					- Verteilungseffekte 
+						- Lohn-lag-Hypothese 
+							- Lohn steigt langsamer als die Preise. Dadurch sinkt das Realeinkommen 
+						- Transfer-lag-Hypothese 
+							- Transferzahlungen (BAföG, Sozialhilfe, Renten usw.) steigen langsamer als die Preise. Dadurch verringert sich das Realeinkommen 
+						- Gläubiger-Schuldner-Hypothese 
+							- Die Forderung des Gläubigers (Kreditgebers) verliert an Kaufkraft. 
+								- Denn die Inflation die allgemeinen Preise erhöht, sodass der ursprüngliche Betrag in realen Gütern und Dienstleistungen weniger kaufen kann. 
+							- Die Geldschulden können einfacher zurückgezahlt werden. 
+								- Denn das Einkommen steigt inflationsbedingt. 
+							- $\Longrightarrow$ Inflationsverlierer: Gläubiger ; Inflationsgewinner: Schuldner 
 			- Deflation 
 				- Definition: Anhaltender (持续不断的) Rückgang des allgemeinen Preisniveaus für Waren und Dienstleistungen 
 				- Ursachen 
