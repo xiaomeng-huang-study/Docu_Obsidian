@@ -52,3 +52,22 @@
 	- Die Anbieter und Nachfrager haben keine persönliche und sachliche (Serviceunterschiede), räumliche (Standortvorteile, z.B. Shopping Mal) und zeitliche Präferenzen. 
 	- Markttransparenz: Anbieter und Nachfrager reagieren sofort auf die Änderung der Marktvariablen. 
 	- Annahme der Gewinnmaximierung (Anbieter) und der Nutzenmaximierung (Nachfrager) 
+- unvollkommener Markt 
+
+# Ökonomisches Handeln 
+## Prinzip 
+- Maximumprinzip 
+	- Bei einem gegebenen Faktoreinsatz (Input, Aufwand) ist eine maximale Gütermenge (Output, Ertrag) zu erzielen. 
+- Minimumprinzip 
+	- Eine gegebene Gütermenge ist mit einem minimalen Faktoreinsatz zu erzielen. 
+## Betriebliche Kennzahlen 
+- Produktivität 
+	- Maßstab für mengenmäßige Ergiebigkeit der Faktorkombination 
+	- Produktivität = Mengenergebnis der Faktorkombination / Faktoreinsatzmenge 
+	- Materialproduktivität = erzeugte Menge / Materialeinsatz 
+	- Arbeitsproduktivität = erzeugte Menge / Arbeitsstunden 
+- Wirtschaftlichkeit 
+	- Maßstab für Effizienz und damit für den effektiven Umgang mit knappen Ressourcen. 
+	- Wirtschaftlichkeit = Ertrag / Aufwand 
+		- Ertrag = in Geld gemessene Wertezuwachs zum Zeitpunkt der Betrachtung 
+		- Aufwand = in Geld gemessener Wert aller verbrauchten Güter/Leistungen 
