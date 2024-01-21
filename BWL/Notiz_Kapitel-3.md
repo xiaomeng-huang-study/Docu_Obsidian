@@ -187,85 +187,85 @@
 <br><div STYLE="page-break-after: always;"></div> 
 
 ## Ausführung 
-- Organisation 
-	- Definition 
-		- das Bemühen der Unternehmensleitung den komplexen Prozess betrieblicher Leistungserstellung und Leistungsverwertung so zu strukturieren, dass die Effizienzverluste auf der Ausführungsebene minimiert werden. 
-	- Arten 
-		- Aufbauorganisation 
-			- Leitungssysteme 
-				- Einliniensysteme (Single-line-system) 
-					- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_11-06-32.png?raw=)
-					- Eine Stelle ist nur einer Instanz unterstellt 
-					- Vorteil 
-						- klare definierte Weisungsbefugnisse 
-					- Nachteil 
-						- Kommunikationseffizienz niedrig 
-				- Mehrliniensysteme (Multiple-line-system) 
-					- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_11-09-43.png?raw=)
-					- Eine Stelle erhält von mehreren übergeordneten Stellen Weisungen. 
-					- Vorteil 
-						- Kommunikationseffizienz hoch 
-					- Nachteil 
-						- Kompetenzstreitigkeiten 职权争议 
-				- Stablinienorganisation (Line-and-staff-organization) 
-					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-13_14-33-13.png?raw=) 
-					- Stabstellen 
-						- nur indirekt durch Unterstützung einer oder mehrerer Instanzen zur Lösung einer Aufgabe beiträgt 
-						- keine Weisungsbefugnisse 命令权 
-						- z.B. statische Planung in Unternehmensführung, Arbeitsvorbereitung in Produktion, Marktforschung in Marketing usw. 
-					- Zentralstellen 
-						- nehmen Weisungen i.d.R. nur von der Unternehmensleitung an. 
-						- funktionale Weisungsbefugnisse 
-						- z.B. Rechnungswesen, Informationswirtschaft, Personalableitung 
-					- Linienstellen 
-						- Verschlankung 高效, Effizienzsteigerung 
-						- z.B. Unternehmensführung, Materialwirtschaft, Produktion, Marketing usw. 
-				- Spartenorganisation (Business-unit-organization) 
-					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-08-21.png?raw=) 
-					- Unterteilung nach Tätigkeitsbereichen 
-						- z.B. Kundengruppen (B2B, B2C), Produktgruppen, Absatzgebiete 销售区域 usw. 
-					- Ein [[BWL/Q&A#Profit-Center|Profit-Center]] ist ein separater Unternehmensbereich mit eigener Ergebnisrechnung 
-						- mögliche Erweiterungen: Cost Center, Revenue 收益 Center, Investment Center 
-					- Vorteil 
-						- bei wettbewerbsintensiven Käufermärkten schnell reagieren. 
-					- Nachteil 
-						- Synergie schwer durch das Fehlen einer gemeinsamen Beschaffung 
-				- Matrixorganisation (Matrix-organization) 
-					- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-09-16.png?raw=) 
-					- Hybrides Organisationssystem: funktional (vertikal) + divisional (horizontal) 
-					- Vorteil 
-						- schnelle und unabhängige Entscheidung der Sparten, Synergieeffekte 
-					- Nachteil 
-						- Kompetenzproblem zwischen Sparten und Funktionen. 
-						- verschiedene Interessen 
-		- Projektorganisation: Projektmanagement 
-		- Ablauforganisation 
-- Personalwirtschaft 
-	- als eine der Produktionsfaktoren 
-		- Elementare Produktionsfaktoren ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_16-49-39.png?raw=) 
-		- Bedeutung des Produktionsfaktors Personal 
-			- Personal als Leitungsfaktor 
-				- Ressourcen benutzen 
-				- Mitarbeiter motivieren 
-			- Personal als Kostenfaktor 
-				- hoher Einsatz für Personal 
-					- z.B. die Leistung schwer zu normieren. -> schwer zu beurteilen 
-				- Arbeitsgesetze -> Kündigung teuer 
-			- Personal als Produktionsfaktor der eigenen Art 
-	- Personalführung 
-		- Motivation ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_17-25-52.png?raw=) 
-		- Präferenzen für Führungstypen 
-			- maximaler Profit 
-				- Shareholder 
-			- Stimulation von Netzwerkdynamik 
-				- Raum für Eigeninitiative 自主行动 
-				- hierarchiefrei 
-			- Teamarbeit 
-				- Synergiepotenzial 
-			- Solidarisch 共同负责任的 
-				- Stakeholder 
-			- traditionell 
-				- stabile Verhältnisse 
+### Organisation 
+- Definition 
+	- das Bemühen der Unternehmensleitung den komplexen Prozess betrieblicher Leistungserstellung und Leistungsverwertung so zu strukturieren, dass die Effizienzverluste auf der Ausführungsebene minimiert werden. 
+- Arten 
+	- Aufbauorganisation 
+		- Leitungssysteme 
+			- Einliniensysteme (Single-line-system) 
+				- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_11-06-32.png?raw=)
+				- Eine Stelle ist nur einer Instanz unterstellt 
+				- Vorteil 
+					- klare definierte Weisungsbefugnisse 
+				- Nachteil 
+					- Kommunikationseffizienz niedrig 
+			- Mehrliniensysteme (Multiple-line-system) 
+				- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_11-09-43.png?raw=)
+				- Eine Stelle erhält von mehreren übergeordneten Stellen Weisungen. 
+				- Vorteil 
+					- Kommunikationseffizienz hoch 
+				- Nachteil 
+					- Kompetenzstreitigkeiten 职权争议 
+			- Stablinienorganisation (Line-and-staff-organization) 
+				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-13_14-33-13.png?raw=) 
+				- Stabstellen 
+					- nur indirekt durch Unterstützung einer oder mehrerer Instanzen zur Lösung einer Aufgabe beiträgt 
+					- keine Weisungsbefugnisse 命令权 
+					- z.B. statische Planung in Unternehmensführung, Arbeitsvorbereitung in Produktion, Marktforschung in Marketing usw. 
+				- Zentralstellen 
+					- nehmen Weisungen i.d.R. nur von der Unternehmensleitung an. 
+					- funktionale Weisungsbefugnisse 
+					- z.B. Rechnungswesen, Informationswirtschaft, Personalableitung 
+				- Linienstellen 
+					- Verschlankung 高效, Effizienzsteigerung 
+					- z.B. Unternehmensführung, Materialwirtschaft, Produktion, Marketing usw. 
+			- Spartenorganisation (Business-unit-organization) 
+				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-08-21.png?raw=) 
+				- Unterteilung nach Tätigkeitsbereichen 
+					- z.B. Kundengruppen (B2B, B2C), Produktgruppen, Absatzgebiete 销售区域 usw. 
+				- Ein [[BWL/Q&A#Profit-Center|Profit-Center]] ist ein separater Unternehmensbereich mit eigener Ergebnisrechnung 
+					- mögliche Erweiterungen: Cost Center, Revenue 收益 Center, Investment Center 
+				- Vorteil 
+					- bei wettbewerbsintensiven Käufermärkten schnell reagieren. 
+				- Nachteil 
+					- Synergie schwer durch das Fehlen einer gemeinsamen Beschaffung 
+			- Matrixorganisation (Matrix-organization) 
+				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-09-16.png?raw=) 
+				- Hybrides Organisationssystem: funktional (vertikal) + divisional (horizontal) 
+				- Vorteil 
+					- schnelle und unabhängige Entscheidung der Sparten, Synergieeffekte der Funktionen 
+				- Nachteil 
+					- Kompetenzproblem zwischen Sparten und Funktionen. 
+					- verschiedene Interessen 
+	- Projektorganisation: Projektmanagement 
+	- Ablauforganisation 
+### Personalwirtschaft 
+- als eine der Produktionsfaktoren 
+	- Elementare Produktionsfaktoren ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_16-49-39.png?raw=) 
+	- Bedeutung des Produktionsfaktors Personal 
+		- Personal als Leitungsfaktor 
+			- Ressourcen benutzen 
+			- Mitarbeiter motivieren 
+		- Personal als Kostenfaktor 
+			- hoher Einsatz für Personal 
+				- z.B. die Leistung schwer zu normieren. -> schwer zu beurteilen 
+			- Arbeitsgesetze -> Kündigung teuer 
+		- Personal als Produktionsfaktor der eigenen Art 
+- Personalführung 
+	- Motivation ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_17-25-52.png?raw=) 
+	- Präferenzen für Führungstypen 
+		- maximaler Profit 
+			- Shareholder 
+		- Stimulation von Netzwerkdynamik 
+			- Raum für Eigeninitiative 自主行动 
+			- hierarchiefrei 
+		- Teamarbeit 
+			- Synergiepotenzial 
+		- Solidarisch 共同负责任的 
+			- Stakeholder 
+		- traditionell 
+			- stabile Verhältnisse 
 
 
 ## Kontrolle 
