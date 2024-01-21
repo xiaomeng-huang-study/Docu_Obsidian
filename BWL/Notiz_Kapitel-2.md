@@ -88,9 +88,11 @@
 					- Bekämpfung 
 						- Subventionen und Technologieförderung, Wirtschaftsförderung, Ausbildung, Weiterbildung, Ruhestand 
 		- Wirtschaftswachstum 
-			- Ziel: Kontinuierliches Wachstum 
+			- Ziel: ein angemessenes und stetiges Wirtschaftswachstum 
+			- Messung: Bruttoinlandsprodukt (BIP, engl. GDP) 
 		- außenwirtschaftliches Gleichgewicht 
 			- Definition: Keine negativen Auswirkungen auf die binnenwirtschaftliche Entwicklung des Landes vom Ausland ausgeht. z.B. Weder Inflation, noch Arbeitslosigkeit, noch eine Wirtschaftskrise in das Land von außen getragen wird. 
+			- Messung: Leistungsbilanz 
 	- qualitative 
 		- Verteilungsgerechtigkeit 
 			- Definition: soziale Ungleichheit zu reduzieren und sicherzustellen, dass alle Mitglieder der Gesellschaft von den wirtschaftlichen Errungenschaften profitieren. 
