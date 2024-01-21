@@ -286,6 +286,7 @@
 	- Fortschrittskontrolle 
 		- langfristige Planung 
 
+<br><div STYLE="page-break-after: always;"></div> 
 
 # Rechtsformen 
 - Begriffe 
