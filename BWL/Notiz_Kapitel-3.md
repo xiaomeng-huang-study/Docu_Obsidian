@@ -64,38 +64,43 @@
 	- Strategische Planung 
 		- Elemente 
 			- Analyse der Umwelt 
-				- Ökonomische Faktoren der globalen Umwelt 
-					- Wechselkurse 
-						- Änderungen in den Wechselkursen können sich auf die Export- und Importkosten auswirken und somit die Wettbewerbsfähigkeit eines Unternehmens in internationalen Märkten beeinflussen. 
-					- Wirtschaftswachstum 
-						- Das Gesamtwirtschaftswachstum in verschiedenen Ländern kann Auswirkungen auf den Absatzmarkt für Produkte und Dienstleistungen eines Unternehmens haben. 
-					- Inflation 
-						- Die Inflationsraten in einem Land können die Kosten für die Produktion und den Vertrieb von Waren und Dienstleistungen beeinflussen. 
-					- Arbeitskosten 
-						- Die Arbeitskosten variieren von Land zu Land und können die Standortwahl für Produktion und Dienstleistungen beeinflussen 
-				- Soziokulturelle Faktoren 
-					- Kulturelle Unterschiede 
-						- Unterschiedliche kulturelle Normen und Werte können die Akzeptanz und das Marketing von Produkten beeinflussen. Zum Beispiel kann die Bedeutung von Farben oder Symbolen in verschiedenen Kulturen variieren.
-					- Demografische (人口统计的) Trends 
-						- Die Altersstruktur der Bevölkerung und sich verändernde Bevölkerungszusammensetzungen können die Nachfrage nach bestimmten Produkten und Dienstleistungen beeinflussen.
-					- Veränderungen im Lebensstil 
-						- Sich ändernde Lebensstilpräferenzen und Trends, wie Gesundheitsbewusstsein oder Nachhaltigkeit, können die Produktentwicklung und Marketingstrategien beeinflussen.
-				- Technologische Faktoren 
-					- Innovationsgeschwindigkeit 
-						- Die Geschwindigkeit, mit der neue Technologien entwickelt und auf den Markt gebracht werden, kann die Lebensdauer von Produkten und Dienstleistungen verkürzen und Wettbewerbsvorteile bieten. 
-					- Digitalisierung 
-						- Die Digitalisierung beeinflusst Geschäftsmodelle, Marketing- und Vertriebsstrategien sowie die Art und Weise, wie Unternehmen mit Kunden interagieren. 
-					- Datensicherheit 
-						- Die Sicherheit von Kundendaten und die Einhaltung von Datenschutzbestimmungen sind wesentliche Überlegungen im Zusammenhang mit Technologie. 
-				- Politische Faktoren 
-					- Regulierung und Gesetzgebung 
-						- Unterschiedliche rechtliche und regulatorische Umgebungen in verschiedenen Ländern können die Geschäftstätigkeit und -entwicklung beeinflussen. 
-					- Handelsabkommen und Zölle 
-						- Internationale Handelsabkommen und Zölle können die Kosten von Importen und Exporten beeinflussen 
-					- Politische Stabilität 
-						- Die politische Stabilität in einem Land kann das Risiko für Geschäftstätigkeiten und Investitionen in diesem Land beeinflussen 
-					- Steuerpolitik 
-						- Steuergesetze und -politiken können Auswirkungen auf die Gewinnmargen und die Kapitalallokation eines Unternehmens haben 
+				- Chancen zu erkennen, die sich aufgrund der Änderung in dem externen Umfeld ergeben. 
+				- Umwelt 
+					- Definition 
+						- die Bedingungen, die in einem geographischen Raum, für alle größeren Unternehmen gültig, den Handlungsspielraum für die Unternehmen direkt oder indirekt beeinflussen. 
+					- Segmente 
+						- Ökonomische Faktoren der globalen Umwelt 
+							- Wechselkurse 
+								- Änderungen in den Wechselkursen können sich auf die Export- und Importkosten auswirken und somit die Wettbewerbsfähigkeit eines Unternehmens in internationalen Märkten beeinflussen. 
+							- Wirtschaftswachstum 
+								- Das Gesamtwirtschaftswachstum in verschiedenen Ländern kann Auswirkungen auf den Absatzmarkt für Produkte und Dienstleistungen eines Unternehmens haben. 
+							- Inflation 
+								- Die Inflationsraten in einem Land können die Kosten für die Produktion und den Vertrieb von Waren und Dienstleistungen beeinflussen. 
+							- Arbeitskosten 
+								- Die Arbeitskosten variieren von Land zu Land und können die Standortwahl für Produktion und Dienstleistungen beeinflussen 
+						- Soziokulturelle Faktoren 
+							- Kulturelle Unterschiede 
+								- Unterschiedliche kulturelle Normen und Werte können die Akzeptanz und das Marketing von Produkten beeinflussen. Zum Beispiel kann die Bedeutung von Farben oder Symbolen in verschiedenen Kulturen variieren.
+							- Demografische (人口统计的) Trends 
+								- Die Altersstruktur der Bevölkerung und sich verändernde Bevölkerungszusammensetzungen können die Nachfrage nach bestimmten Produkten und Dienstleistungen beeinflussen.
+							- Veränderungen im Lebensstil 
+								- Sich ändernde Lebensstilpräferenzen und Trends, wie Gesundheitsbewusstsein oder Nachhaltigkeit, können die Produktentwicklung und Marketingstrategien beeinflussen.
+						- Technologische Faktoren 
+							- Innovationsgeschwindigkeit 
+								- Die Geschwindigkeit, mit der neue Technologien entwickelt und auf den Markt gebracht werden, kann die Lebensdauer von Produkten und Dienstleistungen verkürzen und Wettbewerbsvorteile bieten. 
+							- Digitalisierung 
+								- Die Digitalisierung beeinflusst Geschäftsmodelle, Marketing- und Vertriebsstrategien sowie die Art und Weise, wie Unternehmen mit Kunden interagieren. 
+							- Datensicherheit 
+								- Die Sicherheit von Kundendaten und die Einhaltung von Datenschutzbestimmungen sind wesentliche Überlegungen im Zusammenhang mit Technologie. 
+						- Politische Faktoren 
+							- Regulierung und Gesetzgebung 
+								- Unterschiedliche rechtliche und regulatorische Umgebungen in verschiedenen Ländern können die Geschäftstätigkeit und -entwicklung beeinflussen. 
+							- Handelsabkommen und Zölle 
+								- Internationale Handelsabkommen und Zölle können die Kosten von Importen und Exporten beeinflussen 
+							- Politische Stabilität 
+								- Die politische Stabilität in einem Land kann das Risiko für Geschäftstätigkeiten und Investitionen in diesem Land beeinflussen 
+							- Steuerpolitik 
+								- Steuergesetze und -politiken können Auswirkungen auf die Gewinnmargen und die Kapitalallokation eines Unternehmens haben 
 			- Analyse des Unternehmens 
 				- ein möglichst genaues Bild der gegenwärtigen und zukünftigen Stärken und Schwächen des Unternehmens aufzuzeichnen. 
 		- Instrumente 
