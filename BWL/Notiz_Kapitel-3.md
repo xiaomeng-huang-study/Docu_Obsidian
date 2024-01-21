@@ -46,7 +46,7 @@
 	- Komplementäre Ziele 
 		- Schaubild: ![|150](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_11-49-04.png?raw=) 
 		- Sie ergänzen sich gegenseitig 
-		- z.B. Gewinnmaximierung und Minimierung der Ausschussquote 
+		- z.B. Gewinnmaximierung und Minimierung der Ausschussquote 废品率 
 	- Konkurrierende Ziele 
 		- Schaubild: ![|150](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_11-50-57.png?raw=) 
 		- Es besteht ein Zielkonflikt 
