@@ -276,6 +276,7 @@
 	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_18-04-00.png?raw=) 
 	- Realisationskontrolle 
 		- klassischer Soll-Ist Vergleich 
+		- Planvorgaben über- oder unterschritten. 
 	- Betriebs- oder Zeitreihenvergleich 
 		- mit anderen Betrieben vergleichen 
 	- Prämissenkontrolle 
@@ -296,25 +297,51 @@
 - Rechtsform 
 	- private Betriebe
 		- Einzelunternehmen 
+			- Eigentümer: 1 Unternehmer 
+			- Eignung: Kleingewerbeteibende, Handwerker, Dienstleister 
+			- Leitung: Eigentümer 
+			- Kontrolle: Eigentümer 
 		- Personengesellschaften 
 			- GbR: Gesellschaft bürgerlichen Rechts 
+				- Eigentümer: mindestens 2 Gesellschafter 
+				- Eignung: Kleingewerbetreibende, Freiberufler, Projektgemeinschaft 
+				- Leitung: Gesellschafter gleichermaßen 
+				- Kontrolle: Gesellschafter gleichermaßen 
 				- unbeschränkte Haftung 
 				- kein notariell beurkundeter Gesellschaftsvertrag erforderlich 
 			- OHG: Die offene Handelsgesellschaft 
+				- Eigentümer: mehrere Personen für ein kaufmännisches Gewerbe 
+				- Eignung: mehrere Personen für ein kaufmännisches Gewerbe 
+				- Leitung: alle oder einzelne 
+				- Kontrolle: alle 
 				- unbeschränkte Haftung 
 				- ein notariell beurkundeter Gesellschaftsvertrag erforderlich 
-			- KG: Kommanditgesellschaft : Komplementäre + Kommanditisten 
-				- Komplementäre: unbeschränkt 
-				- Kommanditisten: beschränkt 
+			- KG: Kommanditgesellschaft 
+				- Eigentümer: min. Komplementär (Vollhafter) + Kommanditisten (Teilhafter) 
+				- Eignung: zusätzliche Kapital benötigen oder keine Haftung übernehmen 
+				- Leitung: Komplementär 
+				- Kontrolle: Komplementär voll ; Kommanditisten eingeschränkt 
+				- Komplementär: unbeschränkte Haftung; Kommanditisten: beschränkte Haftung 
 			- GmbH & Co. KG 
 				- Komplementäre -> GmbH : mit beschränkte Haftung 
 				- KG : mit beschränkte Haftung 
 		- Kapitalgesellschaft 
 			- GmbH: Gesellschaft mit beschränkter Haftung 
-			- UG: Unternehmergesellschaft 
-				- mini-GmbH, denn mind. Stammkapital 1 Euro 
+				- Eigentümer: einen oder mehrere Gesellschafter 
+				- Eignung: Haftung beschränken 
+				- Leitung: Geschäftsführer 
+				- Kontrolle: Gesellschafterversammlung 
+			- UG: Unternehmergesellschaft (mini-GmbH) 
+				- Eigentümer: max. 3 Gesellschafter 
+				- Eignung 
+				- Leitung: Geschäftsführer 
+				- Kontrolle: Gesellschafterversammlung 
+				- mind. Stammkapital 1 Euro 
 			- AG: Aktiengesellschaft 
-				- mit beschränkter Haftung 
+				- min. 5 Personen 
+				- Eignung: umfangreiche Kapitalzufuhr 
+				- Leitung: Vorstand 
+				- Kontrolle: uneingeschränkt Aufsichtsrat 
 		- Genossenschaften 合作社 
 	- öffentliche Betriebe 
 		- in nicht-privatrechtlicher Form 
