@@ -126,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notiz_Kapitel-6.md"
+              }
             }
           },
           {
@@ -167,7 +169,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "831963000db38e1d",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-10.md",
