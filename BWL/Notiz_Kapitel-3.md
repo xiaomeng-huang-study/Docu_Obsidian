@@ -1,6 +1,7 @@
 # Aufgaben der Unternehmensführung 
 ![|500](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_11-56-07.png?raw=) 
 
+<br><div STYLE="page-break-after: always;"></div> 
 
 ## Zielbildung 
 - [[BWL/Q&A#Unternehmensziele|mögliche Unternehmensziele]] 
@@ -56,7 +57,7 @@
 		- Es liegen keine Wechselwirkungen vor 
 		- Arbeitsproduktivität und Marketingbudget 
 
-
+<br><div STYLE="page-break-after: always;"></div> 
 ## Planung 
 - Definition 
 	- Die gedankliche Vorbereitung zielgerichteter Entscheidungen. Sie ist das Bindeglied zwischen der Zielbildung, der Entscheidung sowie der operativen Umsetzung. 
@@ -161,6 +162,7 @@
 	- Taktische Planung 
 	- Operative Planung 
 
+<br><div STYLE="page-break-after: always;"></div> 
 
 ## Koordination 
 - Teilpläne zu koordinieren 
@@ -182,6 +184,7 @@
 
 ## Entscheidung 
 
+<br><div STYLE="page-break-after: always;"></div> 
 
 ## Ausführung 
 - Organisation 

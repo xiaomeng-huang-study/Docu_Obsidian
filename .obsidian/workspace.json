@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8fa39247e8e1a19b",
+        "id": "4764bef49f820b55",
         "type": "tabs",
         "children": [
           {
-            "id": "fbc1894822294657",
+            "id": "76b98793e781ed66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,15 +175,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "fbc1894822294657",
+  "active": "76b98793e781ed66",
   "lastOpenFiles": [
-    "BWL/Notiz_Kapitel-1.md",
+    "Markdown/Syntax.md",
     "BWL/Notiz_Kapitel-3.md",
+    "BWL/Notiz_Kapitel-4.md",
+    "BWL/Notiz_Kapitel-1.md",
     "BWL/Notiz_Kapitel-2.md",
     "BWL/Notiz_Kapitel-8.md",
     "BWL/Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-5.md",
-    "BWL/Notiz_Kapitel-4.md",
     "Notiz_Kapitel-6.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-10.md",
@@ -193,7 +194,6 @@
     "Leadership and Business Communication/Note_Session-8.md",
     "Leadership and Business Communication/Note_Session-5.md",
     "Leadership and Business Communication/Note_Session-4.md",
-    "Markdown/Syntax.md",
     "Leadership and Business Communication/Note_20231011.md",
     "Leadership and Business Communication/Note_Session-3.md",
     "Project Management/Note_M3.md",
