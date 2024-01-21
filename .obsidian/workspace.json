@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f856c279e6af111d",
+        "id": "8fa39247e8e1a19b",
         "type": "tabs",
         "children": [
           {
-            "id": "831963000db38e1d",
+            "id": "fbc1894822294657",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BWL/Notiz_Kapitel-1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BWL/Notiz_Kapitel-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BWL/Notiz_Kapitel-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notiz_Kapitel-6.md"
+                "file": "BWL/Notiz_Kapitel-1.md"
               }
             }
           },
@@ -169,8 +175,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "fbc1894822294657",
   "lastOpenFiles": [
+    "BWL/Notiz_Kapitel-1.md",
+    "BWL/Notiz_Kapitel-2.md",
+    "Notiz_Kapitel-6.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-10.md",
     "Leadership and Business Communication/Note_Session-9.md",
@@ -192,13 +201,10 @@
     "BWL/Notiz_Kapitel-5.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "BWL/Notiz_Kapitel-8.md",
-    "BWL/Notiz_Kapitel-2.md",
     "Leadership and Business Communication/Note_20240110.md",
     "Studienarbeit/Präsentation/Text.md",
     "Studienarbeit/Präsentation",
     "Studienarbeit/Notiz_20231115.md",
-    "Notiz_Kapitel-6.md",
-    "conflict-files-obsidian-git.md",
     "Bachelorarbeit/Vorstellungsgespräch",
     "Untitled",
     "Bachelorarbeit",
