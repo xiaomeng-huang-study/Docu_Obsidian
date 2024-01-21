@@ -3,8 +3,17 @@
 	- Begriffe 
 		- Auszahlungen = Abgang liquider Mittel 
 		- Einzahlungen = Zugang liquider Mittel 
-		- Ausgaben = Geldwert der Einkäufe an Gütern und DL pro Periode (Beschaffungswert) 
-		- Einnahmen = Geldwert der Verkäufe von Gütern und DL pro Periode (Erlös, Umsatz) 
+		- Ausgaben = Wert der Einkäufe an Gütern und DL pro Periode (Beschaffungswert) 
+		- Einnahmen = Wert der Verkäufe von Gütern und DL pro Periode (Erlös, Umsatz) 
 		- Aufwand = Wert aller verbrauchten Güter und DL einer Abrechnungsperiode bezogen auf das Gesamtunternehmen 
 		- Ertrag = Wert aller erstellen Güter und DL einer Abrechnungsperiode bezogen auf das Gesamtunternehmen 
 - intern 
+	- Begriffe 
+		- Gesamtkosten = fixe Kosten + variable Kosten 
+			- fixe Kosten 
+			- variable Kosten 
+		- Gesamtkosten = Einzelkosten + Gemeinkosten 
+			- Einzelkosten: Die Kosten, die einem Kostenträger (Produkt oder Dienstleistung) direkt zugerechnet werden können 
+				- z.B. Materialeinzelkosten, Fertigungslöhne 
+			- Gemeinkosten: Die Kosten, die einem Kostenträger nicht direkt zugeordnet werden können. 
+				- z.B. Gebäudekosten, Löhne, Verwaltung, Versicherung usw. 
