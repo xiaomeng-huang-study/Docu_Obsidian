@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56edbd7143ab5829",
+        "id": "2c2b6a2a16514de6",
         "type": "tabs",
         "children": [
           {
-            "id": "515c0688303a4131",
+            "id": "6a22ea00b7fd6b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "Leadership and Business Communication/Note_Session-6.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "Leadership and Business Communication/Note_Session-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md",
+                "file": "Leadership and Business Communication/Note_Session-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BWL/Notiz_Kapitel-3.md"
+                "file": "Leadership and Business Communication/Note_Session-6.md"
               }
             }
           },
@@ -175,18 +175,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "515c0688303a4131",
+  "active": "6a22ea00b7fd6b4a",
   "lastOpenFiles": [
+    "Leadership and Business Communication/Note_Session-2.md",
+    "Leadership and Business Communication/Note_Session-1.md",
+    "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_Kapitel-2.md",
     "BWL/Notiz_Kapitel-1.md",
-    "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_Kapitel-5.md",
     "BWL/Notiz_Kapitel-4.md",
     "BWL/Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-8.md",
     "Markdown/Syntax.md",
     "Notiz_Kapitel-6.md",
-    "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-10.md",
     "Leadership and Business Communication/Note_Session-9.md",
     "Leadership and Business Communication/Note_Session-6.md",
@@ -204,7 +205,6 @@
     "Leadership and Business Communication/Note_20240110.md",
     "Studienarbeit/Präsentation/Text.md",
     "Studienarbeit/Präsentation",
-    "Studienarbeit/Notiz_20231115.md",
     "Bachelorarbeit/Vorstellungsgespräch",
     "Untitled",
     "Bachelorarbeit",

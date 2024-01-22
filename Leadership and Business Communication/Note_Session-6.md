@@ -1,8 +1,8 @@
 # Homogeneity 
 ## ==ASA-pattern== 
-- A: Attraction : attractive 
-- S: Selection : match 
-- A: Attribution : thinking differently 
+- A: Attraction : attractive -> attracted and recruited 
+- S: Selection : match -> matched and selected 
+- A: Attribution : thinking differently -> quitting or resignation 
 ## Advantages and Disadvantages 
 - A: 
 	- unified organizational culture 
@@ -22,6 +22,7 @@
 ## ==Reason== 
 - ethical 
 	- includes appreciation and support for all employees alike 
+	- (Discrimination not based on performance -> unethical) 
 - economical 
 	- Anti discrimination policies 
 	- HR recruitment 
@@ -37,7 +38,6 @@
 - Fairness approach 
 - Market access approach 
 - Learning and effectivity approach 
-
 
 
 ## ==Problem== 
