@@ -17,6 +17,13 @@
 - Strategy: outline strategy + reaction, concessions (only the ones, that have least effect on goals) 
 	- prepare I-Messages 
 ## Negotiation & Agreement 
+- separate influence and information 
+- Stuck 
+	- ask the other party about criticism and advice 
+	- a break 
 - Threats 
+	- physically or psychologically detach yourself from the situation 
+	- motivation 
+		- 
 - Concessions 
 ## Closing & Wrap-up 
