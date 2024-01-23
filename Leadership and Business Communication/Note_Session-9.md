@@ -23,7 +23,9 @@
 	- a break 
 - Threats 
 	- physically or psychologically detach yourself from the situation 
-	- motivation 
-		- 
+	- reason 
+		- Victim -> needs to be listened 
+		- Pragmatist -> what really wanted 
+		- Bluffer -> Label the threat 
 - Concessions 
 ## Closing & Wrap-up 
