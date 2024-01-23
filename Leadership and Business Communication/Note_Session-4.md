@@ -18,18 +18,32 @@
 - ==Approaches to measure culture== 
 	- According to object 
 		- Description of culture 
+			- one culture 
 		- Comparison of culture 
+			- hypotheses for cultural problems 
 		- Intercultural analysis 
+			- reasonable analysis of cultural problems and development of solutions 
 	- According to method 
 		- Quantitative 
+			- standardized, questionnaires, statistical methods 
+			- Hypothesis testing 
 		- Qualitative 
+			- not standardized, interviews 
+			- Hypothesis generating 
 	- According to perspective 
-		- Etic (from an external perspective) 
-		- Emic (from an internal perspective) 
+		- Etic 
+			- from an external perspective 
+			- often involves quantitative data 
+		- Emic 
+			- from an internal perspective 
+			- often uncover the culturally specific details and variations in a particular phenomenon 
 	- According to level of generalization 
-		- Microanalysis 
-		- Macroanalysis 
+		- Microanalysis (lowest level) 
+			- single culture 
+		- Macroanalysis (highest level) 
+			- at a broader, more generalized level 
 		- Style analysis 
+			- generalization through analysis 
 
 - ==Hofstede's study== 
 	- dimensions -> significantly different characteristics among countries 
