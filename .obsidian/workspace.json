@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1429fa4adc882111",
+        "id": "a2233f8812d408bc",
         "type": "tabs",
         "children": [
           {
-            "id": "82562bebe7a0330c",
+            "id": "f5b4752cf9518a02",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "82562bebe7a0330c",
+  "active": "f5b4752cf9518a02",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel_1.md",
+    "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
     "Leadership and Business Communication/Note_Session-7.md",
     "Leadership and Business Communication/Note_Session-6.md",
     "Leadership and Business Communication/Note_Session-2.md",
@@ -192,10 +194,8 @@
     "Project Management/Note_M3.md",
     "Project Management/Note_M2.md",
     "Project Management/Note_M1.md",
-    "Softwarearchitekturen/Notiz_Kapitel_1.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Leadership and Business Communication/Note_20240110.md",
-    "Studienarbeit/Präsentation/Text.md",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
     "Untitled",
