@@ -2,7 +2,7 @@
 ## ==ASA-pattern== 
 - A: Attraction : attractive -> attracted and recruited 
 - S: Selection : match -> matched and selected 
-- A: Attribution : thinking differently -> quitting or resignation 
+- A: Attrition : thinking differently -> quitting or resignation 
 ## Advantages and Disadvantages 
 - A: 
 	- unified organizational culture 
