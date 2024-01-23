@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2b6a2a16514de6",
+        "id": "1429fa4adc882111",
         "type": "tabs",
         "children": [
           {
-            "id": "6a22ea00b7fd6b4a",
+            "id": "82562bebe7a0330c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leadership and Business Communication/Note_Session-7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and Business Communication/Note_Session-7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and Business Communication/Note_Session-7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Leadership and Business Communication/Note_Session-7.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6a22ea00b7fd6b4a",
+  "active": "82562bebe7a0330c",
   "lastOpenFiles": [
+    "Leadership and Business Communication/Note_Session-7.md",
     "Leadership and Business Communication/Note_Session-6.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-1.md",
@@ -191,7 +184,6 @@
     "Notiz_Kapitel-6.md",
     "Leadership and Business Communication/Note_Session-10.md",
     "Leadership and Business Communication/Note_Session-9.md",
-    "Leadership and Business Communication/Note_Session-7.md",
     "Leadership and Business Communication/Note_Session-8.md",
     "Leadership and Business Communication/Note_Session-5.md",
     "Leadership and Business Communication/Note_Session-4.md",
