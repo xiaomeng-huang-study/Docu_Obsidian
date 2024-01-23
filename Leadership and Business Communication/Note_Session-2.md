@@ -23,7 +23,7 @@
 			- current approaches 
 				- Intelligence 
 				- emotional Intelligence 
-				- Five-Factor-Model 
+				- Five-Factor-Model / MBTI 
 		- Behavior / Styles 
 			- Dimension authoritarian vs. democratic 
 				- authoritarian: task- / performance- oriented 
