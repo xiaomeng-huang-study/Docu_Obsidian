@@ -45,7 +45,7 @@
 		- Role theory 
 			- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-50-14.png?raw=" width="400" /> 
 		- Management 
-			- Role theory -> Recruitment selection 
+			- Trait theory -> Recruitment selection 
 			- Behavior theory -> Training 
 			- Motivation theory -> Appraisals 评估, objective agreements 
 			- Role theory -> Task definition 
