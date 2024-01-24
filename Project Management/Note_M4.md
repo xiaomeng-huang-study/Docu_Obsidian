@@ -1,5 +1,7 @@
 - Capacity 
 	- The maximum amount you can produce or accomplish within a regular working schedule, with a fixed amount of resources 
+- Capacity planning 
+	- The proper allocation of the own human resources 
 - Troubleshooting, if the capacity is reached 
 	- Delay WP within the float 
 	- additional resources in project team 
