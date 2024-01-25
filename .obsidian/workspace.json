@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management/Note_M4.md",
+                "file": "Project Management/Note_A2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management/Note_M4.md",
+                "file": "Project Management/Note_A2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management/Note_M4.md",
+                "file": "Project Management/Note_A2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management/Note_M4.md"
+                "file": "Project Management/Note_A2.md"
               }
             }
           },
@@ -177,6 +177,11 @@
   },
   "active": "8cb36363ab20862e",
   "lastOpenFiles": [
+    "Project Management/Note_A1.md",
+    "Project Management/Note_A2.md",
+    "Project Management/Note_M1.md",
+    "Project Management/Note_M5.md",
+    "Project Management/Note_M4.md",
     "Leadership and Business Communication/Note_Session-3.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-5.md",
@@ -198,12 +203,7 @@
     "BWL/Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-8.md",
     "Markdown/Syntax.md",
-    "Notiz_Kapitel-6.md",
-    "Project Management/Note_M3.md",
-    "Project Management/Note_M2.md",
-    "Project Management/Note_M1.md",
     "BWL/Nicht bestätigt 846003.crdownload",
-    "Leadership and Business Communication/Note_20240110.md",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
     "Untitled",
