@@ -50,3 +50,4 @@
 - BANI (Brittle 易碎的, Anxious 担忧的, Non-linear, Incomprehensible 费解的) 
 - Framework for decision 
 	- Cynefin 
+		- <img src="https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Scrennshot_2024-01-25_15-36-25.png?raw=" width="600" /> 
