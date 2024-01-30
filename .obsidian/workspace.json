@@ -11,8 +11,12 @@
             "id": "b4d6ad1800ba41bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Studienarbeit/Präsentation/Text.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Studienarbeit/Präsentation/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Studienarbeit/Präsentation/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Studienarbeit/Präsentation/Text.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "b4d6ad1800ba41bc",
   "lastOpenFiles": [
+    "Studienarbeit/Notiz_20231115.md",
     "Project Management/Note_M5.md",
     "Project Management/Note_A2.md",
     "Project Management/Note_A1.md",
@@ -194,7 +203,6 @@
     "BWL/Notiz_Kapitel-4.md",
     "BWL/Notiz_Kapitel-6.md",
     "BWL/Notiz_Kapitel-8.md",
-    "Markdown/Syntax.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",

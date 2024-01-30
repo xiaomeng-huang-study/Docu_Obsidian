@@ -6,6 +6,14 @@
 - Zuerst möchte ich euch einen allgemeinen Überblick geben. 
 
 - Das Slide zeigt eine ==Ansicht aus der Vogelperspektive==, nämlich Draufsicht. 
+- ==Wenn== dieses Programm die Kontrolle über die Bewegungen des Roboters ==übernimmt==, werden 2 Funktionalitäten realisiert. 
+	- Ich werde ==mit 2 Video als Beispiele== zeigen, was dieses Programm machen kann. 
+	- Eine davon ist, die Richtung zu kontrollieren. ... Video ... Das heißt, der Roboter kann sich immer nach dem Objekt orientieren. 
+	- die 2. Funktionalität ist, den Abstand zu dem Objekt zu kontrollieren. ... Video ... Das heißt, der Roboter kann den Abstand zum Objekt halten. 
+
+
+
+
 - Ich werde ==mit einem Beispiel== zeigen, was dieses Programm machen kann. 
 - Schauen Sie bitte die linke Seite an. 
 
