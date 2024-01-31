@@ -40,7 +40,7 @@
 				- Volumen der Filter = (Filter Höhe) x (Filter Breite) x (Anzahl der Kanäle in Eingabe)
 				- "+ 1": für den Bias-Term pro Filter 
 			- eng.: (Number of Kernel) x (Kernel Volume + 1) 
-		- Pooling layers: 0 
+		- Pooling layers: 0, aber 2 Hyperparameter: $f$ und $s$ 
 		- Fully-connected layers 
 			- (Eingabegröße) x (Ausgabegröße) + Ausgabegröße 
 				- "+ Ausgabegröße": für den Bias-Term pro Ausgabe 
