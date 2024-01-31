@@ -53,7 +53,7 @@
 			- (Batch Size) x (Anzahl der Parameter) x (Präzision)
 	- ==Flops== (i.d.R. 1 MAC = 2 Flops)
 		- Convolutional layers 
-			- 2 x (Anzahl der Filter) x (Volumen der Filter) x (Ausgabefläche) 
+			- (Volumen der Filter) x 2 x (Ausgabefläche) x (Anzahl der Filter) 
 			- eng.: 2 x (Number of Kernel) x (Kernel Volume) x (Output area) 
 		- Fully connected layers 
 			- 2 x (Eingabegröße) x (Ausgabegröße) 
