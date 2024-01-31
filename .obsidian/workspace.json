@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3833b499e5b17cdd",
+        "id": "b59dedd8fe15aa74",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d6ad1800ba41bc",
+            "id": "e971bbaf60e3ffd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studienarbeit/Präsentation/Text.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studienarbeit/Präsentation/Text.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studienarbeit/Präsentation/Text.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studienarbeit/Präsentation/Text.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md"
               }
             }
           },
@@ -175,8 +175,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b4d6ad1800ba41bc",
+  "active": "e971bbaf60e3ffd7",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
+    "Softwarearchitekturen/Notiz_Kapitel_1.md",
+    "Studienarbeit/Präsentation/Text.md",
     "Studienarbeit/Notiz_20231115.md",
     "Project Management/Note_M5.md",
     "Project Management/Note_A2.md",
@@ -193,16 +197,12 @@
     "Leadership and Business Communication/Note_Session-9.md",
     "Leadership and Business Communication/Note_Session-10.md",
     "Leadership and Business Communication/Note_20231011.md",
-    "Softwarearchitekturen/Notiz_Kapitel_1.md",
     "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
     "Leadership and Business Communication/Note_Session-1.md",
     "BWL/Notiz_Kapitel-3.md",
     "BWL/Notiz_Kapitel-2.md",
     "BWL/Notiz_Kapitel-1.md",
     "BWL/Notiz_Kapitel-5.md",
-    "BWL/Notiz_Kapitel-4.md",
-    "BWL/Notiz_Kapitel-6.md",
-    "BWL/Notiz_Kapitel-8.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",

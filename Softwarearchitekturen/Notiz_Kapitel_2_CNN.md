@@ -16,14 +16,15 @@
 	- Definition 
 		- ein Modell während des Trainings zu gut auf die Trainingsdaten passt, aber Schwierigkeiten hat, auf neuen, nicht gesehenen Daten zu generalisieren 
 	- Lösung 
-		- [[Notiz_Kapitel-2_CNN_Beispiel#^dropout-layer|Dropout-Layer]] 
-		- [[Notiz_Kapitel-2_CNN_Beispiel#^augmentierung|Augmentierung]] 
+		- Dropout-Layer 
+		- Augmentierung 
 - Vanishing Gradients 
 	- Definition 
 		- die Gradienten der Verlustfunktion, die durch den Backpropagation-Algorithmus berechnet werden, in den tiefen Schichten des Netzwerks extrem klein werden. (Dies kann dazu führen, dass die Gewichtungen in diesen Schichten nicht effektiv aktualisiert werden, was das Training schwierig oder sogar unmöglich macht.) 
 	- Lösungen 
 		- ReLU-Aktivierungsfunktion verwenden 
-		- [[Notiz_Kapitel-2_CNN_Beispiel#^batch-norm|Batch-Normalization]] 
+		- Batch-Normalization 
+
 
 # Wichtige Größen
 - ==Ausgabe Größe==: $(n + 2p -f)/s + 1$ 
