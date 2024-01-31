@@ -42,8 +42,8 @@
 			- eng.: (Number of Kernel) x (Kernel Volume + 1) 
 		- Pooling layers: 0, aber 2 Hyperparameter: $f$ und $s$ 
 		- Fully-connected layers 
-			- (Eingabegröße) x (Ausgabegröße) + Ausgabegröße 
-				- "+ Ausgabegröße": für den Bias-Term pro Ausgabe 
+			- (Anzahl Neuronen in der vorherigen Schicht) x (Anzahl Neuronen in der aktuellen Schicht) + Anzahl Neuronen in der aktuellen Schicht 
+				- "+ Neuronen in der aktuellen Schicht": für den Bias-Term pro Neuron 
 			- eng.: (Input Size) x (Output Size) + Output Size 
 	- ==Speicherbedarf== 
 		- Convolutional layers (Ausgaben verbraucht den meisten Speicherplatz) 
