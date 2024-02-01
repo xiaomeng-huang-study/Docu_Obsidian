@@ -32,11 +32,11 @@
 		- (Volumen der Filter) x 2 x (Ausgabefläche) x (Anzahl der Filter) 
 		- eng.: 2 x (Number of Kernel) x (Kernel Volume) x (Output area) 
 - Fully-connected layers 
+	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-31_21-58-00.png?raw=" width="400" /> 
 	- ==Anzahl der Parameter== 
 		- Ausgabe Größe x (Eingabe Größe + 1) 
 			- "+ 1": für den Bias-Term pro Neuron 
 		- eng.: (Input Size) x (Output Size) + Output Size 
-		- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-31_21-58-00.png?raw=" width="400" /> 
 	- ==Speicherbedarf== (Parameter dominiert) 
 		- (Batch Size) x (Anzahl der Parameter) x (Präzision) 
 	- ==Rechenaufwand== / Flops 
