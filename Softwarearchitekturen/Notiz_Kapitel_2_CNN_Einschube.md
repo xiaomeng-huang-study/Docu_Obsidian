@@ -1,4 +1,6 @@
-# Batch Normalization 
+# Einschub 
+
+## Batch Normalization 
 - Verlauf 
 	- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_21-49-35.png?raw=" width="500" /> 
 	- $\beta$ und $\gamma$ sind lernbare Parameter 
@@ -15,12 +17,12 @@
 		- Kurve ist nach links (Konvergenzgeschwindigkeit) und oben (Genauigkeit) verschoben 
 
 
-# Dropout-Layer
+## Dropout-Layer
 - zufällig einige Neuronen ausschalten 
 - um Overfitting zu reduzieren
 
 
-# Data augmentation 
+## Data augmentation 
 - vorhandene Trainingsdaten zu modifizieren bzw. erweitern 
 - um die Menge der verfügbaren Trainingsdaten zu erhöhen und die Leistung und die Fähigkeit des Modells zur Generalisierung auf neue, nicht gesehene Daten zu verbessern 
 - Type 
@@ -31,3 +33,9 @@
 	- Zoom 
 	- Contrast 
 	- Brightness 
+
+
+## Anpassung der Learning Rate 
+- Merkmale 
+	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-01_19-21-47.png?raw=" width="400" /> 
+	- in Loss-Funciton: Sprung oder Steigung reduziert sich stark 

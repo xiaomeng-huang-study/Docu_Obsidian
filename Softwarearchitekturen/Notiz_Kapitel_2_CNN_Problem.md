@@ -11,3 +11,7 @@
 	- Lösungen 
 		- [[Notiz_Kapitel_1#^aktivierungsfunktion|ReLU-Aktivierungsfunktion]] verwenden 
 		- [[Notiz_Kapitel_2_CNN_Einschube#Batch Normalization|Batch-Normalization]] 
+- Rausch 
+	- Schwankung 
+	- Lösung 
+		- [[Notiz_Kapitel_2_CNN_Einschube#Anpassung der Learning Rate|Anpassung der Learning Rate]] 
