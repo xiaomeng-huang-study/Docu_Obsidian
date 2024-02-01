@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Problem.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Problem.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Problem.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Problem.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md"
               }
             }
           },
@@ -175,17 +175,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e971bbaf60e3ffd7",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Problem.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_GoogLe-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_GoogLe-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_TransferLearning.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_VGG-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_1.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
     "Studienarbeit/Präsentation/Text.md",
     "Studienarbeit/Notiz_20231115.md",
     "Project Management/Note_M5.md",

@@ -12,7 +12,7 @@
 		- Schaubild <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_20-45-24.png?raw=" width="400" /> 
 		- 1 x 1 conv dient zur Dimensionsreduzierung 
 - Merkmale 
-	- räumliche Auflösung sinkt ab 
-	- Auflösung in Tief steigt 
+	- Inception-Modul, wo "Bottleneck"-Layer die Dimension / räumliche Auflösung reduziert und die Auflösung in Tiefe erhöht 
+	- Anzahl der klassischer FC-Layers reduziert 
 - Vorteile 
-	- Anzahl der klassischer FC-Layers reduziert -> Parameter gespart 
+	- Parameter gespart 
