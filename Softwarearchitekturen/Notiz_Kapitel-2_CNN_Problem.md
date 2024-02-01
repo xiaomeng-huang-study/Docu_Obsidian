@@ -1,0 +1,13 @@
+# Probleme 
+- Overfitting 
+	- Definition 
+		- ein Modell während des Trainings zu gut auf die Trainingsdaten passt, aber Schwierigkeiten hat, auf neuen, nicht gesehenen Daten zu generalisieren 
+	- Lösung 
+		- Dropout-Layer 
+		- Augmentierung 
+- Vanishing Gradients 
+	- Definition 
+		- die Gradienten der Verlustfunktion, die durch den Backpropagation-Algorithmus berechnet werden, in den tiefen Schichten des Netzwerks extrem klein werden. (Dies kann dazu führen, dass die Gewichtungen in diesen Schichten nicht effektiv aktualisiert werden, was das Training schwierig oder sogar unmöglich macht.) 
+	- Lösungen 
+		- ReLU-Aktivierungsfunktion verwenden 
+		- Batch-Normalization 

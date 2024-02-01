@@ -1,3 +1,5 @@
+# GoogLe-Net 
+
 - Inception module 
 	- Naive Inception module 
 		- Schaubild <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_20-37-56.png?raw=" width="400" /> 

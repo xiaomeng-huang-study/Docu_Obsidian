@@ -13,21 +13,6 @@
 	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-04_22-49-00.gif?raw=" width="600" /> 
 
 
-## Probleme 
-- Overfitting 
-	- Definition 
-		- ein Modell während des Trainings zu gut auf die Trainingsdaten passt, aber Schwierigkeiten hat, auf neuen, nicht gesehenen Daten zu generalisieren 
-	- Lösung 
-		- Dropout-Layer 
-		- Augmentierung 
-- Vanishing Gradients 
-	- Definition 
-		- die Gradienten der Verlustfunktion, die durch den Backpropagation-Algorithmus berechnet werden, in den tiefen Schichten des Netzwerks extrem klein werden. (Dies kann dazu führen, dass die Gewichtungen in diesen Schichten nicht effektiv aktualisiert werden, was das Training schwierig oder sogar unmöglich macht.) 
-	- Lösungen 
-		- ReLU-Aktivierungsfunktion verwenden 
-		- Batch-Normalization 
-
-
 ## Wichtige Größen 
 - Convolutional layers 
 	- ==Ausgabe Größe==: $(n + 2p -f)/s + 1$ 
