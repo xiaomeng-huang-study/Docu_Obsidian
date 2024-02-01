@@ -48,8 +48,8 @@
 		- eng.: 2 x (Number of Kernel) x (Kernel Volume) x (Output area) 
 - Fully-connected layers 
 	- ==Anzahl der Parameter== 
-		- (Anzahl Neuronen in der vorherigen Schicht) x (Anzahl Neuronen in der aktuellen Schicht) + Anzahl Neuronen in der aktuellen Schicht 
-			- "+ Neuronen in der aktuellen Schicht": für den Bias-Term pro Neuron 
+		- Ausgabe Größe x (Eingabe Größe + 1) 
+			- "+ 1": für den Bias-Term pro Neuron 
 		- eng.: (Input Size) x (Output Size) + Output Size 
 		- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-31_21-58-00.png?raw=" width="400" /> 
 	- ==Speicherbedarf== (Parameter dominiert) 
