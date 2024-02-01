@@ -112,7 +112,7 @@
 			- Pooling-Layer 
 			- Recurrent-Layer 
 			- Normalization-Layer 
-		- Aktivierungsfunktion 
+		- Aktivierungsfunktion ^aktivierungsfunktion
 			- Jedes Neuron in einem Layer hat eine Aktivierungsfunktion 
 			- nicht lineare Beziehungen zu lernen 
 			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-33-31.png?raw=" width="500" /> 

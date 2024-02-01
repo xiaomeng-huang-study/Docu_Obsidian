@@ -9,5 +9,5 @@
 	- Definition 
 		- die Gradienten der Verlustfunktion, die durch den Backpropagation-Algorithmus berechnet werden, in den tiefen Schichten des Netzwerks extrem klein werden. (Dies kann dazu führen, dass die Gewichtungen in diesen Schichten nicht effektiv aktualisiert werden, was das Training schwierig oder sogar unmöglich macht.) 
 	- Lösungen 
-		- ReLU-Aktivierungsfunktion verwenden 
+		- [[Notiz_Kapitel_1#^aktivierungsfunktion|ReLU-Aktivierungsfunktion]] verwenden 
 		- [[Notiz_Kapitel_2_CNN_Einschube#Batch Normalization|Batch-Normalization]] 
