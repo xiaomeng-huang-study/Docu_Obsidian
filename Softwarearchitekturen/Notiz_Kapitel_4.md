@@ -52,7 +52,6 @@
 		- Netzwerktiefe x 2 $\Rightarrow$ FLOPS x 2 
 		- Breite oder Auflösung x 2 $\Rightarrow$ FLOPS x 4 
 			- denn in $D_{K} \cdot D_{K} \cdot M \cdot N \cdot D_{F} \cdot D_{F}$ werden M und N verdoppelt 
-	- $\Rightarrow$ $2^{\phi}$ 
 	- Schritte 
 		- $\phi = 1$ , $\alpha, \beta, \gamma$ zu bestimmen 
 		- $\alpha, \beta, \gamma$ fest, $\phi$ nach HW anzupassen 
