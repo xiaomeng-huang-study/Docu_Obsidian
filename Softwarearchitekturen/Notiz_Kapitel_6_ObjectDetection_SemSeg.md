@@ -4,7 +4,7 @@
 	- Object Detection 
 	- Instance Segmentation 
 
-## Semantic Segmentation 
+# Semantic Segmentation 
 - Fully Convolutional 
 	- downsampling 
 	- upsampling 
