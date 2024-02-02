@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81c64d877bc5835f",
+        "id": "33199ad24121b983",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc6168bd61e6f02",
+            "id": "4cf7f3e6cdf54b5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,10 +175,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ccc6168bd61e6f02",
+  "active": "4cf7f3e6cdf54b5a",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel_4.md",
     "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
+    "Softwarearchitekturen/Notiz_Kapitel_4.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_Le-Net_Alex-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_TransferLearning.md",
