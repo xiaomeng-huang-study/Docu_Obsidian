@@ -58,4 +58,5 @@
 			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-08_14-47-25.png?raw=" width="350" /> 
 
 # Quantisierung 
+- die <u>Parameter und Aktivierungswerte</u> eines neuronalen Netzwerks von Gleitkommazahlen <u>in niedrigere Bitbreiten</u> oder Festkommazahlen umgewandelt werden, um <u>Speicherplatz und Berechnungskosten zu sparen</u>. 
 - <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-08_15-17-00.png?raw=" width="700" /> 
