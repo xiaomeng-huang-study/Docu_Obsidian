@@ -14,7 +14,7 @@
 		- learnable 
 			- Transpose Convolution 
 
-## Object Detection 
+# Object Detection 
 - Input: RGB Image 
 - Output: A set of detected objects 
 	- Category label 
