@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_7_ReinforcementLearning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_7_ReinforcementLearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_7_ReinforcementLearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel_7_ReinforcementLearning.md"
               }
             }
           },
@@ -178,12 +178,13 @@
   "active": "4cf7f3e6cdf54b5a",
   "lastOpenFiles": [
     "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
-    "Softwarearchitekturen/Notiz_Kapitel_4.md",
+    "Softwarearchitekturen/Notiz_Kapitel_7_ReinforcementLearning.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_ZF-Net.md",
+    "Softwarearchitekturen/Notiz_Kapitel_4_Compact Network Design.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_Le-Net_Alex-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_TransferLearning.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_VGG-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_ZF-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_GoogLe-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
@@ -202,7 +203,6 @@
     "Leadership and Business Communication/Note_Session-3.md",
     "Leadership and Business Communication/Note_Session-2.md",
     "Leadership and Business Communication/Note_Session-5.md",
-    "Leadership and Business Communication/Note_Session-4.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",

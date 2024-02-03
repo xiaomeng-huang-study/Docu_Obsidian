@@ -1,0 +1,8 @@
+- Epsilon-Greedy-Strategie 
+	- Greedy-Strategie / Ausnutzung 
+		- ein Algorithmusansatz, bei dem man bei jedem Schritt die beste lokale Entscheidung trifft, in der Hoffnung, dass dies zu einer global optimalen Lösung führt. 
+		- aktuelles Wissen 
+	- Erkundungsstrategie / Erkundung 
+		- nach dem Zufallsprinzip 
+	- Mit Wahrscheinlichkeit $\epsilon$ wird Erkundungsstrategie benutzt, mit $1-\epsilon$ wird Greedy-Strategie benutzt 
+- 
