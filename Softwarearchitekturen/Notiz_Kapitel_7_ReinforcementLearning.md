@@ -23,6 +23,15 @@
 Schaubild: 
 <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-03_18-11-22.png?raw=" width="500" /> 
 
+## Typen 
+- Value-Based 
+	- [[Notiz_Kapitel_7_ReinforcementLearning#Q-Learning|Q-Learning]] , [[Notiz_Kapitel_7_ReinforcementLearning#Deep Q-Learning|Deep Q-Learning]] 
+- Policy-Based 
+	- [[Notiz_Kapitel_7_ReinforcementLearning#Policy Gradient Methods|Policy Gradient Methods]] 
+- Value-Based and Policy-Based Hybrid 
+	- [[Notiz_Kapitel_7_ReinforcementLearning#Actor-Critic Method|Actor-Critic-Method]] 
+
+
 
 ## Q-Learning 
 <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_15-50-24.png?raw=" width="400" /> 
@@ -44,7 +53,6 @@ Schaubild:
 - Aktionswert: die erwartete Belohnung für die Durchführung einer Aktion in einem bestimmten Zustand 
 - Policy-Funktion: eine Funktion, die Zustände auf Aktionen abbildet. 
 - Q-Funktion: State-Action als Input, Aktionswert als Output 
-- [[Notiz_Kapitel_7_ReinforcementLearning#Q-Learning|Q-Learning]] 
 - Off-Policy-Learning: eine Policy lernen, während man mit einer anderen Policy Daten sammeln 
 - On-Policy-Learning: eine Policy lernen, dann gleichzeitig nutzen 
 - katastrophales Vergessen: wenn man mit kleinen Datenmengen gleichzeitig trainiert, wobei die neu zu lernenden Daten die bereits gelernten alten Informationen löschen oder verfälschen 
@@ -54,3 +62,13 @@ Schaubild:
 - Target-Network 
 	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_16-39-01.png?raw=" width="600" /> 
 	- Kopie des Haupt-DQN -> Stabilisierung 
+
+
+## Policy Gradient Methods 
+<img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_18-45-21.png?raw=" width="800" /> 
+- Problem bei Wahrscheinlichkeit: Surrogatziel $-\log \left(\pi_{\theta}(a \mid s)\right)$ verwenden 
+	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_18-50-27.png?raw=" width="400" /> 
+- Loss Funktion 
+
+
+## Actor-Critic Method 
