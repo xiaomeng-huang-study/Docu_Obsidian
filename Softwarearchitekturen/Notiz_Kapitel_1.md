@@ -99,6 +99,7 @@
 			- Videos (Rank-5 Tensor): (samples, frames, height, width, channels) 
 		- Batch 
 			- Definition: Teilmenge von Trainingsdaten, gemeinsam zum Trainieren verwendet 
+			- 1 Epoche = Batch Size x Iteration 
 			- Vorteile 
 				- Effizienz 
 				- Speicherplatz 
