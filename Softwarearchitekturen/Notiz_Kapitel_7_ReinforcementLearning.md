@@ -72,3 +72,4 @@ Schaubild:
 
 
 ## Actor-Critic Method 
+<img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_19-04-04.png?raw=" width="800" /> 
