@@ -115,7 +115,7 @@
 			- Normalization-Layer 
 		- Aktivierungsfunktion ^aktivierungsfunktion
 			- Jedes Neuron in einem Layer hat eine Aktivierungsfunktion 
-			- nicht lineare Beziehungen zu lernen 
+			- nichtlineare Transformation -> nicht lineare Beziehungen zu lernen 
 			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-33-31.png?raw=" width="500" /> 
 		- Initialisierung 
 			- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=" width="600" /> 
