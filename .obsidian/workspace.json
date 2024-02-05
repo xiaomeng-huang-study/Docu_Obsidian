@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_1.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_1.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_1.md",
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_1.md"
+                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md"
               }
             }
           },
@@ -177,14 +177,14 @@
   },
   "active": "4cf7f3e6cdf54b5a",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
     "Softwarearchitekturen/Notiz_Kapitel_1.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
     "Studienarbeit/Präsentation/Text.md",
     "Softwarearchitekturen/Notiz_Kapitel_7_ReinforcementLearning.md",
     "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_ZF-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_4_Compact Network Design.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_Res-Net.md",

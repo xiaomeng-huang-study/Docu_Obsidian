@@ -4,13 +4,16 @@
 		- ein Modell während des Trainings zu gut auf die Trainingsdaten passt, aber Schwierigkeiten hat, auf neuen, nicht gesehenen Daten zu generalisieren 
 	- Lösung 
 		- Dropout-Layer 
-		- Augmentierung 
+		- mehr Daten sammeln / Augmentation 
+		- frühzeitiges Stoppen 
 - Vanishing Gradients 
 	- Definition 
 		- die Gradienten der Verlustfunktion, die durch den Backpropagation-Algorithmus berechnet werden, in den tiefen Schichten des Netzwerks extrem klein werden. (Dies kann dazu führen, dass die Gewichtungen in diesen Schichten nicht effektiv aktualisiert werden, was das Training schwierig oder sogar unmöglich macht.) 
 	- Lösungen 
 		- [[Notiz_Kapitel_1#^aktivierungsfunktion|ReLU-Aktivierungsfunktion]] verwenden 
 		- [[Notiz_Kapitel_2_CNN_Einschube#Batch Normalization|Batch-Normalization]] 
+		- Skip-Connection (Residual-Block) 
+		- Gewichten gut initialisieren 
 - Rausch 
 	- Schwankung 
 	- Lösung 
