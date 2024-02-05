@@ -114,7 +114,7 @@
 			- Recurrent-Layer 
 			- Normalization-Layer 
 		- Aktivierungsfunktion ^aktivierungsfunktion
-			- Jedes Neuron in einem Layer hat eine Aktivierungsfunktion 
+			- Jeder Knoten außer den Eingangsknoten hat eine Aktivierungsfunktion 
 			- nichtlineare Transformation -> nicht lineare Beziehungen zu lernen 
 			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-33-31.png?raw=" width="500" /> 
 		- Initialisierung 
