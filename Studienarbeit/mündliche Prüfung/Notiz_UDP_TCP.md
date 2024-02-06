@@ -1,0 +1,13 @@
+- [Unterschied](https://www.avast.com/de-de/c-tcp-vs-udp-difference#:~:text=Der%20Hauptunterschied%20zwischen%20TCP%20(Transmission,weniger%20zuverl%C3%A4ssig%2C%20funktioniert%20aber%20schneller.) 
+- UDP 
+	- verbindungslos 
+	- Keine Reihenfolge oder Anordnung der Daten möglich 
+	- Zustellung ist nicht garantiert 
+		- Keine erneute Datenübermittlung 
+	- schnell aber unsicher 
+- TCP 
+	- verbindungsbasiert 
+	- kann Daten sequenzieren 
+	- Zustellung ist garantiert 
+		- Kann Daten erneut übermitteln 
+	- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
+                "file": "Studienarbeit/mündliche Prüfung/Notiz_UDP_TCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
+                "file": "Studienarbeit/mündliche Prüfung/Notiz_UDP_TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
+                "file": "Studienarbeit/mündliche Prüfung/Notiz_UDP_TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md"
+                "file": "Studienarbeit/mündliche Prüfung/Notiz_UDP_TCP.md"
               }
             }
           },
@@ -177,8 +177,11 @@
   },
   "active": "4cf7f3e6cdf54b5a",
   "lastOpenFiles": [
-    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
+    "Studienarbeit/Notiz_20231115.md",
+    "Studienarbeit/mündliche Prüfung/Notiz_UDP_TCP.md",
+    "Studienarbeit/mündliche Prüfung",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel_1.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
@@ -194,7 +197,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_GoogLe-Net.md",
     "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
-    "Studienarbeit/Notiz_20231115.md",
     "Project Management/Note_M5.md",
     "Project Management/Note_A2.md",
     "Project Management/Note_A1.md",
@@ -202,7 +204,6 @@
     "Project Management/Note_M4.md",
     "Leadership and Business Communication/Note_Session-3.md",
     "Leadership and Business Communication/Note_Session-2.md",
-    "Leadership and Business Communication/Note_Session-5.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
@@ -213,7 +214,6 @@
     "Leadership and Business Communication/Presentation/20231220",
     "Leadership and Business Communication/Presentation",
     "Softwarearchitekturen/Musterlösung_Labor",
-    "Studienarbeit",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
     "Snipaste_2023-06-17_16-47-01.png",
