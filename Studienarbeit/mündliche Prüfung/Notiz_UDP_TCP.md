@@ -10,4 +10,4 @@
 	- kann Daten sequenzieren 
 	- Zustellung ist garantiert 
 		- Kann Daten erneut übermitteln 
-	- 
+	- Langsame, aber vollständige Datenzustellung 
