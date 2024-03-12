@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9d840b695544055c",
+        "id": "da1e031052707b7a",
         "type": "tabs",
         "children": [
           {
-            "id": "ea655de3e9fbc066",
+            "id": "0d11072bfd1f71df",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -169,7 +167,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ea655de3e9fbc066",
+  "active": "0d11072bfd1f71df",
   "lastOpenFiles": [
     "Studienarbeit/mündliche Prüfung/Notiz_UDP_TCP.md",
     "Studienarbeit/Notiz_20231115.md",
