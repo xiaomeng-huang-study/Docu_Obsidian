@@ -11,8 +11,12 @@
             "id": "0d11072bfd1f71df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysis/Notiz_20240312.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Analysis/Notiz_20240312.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Analysis/Notiz_20240312.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Analysis/Notiz_20240312.md"
+              }
             }
           },
           {
@@ -169,6 +177,8 @@
   },
   "active": "0d11072bfd1f71df",
   "lastOpenFiles": [
+    "Data Analysis/Notiz_20240312.md",
+    "Data Analysis",
     "Studienarbeit/mündliche Prüfung/Notiz_UDP_TCP.md",
     "Studienarbeit/Notiz_20231115.md",
     "Studienarbeit/mündliche Prüfung",
@@ -195,11 +205,9 @@
     "Project Management/Note_M1.md",
     "Project Management/Note_M4.md",
     "Leadership and Business Communication/Note_Session-3.md",
-    "Leadership and Business Communication/Note_Session-2.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
-    "Untitled",
     "Bachelorarbeit",
     "Pasted image 20231218145434.png",
     "Studienarbeit/Arbeitsbericht",
