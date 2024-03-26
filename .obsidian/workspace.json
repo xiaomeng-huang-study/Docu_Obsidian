@@ -11,8 +11,12 @@
             "id": "e29c61909078b385",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bachelorarbeit/Kick-Off Meeting/Text.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bachelorarbeit/Kick-Off Meeting/Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bachelorarbeit/Kick-Off Meeting/Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bachelorarbeit/Kick-Off Meeting/Text.md"
+              }
             }
           },
           {
@@ -167,8 +175,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "e29c61909078b385",
   "lastOpenFiles": [
+    "Bachelorarbeit/Kick-Off Meeting/Text.md",
+    "Bachelorarbeit/Kick-Off Meeting",
     "Data Analysis/Notiz_20240312.md",
     "Data Analysis",
     "Studienarbeit/mündliche Prüfung/Notiz_UDP_TCP.md",
@@ -196,7 +206,6 @@
     "Project Management/Note_A1.md",
     "Project Management/Note_M1.md",
     "Project Management/Note_M4.md",
-    "Leadership and Business Communication/Note_Session-3.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
@@ -205,7 +214,6 @@
     "Studienarbeit/Arbeitsbericht",
     "Leadership and Business Communication/Presentation/20231220",
     "Leadership and Business Communication/Presentation",
-    "Softwarearchitekturen/Musterlösung_Labor",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
     "Snipaste_2023-06-17_16-47-01.png",
