@@ -4,42 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6360a55af792e994",
-        "type": "tabs",
-        "dimension": 65.18624641833811,
+        "id": "c30642c3e2c5f325",
+        "type": "split",
         "children": [
           {
-            "id": "b5e099ddaf358b4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bachelorarbeit/Untitled.md",
-                "mode": "source",
-                "source": true
+            "id": "6360a55af792e994",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b5e099ddaf358b4d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bachelorarbeit/Untitled.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "de4a4c19f118f742",
-        "type": "tabs",
-        "dimension": 34.81375358166189,
-        "children": [
+            ]
+          },
           {
-            "id": "636382dceff6ba51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bachelorarbeit/Untitled.md",
-                "mode": "source",
-                "source": false
+            "id": "83c77604f141390d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "59a457eec2865645",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bachelorarbeit/Untitled.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -196,7 +201,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b5e099ddaf358b4d",
+  "active": "59a457eec2865645",
   "lastOpenFiles": [
     "Bachelorarbeit/Untitled.md",
     "Bachelorarbeit/Kick-Off Meeting/Text.md",
