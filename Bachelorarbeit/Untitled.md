@@ -30,7 +30,14 @@ R_{\text{dist,gt}} & = C_\text{dist,gt} \cdot (d_\text{gt} - d_{\text{gt}, t-1})
 R_4 & = R_{\text{dist.gt}} + R_{\text{angle.gt}} + R_{\text{ori.gt}} \\
 \end{array}
 \right.
+$$
 
-
-
+$$
+R_\text{dist,gt} = 
+\left\{
+\begin{array}{lll}
+C_\text{dist,gt} \cdot (d_\text{gt} - d_{\text{gt},t-1}) & \text{wenn} & d_\text{gt} > d_{\text{gt},t-1}\\
+0 & \text{sonst.} 
+\end{array}
+\right.
 $$
