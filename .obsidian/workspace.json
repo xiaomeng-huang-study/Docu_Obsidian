@@ -6,6 +6,7 @@
       {
         "id": "6360a55af792e994",
         "type": "tabs",
+        "dimension": 59.52722063037249,
         "children": [
           {
             "id": "b5e099ddaf358b4d",
@@ -24,6 +25,7 @@
       {
         "id": "a1336cda5bdeeca7",
         "type": "tabs",
+        "dimension": 40.47277936962751,
         "children": [
           {
             "id": "516f55aeb1d4548b",
@@ -194,7 +196,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "516f55aeb1d4548b",
+  "active": "b5e099ddaf358b4d",
   "lastOpenFiles": [
     "Bachelorarbeit/Untitled.md",
     "Bachelorarbeit/Kick-Off Meeting/Text.md",
