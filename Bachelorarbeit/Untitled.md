@@ -41,3 +41,7 @@ C_\text{dist,gt} \cdot (d_\text{gt} - d_{\text{gt},t-1}) & \text{wenn} & d_\text
 \end{array}
 \right.
 $$
+
+$$
+R_{\text{angle,gt}} = C_\text{angle,gt} \cdot \alpha_\text{gt}
+$$
