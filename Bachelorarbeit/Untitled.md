@@ -33,5 +33,14 @@ $$
 $$
 R_t = 
 \left\{
-\begin{array}{}
+\begin{array}{lll}
+R_\text{success} & = 100 - \beta & \text{wenn} ~~~~~~ S_t = S_\text{success} \\
+R_\text{collision} & = -100 & \text{wenn} ~~~~~~ S_t = S_\text{collision} \\
+R_\text{truncation} & = 0 & \text{wenn} ~~~~~~ S_t = S_\text{truncation} \\
+R_1 & = R_\text{dist,gt} + R_\text{angle,gt} + R_\text{ori,gt} & \\
+R_2 & = R_{dist,ot} & & \\
+R_3 & = R_\text{angle,ot} + R_\text{dist,gt} & \\
+R_4 & = R_\text{dist,gt} + R_\text{angle,gt} + R_{ori,gt} & \\
+\end{array}
+\right.
 $$
