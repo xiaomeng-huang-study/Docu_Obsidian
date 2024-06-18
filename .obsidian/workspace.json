@@ -6,7 +6,6 @@
       {
         "id": "6360a55af792e994",
         "type": "tabs",
-        "dimension": 59.52722063037249,
         "children": [
           {
             "id": "b5e099ddaf358b4d",
@@ -14,27 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bachelorarbeit/Untitled.md",
+                "file": "Bachelorarbeit/Belohnungsfunktion.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a1336cda5bdeeca7",
-        "type": "tabs",
-        "dimension": 40.47277936962751,
-        "children": [
-          {
-            "id": "516f55aeb1d4548b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bachelorarbeit/Untitled.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -97,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bachelorarbeit/Untitled.md",
+                "file": "Bachelorarbeit/Belohnungsfunktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bachelorarbeit/Untitled.md",
+                "file": "Bachelorarbeit/Belohnungsfunktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bachelorarbeit/Untitled.md"
+                "file": "Bachelorarbeit/Belohnungsfunktion.md"
               }
             }
           },
@@ -196,9 +175,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b5e099ddaf358b4d",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "Bachelorarbeit/Untitled.md",
+    "Bachelorarbeit/Belohnungsfunktion.md",
     "Bachelorarbeit/Kick-Off Meeting/Text.md",
     "Bachelorarbeit/Kick-Off Meeting",
     "Data Analysis/Notiz_20240312.md",

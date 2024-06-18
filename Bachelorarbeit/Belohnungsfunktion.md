@@ -58,24 +58,24 @@ $$
 $$
 S_{t} =
 \left\{
-\begin{array}{llll}
-d_\text{gt} ~\leq~ 1m ~~ \text{und} ~~ \beta ~\leq~ 9^\circ & & & \Rightarrow S_\text{success} \\ 
-\text{Berührung mit dem Hindernis} & & & \Rightarrow S_\text{collision} \\
-\text{Überschreitung der zulässigen Dauer} & & & \Rightarrow S_\text{truncation} \\
+\begin{array}{lll}
+d_\text{gt} ~\leq~ 1m ~~ \text{und} ~~ \beta ~\leq~ 9^\circ &  \Rightarrow S_\text{success} & \\ 
+\text{Berührung mit dem Hindernis} &  \Rightarrow S_\text{collision} & \\
+\text{Überschreitung der zulässigen Dauer}  &  \Rightarrow S_\text{truncation} & \\
 0 < d_{\text{ot}} \leq d_\text{soft\_margin} &
 \left\{
-\begin{array}{lll}
-d_{\text{ot}}^2 + d_\text{gt}^2 > d_\text{go}^2 & \Rightarrow S_1 & \\
+\begin{array}{ll}
+d_{\text{ot}}^2 + d_\text{gt}^2 > d_\text{go}^2 & \Rightarrow S_1 \\
 d_{\text{ot}}^2 + d_\text{gt}^2 \leq d_\text{go}^2 & 
-                      \left\{
-                      \begin{array}{lll}
-                      d_{\text{ot}} \leq d_\text{hard\_margin} & \Rightarrow S2 & \\
-                      d_{\text{ot}} > d_\text{hard\_margin} & \Rightarrow S3 & \\
-                      \end{array}
-                      \right.
-                \end{array}
-               \right. \\
-        d_\text{soft\_margin} < d_{\text{ot}} & \Rightarrow S_4
-        \end{array}  
-    \right.
+\left\{
+\begin{array}{lr}
+d_{\text{ot}} \leq d_\text{hard\_margin} & \Rightarrow S2 \\
+d_{\text{ot}} > d_\text{hard\_margin} & \Rightarrow S3 \\
+\end{array}
+\right.
+\end{array}
+\right. \\
+d_\text{soft\_margin} < d_{\text{ot}} & \Rightarrow S_4
+\end{array}  
+\right.
 $$
