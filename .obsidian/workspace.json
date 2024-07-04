@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6360a55af792e994",
+        "id": "0ef7272108c7a0e7",
         "type": "tabs",
         "children": [
           {
-            "id": "b5e099ddaf358b4d",
+            "id": "a1665b43a0267c11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Bachelorarbeit/Belohnungsfunktion.md",
-                "mode": "source",
-                "source": true
+                "currentVersion": "1.6.5"
               }
             }
           }
@@ -93,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bachelorarbeit/Belohnungsfunktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bachelorarbeit/Belohnungsfunktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bachelorarbeit/Belohnungsfunktion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +169,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "a1665b43a0267c11",
   "lastOpenFiles": [
+    "Bachelorarbeit/test.md",
+    "photo.svg",
     "Bachelorarbeit/Belohnungsfunktion.md",
     "Bachelorarbeit/Kick-Off Meeting/Text.md",
     "Bachelorarbeit/Kick-Off Meeting",
@@ -204,8 +200,6 @@
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
     "Project Management/Note_M5.md",
     "Project Management/Note_A2.md",
-    "Project Management/Note_A1.md",
-    "Project Management/Note_M1.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
