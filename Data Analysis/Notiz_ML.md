@@ -21,6 +21,8 @@ Algorithmen
 4. (Wiederholung von 1. bis keine neue Zuordnung erfolgt) 
 - Visualisierung 
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-23-00.png?raw=" width="500" /> 
+- Code-Beispiel 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-17-24.png?raw=" width="500" /> 
 
 #### Bestimmung der optimalen Anzahl n 
 Methoden 
@@ -37,3 +39,20 @@ Methoden
 
 ---
 ### Hierarchisches / Agglomeratives Clustering 
+#### Arbeitsverlauf 
+1. Initialisierung: Jeder Datenpunkt bildet ein eigenes Cluster. 
+2. Berechnung der Abstände: zwischen allen Paaren von Clustern nach der Distanzmaße 
+	- euklidischer Abstand 
+	- Manhattan-Distanz 
+	- Cosinus-Ähnlichkeit 
+3. Zusammenführung der nächstgelegenen Cluster: Fusionierung der 2 Clustern mit dem kleinsten Abstand 
+4. Aktualisierung der Abstände 
+	- Single Linkage (Minimum Linkage) 
+	- Complete Linkage (Maximum Linkage) 
+	- Average Linkage 
+	- Ward's Method 
+5. (Wiederholung von 3. und 4.) 
+- Code-Beispiel 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-18-18.png?raw=" width="500" /> 
+
+#### Bestimmung der Anzahl der Clusters 
