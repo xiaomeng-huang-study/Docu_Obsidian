@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef7272108c7a0e7",
+        "id": "f55665d7d6d2f19e",
         "type": "tabs",
         "children": [
           {
-            "id": "a1665b43a0267c11",
+            "id": "4ff9dc013b365040",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -128,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "photo.svg"
+              }
             }
           },
           {
@@ -169,7 +169,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a1665b43a0267c11",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
     "Bachelorarbeit/test.md",
     "photo.svg",
