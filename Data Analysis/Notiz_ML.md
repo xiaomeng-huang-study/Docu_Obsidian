@@ -20,9 +20,9 @@ Algorithmen
 3. verschiebe Zentren in die Mitte der zugehörigen Datenpunkte 
 4. (Wiederholung von 1. bis keine neue Zuordnung erfolgt) 
 - Visualisierung 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-23-00.png?raw=" width="500" /> 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-23-00.png?raw=" width="90%" /> 
 - Code-Beispiel 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-17-24.png?raw=" width="500" /> 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-17-24.png?raw=" width="90%" /> 
 
 #### Bestimmung der optimalen Anzahl n 
 Methoden 
@@ -32,10 +32,10 @@ Methoden
 ##### Elbow method 
 - Bewertung der Qualität: anhand der maximalen Distanz von Cluster-Punkten eines Clusters über alle Cluster (Diameter) 
 	- Visualisierung 
-		- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-43-13.png?raw=" width="400" /> 
+		- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-43-13.png?raw=" width="50%" /> 
 - Auswahl des "Ellbogens": Stelle des merklichen Abflachens der Kurve 
 	- Visualisierung 
-		- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-40-44.png?raw=" width="200" /> 
+		- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-40-44.png?raw=" width="30%" /> 
 
 ---
 ### Hierarchisches / Agglomeratives Clustering 
@@ -53,12 +53,12 @@ Methoden
 	- Ward's Method 
 5. (Wiederholung von 3. und 4.) 
 - Visualisierung mit Dendrogram 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-37-00.png?raw=" width="100%" /> 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-37-00.png?raw=" width="90%" /> 
 - Code-Beispiel 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-18-18.png?raw=" width="500" /> 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-18-18.png?raw=" width="70%" /> 
 
 #### Bestimmung der Anzahl der Clusters 
 - <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-44-52.png?raw=" width="50%" /> 
 
 ---
-### DBSCAN 
+### Density-based spatial clustering of applications with noise(DBSCAN) 
