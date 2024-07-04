@@ -11,8 +11,12 @@
             "id": "4ff9dc013b365040",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysis/Notiz_ML.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Analysis/Notiz_ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Analysis/Notiz_ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photo.svg"
+                "file": "Data Analysis/Notiz_ML.md"
               }
             }
           },
@@ -171,12 +177,13 @@
   },
   "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "Bachelorarbeit/test.md",
     "photo.svg",
+    "Untitled",
+    "Bachelorarbeit/test.md",
     "Bachelorarbeit/Belohnungsfunktion.md",
     "Bachelorarbeit/Kick-Off Meeting/Text.md",
     "Bachelorarbeit/Kick-Off Meeting",
-    "Data Analysis/Notiz_20240312.md",
+    "Data Analysis/Notiz_ML.md",
     "Data Analysis",
     "Studienarbeit/mündliche Prüfung/Notiz_UDP_TCP.md",
     "Studienarbeit/Notiz_20231115.md",
@@ -207,7 +214,6 @@
     "Pasted image 20231218145434.png",
     "Studienarbeit/Arbeitsbericht",
     "Leadership and Business Communication/Presentation/20231220",
-    "Leadership and Business Communication/Presentation",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
     "Snipaste_2023-06-17_16-47-01.png",
