@@ -53,7 +53,7 @@ Methoden
 	- Ward's Method 
 5. (Wiederholung von 3. und 4.) 
 - Visualisierung mit Dendrogram 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-37-00.png?raw=" width="500" /> 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-37-00.png?raw=" width="100%" /> 
 - Code-Beispiel 
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-18-18.png?raw=" width="500" /> 
 
