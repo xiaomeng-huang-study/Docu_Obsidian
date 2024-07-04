@@ -11,5 +11,6 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
   "spellcheckLanguages": null,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }

@@ -58,3 +58,4 @@ Methoden
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-18-18.png?raw=" width="500" /> 
 
 #### Bestimmung der Anzahl der Clusters 
+- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-44-52.png?raw=" width="100%" /> 
