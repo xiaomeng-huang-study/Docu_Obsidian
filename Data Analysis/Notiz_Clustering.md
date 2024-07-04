@@ -68,7 +68,8 @@ Methoden
 	- Outlier-Points: weder Core-Points, noch Border-Points 
 2. Cluster 
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_22-32-18.png?raw=" width="30%" /> 
-
+- Code-Beispiel 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_23-04-31.png?raw=" width="70%" /> 
 
 ## Bewertung 
 ### Silhouetten-Koeffizient 
