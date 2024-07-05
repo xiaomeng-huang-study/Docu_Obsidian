@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_Clustering.md",
+                "file": "Data Analysis/Notiz_Assoziationsanalyse.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Notiz_Clustering.md",
+                "file": "Data Analysis/Notiz_Assoziationsanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Notiz_Clustering.md",
+                "file": "Data Analysis/Notiz_Assoziationsanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Notiz_Clustering.md"
+                "file": "Data Analysis/Notiz_Assoziationsanalyse.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "9f1da2c6378dcc42",
   "lastOpenFiles": [
-    "Data Analysis/Notiz_Clustering.md",
     "Data Analysis/Notiz_ML.md",
+    "Data Analysis/Notiz_Assoziationsanalyse.md",
+    "Data Analysis/Notiz_Clustering.md",
     "photo.svg",
     "Untitled",
     "Bachelorarbeit/test.md",
@@ -207,7 +208,6 @@
     "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
     "Project Management/Note_M5.md",
-    "Project Management/Note_A2.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
