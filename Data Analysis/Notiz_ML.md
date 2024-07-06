@@ -6,4 +6,4 @@
 - Supervised Learning 
 	- Zusammenhänge lernen $\Rightarrow$ Vorhersagen 
 	- Vorhersagen bei vorhandenen historischen Daten 
-	- **Methoden** : Regression, Klassifikation, Entscheidungsbäume 
+	- **Methoden** : [[Notiz_Regression#Regression|Regression]], Klassifikation, Entscheidungsbäume 
