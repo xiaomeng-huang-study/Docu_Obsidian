@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_PCA.md",
+                "file": "Data Analysis/Notiz_Klassifikation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Notiz_PCA.md",
+                "file": "Data Analysis/Notiz_Klassifikation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Notiz_PCA.md",
+                "file": "Data Analysis/Notiz_Klassifikation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Notiz_PCA.md"
+                "file": "Data Analysis/Notiz_Klassifikation.md"
               }
             }
           },
@@ -177,11 +177,11 @@
   },
   "active": "e3825e6ec3b4327e",
   "lastOpenFiles": [
+    "Data Analysis/Notiz_Regression.md",
+    "Data Analysis/Notiz_Klassifikation.md",
     "Data Analysis/Notiz_ML.md",
     "Data Analysis/Notiz_PCA.md",
-    "Data Analysis/Notiz_Klassifikation.md",
     "Pasted image 20240706191351.png",
-    "Data Analysis/Notiz_Regression.md",
     "Data Analysis/Notiz_Clustering.md",
     "Data Analysis/Notiz_Assoziationsanalyse.md",
     "photo.svg",
