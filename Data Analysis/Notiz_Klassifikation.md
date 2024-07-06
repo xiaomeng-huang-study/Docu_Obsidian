@@ -7,10 +7,11 @@
 ### Decision Trees 
 #### Maß für die Unreinheit
 - Entropie 
-- Gini-Index 
+- Gini-Index ^GI
+	- $\begin{array}{ll}I_G(D) &=-\sum_{i=0}^{\kappa-1}p(i\vert D)(1-p(i\vert D))\\ &= 1 - \sum_{i=0}^{\kappa-1}p(i\vert D)^2\\ \end{array}$ 
 	- kleinere GI $\rightarrow$ Knoten homogener 
 #### Arbeitsverlauf 
-1. Berechne die GI eines jeden Kindknotens bei einem möglichen Split 
-2. Berechne die GI eines jeden Splits als den gewichteten mittleren GI der Kindknoten 
+1. Berechne die [[#^GI|GI]] eines jeden Kindknotens bei einem möglichen Split 
+2. Berechne die GI-Impurity eines jeden Splits als den gewichteten mittleren GI der Kindknoten $G(D_p,f) = I(D_p) - \frac{n_l}{n_p}I(D_l) - \frac{n_r}{n_p}I(D_r)$ 
 3. Wähle den Split mit dem kleinsten GI 
 4. (Wiederholung bis kein Split mehr möglich) 
