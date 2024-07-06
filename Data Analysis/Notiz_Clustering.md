@@ -1,9 +1,9 @@
 # Clustering 
-Algorithmen
+## Algorithmen 
 - [[#K-means]] 
 - [[#Hierarchisches / Agglomeratives Clustering]] 
 - [[#Density-based spatial clustering of applications with noise(DBSCAN) [Video](https //youtu.be/6jl9KkmgDIw?si=g_vKcXEFBlpRVAIg)|DBSCAN]] 
-Bewertung 
+## Bewertung 
 - [[#Silhouetten-Koeffizient ]]
 - [[#Davies-Bouldin-Index ]] 
 

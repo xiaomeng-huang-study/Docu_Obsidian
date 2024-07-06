@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b67fd8ec0616908",
+        "id": "6026ec6b6b9a30cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9f1da2c6378dcc42",
+            "id": "d0e8200c2787a342",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_ML.md",
+                "file": "Data Analysis/Notiz_Klassifikation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Notiz_ML.md",
+                "file": "Data Analysis/Notiz_Klassifikation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Notiz_ML.md",
+                "file": "Data Analysis/Notiz_Klassifikation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Notiz_ML.md"
+                "file": "Data Analysis/Notiz_Klassifikation.md"
               }
             }
           },
@@ -175,12 +175,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9f1da2c6378dcc42",
+  "active": "d0e8200c2787a342",
   "lastOpenFiles": [
     "Data Analysis/Notiz_Clustering.md",
+    "Data Analysis/Notiz_Klassifikation.md",
     "Data Analysis/Notiz_Regression.md",
-    "Data Analysis/Notiz_Assoziationsanalyse.md",
     "Data Analysis/Notiz_ML.md",
+    "Data Analysis/Notiz_Assoziationsanalyse.md",
     "photo.svg",
     "Untitled",
     "Bachelorarbeit/test.md",
@@ -207,7 +208,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_VGG-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_GoogLe-Net.md",
     "Softwarearchitekturen/Musterlösung_Labor/Musterlösung_Res-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel-2_CNN_Beispiel.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
