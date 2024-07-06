@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_Regression.md",
+                "file": "Data Analysis/Notiz_ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Notiz_Regression.md",
+                "file": "Data Analysis/Notiz_ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Notiz_Regression.md",
+                "file": "Data Analysis/Notiz_ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Notiz_Regression.md"
+                "file": "Data Analysis/Notiz_ML.md"
               }
             }
           },
@@ -179,8 +178,8 @@
   "active": "9f1da2c6378dcc42",
   "lastOpenFiles": [
     "Data Analysis/Notiz_Clustering.md",
-    "Data Analysis/Notiz_Assoziationsanalyse.md",
     "Data Analysis/Notiz_Regression.md",
+    "Data Analysis/Notiz_Assoziationsanalyse.md",
     "Data Analysis/Notiz_ML.md",
     "photo.svg",
     "Untitled",
