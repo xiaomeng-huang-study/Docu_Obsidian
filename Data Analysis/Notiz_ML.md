@@ -3,7 +3,7 @@
 	- Strukturen, Gruppen erkennen 
 	- Vorhersagegüte / Qualität nur über bekannte Daten 
 	- **Methoden** : [[Notiz_Clustering#Clustering|Clustering]], [[Notiz_Assoziationsanalyse#Assoziationsanalyse|Assoziationsanalyse]] 
-	- Einschub: PCA 
+	- Einschub: [[Notiz_PCA#PCA|PCA]] 
 - Supervised Learning 
 	- Zusammenhänge lernen $\Rightarrow$ Vorhersagen 
 	- Vorhersagen bei vorhandenen historischen Daten 

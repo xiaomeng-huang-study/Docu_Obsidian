@@ -11,8 +11,12 @@
             "id": "e3825e6ec3b4327e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysis/Notiz_PCA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Analysis/Notiz_PCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Analysis/Notiz_PCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Analysis/Notiz_PCA.md"
+              }
             }
           },
           {
@@ -169,8 +177,8 @@
   },
   "active": "e3825e6ec3b4327e",
   "lastOpenFiles": [
-    "Data Analysis/Notiz_PCA.md",
     "Data Analysis/Notiz_ML.md",
+    "Data Analysis/Notiz_PCA.md",
     "Data Analysis/Notiz_Klassifikation.md",
     "Pasted image 20240706191351.png",
     "Data Analysis/Notiz_Regression.md",
