@@ -1,7 +1,7 @@
 # Klassifikation 
 ## Algorithmen 
 - [[#Decision Trees]] 
-
+- [[#KNN]] 
 
 ## Algorithmen 
 ### Decision Trees 
@@ -15,3 +15,8 @@
 2. Berechne die GI-Impurity eines jeden Splits als den gewichteten mittleren GI der Kindknoten $G(D_p,f) = I(D_p) - \frac{n_l}{n_p}I(D_l) - \frac{n_r}{n_p}I(D_r)$ 
 3. Wähle den Split mit dem kleinsten GI-Impurity 
 4. (Wiederholung bis kein Split mehr möglich) 
+- Beispiel 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_18-54-00.png?raw=" width="90%" /> 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_18-56-06.png?raw=" width="40%" /> 
+
+### KNN 
