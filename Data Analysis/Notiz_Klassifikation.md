@@ -13,5 +13,5 @@
 #### Arbeitsverlauf 
 1. Berechne die [[#^GI|GI]] eines jeden Kindknotens bei einem möglichen Split 
 2. Berechne die GI-Impurity eines jeden Splits als den gewichteten mittleren GI der Kindknoten $G(D_p,f) = I(D_p) - \frac{n_l}{n_p}I(D_l) - \frac{n_r}{n_p}I(D_r)$ 
-3. Wähle den Split mit dem kleinsten GI 
+3. Wähle den Split mit dem kleinsten GI-Impurity 
 4. (Wiederholung bis kein Split mehr möglich) 
