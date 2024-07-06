@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_Klassifikation.md",
+                "file": "Data Analysis/Notiz_ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Notiz_Klassifikation.md",
+                "file": "Data Analysis/Notiz_ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Notiz_Klassifikation.md",
+                "file": "Data Analysis/Notiz_ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Notiz_Klassifikation.md"
+                "file": "Data Analysis/Notiz_ML.md"
               }
             }
           },
@@ -177,13 +177,14 @@
   },
   "active": "e3825e6ec3b4327e",
   "lastOpenFiles": [
-    "Data Analysis/Notiz_Regression.md",
-    "Data Analysis/Notiz_Klassifikation.md",
-    "Data Analysis/Notiz_ML.md",
     "Data Analysis/Notiz_PCA.md",
-    "Pasted image 20240706191351.png",
+    "Data Analysis/Notiz_Regressionsmethoden.md",
+    "Data Analysis/Notiz_ML.md",
+    "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+    "Data Analysis/Notiz_Klassifikationsmethoden.md",
     "Data Analysis/Notiz_Clustering.md",
     "Data Analysis/Notiz_Assoziationsanalyse.md",
+    "Pasted image 20240706191351.png",
     "photo.svg",
     "Untitled",
     "Bachelorarbeit/test.md",
@@ -208,7 +209,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_Le-Net_Alex-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_TransferLearning.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_VGG-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_GoogLe-Net.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",

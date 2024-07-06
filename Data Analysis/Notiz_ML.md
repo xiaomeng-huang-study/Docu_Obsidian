@@ -1,10 +1,25 @@
 # Einteilung 
 - Unsupervised Learning 
 	- Strukturen, Gruppen erkennen 
-	- Vorhersagegüte / Qualität nur über bekannte Daten 
 	- **Methoden** : [[Notiz_Clustering#Clustering|Clustering]], [[Notiz_Assoziationsanalyse#Assoziationsanalyse|Assoziationsanalyse]] 
 	- Einschub: [[Notiz_PCA#PCA|PCA]] 
+	- Bewertung nur bei bekannten Daten 
 - Supervised Learning 
 	- Zusammenhänge lernen $\Rightarrow$ Vorhersagen 
-	- Vorhersagen bei vorhandenen historischen Daten 
-	- **Methoden** : [[Notiz_Regression#Regression|Regression]], [[Notiz_Klassifikation#Klassifikation|Klassifikation]] 
+	- **Methoden** 
+		- [[Notiz_Regressionsmethoden#Regressionsmethoden|Regressionsmethoden]] 
+		- [[Notiz_Klassifikationsmethoden#Klassifikationsmethoden|Klassifikationsmethoden]] 
+		- [[Notiz_Methoden für Klassifikation und Regression#Methoden für Klassifikation und Regression|Methoden für Klassifikation und Regression]] 
+	- Bewertung 
+		- Regression 
+			- Mittlerer absoluter Fehler (engl. Mean Absolute Error, MAE) 
+				- $\mathrm{MAE}=\frac{1}{n} \sum_{i=1}^{n}\left|y_{i}-\hat{y}_{i}\right|$ 
+			- Mittlerer quadratischer Fehler (engl. Mean Squared Error, MSE) 
+				- $\operatorname{MSE}=\frac{1}{n} \sum_{i=1}^{n}\left(y_{i}-\hat{y}_{i}\right)^{2}$ 
+			- Wurzel des mittleren quadratischen Fehlers (engl. Root Mean Squared Error, RMSE) 
+				- $\mathrm{RMSE}=\sqrt{\frac{1}{n} \sum_{i=1}^{n}\left(y_{i}-\hat{y}_{i}\right)^{2}}$ 
+			- Bestimmtheitsmaß ($R^{2}-Score$) 
+				- ein Maß dafür, wie gut die beobachteten Ergebnisse durch das Modell erklärt werden. 
+				- $R^{2}=1-\frac{\sum_{i=1}^{n}\left(y_{i}-\hat{y}_{i}\right)^{2}}{\sum_{i=1}^{n}\left(y_{i}-\bar{y}\right)^{2}}$ 
+		- Klassifikation 
+			- 
