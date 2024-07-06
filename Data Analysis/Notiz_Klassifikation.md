@@ -1,7 +1,8 @@
 # Klassifikation 
 ## Algorithmen 
 - [[#Decision Trees]] 
-- [[#KNN]] 
+- [[#KNN (K-Nearest Neighbors)|KNN]] 
+
 
 ## Algorithmen 
 ### Decision Trees 
@@ -19,4 +20,15 @@
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_18-54-00.png?raw=" width="90%" /> 
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_18-56-06.png?raw=" width="40%" /> 
 
-### KNN 
+---
+### KNN (K-Nearest Neighbors) 
+#### Arbeitsverlauf 
+1. Berechnung der Distanz nach 
+	- Minkowski Distanz $d(p, q)=\left(\sum_{i=1}^{n}\left|p_{i}-q_{i}\right|^{r}\right)^{\frac{1}{r}}$ 
+		- $r = 2$: Euklidische Distanz $d(p, q)=\sqrt{\sum_{i=1}^{n}\left(p_{i}-q_{i}\right)^{2}}$ 
+		- $r = 1$: Manhattan Distanz $d(p, q)=\sum_{i=1}^{n}\left|p_{i}-q_{i}\right|$ 
+	- Hamming Distanz $d(p, q)=\sum_{i=1}^{n} \delta\left(p_{i} \neq q_{i}\right)$ $\text { wobei } \delta \text { eine Funktion ist, die } 1 \text { zurückgibt, wenn } p_{i} \neq q_{i} \text {, und } 0 \text { sonst. }$ 
+2. Bestimmung der $k$ nächsten Nachbarn 
+3. Mehrheitsabstimmung 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_19-20-50.png?raw=" width="70%" /> 
+
