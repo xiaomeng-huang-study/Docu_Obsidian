@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "907644d83d3c69f5",
+        "id": "56f19017dc533b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "e3825e6ec3b4327e",
+            "id": "1bb53f740605fa3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_ML.md",
+                "file": "Data Analysis/Notiz_Regularisierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 367.5
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Notiz_ML.md",
+                "file": "Data Analysis/Notiz_Regularisierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Notiz_ML.md",
+                "file": "Data Analysis/Notiz_Regularisierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Notiz_ML.md"
+                "file": "Data Analysis/Notiz_Regularisierung.md"
               }
             }
           },
@@ -175,13 +175,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e3825e6ec3b4327e",
+  "active": "1bb53f740605fa3b",
   "lastOpenFiles": [
-    "Data Analysis/Notiz_PCA.md",
-    "Data Analysis/Notiz_Regressionsmethoden.md",
     "Data Analysis/Notiz_ML.md",
-    "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+    "Data Analysis/Notiz_Regularisierung.md",
+    "Data Analysis/Notiz_Klassifikation_Bewertung.md",
+    "Data Analysis/Notiz_Regression_Bewertung.md",
     "Data Analysis/Notiz_Klassifikationsmethoden.md",
+    "Data Analysis/Notiz_Regressionsmethoden.md",
+    "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+    "Data Analysis/Notiz_PCA.md",
     "Data Analysis/Notiz_Clustering.md",
     "Data Analysis/Notiz_Assoziationsanalyse.md",
     "Pasted image 20240706191351.png",
@@ -206,9 +209,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_ZF-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_4_Compact Network Design.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_Res-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_Le-Net_Alex-Net.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_TransferLearning.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_VGG-Net.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
