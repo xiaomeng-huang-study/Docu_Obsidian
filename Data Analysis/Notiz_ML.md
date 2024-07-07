@@ -22,4 +22,4 @@
 				- ein Maß dafür, wie gut die beobachteten Ergebnisse durch das Modell erklärt werden. 
 				- $R^{2}=1-\frac{\sum_{i=1}^{n}\left(y_{i}-\hat{y}_{i}\right)^{2}}{\sum_{i=1}^{n}\left(y_{i}-\bar{y}\right)^{2}}$ 
 		- Klassifikation 
-			- 
+			- Genauigkeit (engl. Accuracy) 
