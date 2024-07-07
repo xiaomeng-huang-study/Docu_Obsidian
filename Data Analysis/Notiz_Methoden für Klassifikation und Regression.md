@@ -28,7 +28,7 @@
 ### Arbeitsverlauf 
 1. Berechne die [[#^GI|GI]] eines jeden Kindknotens bei einem möglichen Split 
 2. Berechne die $Gini_\text{split}$ eines jeden Splits als den gewichteten mittleren GI der Kindknoten $Gini_\text{split} = \frac{n_l}{n_p}I_{G} (D_l) + \frac{n_r}{n_p}I_{G} (D_r)$ 
-3. Wähle den Split mit dem kleinsten GI-Impurity 
+3. Wähle den Split mit dem kleinsten $Gini_\text{split}$ 
 4. (Wiederholung bis kein Split mehr möglich) 
 - Beispiel 
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-07_23-20-00.png?raw=" width="80%" /> 
