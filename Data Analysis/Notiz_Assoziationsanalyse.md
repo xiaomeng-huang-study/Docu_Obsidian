@@ -1,4 +1,5 @@
 # Assoziationsanalyse 
+- Muster zu erkennen, Regeln abzuleiten 
 ## Assoziationsregel 
 Implikationsausdruck der Form X $\rightarrow$ Y, wobei X und Y disjunkte Itemsets sind. 
 - X steht für den Antecedent (Ursache) 
@@ -26,7 +27,7 @@ Metrik
 		$$
 - Confidence 
 	- $\text { confidence }(A \rightarrow C)=\frac{\text{support}(A \cap C)}{\text{support}(A)}, \text { range: }[0,1]$ 
-	- Es misst die Wahrscheinlichkeit, dass C in einer Transaktion erscheint, die A enthält. 
+	- Es misst die Wahrscheinlichkeit, dass C in einer Transaktion erscheint, wenn A auftritt. 
 		- hoher Wert $\rightarrow$ Wenn A passiert, ist es sehr wahrscheinlich, dass C auch passiert. 
 	- Beispiel 
 		$$
@@ -49,8 +50,8 @@ Metrik
 		\text{lift}(B \rightarrow W) &= \text{lift}(W \rightarrow B) & & \\
 		\end{array}
 		$$
-- Levarage 
-	- $\text { levarage }(A \rightarrow C)=\text{support}(A \cap C)-\text{support}(A) \times \text{support}(C), \text { range: }[-1,1]$ 
+- Leverage 
+	- $\text { leverage }(A \rightarrow C)=\text{support}(A \cap C)-\text{support}(A) \times \text{support}(C), \text { range: }[-1,1]$ 
 	- die Differenz zwischen der tatsächlichen Häufigkeit des gemeinsamen Auftretens von A und C und der erwarteten gemeinsamen Häufigkeit, wenn A und C unabhängig wären. 
 		- $> 0$: A und C treten häufiger zusammen auf, als wenn sie unabhängig wären 
 		- $= 0$: A und C treten so oft zusammen auf, wie man es bei Unabhängigkeit erwarten würde 

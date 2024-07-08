@@ -1,4 +1,5 @@
 # Clustering 
+- die Datenpunkte zu gruppieren, sodass die Datenpunkte innerhalb eines Clusters ähnlicher zueinander sind 
 ## Algorithmen 
 - [[#K-means]] 
 - [[#Hierarchisches / Agglomerative Clustering]] 
