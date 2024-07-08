@@ -90,7 +90,7 @@ $$
 - *Silhouette* als gewichtete Differenz von Cohesion und Separation $s^{(i)}$ 
 - Idealerweise, $b^{(i)}>>a^{(i)} \Rightarrow s^{(i)}\approx 1$ 
 ### Davies-Bouldin-Index 
-- mist das Verhältnis der Abstände zwischen den Clustern und den Durchmessern der Cluster 
+- Der Davies-Bouldin-Index bewertet die Clusterqualität, indem er das Verhältnis der durchschnittlichen Intra-Cluster-Distanzen (Cluster-Durchmesser) zur Inter-Cluster-Distanz (Abstand zwischen den Cluster-Zentroiden) misst. 
 - $[0, ~\infty]$ 
 - niedrigerer Wert $\rightarrow$ bessere Qualität 
 ### Visualisierung 
