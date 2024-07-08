@@ -9,11 +9,19 @@
 
 ## Algorithmen 
 ### K-means 
+- eine Menge von Datenpunkten in k verschiedene Gruppen (Cluster) zu unterteilen 
 #### Arbeitsverlauf 
 1. wähle zufällige **[[#Bestimmung der optimalen Anzahl n |n]]** Cluster-Center aus 
 2. weise Datenpunkte dem nächstgelegenen Center zu 
 3. verschiebe Zentren in die Mitte der zugehörigen Datenpunkte 
-4. (Wiederholung von 1. bis keine neue Zuordnung erfolgt) 
+4. (Wiederholung von 2. - 3. bis keine neue Zuordnung erfolgt) 
+- Pseudo-Code 
+	```pseudo
+	1. Initialisiere k Zentroiden zufällig aus den Datenpunkten.
+	2. Wiederhole bis zur Konvergenz:
+	    a. Weise jeden Datenpunkt dem nächstgelegenen Zentroiden zu.
+	    b. Berechne die neuen Zentroiden als Mittelwert der Datenpunkte in jedem Cluster.
+	```
 - Visualisierung 
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-23-00.png?raw=" width="90%" /> 
 - Code-Beispiel 
@@ -73,6 +81,7 @@ Methoden
 
 ## Bewertung 
 ### Silhouetten-Koeffizient 
+- misst, wie ähnlich ein Punkt zu seinem eigenen Cluster im Vergleich zu anderen Clustern ist. 
 $$
 s^{(i)} := \frac{b^{(i)} - a^{(i)}}{\text{max}\{b^{(i)},a^{(i)}\}}\quad\in[-1,1]
 $$
