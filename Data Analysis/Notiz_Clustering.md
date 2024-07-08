@@ -1,7 +1,7 @@
 # Clustering 
 ## Algorithmen 
 - [[#K-means]] 
-- [[#Hierarchisches / Agglomeratives Clustering]] 
+- [[#Hierarchisches / Agglomerative Clustering]] 
 - [[#Density-based spatial clustering of applications with noise(DBSCAN) [Video](https //youtu.be/6jl9KkmgDIw?si=g_vKcXEFBlpRVAIg)|DBSCAN]] 
 ## Bewertung 
 - [[#Silhouetten-Koeffizient]] 
@@ -41,7 +41,7 @@ Methoden
 		- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-40-44.png?raw=" width="30%" /> 
 
 ---
-### Hierarchisches / Agglomeratives Clustering 
+### Hierarchisches / Agglomerative Clustering 
 #### Arbeitsverlauf 
 1. Initialisierung: Jeder Datenpunkt bildet ein eigenes Cluster. 
 2. Berechnung der Abstände: zwischen allen Paaren von Clustern nach der Distanzmaße 
@@ -54,14 +54,35 @@ Methoden
 	- Complete Linkage (Maximum Linkage) 
 	- Average Linkage 
 	- Ward's Method 
-5. (Wiederholung von 3. und 4.) 
+5. (Wiederholung von 3. und 4. bis angeforderte Anzahl der Clusters erreicht wird) 
+- Pseudo-Code
+	```pseudo
+	1. Weise jedem Datenpunkt ein eigenes Cluster zu 
+	2. Bestimme die Abstände der Clusters nach Metriken 
+		1. "Euklidischer Abstand" 
+		2. "Manhattan-Distanz" 
+		3. Cosinus-Ähnlichkeit 
+	3. Wiederhole bis die Anzahl der Clusters kleiner als die angeforderten Anzahl: 
+		a. Fusionierung der 2 Clusters mit dem kleinsten Abstand 
+		b. Berechnung der Distanz nach 
+			- "Single-Linkage" 
+			- "Complete-Linkage" 
+			- Average-Linkage 
+			- Ward's method 
+	```
+- Hyperparameter 
+	- `n_clusters` 
+	- `metric` 
+	- `linkage` 
 - Visualisierung mit Dendrogram 
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-37-00.png?raw=" width="90%" /> 
 - Code-Beispiel 
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-18-18.png?raw=" width="70%" /> 
 
 #### Bestimmung der Anzahl der Clusters 
-- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-44-52.png?raw=" width="50%" /> 
+<img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-44-52.png?raw=" width="50%" /> 
+- Welche Distanz wird genommen (je höher, weniger Clusters) 
+- oder Anzahl der Clusters 
 
 ---
 ### Density-based spatial clustering of applications with noise(DBSCAN) [Video](https://youtu.be/6jl9KkmgDIw?si=g_vKcXEFBlpRVAIg) 
