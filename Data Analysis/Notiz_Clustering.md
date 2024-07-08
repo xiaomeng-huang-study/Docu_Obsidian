@@ -4,7 +4,7 @@
 - [[#Hierarchisches / Agglomeratives Clustering]] 
 - [[#Density-based spatial clustering of applications with noise(DBSCAN) [Video](https //youtu.be/6jl9KkmgDIw?si=g_vKcXEFBlpRVAIg)|DBSCAN]] 
 ## Bewertung 
-- [[#Silhouetten-Koeffizient ]]
+- [[#Silhouetten-Koeffizient]] 
 - [[#Davies-Bouldin-Index ]] 
 
 ## Algorithmen 
