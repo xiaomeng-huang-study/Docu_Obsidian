@@ -2,7 +2,7 @@
 - Unsupervised Learning 
 	- Strukturen, Gruppen erkennen 
 	- **Methoden** : [[Notiz_Clustering#Clustering|Clustering]], [[Notiz_Assoziationsanalyse#Assoziationsanalyse|Assoziationsanalyse]] 
-	- Einschub: [[Notiz_PCA#PCA|PCA]] 
+	- Einschub: [[Notiz_PCA#PCA|PCA]], [[Notiz_Feature-Engineering#Feature Engineering|Feature Engineering]] 
 	- Bewertung nur bei bekannten Daten 
 - Supervised Learning 
 	- Zusammenhänge lernen $\Rightarrow$ Vorhersagen 
@@ -10,7 +10,7 @@
 		- [[Notiz_Regressionsmethoden#Regressionsmethoden|Regressionsmethoden]] 
 		- [[Notiz_Klassifikationsmethoden#Klassifikationsmethoden|Klassifikationsmethoden]] 
 		- [[Notiz_Methoden für Klassifikation und Regression#Methoden für Klassifikation und Regression|Methoden für Klassifikation und Regression]] 
-	- Einschub: [[Notiz_Regularisierung#Regularisierung|Regularisierung]] 
+	- Einschub: [[Notiz_Regularisierung#Regularisierung|Regularisierung]], [[Notiz_Feature-Engineering#Feature Engineering|Feature Engineering]] 
 	- Bewertung 
 		- [[Notiz_Regression_Bewertung#Regression_Bewertung|für Regression]] 
 		- [[Notiz_Klassifikation_Bewertung#Klassifikation_Bewertung|für Klassifikation]] 

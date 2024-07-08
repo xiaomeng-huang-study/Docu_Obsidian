@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+                "file": "Data Analysis/Notiz_Klassifikation_Bewertung.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+                "file": "Data Analysis/Notiz_Klassifikation_Bewertung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+                "file": "Data Analysis/Notiz_Klassifikation_Bewertung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md"
+                "file": "Data Analysis/Notiz_Klassifikation_Bewertung.md"
               }
             }
           },
@@ -177,13 +177,14 @@
   },
   "active": "9c85b02e36409118",
   "lastOpenFiles": [
-    "Data Analysis/Notiz_Klassifikationsmethoden.md",
     "Data Analysis/Notiz_ML.md",
-    "Data Analysis/Notiz_Assoziationsanalyse.md",
+    "Data Analysis/Notiz_Feature-Engineering.md",
+    "Data Analysis/Notiz_Klassifikation_Bewertung.md",
     "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+    "Data Analysis/Notiz_Klassifikationsmethoden.md",
+    "Data Analysis/Notiz_Assoziationsanalyse.md",
     "Data Analysis/Notiz_Regressionsmethoden.md",
     "Data Analysis/Notiz_Clustering.md",
-    "Data Analysis/Notiz_Klassifikation_Bewertung.md",
     "Data Analysis/Notiz_Underfitting_Overfitting.md",
     "Data Analysis/Klausurfragen_Lösung.md",
     "Data Analysis/Notiz_Regression_Bewertung.md",
@@ -191,7 +192,6 @@
     "Data Analysis/Notiz_NN.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
-    "Data Analysis/Notiz_Feature-Engineering.md",
     "Data Analysis/Notiz_Regularisierung.md",
     "Data Analysis/Notiz_PCA.md",
     "Pasted image 20240706191351.png",
