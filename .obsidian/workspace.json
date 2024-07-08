@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_Klassifikation_Bewertung.md",
+                "file": "Data Analysis/Notiz_Underfitting_Overfitting.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Klausurfragen_Lösung.md",
+                "file": "Data Analysis/Notiz_Clustering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis/Notiz_Klassifikation_Bewertung.md",
+                "file": "Data Analysis/Notiz_Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis/Notiz_Klassifikation_Bewertung.md",
+                "file": "Data Analysis/Notiz_Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis/Notiz_Klassifikation_Bewertung.md"
+                "file": "Data Analysis/Notiz_Clustering.md"
               }
             }
           },
@@ -187,14 +188,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bedee14dca73cbf9",
+  "active": "9c85b02e36409118",
   "lastOpenFiles": [
     "Data Analysis/Notiz_ML.md",
-    "Data Analysis/Notiz_Regression_Bewertung.md",
-    "Data Analysis/Notiz_Clustering.md",
-    "Data Analysis/Notiz_Assoziationsanalyse.md",
-    "Data Analysis/Notiz_Klassifikationsmethoden.md",
     "Data Analysis/Klausurfragen_Lösung.md",
+    "Data Analysis/Notiz_Regressionsmethoden.md",
+    "Data Analysis/Notiz_Underfitting_Overfitting.md",
+    "Data Analysis/Notiz_Klassifikationsmethoden.md",
+    "Data Analysis/Notiz_Clustering.md",
+    "Data Analysis/Notiz_Regression_Bewertung.md",
+    "Data Analysis/Notiz_Klassifikation_Bewertung.md",
+    "Data Analysis/Notiz_Assoziationsanalyse.md",
     "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Data Analysis/Notiz_NN.md",
@@ -202,8 +206,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
     "Data Analysis/Notiz_Feature-Engineering.md",
     "Data Analysis/Notiz_Regularisierung.md",
-    "Data Analysis/Notiz_Klassifikation_Bewertung.md",
-    "Data Analysis/Notiz_Regressionsmethoden.md",
     "Data Analysis/Notiz_PCA.md",
     "Pasted image 20240706191351.png",
     "photo.svg",
@@ -220,7 +222,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_1.md",
     "Studienarbeit/Präsentation/Text.md",
     "Softwarearchitekturen/Notiz_Kapitel_7_ReinforcementLearning.md",
-    "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
