@@ -22,6 +22,7 @@
 - Ein baumbasierter Algorithmus, der Entscheidungen auf Basis von **Merkmalswerten** trifft, um den Zielwert zu bestimmen. 
 ### Maß für die Unreinheit
 - Entropie 
+	- $I_H(D) =-\sum_{i=0}^{\kappa-1}p(i\vert D)\log_2 p(i\vert D)$ 
 - Gini-Index ^GI
 	- $\begin{array}{ll}I_G(D) &=-\sum_{i=0}^{\kappa-1}p(i\vert D)(1-p(i\vert D))\\ &= 1 - \sum_{i=0}^{\kappa-1}p(i\vert D)^2\\ \end{array}$ 
 	- kleinere GI $\rightarrow$ Knoten homogener 
