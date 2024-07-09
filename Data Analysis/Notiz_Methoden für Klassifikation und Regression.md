@@ -36,6 +36,6 @@
 	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_18-56-06.png?raw=" width="40%" /> 
 
 ## Random Forest 
-- Eine Ensemble-Methode, die **mehrere Entscheidungsbäume** trainiert und deren Vorhersagen kombiniert, um die Genauigkeit und Robustheit zu erhöhen. 
+- Eine Ensemble-Methode, die aus **mehreren Entscheidungsbäumen** besteht, die zufällig ausgewählten Teilmengen der Trainingsdaten trainiert werden. Die endgültige Vorhersage ergibt sich aus Mehrheitsbestimmung / Mittelwert der Bäume. 
 - <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_22-07-15.png?raw=" width="90%" /> 
 
