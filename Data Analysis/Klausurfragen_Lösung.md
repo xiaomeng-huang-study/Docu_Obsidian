@@ -76,7 +76,7 @@
 	- Format 
 		- Datum 
 			```python
-			df["temperature"] = pd.to_numeric(df["temperature"])
+			df["date"] = pd.to_datetime(df["date"])
 			```
 		- numeric 
 			```python
