@@ -91,7 +91,6 @@
 	oht = TransactionEncoder()
 	oht_ary = oht.fit_transform(transactions)
 	transactdf = pd.DataFrame(oht_ary, columns=oht.columns_)
-	transactdf.head()
 	```
 - Skalierung und Normalisierung 
 	```python
