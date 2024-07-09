@@ -11,8 +11,12 @@
             "id": "30743ae65d5bbaa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysis/Klausurfragen_Lösung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Analysis/Klausurfragen_Lösung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data Analysis/Klausurfragen_Lösung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data Analysis/Klausurfragen_Lösung.md"
+              }
             }
           },
           {
@@ -169,7 +178,9 @@
   },
   "active": "30743ae65d5bbaa9",
   "lastOpenFiles": [
+    "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
     "Data Analysis/Notiz_Klassifikationsmethoden.md",
+    "Data Analysis/Notiz_Feature-Engineering.md",
     "Data Analysis/Notiz_Regressionsmethoden.md",
     "Data Analysis/Notiz_Regression_Bewertung.md",
     "Data Analysis/Notiz_Evaluierung.md",
@@ -180,8 +191,6 @@
     "Data Analysis/Klausurfragen_Lösung.md",
     "Data Analysis/Notiz_PCA.md",
     "Data Analysis/Notiz_Assoziationsanalyse.md",
-    "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
-    "Data Analysis/Notiz_Feature-Engineering.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Data Analysis/Notiz_NN.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
