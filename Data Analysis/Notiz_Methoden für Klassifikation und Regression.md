@@ -24,7 +24,7 @@
 - Entropie 
 	- $I_H(D) =-\sum_{i=0}^{\kappa-1}p(i\vert D)\log_2 p(i\vert D)$ 
 - Gini-Index ^GI
-	- $\begin{array}{ll}I_G(D) &=-\sum_{i=0}^{\kappa-1}p(i\vert D)(1-p(i\vert D))\\ &= 1 - \sum_{i=0}^{\kappa-1}p(i\vert D)^2\\ \end{array}$ 
+	- $\begin{array}{ll}I_G(D) &=\sum_{i=0}^{\kappa-1}p(i\vert D)(1-p(i\vert D))\\ &= 1 - \sum_{i=0}^{\kappa-1}p(i\vert D)^2\\ \end{array}$ 
 	- kleinere GI $\rightarrow$ Knoten homogener 
 ### Arbeitsverlauf 
 1. Berechne die [[#^GI|GI]] eines jeden Kindknotens bei einem möglichen Split 
