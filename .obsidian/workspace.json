@@ -11,8 +11,12 @@
             "id": "37fd4ed10424e34b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bewerbung_Master/Hochschule Karlsruhe/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bewerbung_Master/Hochschule Karlsruhe/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bewerbung_Master/Hochschule Karlsruhe/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bewerbung_Master/Hochschule Karlsruhe/Untitled.md"
+              }
             }
           },
           {
@@ -169,6 +177,10 @@
   },
   "active": "37fd4ed10424e34b",
   "lastOpenFiles": [
+    "Bewerbung_Master/Hochschule Karlsruhe/Motivationsschreiben.md",
+    "Bewerbung_Master/Hochschule Karlsruhe/Untitled.md",
+    "Bewerbung_Master/Hochschule Karlsruhe",
+    "Bewerbung_Master",
     "Data Analysis/Klausurfragen_Lösung.md",
     "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
     "Data Analysis/Notiz_Klassifikationsmethoden.md",
@@ -189,7 +201,6 @@
     "Data Analysis/Notiz_Regularisierung.md",
     "Pasted image 20240706191351.png",
     "photo.svg",
-    "Untitled",
     "Bachelorarbeit/test.md",
     "Bachelorarbeit/Belohnungsfunktion.md",
     "Bachelorarbeit/Kick-Off Meeting/Text.md",
@@ -199,15 +210,12 @@
     "Studienarbeit/Notiz_20231115.md",
     "Studienarbeit/mündliche Prüfung",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
-    "Softwarearchitekturen/Notiz_Kapitel_1.md",
-    "Studienarbeit/Präsentation/Text.md",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
     "Bachelorarbeit",
     "Pasted image 20231218145434.png",
     "Studienarbeit/Arbeitsbericht",
-    "Leadership and Business Communication/Presentation/20231220",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
     "Snipaste_2023-06-17_16-47-01.png",
