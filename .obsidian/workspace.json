@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eef40df9ef495e15",
+        "id": "a82056d5121b6b07",
         "type": "tabs",
         "children": [
           {
-            "id": "37fd4ed10424e34b",
+            "id": "7a30f8c0c250e8fa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "37fd4ed10424e34b",
+  "active": "7a30f8c0c250e8fa",
   "lastOpenFiles": [
     "Bachelorarbeit/Abschlusspräsentation/Text.md",
     "Bachelorarbeit/Untitled.md",
