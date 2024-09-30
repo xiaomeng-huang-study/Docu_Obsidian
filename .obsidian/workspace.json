@@ -11,8 +11,12 @@
             "id": "7a30f8c0c250e8fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kognitive Robotik/Note_20240930.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kognitive Robotik/Note_20240930.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kognitive Robotik/Note_20240930.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kognitive Robotik/Note_20240930.md"
+              }
             }
           },
           {
@@ -167,8 +175,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "7a30f8c0c250e8fa",
   "lastOpenFiles": [
+    "Kognitive Robotik/Note_20240930.md",
     "Kognitive Robotik",
     "Bachelorarbeit/Abschlusspräsentation/Text.md",
     "Bachelorarbeit/Untitled.md",
@@ -206,7 +215,6 @@
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
     "Bachelorarbeit/Vorstellungsgespräch",
-    "Bachelorarbeit",
     "Pasted image 20231218145434.png",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
