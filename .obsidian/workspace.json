@@ -11,8 +11,12 @@
             "id": "3261909a491d3ad2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BMSDM/Notiz_20241004.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BMSDM/Notiz_20241004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BMSDM/Notiz_20241004.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BMSDM/Notiz_20241004.md"
+              }
             }
           },
           {
@@ -169,8 +177,11 @@
   },
   "active": "3261909a491d3ad2",
   "lastOpenFiles": [
-    "Kognitive Robotik/Note_20240930.md",
-    "Kognitive Robotik",
+    "Cognitive Robotics/Untitled.md",
+    "BMSDM/Notiz_20241004.md",
+    "BMSDM",
+    "Cognitive Robotics/Note_20240930.md",
+    "Cognitive Robotics",
     "Bachelorarbeit/Abschlusspräsentation/Text.md",
     "Bachelorarbeit/Untitled.md",
     "Bachelorarbeit/Abschlusspräsentation",
@@ -199,14 +210,11 @@
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Bachelorarbeit/test.md",
-    "Bachelorarbeit/Belohnungsfunktion.md",
-    "Bachelorarbeit/Kick-Off Meeting/Text.md",
     "Bachelorarbeit/Kick-Off Meeting",
     "Data Analysis",
     "Studienarbeit/mündliche Prüfung",
     "BWL/Nicht bestätigt 846003.crdownload",
     "Studienarbeit/Präsentation",
-    "Bachelorarbeit/Vorstellungsgespräch",
     "Pasted image 20231218145434.png",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
