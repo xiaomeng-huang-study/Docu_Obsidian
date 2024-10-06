@@ -17,4 +17,6 @@
 ## Totzeitglied 
 - $\mathrm{F}_{\mathrm{SNK}}(\mathrm{s})=\mathrm{e}^{-\mathrm{s} \mathrm{~T}_{\mathrm{t}}} \approx \frac{1}{1+\mathrm{sT}_{\mathrm{t}}}$ 
 	- $\Rightarrow$ $T_{t}\approx T_{1} ~~\text{in PT1-Glied}$ 
+## Allpassglied 
+- $\mathrm{F}_{\mathrm{SNK}}(\mathrm{s})=\frac{1-\mathrm{sT}_{\mathrm{a}}}{1+\mathrm{sT}_{\mathrm{a}}} \approx \frac{1}{\left(1+\mathrm{sT}_{\mathrm{a}}\right)\left(1+\mathrm{sT}_{\mathrm{a}}\right)} \approx \frac{1}{1+\mathrm{s} \cdot 2 \mathrm{T}_{\mathrm{a}}}$ 
 - 
