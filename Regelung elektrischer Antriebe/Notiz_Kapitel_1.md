@@ -34,3 +34,13 @@
 <img src="https://github.com/ICH-BIN-HXM/images_REA/blob/main/Scrennshot_2024-10-06_15-49-03.png?raw=" width="70%" /> 
 <img src="https://github.com/ICH-BIN-HXM/images_REA/blob/main/Scrennshot_2024-10-06_15-48-04.png?raw=" width="80%" /> 
 
+
+# Zweifach integrierendes System (ZIS) 
+<img src="https://github.com/ICH-BIN-HXM/images_REA/blob/main/Scrennshot_2024-10-06_16-23-30.png?raw=" width="50%" /> 
+- $\mathrm{F}_{\mathrm{SNK}}(\mathrm{s})=\frac{1}{1+\mathrm{sT}_{\sigma}}$ 
+- $\mathrm{F}_{0}(\mathrm{s})=\frac{1+\mathrm{sT}_{02}}{\mathrm{~s}^{2} \mathrm{~T}_{01} \mathrm{~T}_{02}} \cdot \frac{1}{1+\mathrm{sT}_{\sigma}}$ 
+- $\mathrm{F}_{\mathrm{W}}(\mathrm{s})=\frac{1+\mathrm{sT}_{02}}{1+\mathrm{sT}_{02}+\mathrm{s}^{2} \mathrm{~T}_{01} \mathrm{~T}_{02}+\mathrm{s}^{3} \mathrm{~T}_{01} \mathrm{~T}_{02} \mathrm{~T}_{\sigma}}$ 
+## Beziehung zwischen $T_{01}, T_{02}$ und $T_\sigma$ 
+- Nach dem Symmetrisches Optimum (SO) 
+	- $T_{01}=2 \cdot T_{\sigma}$ 
+	- $T_{02}=4 \cdot T_{\sigma}$ 
