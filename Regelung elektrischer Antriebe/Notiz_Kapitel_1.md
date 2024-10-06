@@ -8,8 +8,13 @@
 
 # EIS mit nichtkompensierbarem Glied 
 ## PT1-Glied 
-- $\mathrm{F}_{\mathrm{SNK}}(\mathrm{s})=\frac{1}{1+\mathrm{sT}_{1}}$ 
-- $\mathrm{F}_{0}(\mathrm{s})=\frac{1}{\mathrm{sT}_{0}} \cdot \frac{1}{1+\mathrm{sT}_{1}}$ 
-- $\mathrm{F}_{\mathrm{W}}(\mathrm{s})=\frac{1}{1+\mathrm{sT}_{0}+\mathrm{s}^{2} \mathrm{~T}_{0} \mathrm{~T}_{1}}$ 
+- nichtkompensierbares Glied
+	- $\mathrm{F}_{\mathrm{SNK}}(\mathrm{s})=\frac{1}{1+\mathrm{sT}_{1}}$ 
+- offener Regelkreis 
+	- $\mathrm{F}_{0}(\mathrm{s})=\frac{1}{\mathrm{sT}_{0}} \cdot \frac{1}{1+\mathrm{sT}_{1}}$ 
+- geschlossener Regelkreis 
+	- $\mathrm{F}_{\mathrm{W}}(\mathrm{s})=\frac{1}{1+\mathrm{sT}_{0}+\mathrm{s}^{2} \mathrm{~T}_{0} \mathrm{~T}_{1}}$ 
 ## Totzeitglied 
 - $\mathrm{F}_{\mathrm{SNK}}(\mathrm{s})=\mathrm{e}^{-\mathrm{s} \mathrm{~T}_{\mathrm{t}}} \approx \frac{1}{1+\mathrm{sT}_{\mathrm{t}}}$ 
+	- $\Rightarrow$ $T_{t}\approx T_{1} ~~\text{in PT1-Glied}$ 
+- 
