@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3377344c4f741b69",
+        "id": "6085a8e488e55bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "3261909a491d3ad2",
+            "id": "aafa0544fa83e1c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BMSDM/Notiz_20241004.md",
+                "file": "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BMSDM/Notiz_20241004.md",
+                "file": "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BMSDM/Notiz_20241004.md",
+                "file": "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BMSDM/Notiz_20241004.md"
+                "file": "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md"
               }
             }
           },
@@ -175,10 +175,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3261909a491d3ad2",
+  "active": "aafa0544fa83e1c1",
   "lastOpenFiles": [
-    "Cognitive Robotics/Untitled.md",
+    "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md",
+    "Regelung elektrischer Antriebe",
     "BMSDM/Notiz_20241004.md",
+    "Cognitive Robotics/Untitled.md",
     "BMSDM",
     "Cognitive Robotics/Note_20240930.md",
     "Cognitive Robotics",
@@ -209,12 +211,10 @@
     "Data Analysis/Notiz_Regularisierung.md",
     "Pasted image 20240706191351.png",
     "photo.svg",
-    "Bachelorarbeit/test.md",
     "Bachelorarbeit/Kick-Off Meeting",
     "Data Analysis",
     "Studienarbeit/mündliche Prüfung",
     "BWL/Nicht bestätigt 846003.crdownload",
-    "Studienarbeit/Präsentation",
     "Pasted image 20231218145434.png",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
