@@ -11,8 +11,12 @@
             "id": "4dc25bb69ed1a92d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Wissenschaftliches Seminar/Notiz_20241015.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Wissenschaftliches Seminar/Notiz_20241015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Wissenschaftliches Seminar/Notiz_20241015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Wissenschaftliches Seminar/Notiz_20241015.md"
+              }
             }
           },
           {
@@ -169,6 +177,8 @@
   },
   "active": "4dc25bb69ed1a92d",
   "lastOpenFiles": [
+    "Wissenschaftliches Seminar/Notiz_20241015.md",
+    "Wissenschaftliches Seminar",
     "Cognitive Robotics/Note_20241007.md",
     "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md",
     "Regelung elektrischer Antriebe",
@@ -200,13 +210,11 @@
     "Data Analysis/Notiz_NN.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
-    "Data Analysis/Notiz_Regularisierung.md",
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Bachelorarbeit/Kick-Off Meeting",
     "Data Analysis",
     "Studienarbeit/mündliche Prüfung",
-    "BWL/Nicht bestätigt 846003.crdownload",
     "Pasted image 20231218145434.png",
     "Pasted image 20231017144352.png",
     "Pasted image 20231017144346.png",
