@@ -11,8 +11,12 @@
             "id": "1c53f4a3628d6100",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BMSDM/Lösung_20241011.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BMSDM/Lösung_20241011.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BMSDM/Lösung_20241011.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BMSDM/Lösung_20241011.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "1c53f4a3628d6100",
   "lastOpenFiles": [
+    "BMSDM/Lösung_20241011.md",
     "Wissenschaftliches Seminar/Notiz_20241015.md",
     "Wissenschaftliches Seminar",
     "Cognitive Robotics/Note_20241007.md",
@@ -201,7 +210,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Data Analysis/Notiz_NN.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Bachelorarbeit/Kick-Off Meeting",
