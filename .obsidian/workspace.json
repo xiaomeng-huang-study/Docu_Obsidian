@@ -11,10 +11,14 @@
             "id": "445ccc94c2059b38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BMSDM/Notiz_20241018.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_20241018"
             }
           }
         ]
@@ -191,6 +195,7 @@
   },
   "active": "445ccc94c2059b38",
   "lastOpenFiles": [
+    "BMSDM/Notiz_20241018.md",
     "BMSDM/Lösung_20241011.md",
     "Wissenschaftliches Seminar/Notiz_20241015.md",
     "Wissenschaftliches Seminar",
@@ -223,7 +228,6 @@
     "Data Analysis/Notiz_Assoziationsanalyse.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Data Analysis/Notiz_NN.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Bachelorarbeit/Kick-Off Meeting",
