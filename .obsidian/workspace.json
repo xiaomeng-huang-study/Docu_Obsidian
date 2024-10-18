@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55dfb01f89ed4aa5",
+        "id": "93d5e9ec1f422ea3",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe2e53322573c35",
+            "id": "6173b23d5104edfd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,7 +189,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9fe2e53322573c35",
+  "active": "6173b23d5104edfd",
   "lastOpenFiles": [
     "BMSDM/Notiz_20241018.md",
     "BMSDM/Lösung_20241011.md",
