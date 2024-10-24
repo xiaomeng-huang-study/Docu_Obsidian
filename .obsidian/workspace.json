@@ -11,14 +11,10 @@
             "id": "45e925a323abc7a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Bildverarbeitung/Notiz_Fundamental-Matrix.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_Fundamental-Matrix"
+              "title": "New tab"
             }
           }
         ]
@@ -193,7 +189,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "45e925a323abc7a3",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
     "3D-Bildverarbeitung/Notiz_Fundamental-Matrix.md",
     "3D-Bildverarbeitung",
