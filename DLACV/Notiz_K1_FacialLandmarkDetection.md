@@ -24,9 +24,3 @@
 			- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-10-26_16-02-19.png?raw=" width="50%" /> 
 		- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-10-26_16-03-05.png?raw=" width="60%" /> 
 
-# SIFT : Scale Invariant Feature Transform 
-## Interest Point 
-- descriptive 
-## Detecting Blobs 
-## SIFT Detector 
-## SIFT Descriptor 

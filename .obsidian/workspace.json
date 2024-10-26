@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4cd2d5e66f31d1d0",
+        "id": "d050739d8cb1deca",
         "type": "tabs",
         "children": [
           {
-            "id": "45e925a323abc7a3",
+            "id": "e1d2545824f9eab4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DLACV/Notiz_K1_FacialLandmarkDetection.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_K1_FacialLandmarkDetection"
+              "title": "New tab"
             }
           }
         ]
@@ -193,8 +189,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "45e925a323abc7a3",
+  "active": "e1d2545824f9eab4",
   "lastOpenFiles": [
+    "DLACV/Notiz_K2_FaceMorphing.md",
+    "DLACV/Notiz_K1_FacialLandmarkDetection.md",
     "3D-Bildverarbeitung/Notiz_Fundamental-Matrix.md",
     "3D-Bildverarbeitung",
     "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
@@ -202,7 +200,6 @@
     "Data Analysis/Notiz_Klassifikationsmethoden.md",
     "Data Analysis/Notiz_Regressionsmethoden.md",
     "Data Analysis/Notiz_Clustering.md",
-    "DLACV/Notiz_K1_FacialLandmarkDetection.md",
     "DLACV",
     "BMSDM/Notiz_20241018.md",
     "BMSDM/Lösung_20241011.md",
@@ -229,7 +226,6 @@
     "Data Analysis/Notiz_Klassifikation_Bewertung.md",
     "Data Analysis/Notiz_Underfitting_Overfitting.md",
     "Data Analysis/Notiz_PCA.md",
-    "Data Analysis/Notiz_Assoziationsanalyse.md",
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Bachelorarbeit/Kick-Off Meeting",
