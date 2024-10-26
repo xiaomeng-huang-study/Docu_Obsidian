@@ -5,6 +5,7 @@
 ## 4. Multi-Scale Detection and Sliding Window 
 
 ## Haar-Like Features 
+- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-10-26_15-52-50.png?raw=" width="70%" /> 
 - Concept 
 	- Compare pixel values to detect lighter and darker regions in an image. 
 - Types 
@@ -15,7 +16,13 @@
 	- Convert RGB to gray value image 
 	- Low values represent dark clusters (ie. Eyes) 
 	- High values represent bright clusters (ie. Nose) 
-- 
+- Computation cost 
+	- without Integral Image 
+		- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-10-26_16-00-55.png?raw=" width="80%" /> 
+	- with Integral Image 
+		- Integral Image 
+			- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-10-26_16-02-19.png?raw=" width="50%" /> 
+		- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-10-26_16-03-05.png?raw=" width="60%" /> 
 
 # SIFT : Scale Invariant Feature Transform 
 ## Interest Point 
