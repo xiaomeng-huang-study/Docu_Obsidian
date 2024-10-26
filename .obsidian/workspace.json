@@ -11,10 +11,14 @@
             "id": "45e925a323abc7a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DLACV/Notiz_K1_FacialLandmarkDetection.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_K1_FacialLandmarkDetection"
             }
           }
         ]
@@ -189,7 +193,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "45e925a323abc7a3",
   "lastOpenFiles": [
     "3D-Bildverarbeitung/Notiz_Fundamental-Matrix.md",
     "3D-Bildverarbeitung",
