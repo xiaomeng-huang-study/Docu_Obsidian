@@ -1,8 +1,8 @@
 # Viola Jones Algorithm 
-## 1. Selecting Haar-like features 
-2. Creating an integral image 
-3. Running AdaBoost training 
-4. Creating classifier cascades 
+## 1. Feature Selection using Haar-like Features 
+## 2. Feature Selection with AdaBoost 
+## 3. Cascade of Classifiers 
+## 4. Multi-Scale Detection and Sliding Window 
 
 ## Haar-Like Features 
 - Concept 
