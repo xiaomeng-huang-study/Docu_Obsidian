@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2c04ddbd057084",
+        "id": "32646035836285fb",
         "type": "tabs",
         "children": [
           {
-            "id": "d97e60bd163c53b3",
+            "id": "9e3b0bc50bfcbacc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Bildverarbeitung/Notiz_K1.3_Grundlagen_Bildeigenschaften.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_K1.3_Grundlagen_Bildeigenschaften"
+              "title": "New tab"
             }
           }
         ]
@@ -193,7 +189,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d97e60bd163c53b3",
+  "active": "9e3b0bc50bfcbacc",
   "lastOpenFiles": [
     "3D-Bildverarbeitung/Notiz_K1.3_Grundlagen_Bildeigenschaften.md",
     "DLACV/Notiz_K2_FaceMorphing.md",
