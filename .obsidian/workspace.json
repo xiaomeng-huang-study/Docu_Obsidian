@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DLACV/Notiz_K1.2_NN_SVM.md",
+                "file": "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_K1.2_NN_SVM"
+              "title": "Notiz_K1.1_Grundlagen_Bilddatentypen"
             }
           }
         ]
@@ -196,6 +196,7 @@
   "active": "8ca9292ed1fccf94",
   "lastOpenFiles": [
     "DLACV/Notiz_K1.2_NN_SVM.md",
+    "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
     "3D-Bildverarbeitung/Notiz_K1.2_Grundlagen_Farbmodelle.md",
     "3D-Bildverarbeitung/Notiz_K1.3_Grundlagen_Bildeigenschaften.md",
     "DLACV/Notiz_K2_FaceMorphing.md",
@@ -229,7 +230,6 @@
     "Data Analysis/Klausurfragen_Lösung.md",
     "Data Analysis/Notiz_Feature-Engineering.md",
     "Data Analysis/Notiz_Regression_Bewertung.md",
-    "Data Analysis/Notiz_Evaluierung.md",
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Bachelorarbeit/Kick-Off Meeting",
