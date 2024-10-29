@@ -11,10 +11,14 @@
             "id": "671c7cb14abc7c2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "BMSDM/Notiz_Management-Ansätze.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_Management-Ansätze"
             }
           }
         ]
@@ -191,6 +195,7 @@
   },
   "active": "671c7cb14abc7c2f",
   "lastOpenFiles": [
+    "BMSDM/Notiz_Management-Ansätze.md",
     "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
     "DLACV/Notiz_K1.2_NN_SVM.md",
     "3D-Bildverarbeitung/Notiz_K1.2_Grundlagen_Farbmodelle.md",
@@ -225,7 +230,6 @@
     "Bewerbung_Master",
     "Data Analysis/Klausurfragen_Lösung.md",
     "Data Analysis/Notiz_Feature-Engineering.md",
-    "Data Analysis/Notiz_Regression_Bewertung.md",
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Bachelorarbeit/Kick-Off Meeting",
