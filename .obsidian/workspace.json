@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0900a9db232d0f00",
+        "id": "f260ea34ab27153b",
         "type": "tabs",
         "children": [
           {
-            "id": "671c7cb14abc7c2f",
+            "id": "4675b74110029d77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BMSDM/Notiz_Management-Ansätze.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_Management-Ansätze"
+              "title": "New tab"
             }
           }
         ]
@@ -193,10 +189,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "671c7cb14abc7c2f",
+  "active": "4675b74110029d77",
   "lastOpenFiles": [
-    "BMSDM/Notiz_Management-Ansätze.md",
     "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
+    "BMSDM/Notiz_Management-Ansätze.md",
     "DLACV/Notiz_K1.2_NN_SVM.md",
     "3D-Bildverarbeitung/Notiz_K1.2_Grundlagen_Farbmodelle.md",
     "3D-Bildverarbeitung/Notiz_K1.3_Grundlagen_Bildeigenschaften.md",
