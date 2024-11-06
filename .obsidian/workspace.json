@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f260ea34ab27153b",
+        "id": "047a87920085d573",
         "type": "tabs",
         "children": [
           {
-            "id": "4675b74110029d77",
+            "id": "c7ba75fa64d6ee32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D-Bildverarbeitung/Notiz_20241106.md",
+                "file": "Wissenschaftliches Seminar/Notiz_20241106.md",
                 "mode": "source",
                 "source": false
               },
@@ -193,10 +193,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4675b74110029d77",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
+    "Wissenschaftliches Seminar/Notiz_20241106.md",
     "3D-Bildverarbeitung/Notiz_20241106.md",
+    "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
     "BMSDM/Notiz_Management-Ansätze.md",
     "DLACV/Notiz_K1.2_NN_SVM.md",
@@ -226,7 +227,6 @@
     "Bachelorarbeit/Abschlusspräsentation/Text.md",
     "Bachelorarbeit/Untitled.md",
     "Bachelorarbeit/Abschlusspräsentation",
-    "Bewerbung_Master/Hochschule Karlsruhe/Motivationsschreiben.md",
     "Bewerbung_Master/Hochschule Karlsruhe/Motivationsschreiben.md",
     "Bewerbung_Master/Hochschule Karlsruhe",
     "Bewerbung_Master",
