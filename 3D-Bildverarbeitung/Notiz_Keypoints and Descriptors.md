@@ -15,3 +15,6 @@
 - Calculate the distances between the feature vectors and use the most similar feature vectors as corresponding points 
 ## 4. Stitching 
 - Use a set of 8 corresponding points to define an equation system. Solve the equation system to calculate the transformation parameter. Use the transformation matrix to align one image into the other image. 
+
+## Anforderung 
+Region extraction needs to be repeatable and accurate
