@@ -30,3 +30,5 @@ Region extraction needs to be repeatable and accurate
 ## Step 1: Gaussian and Difference-of-Gaussian pyramid 
 <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_18-03-31.png?raw=" width="60%" /> 
 
+<img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_21-25-47.png?raw=" width="60%" /> 
+## Step 2: Detect Minima and Maxima 
