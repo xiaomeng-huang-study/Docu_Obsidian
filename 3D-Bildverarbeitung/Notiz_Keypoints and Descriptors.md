@@ -32,3 +32,6 @@ Region extraction needs to be repeatable and accurate
 
 <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_21-25-47.png?raw=" width="60%" /> 
 ## Step 2: Detect Minima and Maxima 
+<img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_21-44-43.png?raw=" width="40%" /> 
+- A point is selected as keypoint if it is higher or lower than all 26 (3 x 3 x 3 - 1) neighbors. 
+## Step 3: Detect Keypoint orientation 
