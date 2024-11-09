@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "047a87920085d573",
+        "id": "5c68f3fac60e16a9",
         "type": "tabs",
         "children": [
           {
-            "id": "c7ba75fa64d6ee32",
+            "id": "963432cb5f559f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,11 +193,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c7ba75fa64d6ee32",
+  "active": "963432cb5f559f0b",
   "lastOpenFiles": [
+    "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "3D-Bildverarbeitung/Notiz_20241106.md",
     "Wissenschaftliches Seminar/Notiz_20241106.md",
-    "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
     "BMSDM/Notiz_Management-Ansätze.md",
     "DLACV/Notiz_K1.2_NN_SVM.md",
