@@ -59,3 +59,11 @@ Region extraction needs to be repeatable and accurate
 
 
 # Harris Corner Detector 
+## mathematical principle 
+- Consider shifting the window W by (u,v) 
+	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_12-20-05.png?raw=" width="20%" /> 
+- Sum of Square Differences (SSD) 
+	- $\begin{array}{l}E(u, v) & =\sum_\limits{(x, y) \in W}[I(x+u, y+v)-I(x, y)]^{2} \\        & \approx \sum_\limits{(x, y) \in W}[u ~ v]\left[\begin{array}{cc}I_{x}^{2} & I_{x} I_{y} \\I_{y} I_{x} & I_{y}^{2}\end{array}\right]\left[\begin{array}{l}u \\v\end{array}\right]\end{array}$ 
+- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_12-27-35.png?raw=" width="70%" /> 
+## Step 1: Measure SSD 
+<img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_12-34-59.png?raw=" width="60%" /> 

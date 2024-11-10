@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c68f3fac60e16a9",
+        "id": "ac9b77d1aa14a550",
         "type": "tabs",
         "children": [
           {
-            "id": "963432cb5f559f0b",
+            "id": "b2a960102f0fb615",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,7 +193,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "963432cb5f559f0b",
+  "active": "b2a960102f0fb615",
   "lastOpenFiles": [
     "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "3D-Bildverarbeitung/Notiz_20241106.md",
