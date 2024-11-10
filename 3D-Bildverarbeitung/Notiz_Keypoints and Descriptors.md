@@ -1,7 +1,7 @@
 <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-08_22-24-56.png?raw=" width="90%" /> 
 
 # Image Stitching 
-## 1. Keypoint Localization 
+## 1. Keypoint Detection (Localization) 
 - Keypoint (feature point / interesting point) 
 	- charakteristische Punkte in einem Bild, die eindeutig und konsistent in verschiedenen Ansichten oder unter verschiedenen Beleuchtungsbedingungen erkannt werden können. 
 	- z.B. Ecken, Kanten, Blob, Textur- oder Musterbereiche 
@@ -49,3 +49,6 @@ Region extraction needs to be repeatable and accurate
 	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_22-22-03.png?raw=" width="80%" /> 
 - 16 blocks x 8 directions/block = 128 directions $\Rightarrow$ SIFT Descriptor $\left(\begin{array}{c}m_{1} \\\vdots \\m_{128}\end{array}\right)$ 
 	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_22-24-00.png?raw=" width="30%" /> 
+
+
+# Harris Corner Detector 
