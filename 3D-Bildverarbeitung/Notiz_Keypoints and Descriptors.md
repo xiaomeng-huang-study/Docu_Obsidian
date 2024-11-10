@@ -7,6 +7,7 @@
 	- z.B. Ecken, Kanten, Blob, Textur- oder Musterbereiche 
 - Methoden 
 	- [[Notiz_Keypoints and Descriptors#SIFT detector SIFT-Detector|SIFT Detector]] 
+	- [[Notiz_Keypoints and Descriptors#Harris Corner Detector Harris-Corner-Detector|Haris Corner Detector]] 
 ## 2. Keypoint Description 
 - Keypoint descriptor 
 	- save the neighborhood informations around a keypoint as a description of the object, usually as feature vectors 
@@ -58,7 +59,7 @@ Region extraction needs to be repeatable and accurate
 	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_22-24-00.png?raw=" width="30%" /> 
 
 
-# Harris Corner Detector 
+# Harris Corner Detector^Harris-Corner-Detector
 ## mathematical principle 
 - Consider shifting the window W by (u,v) 
 	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_12-20-05.png?raw=" width="20%" /> 
@@ -67,3 +68,18 @@ Region extraction needs to be repeatable and accurate
 - <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_12-27-35.png?raw=" width="70%" /> 
 ## Step 1: Measure SSD 
 <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_12-34-59.png?raw=" width="60%" /> 
+- $E \approx\left[\begin{array}{ll}u & v\end{array}\right] ~ M ~ \left[\begin{array}{l}u \\v\end{array}\right]$ 
+## Step 2: Compute M 
+- $\begin{array}{l}M &=\sum_{x, y} w(x, y)\left[\begin{array}{cc}I_{x}^{2} & I_{x} I_{y} \\I_{x} I_{y} & I_{y}^{2}\end{array}\right] \\&= R^{-1}\left[\begin{array}{cc}\lambda_{1} & 0 \\0 & \lambda_{2}\end{array}\right] R\end{array}$ 
+- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_12-49-38.png?raw=" width="30%" /> 
+## Step 3: Classification of image points using Eigenvalues 
+<img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_12-53-58.png?raw=" width="50%" /> 
+### Corner Response Function 
+- $\begin{array}{l}R &=\operatorname{det}(M)-\alpha \operatorname{trace}(M)^{2} \\&=\lambda_{1} \lambda_{2}-\alpha\left(\lambda_{1}+\lambda_{2}\right)^{2}\end{array}$ 
+- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_12-57-22.png?raw=" width="50%" /> 
+## Eigenschaften 
+- **invariant** to image rotation 
+	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_13-04-05.png?raw=" width="30%" /> 
+	- Shape / Eigenvalues remain the same 
+- **variant** to image scale 
+	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_13-05-35.png?raw=" width="50%" /> 
