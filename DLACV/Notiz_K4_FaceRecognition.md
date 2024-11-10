@@ -1,0 +1,10 @@
+# Training 
+- Convert a fixed size face image into a vector 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-11-10_21-45-50.png?raw=" width="70%" /> 
+- **Triplet Loss** 
+	- vergleicht 
+		- ein Anchor-Bild (das Referenzbild) 
+		- ein Positive-Bild (ein Bild der gleichen Person) 
+		- ein Negative-Bild (ein Bild einer anderen Person) 
+	- versucht, den Abstand zwischen Anchor und Positive zu verkleinern und den Abstand zwischen Anchor und Negative zu vergrößern. 
+	- 
