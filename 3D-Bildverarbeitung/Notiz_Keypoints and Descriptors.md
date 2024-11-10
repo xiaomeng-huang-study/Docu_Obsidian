@@ -8,6 +8,7 @@
 - Methoden 
 	- [[Notiz_Keypoints and Descriptors#SIFT detector SIFT-Detector|SIFT Detector]] 
 	- [[Notiz_Keypoints and Descriptors#Harris Corner Detector Harris-Corner-Detector|Haris Corner Detector]] 
+	- [[Notiz_Keypoints and Descriptors#Hessian Detector Hessian-Detector|Hessian Detector]] 
 ## 2. Keypoint Description 
 - Keypoint descriptor 
 	- save the neighborhood informations around a keypoint as a description of the object, usually as feature vectors 
@@ -83,3 +84,7 @@ Region extraction needs to be repeatable and accurate
 	- Shape / Eigenvalues remain the same 
 - **variant** to image scale 
 	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_13-05-35.png?raw=" width="50%" /> 
+
+# Hessian Detector^Hessian-Detector
+- erfasst Bereiche mit **schnellen Helligkeitsänderungen** 
+- Um Merkmale zu identifizieren, wird die Determinante der Hessian-Matrix an jedem Pixel berechnet. Ein **hoher** Wert der **Determinante** zeigt einen starken Helligkeitsunterschied und damit einen potenziellen **Merkmalsbereich** an. 
