@@ -5,9 +5,13 @@
 - Keypoint (feature point / interesting point) 
 	- charakteristische Punkte in einem Bild, die eindeutig und konsistent in verschiedenen Ansichten oder unter verschiedenen Beleuchtungsbedingungen erkannt werden können. 
 	- z.B. Ecken, Kanten, Blob, Textur- oder Musterbereiche 
+- Methoden 
+	- [[Notiz_Keypoints and Descriptors#SIFT detector SIFT-Detector|SIFT Detector]] 
 ## 2. Keypoint Description 
 - Keypoint descriptor 
 	- save the neighborhood informations around a keypoint as a description of the object, usually as feature vectors 
+- Methoden 
+	- [[Notiz_Keypoints and Descriptors#SIFT Descriptor SIFT-Descriptor|SIFT Descriptor]] 
 ## 3. Descriptor matching 
 - Matching 
 	- Calculate the distances between the feature vectors 
@@ -26,7 +30,7 @@ Region extraction needs to be repeatable and accurate
 - Ein Feature-Detektor kann robust gegenüber Beleuchtungsänderungen oder leichtem Rauschen sein 
 
 
-# SIFT detector and descriptor 
+# SIFT Detector^SIFT-Detector
 ## Step 1: Gaussian and Difference-of-Gaussian pyramid 
 <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_18-03-31.png?raw=" width="60%" /> 
 
@@ -34,7 +38,10 @@ Region extraction needs to be repeatable and accurate
 ## Step 2: Detect Minima and Maxima 
 <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_21-44-43.png?raw=" width="40%" /> 
 - A point is selected as keypoint if it is higher or lower than all 26 (3 x 3 x 3 - 1) neighbors. 
-## Step 3: Detect Keypoint orientation 
+- $\sigma$ : the smaller of the two gaussian images from the DoG image 
+
+# SIFT Descriptor^SIFT-Descriptor
+## Step 1: Detect Keypoint orientation 
 - Calculate in a preprocessing step all gradient magnitudes and orientations to all gaussian images L 
 	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_22-10-06.png?raw=" width="60%" /> 
 - Weight the orientation 
@@ -42,7 +49,7 @@ Region extraction needs to be repeatable and accurate
 - Histogram of Oriented Gradients (HOG) 
 	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_22-07-14.png?raw=" width="90%" /> 
 	- 36 bins x 10°/bin = 360° 
-## Step 4: Description 
+## Step 2: Description 
 - Define a squared 16x16 region around the keypoint, divide the region into 16 equal blocks by 4x4 pixel 
 	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-09_22-15-22.png?raw=" width="30%" /> 
 - Rotate the region according to the keypoint orientation 
