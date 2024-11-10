@@ -7,4 +7,9 @@
 		- ein Positive-Bild (ein Bild der gleichen Person) 
 		- ein Negative-Bild (ein Bild einer anderen Person) 
 	- versucht, den Abstand zwischen Anchor und Positive zu verkleinern und den Abstand zwischen Anchor und Negative zu vergrößern. 
-	- 
+	- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-11-10_22-00-14.png?raw=" width="90%" /> 
+- **Enrollment** 
+	- enroll / add a new person 
+- **Inference** 
+	- KNN 
+		- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-11-10_22-02-15.png?raw=" width="70%" /> 
