@@ -11,10 +11,14 @@
             "id": "879be06d8d2be834",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Robotics/Note_20241111.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Note_20241111"
             }
           }
         ]
@@ -191,6 +195,7 @@
   },
   "active": "879be06d8d2be834",
   "lastOpenFiles": [
+    "Cognitive Robotics/Note_20241111.md",
     "DLACV/Notiz_K4_FaceRecognition.md",
     "DLACV/Notiz_K3_SnapChatFilter.md",
     "DLACV/Notiz_K2_FaceMorphing.md",
@@ -221,7 +226,6 @@
     "Regelung elektrischer Antriebe",
     "BMSDM/Notiz_20241004.md",
     "BMSDM",
-    "Cognitive Robotics/Note_20240930.md",
     "Cognitive Robotics",
     "Bachelorarbeit/Abschlusspräsentation",
     "Bewerbung_Master/Hochschule Karlsruhe",
