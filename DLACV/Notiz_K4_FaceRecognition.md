@@ -24,6 +24,7 @@
 ## Step 2: Vectorization 
 <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-11-11_21-12-18.png?raw=" width="30%" /> 
 - Convert normalized face into a vector 
+
 ## Step 3: Reduce the dimensionality with PCA 
 - Average Face (Mean Vector): $\mu=\frac{1}{m}\sum_{i=1}^{m} g_{i}$ (m: number images) 
 - Difference from the average face: $X=\left[\left(g_{1}-\mu\right)\left(g_{2}-\mu\right) \ldots\left(g_{m}-\mu\right)\right]$ 
