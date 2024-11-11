@@ -21,6 +21,7 @@
 - detect the face image 
 - align the face image with the left and right eye corner points 
 - normalize the image size to 64x64 
+
 ## Step 2: Vectorization 
 <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-11-11_21-12-18.png?raw=" width="30%" /> 
 - Convert normalized face into a vector 
