@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5dd2c693b4feab",
+        "id": "b691a3f148cabe18",
         "type": "tabs",
         "children": [
           {
-            "id": "879be06d8d2be834",
+            "id": "131ad748190ea52f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DLACV/Notiz_K4_FaceRecognition.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_K4_FaceRecognition"
+              "title": "New tab"
             }
           }
         ]
@@ -193,10 +189,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "879be06d8d2be834",
+  "active": "131ad748190ea52f",
   "lastOpenFiles": [
-    "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "DLACV/Notiz_K4_FaceRecognition.md",
+    "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "Cognitive Robotics/Note_20241111.md",
     "DLACV/Notiz_K3_SnapChatFilter.md",
     "DLACV/Notiz_K2_FaceMorphing.md",
