@@ -11,10 +11,14 @@
             "id": "131ad748190ea52f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DLACV/Notiz_K4_FaceRecognition_DeepLearning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_K4_FaceRecognition_DeepLearning"
             }
           }
         ]
@@ -192,6 +196,7 @@
   "active": "131ad748190ea52f",
   "lastOpenFiles": [
     "DLACV/Notiz_K4_FaceRecognition.md",
+    "DLACV/Notiz_K4_FaceRecognition_DeepLearning.md",
     "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "Cognitive Robotics/Note_20241111.md",
     "DLACV/Notiz_K3_SnapChatFilter.md",
@@ -220,7 +225,6 @@
     "Cognitive Robotics/Note_20241007.md",
     "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md",
     "Regelung elektrischer Antriebe",
-    "BMSDM/Notiz_20241004.md",
     "BMSDM",
     "Cognitive Robotics",
     "Bachelorarbeit/Abschlusspräsentation",
