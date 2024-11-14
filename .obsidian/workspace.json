@@ -11,10 +11,14 @@
             "id": "4effaf476671a9d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DLACV/Notiz_K3_SnapChatFilter.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_K3_SnapChatFilter"
             }
           }
         ]
@@ -191,6 +195,7 @@
   },
   "active": "4effaf476671a9d3",
   "lastOpenFiles": [
+    "DLACV/Notiz_K2_FaceMorphing.md",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
     "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
     "DLACV/Notiz_K4_FaceRecognition_DeepLearning.md",
@@ -198,7 +203,6 @@
     "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "Cognitive Robotics/Note_20241111.md",
     "DLACV/Notiz_K3_SnapChatFilter.md",
-    "DLACV/Notiz_K2_FaceMorphing.md",
     "3D-Bildverarbeitung/Notiz_20241106.md",
     "Wissenschaftliches Seminar/Notiz_20241106.md",
     "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
