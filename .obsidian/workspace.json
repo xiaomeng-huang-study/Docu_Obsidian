@@ -11,10 +11,14 @@
             "id": "cfc517331cdaef9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Wissenschaftliches Seminar/Notiz_20241121.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_20241121"
             }
           }
         ]
@@ -191,6 +195,7 @@
   },
   "active": "cfc517331cdaef9b",
   "lastOpenFiles": [
+    "Wissenschaftliches Seminar/Notiz_20241121.md",
     "Wissenschaftliches Seminar/Notiz_20241106.md",
     "Wissenschaftliches Seminar/Notiz_20241015.md",
     "DLACV/Notiz_K3_SnapChatFilter.md",
@@ -219,7 +224,6 @@
     "BMSDM/Notiz_20241018.md",
     "BMSDM/Lösung_20241011.md",
     "Wissenschaftliches Seminar",
-    "Cognitive Robotics/Note_20241007.md",
     "Regelung elektrischer Antriebe",
     "BMSDM",
     "Cognitive Robotics",
