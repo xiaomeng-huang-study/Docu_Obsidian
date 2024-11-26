@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d95dfee8905fd701",
+        "id": "6debc45eac921a30",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ea03e8ce1907ba",
+            "id": "a2f3ff639636b2f3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,8 +189,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a2ea03e8ce1907ba",
+  "active": "a2f3ff639636b2f3",
   "lastOpenFiles": [
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
+    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
     "Wissenschaftliches Seminar/Notiz_20241106.md",
     "Wissenschaftliches Seminar/Notiz_20241121.md",
     "Wissenschaftliches Seminar/Notiz_20241015.md",
@@ -215,10 +218,7 @@
     "Data Analysis/Notiz_ML.md",
     "Data Analysis/Notiz_Klassifikationsmethoden.md",
     "Data Analysis/Notiz_Regressionsmethoden.md",
-    "Data Analysis/Notiz_Clustering.md",
     "DLACV",
-    "BMSDM/Notiz_20241018.md",
-    "BMSDM/Lösung_20241011.md",
     "Wissenschaftliches Seminar",
     "Regelung elektrischer Antriebe",
     "BMSDM",
