@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "208f53ea93145136",
+        "id": "b899e694249bfdb4",
         "type": "tabs",
         "children": [
           {
-            "id": "64d3183a504dc08c",
+            "id": "36ca06b5c889840e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,8 +189,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "36ca06b5c889840e",
   "lastOpenFiles": [
+    "Wissenschaftliches Seminar/Notiz_20241106.md",
+    "Wissenschaftliches Seminar/Notiz_20241121.md",
+    "Wissenschaftliches Seminar/Notiz_20241015.md",
     "BMSDM/Notiz_Design_Thinking.md",
     "BMSDM/Notiz_Management-Ansätze.md",
     "BMSDM/Unconfirmed 979843.crdownload",
@@ -200,9 +203,6 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
-    "Wissenschaftliches Seminar/Notiz_20241106.md",
-    "Wissenschaftliches Seminar/Notiz_20241121.md",
-    "Wissenschaftliches Seminar/Notiz_20241015.md",
     "DLACV/Notiz_K3_SnapChatFilter.md",
     "DLACV/Notiz_K2_FaceMorphing.md",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
