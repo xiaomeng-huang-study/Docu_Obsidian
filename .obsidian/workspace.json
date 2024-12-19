@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "774646d97eecbb63",
+        "id": "de065ba6127fd47a",
         "type": "tabs",
         "children": [
           {
-            "id": "21ae9535870abffd",
+            "id": "5cdd8e9c34a2b9a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_Optical_Flow"
+              "title": "New tab"
             }
           }
         ]
@@ -193,8 +189,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "21ae9535870abffd",
+  "active": "5cdd8e9c34a2b9a7",
   "lastOpenFiles": [
+    "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
     "3D-Bildverarbeitung/Projekt/Notiz_20241218.md",
     "3D-Bildverarbeitung/Projekt/Notiz_20241211.md",
     "3D-Bildverarbeitung/Projekt/Prio-Liste.md",
@@ -216,7 +213,6 @@
     "DLACV/Notiz_K3_SnapChatFilter.md",
     "DLACV/Notiz_K2_FaceMorphing.md",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
-    "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
     "DLACV/Notiz_K4_FaceRecognition_DeepLearning.md",
     "DLACV/Notiz_K4_FaceRecognition.md",
     "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
