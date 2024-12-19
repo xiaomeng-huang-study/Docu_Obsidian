@@ -1,0 +1,3 @@
+- Architektur 
+- Objekteigenschaft 
+- Live Daten 
