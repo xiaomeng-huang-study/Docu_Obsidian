@@ -19,7 +19,7 @@
 		- Development project 
 - Project goals 
 	- PM Triangle 
-		- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-11-09_19-21-44.png?raw=)
+		- Schaubild: ![|350](https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Snipaste_2023-11-09_19-21-44.png?raw=)
 	- SMART-Principle 
 		- Specific: clear? 
 		- Measurable: how the outcome can be judged objectively? 

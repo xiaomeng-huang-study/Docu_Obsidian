@@ -7,7 +7,7 @@
 ## 1. Lucas Kanade 
 ## 2. Horn Schunck 
 ## Comparison between Lucas Kanade and Horn Schunck 
-<img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_17-59-52.png?raw=" width="90%" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-10_17-59-52.png?raw=" width="90%" /> 
 
 # Eigenschaften 
 - used for very small pixel changes between two images 
@@ -16,4 +16,4 @@
 
 # Ausblick 
 ## Pyramid scheme 
-<img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-11-10_18-06-00.png?raw=" width="90%" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-10_18-06-00.png?raw=" width="90%" /> 

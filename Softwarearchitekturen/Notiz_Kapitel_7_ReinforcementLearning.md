@@ -13,7 +13,7 @@
 - Policy $\pi$ 
 	- eine Funktion, die einen Zustand auf eine Wahrscheinlichkeitsverteilung über die Menge der möglichen Aktionen in diesem Zustand abbildet 
 	- optimale Policy: die Strategie, die die Belohnungen maximiert 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-03_18-14-28.png?raw=" width="600" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-03_18-14-28.png?raw=" width="600" /> 
 - Wert-Funktion $V_{\pi}$ (engl. Value-Function) 
 	- Funktionen, die einen Zustand auf den erwarteten Wert (die erwartete Belohnung) abbilden, wenn man sich in einem bestimmten Zustand befindet oder in einem bestimmten Zustand eine Aktion ausführt. 
 - Aktion-Wert-Funktion $Q_{\pi}$ (engl. Q-Function) 
@@ -21,7 +21,7 @@
 
 
 Schaubild: 
-<img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-03_18-11-22.png?raw=" width="500" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-03_18-11-22.png?raw=" width="500" /> 
 
 ## Typen 
 - Value-Based 
@@ -34,7 +34,7 @@ Schaubild:
 
 
 ## Q-Learning 
-<img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_15-50-24.png?raw=" width="400" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_15-50-24.png?raw=" width="400" /> 
 - ist eine Form des Reinforcement Learning, bei dem wir versuchen zu lernen, wie wir die erwarteten Belohnungen für jede Aktion in einem bestimmten Zustand vorhersagen können 
 - $Q_i$ konvergiert zu $Q^{*}$ für $i ~ \rightarrow \infty$ 
 - Problem 
@@ -43,7 +43,7 @@ Schaubild:
 	- Keine Fähigkeit zur Generalisierung auf neuen Staten 
 
 ### Deep Q-Learning 
-<img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_16-01-22.png?raw=" width="600" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_16-01-22.png?raw=" width="600" /> 
 - Funktion-Approximator -> tiefes neuronales Netz 
 - $Q(s,a;\theta) \approx Q^{*}(s,a)$ 
 	- $\theta$ : Gewicht für neuronales Netz 
@@ -57,19 +57,19 @@ Schaubild:
 - On-Policy-Learning: eine Policy lernen, dann gleichzeitig nutzen 
 - katastrophales Vergessen: wenn man mit kleinen Datenmengen gleichzeitig trainiert, wobei die neu zu lernenden Daten die bereits gelernten alten Informationen löschen oder verfälschen 
 - Memory Replay 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_16-38-01.png?raw=" width="600" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_16-38-01.png?raw=" width="600" /> 
 	- ein Buffer, indem frühere Erfahrungen gespeichert werden und dann eine nach dem Zufallsprinzip ausgewählte Teilmenge (Batch) dieser Erfahrungen zur Aktualisierung des Q-Networks verwendet wird, anstatt nur die jüngste Erfahrung zu verwenden. 
 - Target-Network 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_16-39-01.png?raw=" width="600" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_16-39-01.png?raw=" width="600" /> 
 	- Kopie des Haupt-DQN -> Stabilisierung 
 
 
 ## Policy Gradient Methods 
-<img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_18-45-21.png?raw=" width="800" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_18-45-21.png?raw=" width="800" /> 
 - Problem bei Wahrscheinlichkeit: Surrogatziel $-\log \left(\pi_{\theta}(a \mid s)\right)$ verwenden 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_18-50-27.png?raw=" width="400" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_18-50-27.png?raw=" width="400" /> 
 - Loss Funktion 
 
 
 ## Actor-Critic Method 
-<img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_19-04-04.png?raw=" width="800" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-04_19-04-04.png?raw=" width="800" /> 

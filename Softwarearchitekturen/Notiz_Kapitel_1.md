@@ -6,7 +6,7 @@
 
 # KI 
 - Typen 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_14-58-15.png?raw=" width="400" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_14-58-15.png?raw=" width="400" /> 
 	- Künstliche Intelligenz (KI, engl. Artificial Intelligence): bezieht sich auf die Fähigkeit von Computern oder Maschinen, Aufgaben auszuführen, die normalerweise menschliche Intelligenz erfordern. 
 	- Maschinelles Lernen (ML, engl. Machine Learning): ist ein Teilgebiet der künstlichen Intelligenz, das sich auf die Entwicklung von <u>Algorithmen</u> konzentriert, die es Computern ermöglichen, aus Daten zu lernen. 
 	- Überwachtes Lernen (engl. Supervised Learning): Bei überwachtem Lernen werden Algorithmen auf Grundlage von <u>gelabelten</u> Trainingsdaten trainiert. 
@@ -27,10 +27,10 @@
 
 
 # Neuronales Netz 
-- learning rate: ![](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Learning-rate.png?raw=)  
+- learning rate: ![](https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Learning-rate.png?raw=)  
 
 - Multi-Layer-Perzeptron 
-	- Schaubild: ![|400](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-10-20_22-18-09.png?raw=) 
+	- Schaubild: ![|400](https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-10-20_22-18-09.png?raw=) 
 	- Dimensionen: 
 		- input_size = 2 
 		- 1 hidden layer 
@@ -80,7 +80,7 @@
 	- Daten 
 		- train - validation - test 
 	- Prozess 
-		- Einfaches Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-29-26.png?raw=" width="450" /> 
+		- Einfaches Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-29-26.png?raw=" width="450" /> 
 		- Verlauf 
 			- 1) Vorwärtsdurchlauf (Forward Pass) 
 			- 2) Berechnung des Fehlers (Loss) 
@@ -116,9 +116,9 @@
 		- Aktivierungsfunktion ^aktivierungsfunktion
 			- Jeder Knoten außer den Eingangsknoten hat eine Aktivierungsfunktion 
 			- nichtlineare Transformation -> nicht lineare Beziehungen zu lernen 
-			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-33-31.png?raw=" width="500" /> 
+			- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-21_16-33-31.png?raw=" width="500" /> 
 		- Initialisierung 
-			- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=" width="600" /> 
+			- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-09_11-15-21.png?raw=" width="600" /> 
 			- Initialisierung zu klein 
 				- Die Aktivierungen sind hauptsächlich um 0 herum verteilt 
 					- Aktivierungen (bei -1 und 1) -> 0 $\Rightarrow$ Gradients -> 0 
@@ -142,18 +142,18 @@
 			- manchmal sind die Wahrscheinlichkeiten extrem winzig oder sehr nahe bei 1, problematisch mit begrenzter nummerischer Präzision auf einem Computer 
 		- Mean-Squared-Error (MSE) 
 			- bei Regressionsproblemen verwendet, Output ist eine kontinuierliche Zahl 
-			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-46-11.png?raw=" width="500" /> 
+			- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-46-11.png?raw=" width="500" /> 
 		- Binary-Cross-Entropy (BCE) 
 			- bei binären Klassifikationsproblemen 
-			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-47-11.png?raw=" width="650" /> 
+			- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-47-11.png?raw=" width="650" /> 
 		- Categorical-Cross-Entropy (CCE) 
 			- bei Multi-Klassen Klassifikationsproblemen 
 			- One-Hot-Encoding 
-			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-48-49.png?raw=" width="500" /> 
+			- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-48-49.png?raw=" width="500" /> 
 		- Sparse-Categorical-Cross-Entropy (SCCE) 
 			- bei Multi-Klassen Klassifikationsproblemen 
 			- nicht One-Hot-Encoding 
-			- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-51-28.png?raw=" width="500" /> 
+			- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-13_22-51-28.png?raw=" width="500" /> 
 	- Optimizer 
 		- Funktion: die <u>Gewichtungen</u> eines neuronalen Netzwerks anzupassen, und die <u>Loss-Score</u> zu minimieren 
 		- Typen 

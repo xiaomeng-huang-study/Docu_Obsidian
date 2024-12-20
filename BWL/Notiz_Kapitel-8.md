@@ -1,4 +1,4 @@
-- Grundlagen des Rechnungswesen <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2024-01-08_15-15-39.png?raw=" width="600" /> 
+- Grundlagen des Rechnungswesen <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2024-01-08_15-15-39.png?raw=" width="600" /> 
 - extern 
 	- Begriffe 
 		- Auszahlungen = Abgang liquider Mittel 

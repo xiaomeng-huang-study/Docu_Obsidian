@@ -24,9 +24,9 @@
 	    b. Berechne die neuen Zentroiden als Mittelwert der Datenpunkte in jedem Cluster.
 	```
 - Visualisierung 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-23-00.png?raw=" width="90%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_19-23-00.png?raw=" width="90%" /> 
 - Code-Beispiel 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-17-24.png?raw=" width="90%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_20-17-24.png?raw=" width="90%" /> 
 
 #### Bestimmung der optimalen Anzahl n 
 Methoden 
@@ -36,10 +36,10 @@ Methoden
 ##### Elbow method 
 - Bewertung der Qualität: anhand der maximalen Distanz von Cluster-Punkten eines Clusters über alle Cluster (Diameter) 
 	- Visualisierung 
-		- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-43-13.png?raw=" width="50%" /> 
+		- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_19-43-13.png?raw=" width="50%" /> 
 - Auswahl des "Ellbogens": Stelle des merklichen Abflachens der Kurve 
 	- Visualisierung 
-		- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_19-40-44.png?raw=" width="30%" /> 
+		- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_19-40-44.png?raw=" width="30%" /> 
 
 ---
 ### Hierarchisches / Agglomerative Clustering 
@@ -76,12 +76,12 @@ Methoden
 	- `metric` 
 	- `linkage` 
 - Visualisierung mit Dendrogram 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-37-00.png?raw=" width="90%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_20-37-00.png?raw=" width="90%" /> 
 - Code-Beispiel 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-18-18.png?raw=" width="70%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_20-18-18.png?raw=" width="70%" /> 
 
 #### Bestimmung der Anzahl der Clusters 
-<img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_20-44-52.png?raw=" width="50%" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_20-44-52.png?raw=" width="50%" /> 
 - Welche Distanz wird genommen (je höher, weniger Clusters) 
 - oder Anzahl der Clusters 
 
@@ -92,14 +92,14 @@ Methoden
 - $MinPts$ 
 #### Arbeitsverlauf 
 1. Klassifizierung der Punkte 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_22-28-00.png?raw=" width="90%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_22-28-00.png?raw=" width="90%" /> 
 	- Core-Points: hat min. $MinPts$ Nachbarn im Radius $\epsilon$ 
 	- Border-Points: weniger als $MinPts$ Nachbarn im Radius $\epsilon$, aber im $\epsilon$-Bereich eines Core-Points 
 	- Outlier-Points: weder Core-Points, noch Border-Points 
 2. Cluster 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_22-32-18.png?raw=" width="30%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_22-32-18.png?raw=" width="30%" /> 
 - Code-Beispiel 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_23-04-31.png?raw=" width="70%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_23-04-31.png?raw=" width="70%" /> 
 
 ## Bewertung 
 ### Silhouetten-Koeffizient 
@@ -118,4 +118,4 @@ $$
 ### Visualisierung 
 - Cluster-Einfärbung 
 - Scatterplots 
-<img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-04_22-50-06.png?raw=" width="90%" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-04_22-50-06.png?raw=" width="90%" /> 

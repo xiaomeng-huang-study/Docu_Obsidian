@@ -15,7 +15,7 @@ $\hat{y} = a + b \cdot x$
 ## Polynomiale Regression 
 - Regression mit Polynomen höheren Grades 
 ### Bias und Variance 
-<img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_16-02-16.png?raw=" width="90%" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-06_16-02-16.png?raw=" width="90%" /> 
 - Bias (Verzerrung): Fehler, der durch die Annahmen im Modellierungsprozess eingeführt wird. 
 	- hoher Bias $\rightarrow$ das Modell zu einfach ist und die zugrunde liegende Beziehung in den Daten nicht gut erfasst. 
 - Variance (Varianz): wie stark die Modellvorhersagen für verschiedene Datensätze variieren. 

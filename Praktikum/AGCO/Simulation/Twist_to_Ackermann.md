@@ -1,5 +1,5 @@
 - Website: http://wiki.ros.org/teb_local_planner/Tutorials/Planning%20for%20car-like%20robots 
-- Schaubild: ![|200](https://github.com/ICH-BIN-HXM/images/blob/main/pictures_Obsidian/Praktikum/car-like-robot.png?raw=true) 
+- Schaubild: ![|200](https://github.com/xiaomeng-huang-study/images/blob/main/pictures_Obsidian/Praktikum/car-like-robot.png?raw=true) 
 
 - Problem: 
 	- Traktor ist kein "Differential-Robot", d.h. auf der Stelle zu drehen ist schwer zu realisieren. Aber von der vom ROS-Paket "nav2" angebotene Nachrichtentyp ist standmäßig "Twist", d.h. Velocity in angular ist erlaubt. 

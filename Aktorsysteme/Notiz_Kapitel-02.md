@@ -1,12 +1,12 @@
 - ortsfestes Erregersystem 
-	- Schaubild: ![|475](https://github.com/ICH-BIN-HXM/images_Aktorsysteme/blob/main/Snipaste_2023-10-20_15-05-31.png?raw=) 
-	- Bild: ![|250](https://github.com/ICH-BIN-HXM/images_Aktorsysteme/blob/main/Snipaste_2023-10-20_15-38-20.png?raw=) 
+	- Schaubild: ![|475](https://github.com/xiaomeng-huang-study/images_Aktorsysteme/blob/main/Snipaste_2023-10-20_15-05-31.png?raw=) 
+	- Bild: ![|250](https://github.com/xiaomeng-huang-study/images_Aktorsysteme/blob/main/Snipaste_2023-10-20_15-38-20.png?raw=) 
 	- Stator: Erregerwicklung erzeugt Erregerfeld $\vec{B}$ 
 	- Rotor: Läuferwicklung, in der Strom fließt 
 	- stromdurchflossener Leiter im Magnetfeld $\Rightarrow$ Lorentzkraft 
 	- Rotor rotiert aufgrund der Lorentzkraft 
 - nicht ortsfestes Erregersystem 
-	- Bild:  ![|325](https://github.com/ICH-BIN-HXM/images_Aktorsysteme/blob/main/Snipaste_2023-10-20_15-40-17.png?raw=) 
+	- Bild:  ![|325](https://github.com/xiaomeng-huang-study/images_Aktorsysteme/blob/main/Snipaste_2023-10-20_15-40-17.png?raw=) 
 	- Rotor: Erregerwicklung erzeugt Erregerfeld $\vec{B}$ 
 	- Stator: Wicklung, in der Strom fließt 
 	- stromdurchflossener Leiter im Magnetfeld $\Rightarrow$ Lorentzkraft 

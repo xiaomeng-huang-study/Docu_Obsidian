@@ -6,4 +6,4 @@
 		- Performing: Phase of cooperation 
 		- Adjourning: Phase of project exit (optional) 
 - Situational Leadership Model 
-	- <img src="https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-12-21_18-57-14.png?raw=" width="600" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Snipaste_2023-12-21_18-57-14.png?raw=" width="600" /> 

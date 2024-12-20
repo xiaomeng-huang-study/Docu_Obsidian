@@ -4,11 +4,11 @@
 		- project environment 
 		- project interfaces 
 - Classification 
-	- Graph: <img src="https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-12-14_19-47-44.png?raw=" width="300" /> 
+	- Graph: <img src="https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Snipaste_2023-12-14_19-47-44.png?raw=" width="300" /> 
 	- Probability ($P$) 
 	- Impact ($I$) 
 	- expectation value of the impact / risk value = $P \cdot I$ 
-	- <img src="https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-12-14_19-51-40.png?raw=" width="300" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Snipaste_2023-12-14_19-51-40.png?raw=" width="300" /> 
 - Derive Measures 
 	- Preventive measures 
 	- Corrective measures / Plan-B 

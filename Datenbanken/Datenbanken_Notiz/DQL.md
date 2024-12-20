@@ -26,11 +26,11 @@
 			WHERE k2.nachname = 'Manz';
 			-- Alle Kunden, die vom Kunden 'Manz' geworben wurden
 			```
-			- Modell: <img src="https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_rekursive_1:n-Beziehung.png" alt="|300"  />
+			- Modell: <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_rekursive_1:n-Beziehung.png" alt="|300"  />
 			<br><div STYLE="page-break-after: always;"></div>
 - 3) **WHERE** 
 	- IN/ EXISTS
-		- Modell <img src="https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/DatenBanken_EXISTS-IN_Modell.png" style="zoom:50%;" /> 
+		- Modell <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/DatenBanken_EXISTS-IN_Modell.png" style="zoom:50%;" /> 
 		- IN
 			- Eigenschaften
 				- Unterabfrage kann auch selbst durchgeführt werden

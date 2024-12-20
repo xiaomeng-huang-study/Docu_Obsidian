@@ -15,7 +15,7 @@
 - 指向类型决定
 	- 取值宽度
 	- +1跨度
-	- ![|675](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/cpp_%E5%8F%96%E5%80%BC%E5%AE%BD%E5%BA%A6.jpg)
+	- ![|675](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/cpp_%E5%8F%96%E5%80%BC%E5%AE%BD%E5%BA%A6.jpg)
 		- z.B. \*p1 $\rightarrow$ 4Byte(01020304)
 		- z.B. p1+1 $\rightarrow$ 4Byte überspringen
 		- komplettes Beispiel

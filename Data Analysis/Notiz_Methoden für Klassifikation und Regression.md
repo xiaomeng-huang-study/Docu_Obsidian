@@ -14,7 +14,7 @@
 	- Hamming Distanz $d(p, q)=\sum_{i=1}^{n} \delta\left(p_{i} \neq q_{i}\right)$ $\text { wobei } \delta \text { eine Funktion ist, die } 1 \text { zurückgibt, wenn } p_{i} \neq q_{i} \text {, und } 0 \text { sonst. }$ 
 2. Bestimmung der $k$ nächsten Nachbarn 
 3. Für Klassifikation: Mehrheitsabstimmung 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_19-20-50.png?raw=" width="70%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-06_19-20-50.png?raw=" width="70%" /> 
 3. Für Regression: Mittelwert 
 
 
@@ -32,10 +32,10 @@
 3. Wähle den Split mit dem kleinsten $Gini_\text{split}$ 
 4. (Wiederholung bis kein Split mehr möglich) 
 - Beispiel 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-07_23-20-00.png?raw=" width="80%" /> 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_18-56-06.png?raw=" width="40%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-07_23-20-00.png?raw=" width="80%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-06_18-56-06.png?raw=" width="40%" /> 
 
 ## Random Forest 
 - Eine Ensemble-Methode, die aus **mehreren Entscheidungsbäumen** besteht, die zufällig ausgewählten Teilmengen der Trainingsdaten trainiert werden. Die endgültige Vorhersage ergibt sich aus Mehrheitsbestimmung / Mittelwert der Bäume. 
-- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-06_22-07-15.png?raw=" width="90%" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-06_22-07-15.png?raw=" width="90%" /> 
 

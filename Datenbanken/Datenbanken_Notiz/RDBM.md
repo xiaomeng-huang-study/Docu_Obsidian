@@ -6,4 +6,4 @@
 		- FK muss entweder
 			- in referenzierter Tabelle existieren (<u>alle Referenze aus A müssen gültig sein</u>) 
 			- oder NULL sein
-		- Beispiel ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_RDBM_referenzielle%20Integrit%C3%A4t.png)
+		- Beispiel ![|500](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_RDBM_referenzielle%20Integrit%C3%A4t.png)

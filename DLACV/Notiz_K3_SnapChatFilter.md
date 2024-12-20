@@ -12,9 +12,9 @@
 ### Train a new landmark detector with points on the forehead 
 ### Estimate the forehead points based on the current landmark points 
 - Find the convex hull of Facial landmarks 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-11-14_22-04-40.png?raw=" width="90%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DLACV/blob/main/Scrennshot_2024-11-14_22-04-40.png?raw=" width="90%" /> 
 - Offse 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DLACV/blob/main/Scrennshot_2024-11-14_22-07-06.png?raw=" width="80%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DLACV/blob/main/Scrennshot_2024-11-14_22-07-06.png?raw=" width="80%" /> 
 
 ## Seamless Image Cloning 
 - Calculate the gradients from the ROI in Image 2 

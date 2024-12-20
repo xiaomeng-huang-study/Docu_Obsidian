@@ -11,12 +11,12 @@
 	- upsampling 
 		- not learnable 
 			- Unpooling 
-				- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-03-09.png?raw=" width="500" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-03-09.png?raw=" width="500" /> 
 			- Max Unpooling 
-				- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-02-32.png?raw=" width="300" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-02-32.png?raw=" width="300" /> 
 		- learnable 
 			- Transpose Convolution 
-				- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-01-10.png?raw=" width="400" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-01-10.png?raw=" width="400" /> 
 - Beispiel 
 	- U-Net 
 
@@ -44,7 +44,7 @@
 		- YOLOv8 (2023) 
 
 ## Region-Based CNN (R-CNN) 
-- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-08-10.png?raw=" width="600" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-08-10.png?raw=" width="600" /> 
 - Schritte 
 	- Regions of Interest (RoI) 
 	- Warp: modify size 
@@ -54,7 +54,7 @@
 	- zu langsam 
 
 ## Fast R-CNN 
-- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-17-03.png?raw=" width="600" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-17-03.png?raw=" width="600" /> 
 - Schritte 
 	- "Backbone" Network e.g. AlexNet, VGG, ResNet 
 		- most computation 
@@ -67,14 +67,14 @@
 ### Crop 
 #### RoI Pool 
 - den nächstgelegenen Punkt in der Feature Map suchen und Gesamtverschiebung 
-- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-33-22.png?raw=" width="200" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-33-22.png?raw=" width="200" /> 
 - 
 #### [RoI Align](https://firiuza.medium.com/roi-pooling-vs-roi-align-65293ab741db) 
-- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-47-50.png?raw=" width="600" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_22-47-50.png?raw=" width="600" /> 
 
 ## Faster R-CNN 
 - [[Notiz_Kapitel_6_ObjectDetection_SemSeg#Region Proposal Network (RPN)|Region Proposal Network (RPN)]] importiert 
-- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_23-18-14.png?raw=" width="600" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_23-18-14.png?raw=" width="600" /> 
 - Schritte 
 	- RPN classification: anchor box is object / not an object 
 	- RPN regression: predict transform from anchor box to proposal box 
@@ -89,6 +89,6 @@
 ## [Mean Average Precision (mAP)](https://www.dropbox.com/scl/fi/3c6xvrguouzdhvxti9tkj/sofarki_Notiz_MeanAveragePrecision.pdf?rlkey=az01u65bajdypz6cy0kfa5cbr&dl=0) 
 
 ## Intersection over Union (IoU) 
-- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_23-27-43.png?raw=" width="400" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-02_23-27-43.png?raw=" width="400" /> 
 - ${\text IoU} = \frac{{\text Area~of~Intersection}}{{\text~Area~of~Union}}$ 
 	- Area of Union: gesamte Fläche 

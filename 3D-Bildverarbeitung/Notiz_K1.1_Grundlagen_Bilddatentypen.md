@@ -17,7 +17,7 @@
 - Dieser Wert ist ein Index, der auf eine Farbtabelle (VLT) verweist. 
 - Die Farbtabelle speichert pro Index drei Farbwerte, i.d.R. normalisiert. 
 - (Das Pixel wird dann entsprechend mit diesem RGB-Wert dargestellt.) 
-- z.B. <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-10-28_21-54-39.png?raw=" width="90%" /> 
+- z.B. <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-10-28_21-54-39.png?raw=" width="90%" /> 
 ## Schwarz/Weiß-Bilder / Binärbilder 
 - 1 Kanal 
 - Schwellenwert bei Schwarz/Weiß 

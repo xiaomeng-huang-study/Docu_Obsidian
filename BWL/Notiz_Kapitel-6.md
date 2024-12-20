@@ -48,22 +48,22 @@
 			- $K_{n}$ : späterer Wert / Endwert 
 		- Faktoren 
 			- Aufzinsungsfaktor (AuF) bei Aufzinsung einer heutigen Zahlung 
-				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-52-37.png?raw=" width="400" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-12-11_15-52-37.png?raw=" width="400" /> 
 				- $(1 + i)^{n}$ 
 			- Abzinsungsfaktor / Diskontierungsfaktor (AbF) bei Abzinsung einer späteren Zahlung 
-				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-53-26.png?raw=" width="400" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-12-11_15-53-26.png?raw=" width="400" /> 
 				- $(1 + i)^{-n}$ 
 			- Aufzinsungssummenfaktor / Endwertfaktor (EWF) 
-				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-54-18.png?raw=" width="400" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-12-11_15-54-18.png?raw=" width="400" /> 
 				- $\frac{(1 + i)^{n} - 1}{i}$ 
 			- Diskontierungssummenfaktor (DSF) 
-				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_15-55-14.png?raw=" width="400" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-12-11_15-55-14.png?raw=" width="400" /> 
 				- $\frac{(1 + i)^{n} - 1}{i \cdot (1 + i)^{n}}$ 
 			- Kapitalwiedergewinnungsfaktor (KWF) / Verrentungsfaktor / Annuitätenfaktor bei Verrentung einer heutigen Zahlung 
-				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-18_14-44-49.png?raw=" width="400" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-12-18_14-44-49.png?raw=" width="400" /> 
 				- $\frac{i \cdot (1+i)^{n}}{(1+i)^{n}-1}$ 
 			- Restwertverteilungsfaktor (RVF) bei Verrentung einer späteren Zahlung 
-				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-18_14-54-53.png?raw=" width="400" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-12-18_14-54-53.png?raw=" width="400" /> 
 				- $\frac{i}{(1+i)^{n}-1}$ 
 	- ==Kapitalwertmethode== 
 		- Grundgedanke 
@@ -73,7 +73,7 @@
 			- zielt darauf ab, den Barwert aller zukünftigen Cashflows eines Investitionsprojekts zu berechnen, um festzustellen, ob die Investition rentabel ist oder nicht. 
 		- relevante Faktoren 
 			- AbF, DSF 
-		- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-11_16-12-31.png?raw=" width="600" /> 
+		- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-12-11_16-12-31.png?raw=" width="600" /> 
 		- $A$ : Anschaffungsauszahlung 
 		- $a$ : jährliche Betriebs- und Instandsetzungskosten 
 		- $e$ : jährliche Einzahlungen 

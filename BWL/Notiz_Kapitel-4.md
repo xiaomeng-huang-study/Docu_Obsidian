@@ -4,11 +4,11 @@
 - Produktion 
 	- Definition 
 		- die betriebliche Leistungserstellung 
-	- Flussdiagramm: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-21-34.png?raw=) 
-	- ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-22-36.png?raw=) 
-	- Produktionsfaktoren: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-23-49.png?raw=) 
+	- Flussdiagramm: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_17-21-34.png?raw=) 
+	- ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_17-22-36.png?raw=) 
+	- Produktionsfaktoren: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_17-23-49.png?raw=) 
 	- Theorien 
-		- ![|450](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-25-08.png?raw=) 
+		- ![|450](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_17-25-08.png?raw=) 
 		- Produktionstheorie 
 			- analysiert ==ausschließlich Mengengerüst== der betrieblichen Leistungserstellung 
 			- erklärt Zusammenhang zwischen dem ==mengenmäßigen Verbrauch an Produktionsfaktoren== und der ==daraus resultierenden Ausbringungsmenge== 
@@ -19,16 +19,16 @@
 
 
 ## Produktionstheorie 
-- ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-20-00.png?raw=) 
+- ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_17-20-00.png?raw=) 
 - Produktionsfunktion 
 	- Definition 
 		- funktionaler Zusammenhang zwischen Faktoreinsatzmenge $r_1$ und $r_2$ (Input) und der Ausbringungsmenge m (Output) 
 			- $m = f(r_1, r_2)$ 
 	- Typen 
 		- austauschbare Produktionsfaktoren $R_1$ und $R_2$ 
-			- Schaubild ![|400](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_14-21-53.png?raw=) 
+			- Schaubild ![|400](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_14-21-53.png?raw=) 
 		- nicht austauschbare bzw. limitationale Produktionsfaktoren 
-			- Schaubild ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_14-38-39.png?raw=) 
+			- Schaubild ![|350](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_14-38-39.png?raw=) 
 	- Ausbringungs-Isoquante 
 		- Für bestimmte Ausbringungsmenge $m$, die durchgezogene Linie auf der alle Produktionsfaktor-Kombinationen 
 
@@ -36,8 +36,8 @@
 - Kostenfunktion 
 	- Formel $K = q_{1} * r_{1}+q_{2} * r_{2}+\ldots+q_{n} * r_{n}$ 
 	- Schaubilder 
-		- ![|325](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-27-34.png?raw=) 
-		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-30-09.png?raw=) 
+		- ![|325](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_15-27-34.png?raw=) 
+		- ![|300](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_15-30-09.png?raw=) 
 	- Kostenisoquante 
 	- Schnittpunkt 
 		- Einsatzmenge von einem Faktor $r$ , wenn das Kostenbudget $K$ ausschließlich für den Faktor genutzt wird 
@@ -46,7 +46,7 @@
 		- Preis des Faktors -> Änderung des Schnittpunkts sowie der Änderung 
 		- Kostenbudget -> parallele Verschiebung (Schnittpunkte ändern sich, aber Steigung verändert sich nicht) 
 	- max. Ausbringungsmenge -> min. Kostenkombination 
-		- ![|300](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_17-52-33.png?raw=) 
+		- ![|300](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_17-52-33.png?raw=) 
 - Kostenbegriffe 
 	- Ausbringungsmenge ($m$) 
 	- Marktpreis ($p$) 
@@ -67,7 +67,7 @@
 	- Grenzkosten ($K'$) $= \frac{dK}{dm}$ 
 		- stellt den Anstieg der Gesamtkosten bei einer zusätzlichen Produktionseinheit dar 
 - [Kostenverläufe](https://www.kostenrechnung-info.de/variable_kosten.html) 
-	- Schaubild: ![|500](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_15-37-00.png?raw=) 
+	- Schaubild: ![|500](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_15-37-00.png?raw=) 
 	- Fixkosten 
 		- z.B. Mietkosten für Produktionsräume 
 	- lineare Kosten 
@@ -98,7 +98,7 @@
 	- Kritisches Prinzip 
 		- Bei negativen Gewinnen lohnt es sich nur dann, die Produktion fortzusetzen, wenn der <u>Deckungsbeitrag größer oder gleich Null</u> ist. $\Rightarrow$ Fixkosten werde begleichen 
 	- Kosten- und Erlösverläufe 
-		- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-20_16-16-34.png?raw=) 
+		- Schaubild: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-20_16-16-34.png?raw=) 
 	- Gewinnschwellenmenge ($m_{gs}$) $\Rightarrow$ Break-Event-Point 
 		- $m_{gs} = K_f / db$ 
 	- Gewinnschwellenumsatz ($U_{gs}$) 

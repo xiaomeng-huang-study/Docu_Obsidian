@@ -2,18 +2,18 @@
 
 ## Batch Normalization 
 - Verlauf 
-	- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_21-49-35.png?raw=" width="500" /> 
+	- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_21-49-35.png?raw=" width="500" /> 
 	- $\beta$ und $\gamma$ sind lernbare Parameter 
 	- $\mu_{mov}$ und $\sigma_{mov}$ sind gespeicherte Parameter 
 	- $\alpha$ ist ein vorgegebenes Gewicht für Vergangenheit und aktuelle 
 	- Moving Average 
 		- der während des Trainings dazu dient, stabile Schätzungen des Mittelwerts und der Standardabweichung der Aktivierungen über mehrere Mini-Batches zu erhalten 
 - Algorithmus 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_21-56-14.png?raw=" width="350" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_21-56-14.png?raw=" width="350" /> 
 - Funktionen 
 	- die Konvergenzgeschwindigkeit zu verbessern 
 	- die Genauigkeit zu verbessern 
-	- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_21-46-53.png?raw=" width="400" /> 
+	- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-20_21-46-53.png?raw=" width="400" /> 
 		- Kurve ist nach links (Konvergenzgeschwindigkeit) und oben (Genauigkeit) verschoben 
 
 
@@ -37,5 +37,5 @@
 
 ## Anpassung der Learning Rate 
 - Merkmale 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-01_19-21-47.png?raw=" width="400" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-02-01_19-21-47.png?raw=" width="400" /> 
 	- in Loss-Funciton: Sprung oder Steigung reduziert sich stark 

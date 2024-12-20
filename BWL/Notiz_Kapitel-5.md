@@ -6,7 +6,7 @@
 	- im Gegensatz zur Orientierung an unternehmensinternen Gegebenheiten wie Produktionskapazitäten. 
 - Typen 
 	- Verkäufermarkt & Käufermarkt 
-		- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-12_21-37-50.png?raw=" width="700" /> 
+		- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Scrennshot_2024-01-12_21-37-50.png?raw=" width="700" /> 
 - Absatzpolitische Instrument 
 	- Definition 
 		- alle Maßnahmen, die ein Anbieter ergreifen kann, um Absatzwiderstände zu reduzieren und die eigene Wettbewerbsposition zu stärken. 
@@ -34,39 +34,39 @@
 					- $\Delta Q$ : Menge-Differenz 
 					- $\Delta P$ : Preis-Differenz 
 				- Bewertung 
-					- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-45-18.png?raw=" width="400" /> 
+					- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-27_18-45-18.png?raw=" width="400" /> 
 						- <u>p</u> : Prohibitivpreis: kein Stück abgesetzt 
 						- <u>m</u> : Sättigungsmenge: zahlreich vorhanden, aber wertlos 
 						- Punkt $G$ : Nachfrageelastizität $= 1$ 
 					- vollkommen elastisch: $n_{x,p} \rightarrow \infty$ 
-						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-50-12.png?raw=" width="300" /> 
+						- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-27_18-50-12.png?raw=" width="300" /> 
 						- kleine Preisänderung -> eine extrem starke Änderung der Nachfragemenge 
 						- z.B. 5€ Banknote 
 					- elastisch: $n_{x,p}>1$ 
-						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-52-52.png?raw=" width="300" /> 
+						- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-27_18-52-52.png?raw=" width="300" /> 
 						- kleine Preisänderung -> überproportionale Mengenänderung 
 						- z.B. gut substituierbare Produkten, die keine Qualitätsunterschied haben 
 					- proportional elastisch: $n_{x,p} = 1$ 
-						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-54-39.png?raw=" width="300" /> 
+						- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-27_18-54-39.png?raw=" width="300" /> 
 						- Preisänderung um $x$ Prozent -> gleich starke Veränderung der Nachfragemenge 
 					- unelastisch: $0 < n_{x,p} < 1$ 
-						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-57-30.png?raw=" width="300" /> 
+						- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-27_18-57-30.png?raw=" width="300" /> 
 						- Preisänderung -> unterproportionale Mengenänderung 
 						- z.B. lebensnotwendige Gütern wie Nahrungsmittel 
 					- $n_{x,p} = 0$ 
-						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_18-59-49.png?raw=" width="300" /> 
+						- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-27_18-59-49.png?raw=" width="300" /> 
 						- Preisänderung -> keine Änderung der Nachfragemenge 
 						- z.B. Lebensnotwendige Medikamente wie Insulien 胰岛素 
 					- $n_{x,p} < 0$ 
-						- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_19-08-41.png?raw=" width="300" /> 
+						- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-27_19-08-41.png?raw=" width="300" /> 
 						- Preisänderung -> gleichgerichtete Mengenänderung 
 						- z.B. Exklusives Produkt ([[BWL/Q&A#Snob-Effekt|Snob-Effekt]]), Anzeichen für Verknappung (Hamsterkäufe 类似于仓鼠屯食物的) 抢购现象 
 					- Preissenkung bei hoher & niedriger Nachfrageelastizität 
 						- bei hoher Nachfrageelastizität 
-							- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_19-30-56.png?raw=" width="600" /> 
+							- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-27_19-30-56.png?raw=" width="600" /> 
 							- preisbedingter Umsatzverlust < mengenbedingter Umsatzzuwachs 
 						- bei niedriger Nachfrageelastizität 
-							- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-27_19-32-22.png?raw=" width="600" /> 
+							- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-27_19-32-22.png?raw=" width="600" /> 
 							- preisbedingter Umsatzverlust > mengenbedingter Umsatzzuwachs 
 		- praktische Preispolitik 
 			- kostenorientierte Preisbildung 
@@ -80,7 +80,7 @@
 						- Formel: $p=k_v + db$ 
 						- Problem: Solldeckungsbeitrag zu ermitteln 
 				- Vor- und Nachteile 
-					- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Scrennshot_2024-01-12_23-46-07.png?raw=" width="700" /> 
+					- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Scrennshot_2024-01-12_23-46-07.png?raw=" width="700" /> 
 				- Kriterien 
 					- langfristige Preisuntergrenze = $K_{ges}$ 
 					- kurzfristige Preisuntergrenze = $K_{var}$ 
@@ -90,7 +90,7 @@
 					- welcher Preis -> bereit zu zahlen 
 					- wie ist das aktuelle Preis-Leistungsverhältnis zu beurteilen 
 					- wie sie auf Preisänderungen reagieren 
-				- <img src="https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-12-04_21-03-01.png?raw=" width="600" /> 
+				- <img src="https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-12-04_21-03-01.png?raw=" width="600" /> 
 			- konkurrenzorientierte Preisbildung 
 				- nach dem Leiterpreis orientieren 
 	- Kommunikationspolitik 

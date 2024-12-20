@@ -1,4 +1,4 @@
-- Flugzeugbestandteile ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Prog_cpp_Komposition_Flugzeug_Flugzeugbestandteile.png) 
+- Flugzeugbestandteile ![](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Prog_cpp_Komposition_Flugzeug_Flugzeugbestandteile.png) 
 - PlantUML 
 ```plantuml
 @startuml Flugzeug

@@ -1,13 +1,13 @@
 # Klassifikation_Bewertung 
 ## Klassifikationsmetriken 
 - Konfusionsmatrix 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-07_13-25-00.png?raw=" width="40%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-07_13-25-00.png?raw=" width="40%" /> 
 - Genauigkeit (engl. Accuracy) $=\frac{\sum \mathrm{TP}+\mathrm{TN}}{\sum \mathrm{TP}+\mathrm{FP}+\mathrm{FN}+\mathrm{TN}}$ 
 - Präzision (engl. Precision) 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-07_13-34-11.png?raw=" width="40%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-07_13-34-11.png?raw=" width="40%" /> 
 	- $=\frac{\sum \mathrm{TP}}{\sum \mathrm{TP}+\mathrm{FP}}$ 
 - Sensitivität (engl. Recall) 
-	- <img src="https://github.com/ICH-BIN-HXM/images_DAAN/blob/main/Scrennshot_2024-07-07_13-34-10.png?raw=" width="40%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_DAAN/blob/main/Scrennshot_2024-07-07_13-34-10.png?raw=" width="40%" /> 
 	- $=\frac{\sum \mathrm{TP}}{\sum \mathrm{TP}+\mathrm{FN}}$ 
 - F1-Score 
 	- ein harmonisches Mittel zwischen Precision und Recall 

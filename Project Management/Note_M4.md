@@ -30,7 +30,7 @@
 				- sometimes value $\neq$ costs 
 		- Problem for project analysis <u>onl</u>y according to CPI 
 			- time information missed 
-			- e.g. ![](https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-11-16_22-05-42.png?raw=) 
+			- e.g. ![](https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Snipaste_2023-11-16_22-05-42.png?raw=) 
 				- At $t_1$ timepoint, Actual costs may be more than planned. 
 				- But 
 					- Overall, the project cost less and took less time. 

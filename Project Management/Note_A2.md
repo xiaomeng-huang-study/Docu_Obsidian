@@ -14,10 +14,10 @@
 	- [[Note_A2#Kanban|Kanban]] 
 
 ### Simultaneous Engineering 
-<img src="https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Scrennshot_2024-01-25_14-27-41.png?raw=" width="300" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Scrennshot_2024-01-25_14-27-41.png?raw=" width="300" /> 
 
 ### Scrum 
-- <img src="https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Scrennshot_2024-01-25_14-30-35.png?raw=" width="700" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Scrennshot_2024-01-25_14-30-35.png?raw=" width="700" /> 
 - Characteristic 
 	- Divide 1 entire project into small projects. Each small project is shippable after finished. 
 - Differences between product owner and scrum master 
@@ -50,4 +50,4 @@
 - BANI (Brittle 易碎的, Anxious 担忧的, Non-linear, Incomprehensible 费解的) 
 - Framework for decision 
 	- Cynefin 
-		- <img src="https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Scrennshot_2024-01-25_15-36-25.png?raw=" width="600" /> 
+		- <img src="https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Scrennshot_2024-01-25_15-36-25.png?raw=" width="600" /> 

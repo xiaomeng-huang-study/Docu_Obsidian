@@ -19,7 +19,7 @@
 - Leadership theories 
 	- analytical / functional understanding 
 		- Trait theory 
-			- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-45-06.png?raw=" width="400" /> 
+			- <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-45-06.png?raw=" width="400" /> 
 			- current approaches 
 				- Intelligence 
 				- emotional Intelligence 
@@ -29,13 +29,13 @@
 				- authoritarian: task- / performance- oriented 
 				- democratic: people-oriented 
 			- 5 different styles of leadership according to the managerial grid graph 
-				- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-57-11.png?raw=) 
+				- ![](https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-57-11.png?raw=) 
 			- Situational Leadership Model 
-				- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-59-00.png?raw=) 
+				- ![](https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_18-59-00.png?raw=) 
 				- [[Leadership and Business Communication/Q&A#Situational Leadership Model|detailed explanation]] 
 		- Motivation theory 
 			- VIE-Theory 
-				- Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_22-25-38.png?raw=" width="600" /> 
+				- Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_22-25-38.png?raw=" width="600" /> 
 				- Expectancy: effort -> performance 
 					- If I take effort, how probable is the success? 
 				- Valence: desirability of the outcome  
@@ -43,7 +43,7 @@
 				- Instrumentality: performance -> outcome 
 					- If I achieve the outcome, how directly is it linked with the goal? 
 		- Role theory 
-			- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-50-14.png?raw=" width="400" /> 
+			- <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-50-14.png?raw=" width="400" /> 
 		- Management 
 			- Trait theory -> Recruitment selection 
 			- Behavior theory -> Training 
@@ -66,9 +66,9 @@
 				- Human resource framework 
 				- Symbolic framework 
 		- symbolic Leadership 
-			- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-57-05.png?raw=" width="500" /> 
+			- <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_21-57-05.png?raw=" width="500" /> 
 			- Facts are charged symbolically with new meaning. 
 			- A certain meaning manifests by creating new facts accordingly. 
 	- Instrument: MBTI 
 		- takes up some of the disadvantages of trait measurement 
-		- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_22-00-45.png?raw=" width="600" /> 
+		- <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_22-00-45.png?raw=" width="600" /> 

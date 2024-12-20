@@ -1,5 +1,5 @@
 # VGG-Net
-- Schaubild: <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-10_16-19-33.png?raw=" width="200" /> 
+- Schaubild: <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-10_16-19-33.png?raw=" width="200" /> 
 - Merkmale 
 	- eine sehr tiefe Architektur und die Verwendung von kleinen 3x3-Filtern 
 	- Transfer Learning 

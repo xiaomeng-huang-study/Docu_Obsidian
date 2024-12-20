@@ -11,7 +11,7 @@
 
 # Knowledge 
 - Slide composition 
-	- ![|500](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_16-29-38.png?raw=) 
+	- ![|500](https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_16-29-38.png?raw=) 
 	- Message 
 		- 1 complete sentence 
 		- interpretive, not descriptive 
@@ -27,6 +27,6 @@
 		- e.g. 
 			- introduction, result, method etc. 
 - Presentation composition 
-	- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_17-09-11.png?raw=) 
+	- ![](https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_17-09-11.png?raw=) 
 - Creation of presentations 
-	- ![](https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_17-36-05.png?raw=) 
+	- ![](https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-12_17-36-05.png?raw=) 

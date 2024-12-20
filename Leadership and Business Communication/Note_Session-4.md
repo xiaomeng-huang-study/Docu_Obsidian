@@ -3,10 +3,10 @@
 - Complex entirety of human customs within organizations. 
 
 ## Model 
-<img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_16-01-43.png?raw=" width="600" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_16-01-43.png?raw=" width="600" /> 
 
 ## Management to design corporate culture 
-<img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_16-04-36.png?raw=" width="650" /> 
+<img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_16-04-36.png?raw=" width="650" /> 
 
 # Culture 
 - Diversity of culture 
@@ -74,7 +74,7 @@
 	- Cultures are <u>interwoven and mixed</u> 
 	- Contrast between foreign culture and own culture cannot be upheld (transculturality) 不能对比 
 	- Affiliation to a culture only requires to be <u>familiar</u> with the customs of a culture 
-- Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-30_23-12-10.png?raw=" width="600" /> 
+- Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-30_23-12-10.png?raw=" width="600" /> 
 - E.g. 
 	- **Rivalry from a Collective Perspective**: The company has several departments, each with staff from different nationalities and cultural backgrounds. They compete with each other for the company's resources and the prioritization of their projects.
 	- **Foreignness from a Cultural Perspective**: There are employees in the company from diverse countries whose work habits and communication styles might differ from the mainstream culture of the company, making them seem out of place as they try to fit in.

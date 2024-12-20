@@ -5,7 +5,7 @@
 - URL: https://...
 - Funktion: Zugang zu einem Server 
 - Beispiel: ==git remote add origin https://... ==
-- ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/git_remote_add.png)
+- ![](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/git_remote_add.png)
 
 
 ## git fetch : <font color="red">master(Server) --> origin/master</font>
@@ -14,7 +14,7 @@
 	- lokaler origin/master wird mit master auf Server synchronisiert 
 	- zwi. <u>master(Server)</u> und <u>origin/master</u> 
 - Beispiel: ==git fetch origin== 
-- ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/git_fetch.png)
+- ![](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/git_fetch.png)
 
 
 ## git push : <font color="red">origin/myBranch --> myBranch(Server)</font>
@@ -47,7 +47,7 @@
 - ahead: Commits, die noch nicht zum Server gepusht 
 - behind: Commits auf dem Server, die noch nicht gemerged
 - sonst: up to date
-- ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/git_branch_-vv.png)
+- ![](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/git_branch_-vv.png)
 
 ## git rebase
 [git rebase详解（图解+最简单示例，一次就懂）_风中一匹狼v的博客-CSDN博客_git rebase](https://blog.csdn.net/weixin_42310154/article/details/119004977) 

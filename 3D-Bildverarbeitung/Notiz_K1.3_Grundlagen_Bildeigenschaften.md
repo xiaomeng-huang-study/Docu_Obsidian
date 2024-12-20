@@ -13,7 +13,7 @@
 
 # Fehler bei der Digitalisierung 
 ## Aliasing 
-- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-10-27_20-25-07.png?raw=" width="60%" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-10-27_20-25-07.png?raw=" width="60%" /> 
 ## Moiré-Effekt 
 - Definition: neue Linien (Moiré-Muster) durch Überlagerung von Rastern oder Linien entstehen. 
 - Moiré-Muster treten insbesondere auf, wenn periodische Strukturen mit **Frequenzen abgetastet** werden, die **niedriger** sind als die **doppelte Frequenz der Strukturen** selbst. 
@@ -29,12 +29,12 @@
 ### Quadratische Gitter 
 - 4-er Nachbarschaft 
 	- (x,y-1), (x, y+1), (x-1,y) und (x+1,y) 
-	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-10-27_20-47-01.png?raw=" width="10%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-10-27_20-47-01.png?raw=" width="10%" /> 
 - 8-er Nachbarschaft 
 	- (x-1,y-1), (x+1,y-1), (x-1, y+1), (x+1,y+1) 
-	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-10-27_20-47-43.png?raw=" width="10%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-10-27_20-47-43.png?raw=" width="10%" /> 
 - 6-er Nachbarschaft 
-	- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-10-27_20-48-33.png?raw=" width="10%" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-10-27_20-48-33.png?raw=" width="10%" /> 
 ## Pfad 
 - Definition: Folge von benachbarten Pixeln unter gleicher Homogenitätsbedingung (z.Bsp. gleicher Intensitätswert) 
 ## Zusammenhängendes Gebiet 
@@ -44,10 +44,10 @@
 ## Distanzmaße 
 ### Euklidische Distanz 
 - $D_{e}\left(x_{1}, y_{1}, x_{2}, y_{2}\right)=\sqrt{\left(x_{1}-x_{2}\right)^{2}+\left(y_{1}-y_{2}\right)^{2}}$ 
-- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-10-27_20-56-38.png?raw=" width="20%" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-10-27_20-56-38.png?raw=" width="20%" /> 
 ### Schachbrettdistanz bei 8-er Nachbarschaft 
 - $D_{8}\left(x_{1}, y_{1}, x_{2}, y_{2}\right)=\max \left\{\left|x_{1}-x_{2}\right|,\left|y_{1}-y_{2}\right|\right\}$ 
-- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-10-27_20-58-13.png?raw=" width="20%" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-10-27_20-58-13.png?raw=" width="20%" /> 
 ### Manhattan-Distanz (Cityblock-Distanz) bei 4-er Nachbarschaft 
 - $D_{4}\left(x_{1}, y_{1}, x_{2}, y_{2}\right)=\left|x_{1}-x_{2}\right|+\left|y_{1}-y_{2}\right|$ 
-- <img src="https://github.com/ICH-BIN-HXM/images_3DBV/blob/main/Scrennshot_2024-10-27_20-59-17.png?raw=" width="20%" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-10-27_20-59-17.png?raw=" width="20%" /> 

@@ -1,5 +1,5 @@
 # Aufgaben der Unternehmensführung 
-![|500](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_11-56-07.png?raw=) 
+![|500](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-06_11-56-07.png?raw=) 
 
 <br><div STYLE="page-break-after: always;"></div> 
 
@@ -45,15 +45,15 @@
 
 - Zielbeziehungen 
 	- Komplementäre Ziele 
-		- Schaubild: ![|150](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_11-49-04.png?raw=) 
+		- Schaubild: ![|150](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-06_11-49-04.png?raw=) 
 		- Sie ergänzen sich gegenseitig 
 		- z.B. Gewinnmaximierung und Minimierung der Ausschussquote 废品率 
 	- Konkurrierende Ziele 
-		- Schaubild: ![|150](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_11-50-57.png?raw=) 
+		- Schaubild: ![|150](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-06_11-50-57.png?raw=) 
 		- Es besteht ein Zielkonflikt 
 		- z.B. Arbeitsproduktivität und Mitarbeiterzahl 
 	- Indifferente Ziele 
-		- Schaubild: ![|150](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_11-52-15.png?raw=) 
+		- Schaubild: ![|150](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-06_11-52-15.png?raw=) 
 		- Es liegen keine Wechselwirkungen vor 
 		- Arbeitsproduktivität und Marketingbudget 
 
@@ -107,13 +107,13 @@
 		- Instrumente 
 			- Stärken – Schwächen Analyse 
 				- Schaubild: 
-				  ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-10_21-11-13.png?raw=) 
-				  ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-10_21-11-29.png?raw=)
+				  ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-10_21-11-13.png?raw=) 
+				  ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-10_21-11-29.png?raw=)
 			- SWOT Analyse 
 				- Strengths (Stärken), Weaknesses (Schwächen), Opportunities (Chancen), Threats (Risiken) 
-				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-10_21-18-00.png?raw=) 
+				- Schaubild: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-10_21-18-00.png?raw=) 
 			- Produktlebenszyklus 
-				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-06_15-58-52.png?raw=) 
+				- Schaubild: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-06_15-58-52.png?raw=) 
 				- Einführungsphase 
 					- Produkt am Markt eingeführt 
 					- umfassende Werbung 
@@ -144,7 +144,7 @@
 					- Produktrelaunch, Nachfolgeprodukt mit neuen Eigenschaften usw. 
 				- Nachlaufphase 
 			- Boston Consulting Group Portfolio (BCG Portfolio) [hilfreiche Link](https://www.excel-controlling.com/bcg-matrix/ ) 
-				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/bcg-portfolio.jpg?raw=) 
+				- Schaubild: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/bcg-portfolio.jpg?raw=) 
 				- Question marks 
 					- Phase: Einführungsphase: Produkt angenommen? 
 					- Entscheidung: Investieren oder abstoßen 
@@ -194,21 +194,21 @@
 	- Aufbauorganisation 
 		- Leitungssysteme 
 			- Einliniensysteme (Single-line-system) 
-				- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_11-06-32.png?raw=)
+				- Schaubild: ![|350](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-17_11-06-32.png?raw=)
 				- Eine Stelle ist nur einer Instanz unterstellt 
 				- Vorteil 
 					- klare definierte Weisungsbefugnisse 
 				- Nachteil 
 					- Kommunikationseffizienz niedrig 
 			- Mehrliniensysteme (Multiple-line-system) 
-				- Schaubild: ![|350](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_11-09-43.png?raw=)
+				- Schaubild: ![|350](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-17_11-09-43.png?raw=)
 				- Eine Stelle erhält von mehreren übergeordneten Stellen Weisungen. 
 				- Vorteil 
 					- Kommunikationseffizienz hoch 
 				- Nachteil 
 					- Kompetenzstreitigkeiten 职权争议 
 			- Stablinienorganisation (Line-and-staff-organization) 
-				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-13_14-33-13.png?raw=) 
+				- Schaubild: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-13_14-33-13.png?raw=) 
 				- Stabstellen 
 					- nur indirekt durch Unterstützung einer oder mehrerer Instanzen zur Lösung einer Aufgabe beiträgt 
 					- keine Weisungsbefugnisse 命令权 
@@ -221,7 +221,7 @@
 					- Verschlankung 高效, Effizienzsteigerung 
 					- z.B. Unternehmensführung, Materialwirtschaft, Produktion, Marketing usw. 
 			- Spartenorganisation (Business-unit-organization) 
-				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-08-21.png?raw=) 
+				- Schaubild: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-17_12-08-21.png?raw=) 
 				- Unterteilung nach Tätigkeitsbereichen 
 					- z.B. Kundengruppen (B2B, B2C), Produktgruppen, Absatzgebiete 销售区域 usw. 
 				- Ein [[BWL/Q&A#Profit-Center|Profit-Center]] ist ein separater Unternehmensbereich mit eigener Ergebnisrechnung 
@@ -231,7 +231,7 @@
 				- Nachteil 
 					- Synergie schwer durch das Fehlen einer gemeinsamen Beschaffung 
 			- Matrixorganisation (Matrix-organization) 
-				- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_12-09-16.png?raw=) 
+				- Schaubild: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-17_12-09-16.png?raw=) 
 				- Hybrides Organisationssystem: funktional (vertikal) + divisional (horizontal) 
 				- Vorteil 
 					- schnelle und unabhängige Entscheidung der Sparten, Synergieeffekte der Funktionen 
@@ -242,7 +242,7 @@
 	- Ablauforganisation 
 ### Personalwirtschaft 
 - als eine der Produktionsfaktoren 
-	- Elementare Produktionsfaktoren ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_16-49-39.png?raw=) 
+	- Elementare Produktionsfaktoren ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-17_16-49-39.png?raw=) 
 	- Bedeutung des Produktionsfaktors Personal 
 		- Personal als Leitungsfaktor 
 			- Ressourcen benutzen 
@@ -253,7 +253,7 @@
 			- Arbeitsgesetze -> Kündigung teuer 
 		- Personal als Produktionsfaktor der eigenen Art 
 - Personalführung 
-	- Motivation ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_17-25-52.png?raw=) 
+	- Motivation ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-17_17-25-52.png?raw=) 
 	- Präferenzen für Führungstypen 
 		- maximaler Profit 
 			- Shareholder 
@@ -273,7 +273,7 @@
 - Definition 
 	- Summe aller Maßnahmen zu verstehen, die dazu dienen, die Führungsbereiche so zu koordinieren, dass die Unternehmensziele optimal erreicht werden können. 
 - Kontrollarten 
-	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_BWL/blob/main/Snipaste_2023-11-17_18-04-00.png?raw=) 
+	- Schaubild: ![](https://github.com/xiaomeng-huang-study/images_BWL/blob/main/Snipaste_2023-11-17_18-04-00.png?raw=) 
 	- Realisationskontrolle 
 		- klassischer Soll-Ist Vergleich 
 		- Planvorgaben über- oder unterschritten. 

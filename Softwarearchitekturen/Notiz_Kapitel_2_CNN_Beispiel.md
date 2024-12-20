@@ -34,7 +34,7 @@
 	# entry point, run the test harness
 	history, model = run_test_harness()
 	```
-- Ergebnis: ![|625](https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-01_16-27-03.png?raw=)
+- Ergebnis: ![|625](https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-11-01_16-27-03.png?raw=)
 - Rechenbeispiel 
 	- Conv-Layer 1 
 		- Ausgabegröße 

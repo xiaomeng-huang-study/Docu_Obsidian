@@ -8,7 +8,7 @@
 
 # Knowledge 
 - Work Breakdown Structure 
-	- Schaubild: ![](https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-11-09_19-35-04.png?raw=) 
+	- Schaubild: ![](https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Snipaste_2023-11-09_19-35-04.png?raw=) 
 	- Components 
 		- Tasks 
 		- Work packages 

@@ -1,4 +1,4 @@
-![](https://cdn.staticaly.com/gh/ICH-BIN-HXM/images_01@master/img/202211211257514.png)
+![](https://cdn.staticaly.com/gh/xiaomeng-huang-study/images_01@master/img/202211211257514.png)
 
 6)von den Bewertungen mit 5, wie viele Urlaub wurden je Ziel gemacht?
 ```mysql

@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Datentyp_MySQL.png) 
+![](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Datentyp_MySQL.png) 

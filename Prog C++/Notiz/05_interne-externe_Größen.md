@@ -36,4 +36,4 @@
 			void func01(); //Deklaration
 			```
 	- mit Attribut `static` $\Rightarrow$ lokale Größe: nur im <u>zugehörenden</u> Modul gültig 
-- Ablauf ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Prog_cpp_Programm_Erzeugungsablaug.png) 
+- Ablauf ![](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Prog_cpp_Programm_Erzeugungsablaug.png) 

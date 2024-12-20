@@ -8,7 +8,7 @@
 	- separate problems and people 
 	- create possibilities 
 	- find objective criteria 
-- <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_19-17-27.png?raw=" width="600" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Scrennshot_2024-01-20_19-17-27.png?raw=" width="600" /> 
 ## Preparation & Opening 
 - Anchoring: cognitive bias 
 - Framing (Frame: mindset used to explain the reality and organize ideas of a complex work environment) 

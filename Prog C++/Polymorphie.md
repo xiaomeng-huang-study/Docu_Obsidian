@@ -8,7 +8,7 @@
 - virtuelle Funktionen (virtual function) 
 	- überschreiben (override) 
 	- Jede Klasse enthält einen Zeiger auf virtuelle Funktionen 
-		- ![](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/PROGCP_virtuelle_Funktionen.jpg) 
+		- ![](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/PROGCP_virtuelle_Funktionen.jpg) 
 
 - `virtual` + `=0` $\Rightarrow$ abstrakte Klasse
 	- Instanzierung verboten

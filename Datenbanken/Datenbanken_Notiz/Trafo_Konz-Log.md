@@ -1,24 +1,24 @@
 - 1:N
 	- Der PK aus dem Entitätstyp mit der „zu eins“-Beziehung wird als FK in den Entitätstyp mit der „zu viele“-Beziehung übernommen.
-	- Beispiel ![|450](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vsN.png) 
+	- Beispiel ![|450](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vsN.png) 
 	- Bei **schwachen 1:N** Entitätstypen:
 		- PK+FK
-		- Beispiel ![|450](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vsN_schwach.png) 
+		- Beispiel ![|450](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vsN_schwach.png) 
 - M:N
 	- Einführung eines Koppel-Entitätstyps, beide PK+FK 
-	- Beispiel ![|550](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_MvsN.png) 
+	- Beispiel ![|550](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_MvsN.png) 
 - 1:1
 	- Semantisch unterschiedliche Entitätstypen
 		- Ein PK aus einem beliebigen Entitätstyp wird als FK in den anderen übernommen.
-		- Beispiel ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vs1_semantisch_unterschiedlich.png) 
+		- Beispiel ![|500](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vs1_semantisch_unterschiedlich.png) 
 	- Semantisch gleiche Entitätstypen 
 		- beide Seite : PK $\Rightarrow$ PK+FK 
-		- Beispiel ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vs1_semantisch_gleich.png.png) 
+		- Beispiel ![|500](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vs1_semantisch_gleich.png.png) 
 	- überflüssig 
-		- Beispiel ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vs1_%C3%BCberfl%C3%BCssig.png.png) 
+		- Beispiel ![|500](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vs1_%C3%BCberfl%C3%BCssig.png.png) 
 - rekursive 1:N 
-	- Beispiel ![|525](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vsN_rekursiv.png.png) 
+	- Beispiel ![|525](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vsN_rekursiv.png.png) 
 - rekursive M:N 
-	- Beispiel ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_MvsN_rekursiv.png.png)
+	- Beispiel ![|500](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_MvsN_rekursiv.png.png)
 - rekursive 1:1 
-	- Beispiel ![|500](https://raw.githubusercontent.com/ICH-BIN-HXM/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vs1_rekursiv.png.png)
+	- Beispiel ![|500](https://raw.githubusercontent.com/xiaomeng-huang-study/images/main/pictures_Obsidian/Datenbanken_Trafo_Konz-Log_1vs1_rekursiv.png.png)

@@ -10,7 +10,7 @@
 
 ## Animation 
 - Convolution 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-04_22-49-00.gif?raw=" width="600" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Snipaste_2023-12-04_22-49-00.gif?raw=" width="600" /> 
 
 
 ## Wichtige Größen 
@@ -32,7 +32,7 @@
 		- (Volumen der Filter) x 2 x (Ausgabefläche) x (Anzahl der Filter) 
 		- eng.: 2 x (Number of Kernel) x (Kernel Volume) x (Output area) 
 - Fully-connected layers 
-	- <img src="https://github.com/ICH-BIN-HXM/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-31_21-58-00.png?raw=" width="400" /> 
+	- <img src="https://github.com/xiaomeng-huang-study/images_Softwarearchitekturen/blob/main/Scrennshot_2024-01-31_21-58-00.png?raw=" width="400" /> 
 	- ==Anzahl der Parameter== 
 		- Ausgabe Größe x (Eingabe Größe + 1) 
 			- "+ 1": für den Bias-Term pro Neuron 

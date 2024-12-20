@@ -25,8 +25,8 @@
 				- new server ; old server 
 
 - List of work packages 
-	- Graph: ![](https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-11-10_20-53-03.png?raw=) 
+	- Graph: ![](https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Snipaste_2023-11-10_20-53-03.png?raw=) 
 - Network Diagram 
 	- Activity-on-Node (AON) 
-		- Graph: ![](https://github.com/ICH-BIN-HXM/images_ProjectManagement/blob/main/Snipaste_2023-11-10_20-50-27.png?raw=) 
+		- Graph: ![](https://github.com/xiaomeng-huang-study/images_ProjectManagement/blob/main/Snipaste_2023-11-10_20-50-27.png?raw=) 
 		- Float = 0 -> critical path 

@@ -17,7 +17,7 @@
 # Knowledge 
 * Extract Organisation chart 
 	* Single-line-System 
-		* Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-25-06.png?raw=" width="350" /> 
+		* Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-25-06.png?raw=" width="350" /> 
 		* Advantages 
 			* clear order- and reporting paths 
 			* Clear rules of competence 
@@ -29,16 +29,16 @@
 			* “compartment thinking” 部门思维 
 				- An Employee can only report to one supervisor 
 	- Multiple-line-system 
-		- Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-26-36.png?raw=" width="300" /> 
+		- Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-26-36.png?raw=" width="300" /> 
 	- Line-and-staff-Organisation 
-		- Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-27-43.png?raw=" width="300" /> 
+		- Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-27-43.png?raw=" width="300" /> 
 		- Extension of line-system 
 		* Advantages 
 			* Relief for the management, use of expertise 专业技能 
 		* Disadvantages 
 			* lack of acceptance of staff units or clandestine 秘密的 leadership of staff units 
 	* Functional Organisation 
-		* Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-28-18.png?raw=" width="350" /> 
+		* Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-28-18.png?raw=" width="350" /> 
 		* Classification criterion: tasks / functions 
 		* Advantages 
 			* technical specialization of divisions 
@@ -46,7 +46,7 @@
 		* Disadvantages 
 			* restricted potential to differentiate customers, markets, products etc. 
 	* Business unit Organisation 
-		* Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-29-09.png?raw=" width="350" /> 
+		* Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-29-09.png?raw=" width="350" /> 
 		* Classification criterion: object 
 		* Advantages 
 			* different divisions 
@@ -55,7 +55,7 @@
 			* Multiplying of functions 
 			* Coordination efforts 
 	* Holding Organisation 
-		* Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-29-58.png?raw=" width="350" /> 
+		* Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-29-58.png?raw=" width="350" /> 
 		* Types 
 			* Operational Holding 
 				* big, operational parent company with small subsidiaries 
@@ -68,7 +68,7 @@
 		* Disadvantages 
 			* Divide between autonomy and centrality 
 	* Matrix-Organisation 
-		* Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-30-34.png?raw=" width="400" /> 
+		* Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-30-34.png?raw=" width="400" /> 
 		* Overlapping of functional and object criteria 
 		* Advantages 
 			* balanced interests of object and function 
@@ -78,12 +78,12 @@
 			* Broad 广阔的 control span 范围 
 
 - Linking Pins 
-	- Graph: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-31-08.png?raw=" width="300" /> 
+	- Graph: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-31-08.png?raw=" width="300" /> 
 	- A supervisor of one group is also an employee of another group. 
 - Knowledge networks 
 
 * Lewin 
-	* Diagram: <img src="https://github.com/ICH-BIN-HXM/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-31-41.png?raw=" width="400" /> 
+	* Diagram: <img src="https://github.com/xiaomeng-huang-study/images_Leadership_Business_Communication/blob/main/Snipaste_2023-11-29_00-31-41.png?raw=" width="400" /> 
 * Kotter 
 	* Unfreezing 
 		* Establishing Sense of Emergency 
