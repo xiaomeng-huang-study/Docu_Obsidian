@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wissenschaftliches Seminar/Notiz_20241015.md",
+                "file": "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_20241015"
+              "title": "Notiz_Kapitel_1"
             }
           }
         ]
@@ -193,10 +193,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5cdd8e9c34a2b9a7",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "Wissenschaftliches Seminar/Untitled.md",
     "Wissenschaftliches Seminar/Notiz_20241015.md",
+    "Wissenschaftliches Seminar/Untitled.md",
     "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
     "3D-Bildverarbeitung/Projekt/Notiz_20241218.md",
     "3D-Bildverarbeitung/Projekt/Notiz_20241211.md",
