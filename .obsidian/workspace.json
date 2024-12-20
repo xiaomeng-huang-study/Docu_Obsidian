@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c4df73c84ab49a9d",
+        "id": "30d68f4b4c4ff862",
         "type": "tabs",
         "children": [
           {
-            "id": "d2ad5b30099d9715",
+            "id": "c22311c72472ce4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Bildverarbeitung/Notiz_K1.2_Grundlagen_Farbmodelle.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_K1.2_Grundlagen_Farbmodelle"
+              "title": "New tab"
             }
           }
         ]
@@ -193,8 +189,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d2ad5b30099d9715",
+  "active": "c22311c72472ce4f",
   "lastOpenFiles": [
+    "3D-Bildverarbeitung/Notiz_K1.2_Grundlagen_Farbmodelle.md",
     "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
     "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md",
     "Wissenschaftliches Seminar/Notiz_20241015.md",
@@ -222,7 +219,6 @@
     "DLACV/Notiz_K4_FaceRecognition_DeepLearning.md",
     "DLACV/Notiz_K4_FaceRecognition.md",
     "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
-    "Cognitive Robotics/Note_20241111.md",
     "3D-Bildverarbeitung",
     "DLACV",
     "Wissenschaftliches Seminar",
