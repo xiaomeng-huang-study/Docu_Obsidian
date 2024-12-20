@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4bed2fa3925eca9",
+        "id": "c4df73c84ab49a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "8476f694614c9530",
+            "id": "d2ad5b30099d9715",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -189,7 +189,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8476f694614c9530",
+  "active": "d2ad5b30099d9715",
   "lastOpenFiles": [
     "Regelung elektrischer Antriebe/Notiz_Kapitel_1.md",
     "Wissenschaftliches Seminar/Notiz_20241015.md",
