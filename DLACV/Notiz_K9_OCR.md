@@ -1,3 +1,7 @@
+- OCR-Apps
+	- Multimedia retrieval (检索) 
+	- Visual input and access 
+	- Industrial automation (z.B. Auto-Kennzeichen) 
 - Herausforderungen 
 	- Environment 
 	- Image acquisition 
@@ -5,5 +9,5 @@
 		- Rauschen (--> Glätten) 
 	- Texte content 
 		- Schriftart (Fonts) 
-		- Sprachen (Schreibrichtungen, Zeichen) 
+		- Sprachen (z.B. Schreibrichtungen, Zeichen) 
 		- 
