@@ -1,0 +1,9 @@
+- Herausforderungen 
+	- Environment 
+	- Image acquisition 
+		- Distortions 
+		- Rauschen (--> Glätten) 
+	- Texte content 
+		- Schriftart (Fonts) 
+		- Sprachen (Schreibrichtungen, Zeichen) 
+		- 

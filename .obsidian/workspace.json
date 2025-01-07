@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "78178a3cd84e6258",
+        "id": "7e54d2ad89bed74e",
         "type": "tabs",
         "children": [
           {
-            "id": "8894d8ac22f3485a",
+            "id": "73147a45c23b11d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DLACV/Notiz_K9_OCR.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_K9_OCR"
             }
           }
         ]
@@ -189,8 +193,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8894d8ac22f3485a",
+  "active": "73147a45c23b11d9",
   "lastOpenFiles": [
+    "DLACV/Notiz_K9_OCR.md",
     "3D-Bildverarbeitung/Projekt/Notiz_20241211.md",
     "3D-Bildverarbeitung/Projekt/Untitled.md",
     "3D-Bildverarbeitung/Projekt/Notiz_20241218.md",
@@ -218,7 +223,6 @@
     "DLACV/Notiz_K2_FaceMorphing.md",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
     "DLACV/Notiz_K4_FaceRecognition_DeepLearning.md",
-    "DLACV/Notiz_K4_FaceRecognition.md",
     "3D-Bildverarbeitung",
     "DLACV",
     "Wissenschaftliches Seminar",
