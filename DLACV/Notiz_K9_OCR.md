@@ -10,4 +10,7 @@
 	- Texte content 
 		- Schriftart (Fonts) 
 		- Sprachen (z.B. Schreibrichtungen, Zeichen) 
-		- 
+
+- Tesseract Pipeline 
+	- Adaptive Thresholding 
+	- Page Layout Analysis 
