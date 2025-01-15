@@ -1,0 +1,6 @@
+- Typen
+	- `friend void func01(data& _data);` 
+	- `friend void classB::func01(data& _data);` 
+	- `friend class classB;` 
+		- `#include classB`  <u>nicht erforderlich</u>  
+- parallel zu `public:`, `protected:`, `private:` schreiben 
