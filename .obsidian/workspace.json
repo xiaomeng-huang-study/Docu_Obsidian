@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b902d368f8174d",
+        "id": "7eb3e16f9cce1f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "f0d3d5de42df1dca",
+            "id": "02cf654dbc14ff62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BMSDM/Notiz_20250117.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Notiz_20250117"
             }
           },
           {
@@ -146,9 +147,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "BMSDM/Notiz_20250117.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Notiz_20250117"
             }
           },
           {
@@ -193,10 +196,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f0d3d5de42df1dca",
+  "active": "02cf654dbc14ff62",
   "lastOpenFiles": [
-    "BMSDM/Notiz.md",
+    "BMSDM/Notiz_20250110.md",
     "BMSDM/Notiz_20250117.md",
+    "BMSDM/Notiz_Management-Ansätze.md",
+    "BMSDM/Notiz_Design_Thinking.md",
+    "BMSDM/Notiz_20241018.md",
+    "BMSDM/Notiz_20241004.md",
+    "BMSDM/Lösung_20241011.md",
+    "BMSDM/Notiz.md",
     "Wissenschaftliches Seminar/Notiz_20250116.md",
     "Prog C 1/Treads.md",
     "Prog C 1/Zeiger.md",
@@ -215,12 +224,6 @@
     "ROS/ROS1/C 1/CMakeLists.md",
     "Prog C 1/verkettete List.md",
     "ROS/ROS2/C 1/Package.xml.md",
-    "Prog C 1/dynamische Array.md",
-    "Prog C 1/Operator überladen.md",
-    "Prog C 1/Klassen/Modell_OOP.md",
-    "Prog C 1/bitweise Operatoren.md",
-    "Prog C 1/Klassen/this-pointer.md",
-    "Prog C 1/Little- and Big Endian.md",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
     "Prog C 1/Klausur/WS1819",
