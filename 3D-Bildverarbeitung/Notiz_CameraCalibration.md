@@ -13,8 +13,10 @@ Es besteht aus einem kleinen Loch (der „Blende“) auf der Vorderseite und ein
 
 ### Projektive Transformation 
 <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-01-26_20-07-49.png?raw=" width="60%" /> 
+
 #### Definition 
 beschreibt, wie Punkte im dreidimensionalen Raum auf eine zweidimensionale Bildebene projiziert werden. 
+
 #### Abweichungen 
 <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-01-26_20-09-56.png?raw=" width="60%" /> 
 1. Offset (Versatz der Bildmitte): Im idealen Lochkameramodell wird angenommen, dass die optische Achse der Kamera genau durch den Mittelpunkt der Bildebene verläuft. In der Realität ist dies jedoch oft nicht der Fall. Dies führt zu einem Versatz der Bildmitte, der durch die Parameter $c_x, c_y$ beschrieben wird. 
