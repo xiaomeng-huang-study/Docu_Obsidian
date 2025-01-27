@@ -33,6 +33,11 @@
 		- Forme $v_9$​ in eine $3\times3$ - Matrix $F$ um 
 	4. Rang-2-Bedingung für $F$ erzwingen  
 	5. Denormalisierung von $F$ 
+- kann Epipolarlinien und Epipole beschreiben 
+	- Epipolarlinien 
+		- $l_{2}=F p_{1}$ , $l_{1}=F^{T} p_{2}$ 
+		- Beispiel <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-01-27_23-14-05.png?raw=" width="60%" /> 
+	- Epipole: $F e_1 = 0$, $F^{T} e_2 = 0$ 
 
 ## Essentialmatrix und Fundamentalmatrix 
 ### Essentialmatrix 
@@ -43,3 +48,5 @@
 ### Fundamentalmatrix 
 - unabhängig von den intrinsischen Kameraparametern 
 - $p_{2}^{T} F p_{1}=0$ 
+
+
