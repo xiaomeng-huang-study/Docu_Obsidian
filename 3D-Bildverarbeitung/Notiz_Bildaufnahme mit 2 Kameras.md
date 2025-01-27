@@ -1,5 +1,6 @@
 # Epipolare Geometrie 
 <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-01-27_21-49-00.png?raw=" width="50%" /> 
+
 - Tiefeninformationen gewinnen: Wenn zwei Kameras dasselbe Objekt aus leicht unterschiedlichen Positionen aufnehmen, gibt es eine **Verschiebung (Disparität)** der Position des Objekts in den beiden Bildern. Diese Disparität hängt von der Tiefe des Objekts ab: Je näher das Objekt ist, desto größer ist die Verschiebung. Durch die Berechnung der Disparität kann die Tiefe des Objekts rekonstruiert werden. 
 
 
