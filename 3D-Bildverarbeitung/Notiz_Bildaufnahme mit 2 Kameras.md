@@ -52,5 +52,10 @@
 
 
 # Kanonisches Stereoskopisches System 
-- Zwei Kameras, deren optische Achsen parallel zueinander sind und in derselben Ebene liegen 
-- 
+- Definition: Zwei Kameras, deren optische Achsen parallel zueinander sind und in derselben horizontalen Ebene liegen 
+- Disparität 
+	- Allgemein: Für einen Punkt, die Differenz der Pixelkoordinaten ​$p_r$ der linken Kamera und $p_r$​ der rechten Kamera in den beiden Bildern $D\left(\mathbf{p}_{l}, \mathbf{p}_{r}\right)=\sqrt{D_{x}^{2}\left(\mathbf{p}_{l}, \mathbf{p}_{r}\right)+D_{y}^{2}\left(\mathbf{p}_{l}, \mathbf{p}_{r}\right)}$ 
+	- beim kanonischen Stereoskopischen System 
+		- nur horizontale Disparität: $D_{x}\left(p_{l}, p_{r}\right)=\frac{b f}{Z}$ 
+		- keine vertikale Disparität: weil die Kameras so ausgerichtet sind, dass ihre optischen Achsen parallel verlaufen und sich in derselben horizontalen Ebene befinden. 
+	- 
