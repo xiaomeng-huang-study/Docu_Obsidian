@@ -3,7 +3,7 @@
 	- Infrarot-CMOS-Sensor: speichert die Bilder 
 	- PrimeSense-Chip: berechnet die Tiefeninformation und bestimmt dadurch 3D-Punktewolken bzw. die Tiefenbilder 
 - Ein Tiefenwert wird basierend auf der Zeit des Lichtsignals und der Lichtgeschwindigkeit gemessen (time of flight) 
-- Nachteile 
+- Nachteile der Asus Xtion Pro Kamera 
 	- verrauschte Tiefenbilder: zu vielen Bereichen können keine Daten bestimmt werden 
 	- Bereiche ohne Tiefenwerte z.B. bei Materialien, die kein IR-Licht reflektieren bei sehr dünnen Strukturen oder bei Oberflächen, die sich in der Reflektion befinden 
 	- zu schneller Bewegung 
@@ -47,6 +47,7 @@
 	- gleicht Sensorbewegungen aus 
 	- speichert implizit die Oberflächen-Geometrie 
 - Wie werden die Daten einer Oberfläche volumetrisch integriert? 
-	- signed distance function 
+	- signed distance function: Die Werte sind vor der Oberfläche positiv und hinter der Oberfläche negativ, so dass sich die Oberfläche selbst beim Zero-Crossing bzw. Nulldurchgang zwischen den Voxeln befindet. 
 	- Truncated distance function 
-
+- Raycasting 
+	- 3D - Volumendaten oder -Modelle auf eine 2D - Bildebene zu projizieren, um eine Visualisierung zu erhalten. 
