@@ -51,3 +51,6 @@
 - $p_{2}^{T} F p_{1}=0$ 
 
 
+# Kanonisches Stereoskopisches System 
+- Zwei Kameras, deren optische Achsen parallel zueinander sind und in derselben Ebene liegen 
+- 
