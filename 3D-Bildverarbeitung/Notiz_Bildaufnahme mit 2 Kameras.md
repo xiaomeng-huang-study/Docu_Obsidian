@@ -54,6 +54,7 @@
 		- $l_{2}=F p_{1}$ , $l_{1}=F^{T} p_{2}$ 
 		- Beispiel <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-01-27_23-14-05.png?raw=" width="60%" /> 
 	- Epipole: $F e_1 = 0$, $F^{T} e_2 = 0$ 
+- Kamerakalibrierung 
 
 
 ## Essentialmatrix und Fundamentalmatrix 
@@ -82,4 +83,26 @@
 	- Vorteile 
 		- Berechnung von Disparitäten erleichtern 
 		- Berechnung von Tiefeninformationen erleichtern 
-	- 
+
+
+# Kamerakalibrierung 
+- Für Intr. Und Extr. Kameraparameter 
+- Kalibrierobjekte einfach zu erkennende Merkmale in ihrer Position und Größendimension. z.B. Schachbrettmuster 
+- Für jede Kamera 
+	- Bestimmung der intrinsischen Parameter 
+	- Ermittlung der extrinsischen Parameter 
+	- Notwendigkeit für genaue Epipolargeometrie: $F$ und $E$ 
+- SVD wird eingesetzt 
+
+
+# Filterseparation 
+- Definition: ein mehrdimensionaler Filter (z.B. ein 2D-Filter) wird in eine Folge von separaten, eindimensionalen Filtern zerlegt 
+- $H(x, y)=h_{x}(x) \cdot h_{y}(y)$ 
+- z.B. Gauß-Filter 
+- SVD wird eingesetzt 
+
+
+# Detektoren 
+- Kantendetektor 
+- Eckpunkt-Detektor: Parametrische Modellanpassung, konturbasierte Methoden, Intensitätsbasierte Methoden 
+- Suche nach korrespondierenden Punkten und Matching der korrespondierenden Punkte im linken und rechten Bild, ICP 

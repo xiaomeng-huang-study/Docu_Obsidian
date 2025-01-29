@@ -198,8 +198,9 @@
   },
   "active": "bd5f2d6b8212e16b",
   "lastOpenFiles": [
-    "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 1 Kamera.md",
+    "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 2 Kameras.md",
+    "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 1 Kamera.md",
     "BMSDM/Notiz_20250117.md",
     "BMSDM/Notiz_20250110.md",
     "BMSDM/Notiz_Management-Ansätze.md",
@@ -223,7 +224,6 @@
     "Prog C 1/Klassen/friend.md",
     "ROS/ROS2/C 1/Subscriber.md",
     "ROS/ROS1/C 1/Subscriber.md",
-    "ROS/ROS1/C 1/CMakeLists.md",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
     "Prog C 1/Klausur/WS1819",
