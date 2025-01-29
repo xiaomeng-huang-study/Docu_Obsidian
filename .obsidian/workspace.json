@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b89fa36f2fb41eb",
+        "id": "271ace8de43d866e",
         "type": "tabs",
         "children": [
           {
-            "id": "47be24c3001eb362",
+            "id": "bd5f2d6b8212e16b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,10 +196,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "47be24c3001eb362",
+  "active": "bd5f2d6b8212e16b",
   "lastOpenFiles": [
-    "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 2 Kameras.md",
     "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 1 Kamera.md",
+    "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 2 Kameras.md",
     "BMSDM/Notiz_20250117.md",
     "BMSDM/Notiz_20250110.md",
     "BMSDM/Notiz_Management-Ansätze.md",
