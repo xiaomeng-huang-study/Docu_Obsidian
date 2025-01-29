@@ -20,3 +20,6 @@
 		- Verschiedene Ansichten der physikalischen Szene werden aufgenommen und zu einer einzigen Repräsentation der Szene fusioniert. 
 	6. Volumengitter verwenden:
 		- Die finale 3D-Repräsentation der Szene basiert auf einem Volumengitter, das die Tiefendaten integriert. 
+
+<img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-01-29_21-14-57.png?raw=" width="80%" /> 
+
