@@ -1,4 +1,4 @@
 - Definition 
 	- dient zur Registrierung von zwei oder mehreren 3D-Punktewolken. 
-	- Der ICP-Algorithmus berechnet ausgehend von einer initial bekannten Position iterativ diejenige rigide Koordinatentransformation (nur Rotationen und Translation), die eine Punktewolke in die andere Punktewolke mit minimalen Fehlerabständen transformiert. Durch Zusammensetzen von mehreren Punktewolken zu verschiedenen Standpunkten kann ein 3D-Gesamtmodell rekonstruiert werden. 
+	- Der ICP-Algorithmus berechnet ausgehend von einer initial bekannten Position iterativ diejenige rigide Koordinatentransformation (nur Rotationen und Translation), die eine Punktewolke in die andere Punktewolke mit minimalen Fehlerabständen transformiert. (Durch Zusammensetzen von mehreren Punktewolken zu verschiedenen Standpunkten kann ein 3D-Gesamtmodell rekonstruiert werden.) 
 - 
