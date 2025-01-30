@@ -1,4 +1,14 @@
 - Definition 
 	- dient zur Registrierung von zwei oder mehreren 3D-Punktewolken. 
 	- Der ICP-Algorithmus berechnet ausgehend von einer initial bekannten Position iterativ diejenige rigide Koordinatentransformation (nur Rotationen und Translation), die eine Punktewolke in die andere Punktewolke mit minimalen Fehlerabständen transformiert. (Durch Zusammensetzen von mehreren Punktewolken zu verschiedenen Standpunkten kann ein 3D-Gesamtmodell rekonstruiert werden.) 
-- 
+- zwei Varianten 
+	- Besl & McKay 
+		- Point-to-Point Distance wird minimiert. 
+	- Chen & Medioni 
+		- Point-to-Plane Distance wird minimiert. 
+- Methoden 
+	- Closest Point Matching 
+		- Der klassische Ansatz im ICP, bei dem für jeden Punkt der Quellpunktwolke der nächstgelegene Punkt in der Zielpunktwolke gesucht wird. 
+	- Normal Shooting 
+		- Ein verbesserter Ansatz, bei dem entlang der Normale eines Punktes eine Linie gezogen wird, um den Schnittpunkt mit der Zielpunktwolke zu finden. 
+	- 
