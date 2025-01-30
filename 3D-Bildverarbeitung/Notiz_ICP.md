@@ -11,4 +11,11 @@
 		- Der klassische Ansatz im ICP, bei dem für jeden Punkt der Quellpunktwolke der nächstgelegene Punkt in der Zielpunktwolke gesucht wird. 
 	- Normal Shooting 
 		- Ein verbesserter Ansatz, bei dem entlang der Normale eines Punktes eine Linie gezogen wird, um den Schnittpunkt mit der Zielpunktwolke zu finden. 
-	- 
+- ICP-Algorithmus nach Besl und McKay 
+	- 1. Zuordnung von Punktpaaren (Closest Point Matching) 
+	- 2. Die optimale Transformation $T$ finden 
+		- $T=T_{4\times4}\left(\alpha, \beta, \gamma, t_{x}, t_{y}, t_{z}\right)$ 
+		- $D(p, q)=\sum_{i}\left\|T\left(p_{i}\right)-q_{i}\right\|^{2}$ 
+		- Minimierung von $D(p, q)$ : $\frac{\delta D}{\delta \alpha}=0, \frac{\delta D}{\delta \beta}=0, \frac{\delta D}{\delta \gamma}=0, \frac{\delta D}{\delta t_{x}}=0, \frac{\delta D}{\delta t_{y}}=0, \frac{\delta D}{\delta t_{z}}=0$ 
+		- SVD 
+		- 
