@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f4f6cf7594bc9e",
+        "id": "def8a36da16d80bd",
         "type": "tabs",
         "children": [
           {
-            "id": "bb1c880e9d6275d7",
+            "id": "75183889cfcd2d46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Bildverarbeitung/Notiz_KinectFusion.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_KinectFusion"
+              "title": "New tab"
             }
           }
         ]
@@ -196,7 +192,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "bb1c880e9d6275d7",
+  "active": "75183889cfcd2d46",
   "lastOpenFiles": [
     "3D-Bildverarbeitung/Notiz_KinectFusion.md",
     "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 2 Kameras.md",
