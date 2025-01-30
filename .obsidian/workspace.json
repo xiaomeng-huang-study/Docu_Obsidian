@@ -35,8 +35,7 @@
               "title": "Notiz_Keypoints and Descriptors"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +210,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0de6a4bfaa6b332b",
+  "active": "f4725da9d410a61a",
   "lastOpenFiles": [
-    "3D-Bildverarbeitung/Notiz_Image Matching.md",
     "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
+    "3D-Bildverarbeitung/Notiz_Image Matching.md",
     "3D-Bildverarbeitung/Notiz_ICP.md",
     "Pasted image 20250130210025.png",
     "3D-Bildverarbeitung/Notiz_KinectFusion.md",

@@ -45,6 +45,12 @@ Region extraction needs to be repeatable and accurate
 - A point is selected as keypoint if it is higher or lower than all 26 (3 x 3 x 3 - 1) neighbors. 
 - $\sigma$ : the smaller of the two gaussian images from the DoG image 
 
+## Step3: Select Keypoints 
+- Keypoints mit geringem Kontrast werden eliminiert 
+
+## Step4: Eliminate false edges 
+- Anpassung an grundlegende Kurven 
+
 # SIFT Descriptor^SIFT-Descriptor
 ## Step 1: Detect Keypoint orientation 
 - Calculate in a preprocessing step all gradient magnitudes and orientations to all gaussian images L 
