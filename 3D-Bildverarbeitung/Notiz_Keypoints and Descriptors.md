@@ -52,6 +52,7 @@ Region extraction needs to be repeatable and accurate
 - Anpassung an grundlegende Kurven 
 
 # SIFT Descriptor^SIFT-Descriptor
+- ein Vektor, der alle Merkmale zu diesem Keypoint beinhaltet. Der Vektor hat eine Dimension von 4 × 4 × 8 = 128, somit 128 Merkmale. 
 ## Step 1: Detect Keypoint orientation 
 - Calculate in a preprocessing step all gradient magnitudes and orientations to all gaussian images L 
 	- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_22-10-06.png?raw=" width="60%" /> 

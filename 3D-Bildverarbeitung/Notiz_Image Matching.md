@@ -3,5 +3,10 @@
 # SIFT-Operator 
 - Scale-Invariant Feature Transform 
 - Dies gelingt durch einen kaskadierenden Ansatz, der das Bild in verschiedenen Auflösungen betrachtet (SIFT-Detektor DoG) und die dominanten Gradientenrichtungen mittels lokalen Gradientenhistogrammen detektiert (SIFT-Deskriptor). 
-- Woraus besteht der Keypoint-Deskriptor? 
-	- ein Vektor, der alle Merkmale zu diesem Keypoint beinhaltet. Der Vektor hat eine Dimension von 4 × 4 × 8 = 128, somit 128 Merkmale. 
+- Merkmale 
+	- Rotationsinvarianz 
+		- Wird durch die Zuweisung einer Hauptrichtung an Keypoints erreicht. Anhand des Gradientenrichtungenshistogramms wird die dominante Richtung ermittelt. 
+	- Skalierungsinvarianz 
+		- Der Algorithmus baut einen Skalenraum, indem das Bild mit Gaussfiltern unterschiedlicher Stärken bearbeitet und untergesampelt wird. 
+	- Beleuchtungsinvarianz 
+		- SIFT basiert auf Gradienteninformation, die die relative Intensitätsänderung widerspiegelt und nicht von absoluten Helligkeitswerten abhängt. 
