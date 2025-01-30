@@ -34,9 +34,12 @@ Region extraction needs to be repeatable and accurate
 
 # SIFT Detector^SIFT-Detector
 ## Step 1: Gaussian and Difference-of-Gaussian pyramid 
-<img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_18-03-31.png?raw=" width="60%" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_18-03-31.png?raw=" width="60%" /> 
 
-<img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_21-25-47.png?raw=" width="60%" /> 
+- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_21-25-47.png?raw=" width="60%" /> 
+- scale: Grad der Unschärfe. Ein größerer "scale" entspricht einer größeren Entfernung beim Betrachten, wodurch das Bild unschärfer und kleiner wird. 
+- octave: Jede "octave" besteht aus einer Gruppe von Bildern, die die gleiche Größe haben, aber unterschiedliche Unschärfe (verschiedene "scales") aufweisen. 
+
 ## Step 2: Detect Minima and Maxima 
 <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_21-44-43.png?raw=" width="40%" /> 
 - A point is selected as keypoint if it is higher or lower than all 26 (3 x 3 x 3 - 1) neighbors. 
