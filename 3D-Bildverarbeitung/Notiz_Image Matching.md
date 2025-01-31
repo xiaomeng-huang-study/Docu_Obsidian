@@ -40,3 +40,21 @@
 	- $R > 0$ : Ecke 
 	- $R \approx 0$ : Kante 
 	- $R < 0$ : Flache Region 
+
+
+# Invarianz gegenüber Transformationen 
+| Eigenschaft               | Hessian & Harris Corner Detector | SIFT                        |
+| ------------------------- | -------------------------------- | --------------------------- |
+| Translation               | Invariant                        | Invariant                   |
+| Rotation                  | Invariant                        | Invariant                   |
+| Skalierung                | Nicht invariant                  | Invariant                   |
+| Beleuchtungsänderung      | Teilweise invariant              | Invariant                   |
+| Affine Transformation     | Teilweise invariant              | Robust (aber nicht perfekt) |
+| Nichtlineare Verzerrungen | Nicht invariant                  | Nicht invariant             |
+- Translation: Alle Methoden sind translational invariant, da lokale Merkmale (Gradienten oder Ableitungen) unabhängig von der absoluten Position im Bild berechnet werden. 
+- Rotation 
+	- Hessian & Harris Corner Detector basiert auf Gradienten und reagieren daher nicht auf Rotation; 
+	- SIFT ist zusätzlich darauf optimiert, lokale Keypoints eine Orientierung zuzuweisen, was eine explizite Rotationsinvarianz gewährleistet. 
+- Skalierung 
+	- Hessian & Harris Corner Detector ist nicht skaleninvariant. Aufgrund der Skalierung ist es möglich, dass ein Bereich, der ursprünglich als Ecke erkannt wurde, nun als Kante erkannt wird. 
+	- SIFT verwendet eine Gaussian Scale-Space-Repräsentation, wodurch Keypoints über mehrere Skalen hinweg erkannt werden können. 
