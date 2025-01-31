@@ -28,4 +28,7 @@
 	- Surface curvature $\sigma_{p}=\frac{\lambda_{0}}{\lambda_{0}+\lambda_{1}+\lambda_{2}}$ 
 - Ausrichtung von Normalenvektor 
 	- Richtungsvektor zur Kamera berechnen, Normalenvektor ggf. invertieren 
-- 
+- geometrischen Unterteilungsfunktionen
+	- Octree: eine hierarchische Baumstruktur, die den 3D-Raum rekursiv in acht gleich große Oktanten unterteilt 
+	- k-d-Tree: eine binäre Baumstruktur, die den Raum rekursiv entlang einer der $k$-dimensionalen Achsen unterteilt (für 3D-Punkte also entlang der x-, y- und z-Achse). 
+	- Box Decomposition Tree (BD-Tree): eine spezielle Form des k-d-Trees und ähnelt dem k-d-Tree, jedoch mit dem Unterschied, dass er den Raum durch axis-aligned Boxen (Achsen ausgerichtete Boxen) unterteilt. 
