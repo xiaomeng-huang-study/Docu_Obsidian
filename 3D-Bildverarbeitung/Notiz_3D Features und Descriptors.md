@@ -1,0 +1,6 @@
+- geometrische Merkmale 
+	- Surface curvatures 
+		- Die Kurvatur beschreibt, wie stark die Oberfläche um einen Punkt gekrümmt ist. 
+	- Surface normals 
+		- Der Normalenvektor eines Punktes zeigt die Orientierung der Oberfläche um diesen Punkt. 
+	- 
