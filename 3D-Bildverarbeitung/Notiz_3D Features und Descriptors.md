@@ -3,4 +3,18 @@
 		- Die Kurvatur beschreibt, wie stark die Oberfläche um einen Punkt gekrümmt ist. 
 	- Surface normals 
 		- Der Normalenvektor eines Punktes zeigt die Orientierung der Oberfläche um diesen Punkt. 
+- k-Nachbarschaft 
+	- Definition 
+		- Die $k$-Nachbarschaft eines 3D-Punktes in einer Punktwolke bezeichnet die $k$ nächstgelegenen Punkte (Nachbarn) zu diesem Punkt basierend auf ihrer räumlichen Distanz. 
+	- Auffindung 
+		- Brute-Force-Methode 
+			- Berechnung der Distanz zu allen Punkten, Sortierung und Auswahl der $k$ Punkten mit kleinsten Distanzen. 
+		- Effizientere Ansätze 
+			- kd-Tree 
+			- Octree 
+		- Radius-basierte Nachbarschaft 
+			- alle Punkte innerhalb Distanz $r$ werden als Nachbarn betrachtet. 
+	- Reduzierung des Suchaufwands 
+		- Aus der Perspektive der methodischen Verbesserung: Brute-Force ($n^2$) $\rightarrow$ kd-Tree ($nlog{n}$) 
+		- Aus der Perspektive der technologischen Verbesserungen: mit `OpenMP` Algorithmus zu parallelisieren 
 	- 
