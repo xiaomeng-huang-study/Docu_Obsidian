@@ -12,9 +12,11 @@
 		- SIFT basiert auf Gradienteninformation, die die relative Intensitätsänderung widerspiegelt und nicht von absoluten Helligkeitswerten abhängt. 
 
 
-# Ableitungsfilter 
-## Kantendetektoren 
+# Kantendetektoren 
 - <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-01-31_17-51-54.png?raw=" width="80%" /> 
 - zwei Klassen von Kantenfiltern 
 	- basierend auf der ersten Ableitung und der Analyse des Gradienten 
 	- basierend auf der zweiten Ableitung und der Analyse der Nulldurchgänge 
+
+
+# Eckpunkt-Detektor 

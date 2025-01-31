@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30de2dfa1c8a016e",
+        "id": "4f4f0f43f447f55e",
         "type": "tabs",
         "children": [
           {
-            "id": "0432730629347f16",
+            "id": "968d2fa8f2c73030",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,10 +197,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0432730629347f16",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
+    "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
     "3D-Bildverarbeitung/Notiz_Image Matching.md",
+    "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "3D-Bildverarbeitung/Notiz_KinectFusion.md",
     "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
     "3D-Bildverarbeitung/Notiz_ICP.md",
@@ -225,7 +226,6 @@
     "Prog C 1/Komposition.md",
     "ROS/ROS1/C 1/Untitled.md",
     "ROS/ROS2/C 1/Publisher.md",
-    "ROS/ROS2/C 1/CMakeLists.md",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
     "Prog C 1/Klausur/WS1819",
