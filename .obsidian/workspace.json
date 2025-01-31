@@ -22,20 +22,19 @@
             }
           },
           {
-            "id": "27232c2bb284bb86",
+            "id": "a5f1770da5c20e42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.8.3"
               },
-              "icon": "lucide-file",
-              "title": "Notiz_Keypoints and Descriptors"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -210,7 +210,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f4725da9d410a61a",
+  "active": "a5f1770da5c20e42",
   "lastOpenFiles": [
     "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "3D-Bildverarbeitung/Notiz_Image Matching.md",
