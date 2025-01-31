@@ -17,4 +17,15 @@
 	- Reduzierung des Suchaufwands 
 		- Aus der Perspektive der methodischen Verbesserung: Brute-Force ($n^2$) $\rightarrow$ kd-Tree ($nlog{n}$) 
 		- Aus der Perspektive der technologischen Verbesserungen: mit `OpenMP` Algorithmus zu parallelisieren 
-	- 
+- Surface Normal und die Surface Curvature 
+	- Schwerpunkt aller Nachbarpunkte $p_{i}$ 
+		- $\bar{p}=\frac{1}{k} \sum_{i=1}^{k} p_{i}$ 
+	- $3 \times 3$ Covariance matrix: 
+		- $C=\frac{1}{k} \sum_{i=1}^{k} \alpha_{i}\left(p_{i}-\bar{p}\right)\left(p_{i}-\bar{p}\right)^{t}$ 
+	- Eigenvektoren mit PCA berechnen 
+		- $C \cdot \overrightarrow{v_{j}}=\lambda_{j} \cdot \overrightarrow{v_{j}}, \quad j \in\{0,1,2\}$ 
+	- kleinster Eigenwert $\rightarrow$ Normalenvektor $+\vec{n}, -\vec{n}$ 
+	- Surface curvature $\sigma_{p}=\frac{\lambda_{0}}{\lambda_{0}+\lambda_{1}+\lambda_{2}}$ 
+- Ausrichtung von Normalenvektor 
+	- Richtungsvektor zur Kamera berechnen, Normalenvektor ggf. invertieren 
+- 
