@@ -20,3 +20,23 @@
 
 
 # Eckpunkt-Detektor 
+## Hessian-Corner-Detector 
+- Hessische Matrix 
+	- $\mathbf{H}=\left(\begin{array}{ll}H_{11} & H_{12} \\H_{21} & H_{22}\end{array}\right)=\left(\begin{array}{cc}I_{x x} & I_{x y} \\I_{y x} & I_{y y}\end{array}\right)$ 
+	- wobei $I_{xy}$ die diskrete Ableitung des Bildes $I$ erst in $x-$ und dann in $y-$Richtung bedeutet. $I_{xx}$ ist die 2.te Ableitung in $x-$Richtung. 
+- Der Betrag der Determinanten der Hessischen Matrix 
+	- $\|\operatorname{det}(\mathbf{H})\|=\left\|H_{11} H_{22}-H_{12} H_{21}\right\|=\left\|I_{x x} I_{y y}-I_{x y}^{2}\right\|$ 
+- Eigenwerte 
+	- $\operatorname{det}(H-\lambda I)=0$ $\Rightarrow$ $\lambda_1, \lambda_2$ 
+	- beschreiben die Stärke der Krümmung in den Hauptachsenrichtungen der lokalen Bildstruktur. 
+	- $\lambda_{1} \approx 0$ und $\lambda_{2} \approx 0$ : Flache Region 
+	- $\lambda_{1} \gg 0$ und $\lambda_{2} \approx 0$ : Kante 
+	- $\lambda_{1} \gg 0$ und $\lambda_{2} \gg 0$ : Ecke 
+
+## Harris Corner Detector 
+- Corner Response Function 
+	- $R=\operatorname{det}(H)-k \cdot \operatorname{trace}(H)^{2}$ 
+		- wobei $\operatorname{det}(H)=I_{x x} \cdot I_{y y}-I_{x y}^{2}$, $\operatorname{trace}(H)=I_{x x}+I_{y y}$, $k$ ein empirischer Parameter. 
+	- $R > 0$ : Ecke 
+	- $R \approx 0$ : Kante 
+	- $R < 0$ : Flache Region 
