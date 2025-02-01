@@ -5,6 +5,12 @@
 	- $I_x$ , $I_y$ , $I_t$ die partiellen ersten Ableitungen von $I$ in $x$ , $y$ and $t$ 
 	- $u$ and $v$ : relative Geschwindigkeiten in x- und y-Richtung 
 
+# Grafische Interpretation der Optical Flow-Gleichung 
+- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-02-01_15-28-52.png?raw=" width="60%" /> 
+- Normal Flow: Die Bewegungskomponente entlang des Helligkeitsgradienten 
+- Parallel Flow: Die Bewegungskomponente entlang der Helligkeits-Isolinien 
+- Beziehung mit Optical Flow Gleichung: Sie beschreibt ausschließlich den Normal Flow, während der Parallel Flow unbestimmt bleibt. 
+
 # Solution to $u$ and $v$ 
 - Zusatzbedingungen benötigt: eine Gleichung aber mit zwei Unbekannten 
 ## 1. Lucas Kanade 

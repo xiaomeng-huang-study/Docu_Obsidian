@@ -60,7 +60,10 @@ Region extraction needs to be repeatable and accurate
 	- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_22-05-59.png?raw=" width="20%" /> 
 - Histogram of Oriented Gradients (HOG) 
 	- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_22-07-14.png?raw=" width="90%" /> 
-	- 36 bins x 10°/bin = 360° 
+	- (36 bins x 10°/bin = 360°) 
+	- 1. Richtungsquantisierung: die Gradientenrichtung jedes Pixels wird in diskrete Richtungsintervalle 10°/bin quantisiert 
+	- 2. die Häufigkeit, mit der jede Richtung des Gradienten in dieser Zelle auftritt, wird für jedes bin berechnet 
+	- 3. Hauptrichtung auswählen 
 ## Step 2: Description 
 - Define a squared 16x16 region around the keypoint, divide the region into 16 equal blocks by 4x4 pixel 
 	- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_22-15-22.png?raw=" width="30%" /> 
