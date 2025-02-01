@@ -27,7 +27,33 @@
 	- Kanten: Die Verbindungen zwischen den Bildern darstellen, wenn sie gemeinsame Merkmale (Feature Matches) aufweisen. 
 
 
+# Limitierungen 
+- Wenn die Bilder keine ausreichenden gemeinsamen Merkmale aufweisen, kann der Algorithmus keine zuverlässigen Korrespondenzen finden. 
+	- Fehlende Überlappung 
+	- Schlechte Bildqualität 
+- SfM hat Schwierigkeiten, mit sehr großen Datensätzen (z. B. Tausenden von Bildern) umzugehen, da die Komplexität der Berechnungen stark ansteigt. 
+	- Rechenzeit 
+	- Speicherbedarf 
+- Wenn die Szene hauptsächlich aus flachen Oberflächen besteht (z. B. eine Wand oder ein Tisch), fehlt diese Parallaxe. 
+	- Fehlende Tiefeninformation 
+
+
+# Wofür wird die SVD hier verwendet? 
+- Schätzung der Fundamentalmatrix oder Essenziellen Matrix 
+- Triangulation von 3D-Punkten 
+- Bundle Adjustment 
+
+
+# Texturbilddaten 
+- Definition 
+	- Texturbilddaten sind 2D-Bilder (Texturen), die auf die Oberfläche eines 3D-Modells projiziert werden, um dessen visuelles Erscheinungsbild zu verbessern. 
+- Inhalte 
+	- Farben (z. B. die Farbe einer Wand oder eines Objekts) 
+	- Muster (z. B. die Struktur von Holz, Stein oder Stoff) 
+
+
 # Fragen 
+## Welche Transformation wird dazu angenommen und wie viele Freiheitsgrade hat diese? 
 - Projektive Transformation basierend auf dem Pinhole-Kameramodell 
 - 11 Freiheitsgrade 
-- 
+
