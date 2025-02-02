@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7bc48e71026e21ca",
+        "id": "31125ddd38699b83",
         "type": "tabs",
         "children": [
           {
-            "id": "eb87b5d8e542ae61",
+            "id": "3a4c193774d5c7a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_Volumenrendering"
+              "title": "New tab"
             }
           }
         ]
@@ -197,8 +193,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "eb87b5d8e542ae61",
+  "active": "3a4c193774d5c7a7",
   "lastOpenFiles": [
+    "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
     "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
     "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 1 Kamera.md",
@@ -211,7 +208,6 @@
     "3D-Bildverarbeitung/Notiz_KinectFusion.md",
     "3D-Bildverarbeitung/Notiz_K1.3_Grundlagen_Bildeigenschaften.md",
     "3D-Bildverarbeitung/Notiz_20241106.md",
-    "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
     "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
     "Pasted image 20250130210025.png",
     "BMSDM/Notiz_20250117.md",
