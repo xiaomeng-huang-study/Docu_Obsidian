@@ -39,12 +39,28 @@
 - Transferfunktion 
 
 
+# Indirektes Volumenrendering (IVR) 
+## Marching Cubes Algorithmus 
+### Input 
+- 3D-Skalarfeld auf einem regulären Voxel-Gitter 
+- Iso-Wert 
+### Verarbeite jeden Würfel (Cube) im Gitter 
+- 1. Klassifiziere die Eckpunkte des Würfels 
+	- größer oder gleich dem Iso-Wert ist, wird der Eckpunkt als innen klassifiziert. 
+	- kleiner als der Iso-Wert ist, wird der Eckpunkt als außen klassifiziert. 
+- 2. Berechne den **Index** des Würfels 
+	- 8-Bit-Zahl ist der **Index** des Würfels (Wert zwischen 0 und 255). 
+- 3. Hole die Dreieckskonfiguration aus der Lookup-Tabelle (LUT) 
+	- eine vordefinierte Lookup-Tabelle (LUT), die für jeden möglichen Index (0–255) die entsprechende Dreieckskonfiguration enthält. 
+- 4. Approximiere die Schnittpunkte auf den Kanten 
+	- der genaue Schnittpunkt der Isofläche mit der Kante wird durch lineare Interpolation der Skalarwerte an den beiden Eckpunkten der Kante berechnet. 
+- 5. Berechne die Gradienten an den Vertices 
+	- $\begin{array}{l}G_{x}(i, j, k)=\frac{D(i+1, j, k)-D(i-1, j, k)}{2\cdot\Delta  x} \\G_{y}(i, j, k)=\frac{D(i, j+1, k)-D(i, j-1, k)}{2\cdot\Delta  y} \\G_{z}(i, j, k)=\frac{D(i, j, k+1)-D(i, j, k-1)}{2\cdot\Delta  z}\end{array}$ 
+- 6. Berechne die Normalenvektoren für die Dreiecke 
+	- $N_{e}=\frac{\rho-D_{0}}{D_{1}-D_{0}} \cdot\left(N_{1}-N_{0}\right)+N_{0}$ 
 
-# Indirektes Volumenrendering 
 
-
-
-# Unterschiede zwischen Direkten und Indirekten Volumenrendering 
+# Unterschiede zwischen DVR und IVR 
 | **Kriterium**          | **Direktes Volumenrendering**        | **Indirektes Volumenrendering**      |
 | ---------------------- | ------------------------------------ | ------------------------------------ |
 | **Darstellung**        | Gesamtes Volumen inkl. Transparenz   | Nur explizite Oberflächen            |
