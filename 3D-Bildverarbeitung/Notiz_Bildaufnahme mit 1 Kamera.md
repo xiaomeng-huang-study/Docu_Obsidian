@@ -42,10 +42,12 @@ Es besteht aus einem kleinen Loch auf der Vorderseite und einer Bildebene auf de
 
 
 # Kalibrierung mit Tsai 
-## Projektionsgleichung 
+## 1. Aufnahme von Bildern des Schachbrettmusters 
+## 2. Erkennung der Schachbrett-Ecken 
+## 3. Projektionsgleichung 
 $$\left[\begin{array}{l}u_{h} \\v_{h} \\z_{h}\end{array}\right]= \left(\begin{array}{llll}m_{11} & m_{12} & m_{13} & m_{14} \\m_{21} & m_{22} & m_{23} & m_{24} \\m_{31} & m_{32} & m_{33} & m_{34}\end{array}\right) \cdot\left[\begin{array}{c}X \\Y \\Z \\1\end{array}\right]$$ 
 $$\begin{aligned}u & =\frac{m_{11} X+m_{12} Y+m_{13} Z+m_{14}}{m_{31} X+m_{32} Y+m_{33} Z+m_{34}} \\v & =\frac{m_{21} X+m_{22} Y+m_{23} Z+m_{24}}{m_{31} X+m_{32} Y+m_{33} Z+m_{34}}\end{aligned}$$ 
-## Linearisierung 
+## 4. Lösung des Gleichungssystems 
 $$\begin{array}{l}u \cdot\left(m_{31} X+m_{32} Y+m_{33} Z+m_{34}\right)=m_{11} X+m_{12} Y+m_{13} Z+m_{14} \\v \cdot\left(m_{31} X+m_{32} Y+m_{33} Z+m_{34}\right)=m_{21} X+m_{22} Y+m_{23} Z+m_{24}\end{array}$$ 
 ### $A$ (2N x 12) 
 $$A=\left[\begin{array}{cccccccccccc}X_{1} & Y_{1} & Z_{1} & 1 & 0 & 0 & 0 & 0 & -u_{1} X_{1} & -u_{1} Y_{1} & -u_{1} Z_{1} & -u_{1} \\0 & 0 & 0 & 0 & X_{1} & Y_{1} & Z_{1} & 1 & -v_{1} X_{1} & -v_{1} Y_{1} & -v_{1} Z_{1} & -v_{1} \\X_{2} & Y_{2} & Z_{2} & 1 & 0 & 0 & 0 & 0 & -u_{2} X_{2} & -u_{2} Y_{2} & -u_{2} Z_{2} & -u_{2} \\0 & 0 & 0 & 0 & X_{2} & Y_{2} & Z_{2} & 1 & -v_{2} X_{2} & -v_{2} Y_{2} & -v_{2} Z_{2} & -v_{2} \\\vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots \\X_{N} & Y_{N} & Z_{N} & 1 & 0 & 0 & 0 & 0 & -u_{N} X_{N} & -u_{N} Y_{N} & -u_{N} Z_{N} & -u_{N} \\0 & 0 & 0 & 0 & X_{N} & Y_{N} & Z_{N} & 1 & -v_{N} X_{N} & -v_{N} Y_{N} & -v_{N} Z_{N} & -v_{N}\end{array}\right]$$ 
@@ -54,5 +56,7 @@ $$A=\left[\begin{array}{cccccccccccc}X_{1} & Y_{1} & Z_{1} & 1 & 0 & 0 & 0 & 0 &
 $$\boldsymbol{x}=\left[\begin{array}{l}m_{11} \\m_{12} \\m_{13} \\m_{14} \\m_{21} \\m_{22} \\m_{23} \\m_{24} \\m_{31} \\m_{32} \\m_{33} \\m_{34}\end{array}\right]$$ 
 ### $A \cdot x=0$ 
 
-## SVD 
+### SVD 
 - Die Eigenschaften von SVD: dass die Lösung x **die letzte Spalte von V** ist (die Spalte, die dem **kleinsten singulären Wert** entspricht). 
+
+## 5. Validierung der Kalibrierung 
