@@ -43,7 +43,7 @@ Es besteht aus einem kleinen Loch auf der Vorderseite und einer Bildebene auf de
 
 # Kalibrierung mit Tsai 
 ## Projektionsgleichung 
-$$\left[\begin{array}{l}u \\v \\1\end{array}\right]= \left(\begin{array}{llll}m_{11} & m_{12} & m_{13} & m_{14} \\m_{21} & m_{22} & m_{23} & m_{24} \\m_{31} & m_{32} & m_{33} & m_{34}\end{array}\right) \cdot\left[\begin{array}{c}X \\Y \\Z \\1\end{array}\right]$$ 
+$$\left[\begin{array}{l}u_{h} \\v_{h} \\z_{h}\end{array}\right]= \left(\begin{array}{llll}m_{11} & m_{12} & m_{13} & m_{14} \\m_{21} & m_{22} & m_{23} & m_{24} \\m_{31} & m_{32} & m_{33} & m_{34}\end{array}\right) \cdot\left[\begin{array}{c}X \\Y \\Z \\1\end{array}\right]$$ 
 $$\begin{aligned}u & =\frac{m_{11} X+m_{12} Y+m_{13} Z+m_{14}}{m_{31} X+m_{32} Y+m_{33} Z+m_{34}} \\v & =\frac{m_{21} X+m_{22} Y+m_{23} Z+m_{24}}{m_{31} X+m_{32} Y+m_{33} Z+m_{34}}\end{aligned}$$ 
 ## Linearisierung 
 $$\begin{array}{l}u \cdot\left(m_{31} X+m_{32} Y+m_{33} Z+m_{34}\right)=m_{11} X+m_{12} Y+m_{13} Z+m_{14} \\v \cdot\left(m_{31} X+m_{32} Y+m_{33} Z+m_{34}\right)=m_{21} X+m_{22} Y+m_{23} Z+m_{24}\end{array}$$ 
