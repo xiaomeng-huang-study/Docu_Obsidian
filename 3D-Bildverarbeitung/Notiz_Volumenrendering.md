@@ -44,6 +44,7 @@
 ### Input 
 - 3D-Skalarfeld auf einem regulären Voxel-Gitter 
 - Iso-Wert 
+
 ### Verarbeite jeden Würfel (Cube) im Gitter 
 - 1. Klassifiziere die Eckpunkte des Würfels 
 	- größer oder gleich dem Iso-Wert ist, wird der Eckpunkt als innen klassifiziert. 
