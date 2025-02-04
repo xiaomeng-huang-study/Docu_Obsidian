@@ -89,7 +89,7 @@
 
 # Kamerakalibrierung 
 - Für Intr. Und Extr. Kameraparameter 
-- Kalibrierobjekte einfach zu erkennende Merkmale in ihrer Position und Größendimension. z.B. Schachbrettmuster 
+- Kalibrierobjekte haben einfach zu erkennende Merkmale in ihrer Position und Größendimension. z.B. Schachbrettmuster 
 - Für jede Kamera 
 	- Bestimmung der intrinsischen Parameter 
 	- Ermittlung der extrinsischen Parameter 
