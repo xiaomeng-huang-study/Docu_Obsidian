@@ -44,7 +44,9 @@
 3. Merkmalsextraktion z.B. Eckpunkt-Detektors, SIFT-oder SURF-Operator 
 4. Zuordnung der Punkte z.B. random sample consensus (RANSAC) oder Least Median of Squares (LMedS) $\rightarrow$ zur Elimination von Ausreißern 
 5. Punktenormalisierung $\rightarrow$ Große Dynamik wird verringert 
-6. Lineare oder nichtlineare Berechnung der Fundamental-Matrix 
+6. Berechnung der Fundamental-Matrix 
+	1. Linear: z.B. 8-Point-Algorithm 
+	2. nichtlinear: z.B. Minimizing Reprojection Error 
 7. Denormalisierung der Koeffizienten 
 8. $\Rightarrow$ Disparitätsbild und ein Tiefenbild 
 
