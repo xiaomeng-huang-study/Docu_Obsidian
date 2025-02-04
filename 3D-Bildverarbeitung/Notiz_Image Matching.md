@@ -1,4 +1,4 @@
-- Ziel: wichtige Bildeigenschaften auf den Bildern mittels geeigneten Operatoren zu detektieren. Die detektierten Merkmalspunkte (feature points) in den Bildern werden zugeordnet, somit die Transformationsparameter zur Bildausrichtung berechnet werden können. 
+- Ziel: wichtige Bildeigenschaften auf den Bildern mittels geeigneten Operatoren werden detektiert und zugeordnet, somit die Transformationsparameter zur Bildausrichtung berechnet werden können. 
 
 # SIFT-Operator 
 - Scale-Invariant Feature Transform 
