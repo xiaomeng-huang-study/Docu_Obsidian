@@ -28,7 +28,7 @@
 	- $\|\operatorname{det}(\mathbf{H})\|=\left\|H_{11} H_{22}-H_{12} H_{21}\right\|=\left\|I_{x x} I_{y y}-I_{x y}^{2}\right\|$ 
 - Eigenwerte 
 	- $\operatorname{det}(H-\lambda I)=0$ $\Rightarrow$ $\lambda_1, \lambda_2$ 
-	- beschreiben die Stärke der Krümmung in den Hauptachsenrichtungen der lokalen Bildstruktur. 
+	- beschreiben die **Stärke der Krümmung** in den Hauptachsenrichtungen der lokalen Bildstruktur. 
 	- $\lambda_{1} \approx 0$ und $\lambda_{2} \approx 0$ : Flache Region 
 	- $\lambda_{1} \gg 0$ und $\lambda_{2} \approx 0$ : Kante 
 	- $\lambda_{1} \gg 0$ und $\lambda_{2} \gg 0$ : Ecke 
