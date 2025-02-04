@@ -1,7 +1,7 @@
 - Definition: eine Methode, die Bewegung von Pixeln zwischen zwei aufeinanderfolgenden Bildern in einem Video zu schätzen. 
 
 # Optical Flow equation 
-- $I_{x} u+I_{y} v+\mathrm{I}_{t}=0$ 
+- $I_{x} u+I_{y} v+I_{t}=0$ 
 	- $I_x$ , $I_y$ , $I_t$ die partiellen ersten Ableitungen von $I$ in $x$ , $y$ and $t$ 
 	- $u$ and $v$ : relative Geschwindigkeiten in x- und y-Richtung 
 
