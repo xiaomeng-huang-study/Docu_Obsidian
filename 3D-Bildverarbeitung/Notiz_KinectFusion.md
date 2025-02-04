@@ -71,7 +71,7 @@
 - GPU Implementierung 
 	- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-01-29_21-14-57.png?raw=" width="80%" /> 
 	1. Depth Map Conversion 
-		- Die Live-Tiefenbilder werden von Bildkoordinaten in 3DPunkte (Vertices) und Normalen im Kamerakoordinaten-System konvertiert.
+		- Die Live-Tiefenbilder werden von Bildkoordinaten $\rightarrow$ 3D Punkte (Vertices) und Normalen im Kamerakoordinaten-System konvertiert. 
 	2. Camera Tracking mit ICP 
 		- eine rigide 6DOF-Transformation wird mit ICP berechnet, um die aktuellen ausgerichteten Punkte mit dem vorherigen Kamerabild auszurichten. 
 	3. Volumetric Integration 
