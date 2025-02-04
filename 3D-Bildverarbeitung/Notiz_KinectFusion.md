@@ -8,18 +8,66 @@
 	- Bereiche ohne Tiefenwerte z.B. bei Materialien, die kein IR-Licht reflektieren bei sehr dünnen Strukturen oder bei Oberflächen, die sich in der Reflektion befinden 
 	- zu schneller Bewegung 
 - Schritte 
-	1. Tiefenkarten aufnehmen:
-		- Der Echtzeit-Strom verrauschter Tiefenkarten wird vom Kinect-Sensor erfasst. 
-	2. SLAM-Verfahren anwenden:
-		- Die Tiefenkarten werden in Echtzeit durch ein hochauflösendes SLAM-Verfahren verarbeitet, um ein inkrementelles 3D-Modell der Szene zu erzeugen. 
-	3. Bewegungserkennung durchführen:
-		- Die Bewegung des Sensors wird detektiert, und zugehörige Tiefendaten jedes Bildes werden zum Modell hinzugefügt. 
-	4. Modell kontinuierlich aktualisieren:
-		- Neue Tiefendaten werden durch die Bewegung des Sensors aufgenommen, wodurch das 3D-Modell verfeinert und Lücken geschlossen werden. 
-	5. Ansichten fusionieren:
-		- Verschiedene Ansichten der physikalischen Szene werden aufgenommen und zu einer einzigen Repräsentation der Szene fusioniert. 
-	6. Volumengitter verwenden:
-		- Die finale 3D-Repräsentation der Szene basiert auf einem Volumengitter, das die Tiefendaten integriert. 
+	1. Datenerfassung und Vorbereitung
+		- Eingabe:
+		    - Tiefenkarte (Depth Map) von einer RGB-D-Kamera.
+		    - Intrinsische Kameraparameter (z. B. Brennweite, Bildmittelpunkt).
+		- Prozess:
+		    - Erfassen der Tiefenwerte jedes Pixels im Bild.
+		    - Laden der Kameraparameter, um Tiefenwerte korrekt in 3D-Punkte zu projizieren.
+		- Ausgabe:
+		    - Roh-Tiefenkarte mit Entfernungswerten pro Pixel.
+	2. Depth Map Conversion (Umwandlung in Punktwolken)
+		- Eingabe:
+		    - Tiefenkarte aus Schritt 1.
+		    - Intrinsische Kameramatrix.
+		- Prozess:
+		    - Jeder Tiefenwert wird mit den intrinsischen Kameraparametern in 3D-Koordinaten (Punktwolke) umgerechnet.
+		    - Normalenvektoren werden für jeden Punkt basierend auf benachbarten Punkten berechnet.
+		- Ausgabe:
+		    - Punktwolke (Vertices) im Kamerakoordinatensystem.
+		    - Normalenvektoren für die Punktwolke.
+	3. Kamera-Tracking
+		- Eingabe:
+		    - Punktwolke und Normalenvektoren aus Schritt 2 (aktueller Frame).
+		    - Rekonstruiertes Modell aus vorherigen Frames (Volumen oder Punktwolke).
+		- Prozess:
+		    - Der ICP-Algorithmus berechnet die optimale rigide Transformation (6DOF: Translation und Rotation), um die aktuelle Punktwolke an das Modell auszurichten.
+		    - Fehler zwischen korrespondierenden Punkten wird iterativ minimiert.
+		- Ausgabe:
+		    - 6DOF-Transformation (Kameraposition und -orientierung im globalen Koordinatensystem).
+	4. Volumetric Integration (Volumetrische Integration)
+		- Eingabe:
+		    - Tiefenkarte aus Schritt 1.
+		    - Aktuelle Kameraposition (aus Schritt 3).
+		    - Voxel-Gitter mit TSDF-Werten (bestehendes globales Modell).
+		- Prozess:
+		    - Transformiere die Punktwolke aus dem Kamerakoordinatensystem in das globale Koordinatensystem.
+		    - Aktualisiere die TSDF-Werte im Voxel-Gitter basierend auf den neuen Tiefenwerten (durch Mittelwertbildung).
+		    - Glatte Übergänge entstehen durch das TSDF-Update.
+		- Ausgabe:
+		    - Aktualisiertes volumetrisches Modell (TSDF-Gitter), das die rekonstruierte Szene repräsentiert.
+	5. Raycasting
+		- Eingabe:
+		    - Aktualisiertes TSDF-Gitter (volumetrisches Modell).
+		    - Benutzerdefinierte Kameraansicht oder virtuelle Perspektive.
+		- Prozess:
+		    - Raycasting-Algorithmus wird angewendet: Strahlen werden durch das Voxel-Gitter geschickt, um Schnittpunkte mit der Oberfläche zu finden.
+		    - Sichtbare Oberfläche wird extrahiert und projiziert.
+		- Ausgabe:
+		    - Tiefenbild oder gerendertes Bild der Oberfläche aus der gewünschten Perspektive.
+	6. Iteration und Kontinuierliche Aktualisierung
+		- Eingabe:
+		    - Nächster Tiefenframe.
+		    - Aktuelles TSDF-Gitter.
+		- Prozess:
+		    - Wiederhole Schritte 2–5:
+		        1. Punktwolke berechnen (Schritt 2).
+		        2. Kamerabewegung berechnen (Schritt 3).
+		        3. Tiefendaten in das Modell integrieren (Schritt 4).
+		        4. Oberfläche visualisieren (Schritt 5).
+		- Ausgabe:
+		    - Kontinuierlich verbessertes volumetrisches Modell der Szene.
 - GPU Implementierung 
 	- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_3DBV/refs/heads/main/Scrennshot_2025-01-29_21-14-57.png?raw=" width="80%" /> 
 	1. Depth Map Conversion 
