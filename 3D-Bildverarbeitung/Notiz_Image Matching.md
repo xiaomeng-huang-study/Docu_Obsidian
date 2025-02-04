@@ -20,20 +20,35 @@
 
 
 # Eckpunkt-Detektor 
+## Harris Corner Detector 
+- Second Moment Matrix 
+	- $M=\left(\begin{array}{cc}F\left(I_{x}^{2}\right) & F\left(I_{x} I_{y}\right) \\F\left(I_{y} I_{x}\right) & F\left(I_{y}^{2}\right)\end{array}\right)$ 
+		- wobei $F$ Gauß-Filter ist, $F\left(I_{x}^{2}\right)$ $F\left(I_{y}^{2}\right)$ Quadrat der Ableitungen in $x$ und $y$ Richtungen sind, $F\left(I_{x} I_{y}\right)$ $F\left(I_{y} I_{x}\right)$ Summe der Produkte sind. 
+- Eigenwerte 
+	- $\operatorname{det}(M-\lambda I)=0$ $\Rightarrow$ $\lambda_1, \lambda_2$ 
+	- beschreiben die **Stärke der Krümmung** in den Hauptachsenrichtungen der lokalen Bildstruktur. 
+	- $\lambda_{1} \approx 0$ und $\lambda_{2} \approx 0$ : Flache Region 
+	- $\lambda_{1} \gg 0$ und $\lambda_{2} \approx 0$ : Kante 
+	- $\lambda_{1} \gg 0$ und $\lambda_{2} \gg 0$ : Ecke 
+- Corner Response Function 
+	- $\begin{array}{l}R &=\operatorname{det}(M)-k \cdot \operatorname{trace}(M)^{2} \\&=\lambda_{1} \lambda_{2}-k \cdot\left(\lambda_{1}+\lambda_{2}\right)^{2}\end{array}$ 
+		- wobei $k$ ein empirischer Parameter ist. 
+	- $R > 0$ : Ecke 
+	- $R \approx 0$ : Kante 
+	- $R < 0$ : Flache Region 
+
 ## Hessian-Corner-Detector 
 - Hessische Matrix 
-	- $\mathbf{H}=\left(\begin{array}{ll}H_{11} & H_{12} \\H_{21} & H_{22}\end{array}\right)=\left(\begin{array}{cc}I_{x x} & I_{x y} \\I_{y x} & I_{y y}\end{array}\right)$ 
+	- $H=\left(\begin{array}{ll}H_{11} & H_{12} \\H_{21} & H_{22}\end{array}\right)=\left(\begin{array}{cc}I_{x x} & I_{x y} \\I_{y x} & I_{y y}\end{array}\right)$ 
 	- wobei $I_{xy}$ die diskrete Ableitung des Bildes $I$ erst in $x-$ und dann in $y-$Richtung bedeutet. $I_{xx}$ ist die 2.te Ableitung in $x-$Richtung. 
 - Der Betrag der Determinanten der Hessischen Matrix 
-	- $\|\operatorname{det}(\mathbf{H})\|=\left\|H_{11} H_{22}-H_{12} H_{21}\right\|=\left\|I_{x x} I_{y y}-I_{x y}^{2}\right\|$ 
+	- $\|\operatorname{det}(H)\|=\left\|H_{11} H_{22}-H_{12} H_{21}\right\|=\left\|I_{x x} I_{y y}-I_{x y}^{2}\right\|$ 
 - Eigenwerte 
 	- $\operatorname{det}(H-\lambda I)=0$ $\Rightarrow$ $\lambda_1, \lambda_2$ 
 	- beschreiben die **Stärke der Krümmung** in den Hauptachsenrichtungen der lokalen Bildstruktur. 
 	- $\lambda_{1} \approx 0$ und $\lambda_{2} \approx 0$ : Flache Region 
 	- $\lambda_{1} \gg 0$ und $\lambda_{2} \approx 0$ : Kante 
 	- $\lambda_{1} \gg 0$ und $\lambda_{2} \gg 0$ : Ecke 
-
-## Harris Corner Detector 
 - Corner Response Function 
 	- $R=\operatorname{det}(H)-k \cdot \operatorname{trace}(H)^{2}$ 
 		- wobei $\operatorname{det}(H)=I_{x x} \cdot I_{y y}-I_{x y}^{2}$, $\operatorname{trace}(H)=I_{x x}+I_{y y}$, $k$ ein empirischer Parameter. 
