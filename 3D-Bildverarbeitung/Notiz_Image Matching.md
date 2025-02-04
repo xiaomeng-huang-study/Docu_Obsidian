@@ -60,9 +60,9 @@
 # Invarianz gegenüber Transformationen 
 | Eigenschaft               | Hessian & Harris Corner Detector | SIFT                        |
 | ------------------------- | -------------------------------- | --------------------------- |
-| Translation               | Invariant                        | Invariant                   |
 | Rotation                  | Invariant                        | Invariant                   |
 | Skalierung                | Nicht invariant                  | Invariant                   |
+| Translation               | Invariant                        | Invariant                   |
 | Beleuchtungsänderung      | Teilweise invariant              | Invariant                   |
 | Affine Transformation     | Teilweise invariant              | Robust (aber nicht perfekt) |
 | Nichtlineare Verzerrungen | Nicht invariant                  | Nicht invariant             |
