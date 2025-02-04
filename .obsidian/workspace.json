@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3956a69653b87f4c",
+        "id": "9d02fda35f96c1e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ccac2e2ce42a7f1f",
+            "id": "1ec92ebff64098ae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,8 +193,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "ccac2e2ce42a7f1f",
+  "active": "1ec92ebff64098ae",
   "lastOpenFiles": [
+    "BMSDM/Notiz_Design_Thinking.md",
     "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 2 Kameras.md",
     "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 1 Kamera.md",
     "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
@@ -213,7 +214,6 @@
     "BMSDM/Notiz_20250117.md",
     "BMSDM/Notiz_20250110.md",
     "BMSDM/Notiz_Management-Ansätze.md",
-    "BMSDM/Notiz_Design_Thinking.md",
     "BMSDM/Notiz_20241018.md",
     "BMSDM/Notiz_20241004.md",
     "BMSDM/Lösung_20241011.md",
