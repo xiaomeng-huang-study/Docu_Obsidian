@@ -81,8 +81,8 @@
 		- das Volumen wird mittels einem Raycasting-Algorithmus in Abhängigkeit einer benutzergewählten Kameraansicht gerendert. 
 - Wie erreicht KinectFusion die hochauflösende Rekonstruktion der Geometrie? 
 	- Voxel-basierte Integration 
-	- Parallelisierung durch GPU 
 	- Ray-Casting-Rendering 
+	- Parallelisierung durch GPU 
 - Die Auflösung der Geometrie kann auf folgende Weise beeinflusst werden 
 	- Voxelgröße 
 	- Auflösung der Tiefenbilder 
