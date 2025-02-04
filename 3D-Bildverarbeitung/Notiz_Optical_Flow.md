@@ -14,7 +14,7 @@
 # Solution to $u$ and $v$ 
 - Zusatzbedingungen benötigt: eine Gleichung aber mit zwei Unbekannten 
 ## 1. Lucas Kanade 
-- Zusatzbedingungen: Innerhalb einer kleinen Nachbarschaft (z.B. 3 × 3) um einen Punkt für den der Optische Fluss berechnet wird, bleibt der Geschwindigkeits-Vektor innerhalb der Nachbarschaft konstant. 
+- Zusatzbedingungen: Die Bewegung (der Geschwindigkeitsvektor) in einer kleinen Umgebung (z.B. 3 $\times$ 3) um jeden Punkt nicht ändert. 
 ## 2. Horn Schunck 
 - Zusatzbedingungen: Der Optical Flow ist glatt über das gesamte Bild (d. h., benachbarte Pixel haben ähnliche Bewegungsvektoren). 
 ## Comparison between Lucas Kanade and Horn Schunck 
@@ -28,3 +28,12 @@
 # Ausblick 
 ## Pyramid scheme 
 <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-10_18-06-00.png?raw=" width="90%" /> 
+
+
+# Anwendungen von Optical Flow 
+- Horn-Schunck und Lucas-Kanade Optical Flow-Methoden funktionieren gut bei kleinen Bewegungen in einer kleinen Nachbarschaft. 
+	- Wenn die Objekte sich schneller bewegen, dann ändert sich die Helligkeit massiv und die Brightness Constancy -Bedingung wird verletzt. 
+- Bewegungsverfolgung 
+- Segmentierung von bewegten und unbewegten Objekten 
+- Bewegungskompensation der Kamera: Camcorder Video Stabilisation, Frame Alignment. 
+- Videokompression auf Basis des Optical Flows (speichert nur die Unterschiede zwischen den Frames). 
