@@ -30,7 +30,7 @@
 				- $C_{s r c}$ die Farbe der aktuellen Schicht, die hinzugefügt wird 
 				- addiert die Farbe der aktuellen Schicht $C_{s r c}$​, gewichtet durch die Transparenz der bisherigen Schichten $\left(1-\alpha_{d s t}\right)$ 
 			- Early Ray Termination 
-				- der Strahl **frühzeitig gestoppt** wird, wenn genug Informationen gesammelt wurden und es keine weiteren sichtbaren Beiträge zur Endfarbe gibt. 
+				- der Strahl wird **frühzeitig gestoppt**, wenn genug Informationen gesammelt wurden und es keine weiteren sichtbaren Beiträge zur Endfarbe gibt. 
 
 
 # Parameter des Systems 

@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BMSDM/Notiz_20250117.md",
+                "file": "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notiz_20250117"
+              "title": "Backlinks for Notiz_Volumenrendering"
             }
           },
           {
@@ -123,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Notiz_Volumenrendering"
             }
           },
           {
@@ -137,7 +138,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -149,10 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BMSDM/Notiz_20250117.md"
+                "file": "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notiz_20250117"
+              "title": "Outline of Notiz_Volumenrendering"
             }
           },
           {
@@ -199,11 +205,11 @@
   },
   "active": "6b0067e044f8a38a",
   "lastOpenFiles": [
+    "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
+    "3D-Bildverarbeitung/Notiz_ICP.md",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
     "3D-Bildverarbeitung/Notiz_3D Features und Descriptors.md",
-    "3D-Bildverarbeitung/Notiz_ICP.md",
     "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
-    "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
     "3D-Bildverarbeitung/Notiz_Image Matching.md",
     "3D-Bildverarbeitung/Notiz_Keypoints and Descriptors.md",
     "3D-Bildverarbeitung/Notiz_KinectFusion.md",
