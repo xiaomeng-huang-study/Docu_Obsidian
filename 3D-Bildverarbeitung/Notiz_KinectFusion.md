@@ -88,12 +88,15 @@
 	- Auflösung der Tiefenbilder 
 - Warum ist es wichtig, die Aufnahmen mit der Kinect in einer relativ langsamen Bewegung durchzuführen? 
 	- Schnelle Kinect-Bewegung erschwert die Punkt-Alignierung und Camera Tracking beim ICP-Algorithmus. 
-- Vorteil der volumetrischen Integration 
+- Vorteile der volumetrischen Datenrepräsentation 
 	- berücksichtigt Messunsicherheiten
-	- nutzt effizient mehrere Messungen,
+	- nutzt effizient mehrere Messungen 
 	- füllt Löcher durch die Hinzunahme neuer Messdaten 
 	- gleicht Sensorbewegungen aus 
 	- speichert implizit die Oberflächen-Geometrie 
+- Vorteile der volumetrischen Integration 
+	- Kontinuierliche Oberflächenrekonstruktion 
+	- Glatte Übergänge und robuste Oberflächen 
 - Wie werden die Daten einer Oberfläche volumetrisch integriert? 
 	- signed distance function: Die Werte sind vor der Oberfläche positiv und hinter der Oberfläche negativ, so dass sich die Oberfläche selbst beim Zero-Crossing bzw. Nulldurchgang zwischen den Voxeln befindet. 
 	- Truncated distance function 
