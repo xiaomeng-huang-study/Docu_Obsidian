@@ -57,3 +57,10 @@
 - Projektive Transformation basierend auf dem Pinhole-Kameramodell 
 - 11 Freiheitsgrade 
 
+## Ist SfM echzeitfähig? Komplexität und Performanz 
+- Merkmalserkennung und -zuordnung 
+	- $O(N^2)$ 
+- Kameraschätzung 
+- Triangulation 
+- Bundle Adjustment 
+	- $O\left(n \cdot m^{2}\right)$, wobei $n$ die Anzahl der 3D-Punkte und $m$ die Anzahl der Kameras ist. 
