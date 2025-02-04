@@ -51,6 +51,7 @@ Region extraction needs to be repeatable and accurate
 ## Step4: Eliminate false edges 
 - Anpassung an grundlegende Kurven 
 
+
 # SIFT Descriptor^SIFT-Descriptor
 - ein Vektor, der alle Merkmale zu diesem Keypoint beinhaltet. Der Vektor hat eine Dimension von 4 × 4 × 8 = 128, somit 128 Merkmale. 
 
