@@ -26,9 +26,12 @@
 		- $C \cdot \overrightarrow{v_{j}}=\lambda_{j} \cdot \overrightarrow{v_{j}}, \quad j \in\{0,1,2\}$ 
 	- kleinster Eigenwert $\rightarrow$ Normalenvektor $+\vec{n}, -\vec{n}$ 
 	- Surface curvature $\sigma_{p}=\frac{\lambda_{0}}{\lambda_{0}+\lambda_{1}+\lambda_{2}}$ 
-- Ausrichtung von Normalenvektor 
-	- Richtungsvektor zur Kamera berechnen, Normalenvektor ggf. invertieren 
-- geometrischen Unterteilungsfunktionen
-	- Octree: eine hierarchische Baumstruktur, die den 3D-Raum rekursiv in acht gleich große Oktanten unterteilt 
+- Problem bei der Normalen 
+	- Rauschen 
+	- Ungleichmäßige Punktdichte 
+	- Unklarheit der Ausrichtung von Normalenvektoren 
+		- Lösung: Richtungsvektor zur Kamera berechnen, Normalenvektor ggf. invertieren 
+- geometrische Unterteilungsfunktionen 
+	- Octree: eine hierarchische Baumstruktur, die den 3D-Raum rekursiv in acht gleich große Räume unterteilt 
 	- k-d-Tree: eine binäre Baumstruktur, die den Raum rekursiv entlang einer der $k$-dimensionalen Achsen unterteilt (für 3D-Punkte also entlang der x-, y- und z-Achse). 
 	- Box Decomposition Tree (BD-Tree): eine spezielle Form des k-d-Trees und ähnelt dem k-d-Tree, jedoch mit dem Unterschied, dass er den Raum durch axis-aligned Boxen (Achsen ausgerichtete Boxen) unterteilt. 
