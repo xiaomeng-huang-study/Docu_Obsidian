@@ -64,6 +64,7 @@ Region extraction needs to be repeatable and accurate
 	- 1. Richtungsquantisierung: die Gradientenrichtung jedes Pixels wird in diskrete Richtungsintervalle 10°/bin quantisiert 
 	- 2. die Häufigkeit, mit der jede Richtung des Gradienten in dieser Zelle auftritt, wird für jedes bin berechnet 
 	- 3. Hauptrichtung auswählen 
+
 ## Step 2: Description 
 - Define a squared 16x16 region around the keypoint, divide the region into 16 equal blocks by 4x4 pixel 
 	- <img src="https://github.com/xiaomeng-huang-study/images_3DBV/blob/main/Scrennshot_2024-11-09_22-15-22.png?raw=" width="30%" /> 
