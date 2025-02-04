@@ -1,5 +1,5 @@
 - Bestandteile einer Kamera mit Prime-Sense-Technologie 
-	- Infrarot-Laser: Punktemuster (strukturiertes Licht) wird in die zu scannende Umgebung projeziert 
+	- Infrarot-Laser: Punktemuster (strukturiertes Licht) wird in die zu scannende Umgebung projiziert 
 	- Infrarot-CMOS-Sensor: speichert die Bilder 
 	- PrimeSense-Chip: berechnet die Tiefeninformation und bestimmt dadurch 3D-Punktewolken bzw. die Tiefenbilder 
 - Ein Tiefenwert wird basierend auf der Zeit des Lichtsignals und der Lichtgeschwindigkeit gemessen (time of flight) 
