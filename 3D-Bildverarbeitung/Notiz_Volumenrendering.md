@@ -47,8 +47,8 @@
 
 ### Verarbeite jeden Würfel (Cube) im Gitter 
 - 1. Klassifiziere die Eckpunkte des Würfels 
-	- größer oder gleich dem Iso-Wert ist, wird der Eckpunkt als innen klassifiziert. 
-	- kleiner als der Iso-Wert ist, wird der Eckpunkt als außen klassifiziert. 
+	- größer oder gleich dem Iso-Wert ist, wird der Eckpunkt als außen klassifiziert. 
+	- kleiner als der Iso-Wert ist, wird der Eckpunkt als innen klassifiziert. 
 - 2. Berechne den **Index** des Würfels 
 	- 8-Bit-Zahl ist der **Index** des Würfels (Wert zwischen 0 und 255). 
 - 3. Hole die Dreieckskonfiguration aus der Lookup-Tabelle (LUT) 
