@@ -98,7 +98,7 @@
 	- Kontinuierliche Oberflächenrekonstruktion 
 	- Glatte Übergänge und robuste Oberflächen 
 - Wie werden die Daten einer Oberfläche volumetrisch integriert? 
-	- signed distance function: Die Werte sind vor der Oberfläche positiv und hinter der Oberfläche negativ, so dass sich die Oberfläche selbst beim Zero-Crossing bzw. Nulldurchgang zwischen den Voxeln befindet. 
-	- Truncated distance function 
+	- signed distance function (SDF): Die Werte sind vor der Oberfläche positiv und hinter der Oberfläche negativ, so dass sich die Oberfläche selbst beim Zero-Crossing bzw. Nulldurchgang zwischen den Voxeln befindet. 
+	- Truncated signed distance function (TSDF) 
 - Raycasting 
 	- 3D - Volumendaten oder -Modelle auf eine 2D - Bildebene zu projizieren, um eine Visualisierung zu erhalten. 
