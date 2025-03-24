@@ -1,0 +1,3 @@
+- Skalarprodukt $\vec{a} \cdot \vec{b}=|\vec{a}||\vec{b}| \cos \varphi$ 
+- Vektorprodukt $\vec{c}=\vec{a} \times \vec{b}$ mit $|\vec{c}|=|\vec{a}||\vec{b}| \sin \varphi$ 
+	- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-03-24_21-50-47.png?raw=" width="30%" /> 
