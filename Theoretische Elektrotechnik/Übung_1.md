@@ -17,6 +17,9 @@ $4 \cdot R^{-4}$
 - 1) Sparprodukt 
 - 2) 0 
 
+# Aufgabe 11
+- a) 
+
 # Zusatzaufgabe 1
 - Prüfen: Quellenfrei oder Wirbelfrei 
 - $\overrightarrow{F_{1}}(\overrightarrow{r}) = c \cdot r \cdot \overrightarrow{l_{r}}$ 

@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Übung_1"
             }
-          },
-          {
-            "id": "d127f587878c5d76",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +203,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d127f587878c5d76",
+  "active": "5a35ab010a724695",
   "lastOpenFiles": [
     "Theoretische Elektrotechnik/Übung_1.md",
     "Theoretische Elektrotechnik",
