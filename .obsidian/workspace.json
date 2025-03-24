@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_20250324.md",
+                "file": "Theoretische Elektrotechnik/Übung_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_20250324"
+              "title": "Übung_1"
             }
           }
         ]
@@ -205,7 +205,7 @@
   },
   "active": "5a35ab010a724695",
   "lastOpenFiles": [
-    "Theoretische Elektrotechnik/Notiz_20250324.md",
+    "Theoretische Elektrotechnik/Übung_1.md",
     "Theoretische Elektrotechnik",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
     "3D-Bildverarbeitung/Notiz_ICP.md",
