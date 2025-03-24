@@ -11,10 +11,14 @@
             "id": "5a35ab010a724695",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Elektrotechnik/Notiz_20250324.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_20250324"
             }
           }
         ]
@@ -201,6 +205,8 @@
   },
   "active": "5a35ab010a724695",
   "lastOpenFiles": [
+    "Theoretische Elektrotechnik/Notiz_20250324.md",
+    "Theoretische Elektrotechnik",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
     "3D-Bildverarbeitung/Notiz_ICP.md",
     "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
@@ -227,7 +233,6 @@
     "BMSDM/Notiz_20241018.md",
     "BMSDM/Notiz_20241004.md",
     "BMSDM/Lösung_20241011.md",
-    "BMSDM/Notiz.md",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
     "Prog C 1/Klausur/WS1819",
@@ -237,7 +242,6 @@
     "Prog C 1/Klassen",
     "Prog C 1/Code_Beispiele",
     "Prog C 1",
-    "Bachelorarbeit/Abschlusspräsentation",
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Pasted image 20231218145434.png",
