@@ -1,21 +1,6 @@
-# Aufgabe 2
-$4 \cdot R^{-4}$ 
-
-# Aufgabe 3
-
-
-# Aufgabe 6
-- $A_{r} = r$ 
-- $A_{\theta} = 0$ 
-- $A_{\varphi} = 0$ 
-
 # Aufgabe 8 
 - a) $\overrightarrow{A}$ und $\overrightarrow{B}$ sind senkrecht (Skalarprodukt ist 0) 
 - b) $\overrightarrow{A}$ und $\overrightarrow{B}$ sind senkrecht (Skalarprodukt ist 0) 
-
-# Aufgabe 10
-- 1) Sparprodukt 
-- 2) 0 
 
 # Aufgabe 11
 - a) 
