@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9cba07cd6eabe06e",
+        "id": "5892c3bd5770607b",
         "type": "tabs",
         "children": [
           {
-            "id": "378fbe199f750218",
+            "id": "c8a9fcf50013fcb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Defined Vehicles/Notiz_20250325.md",
+                "file": "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_20250325"
+              "title": "Notiz_Vorlesung_1"
             }
           }
         ]
@@ -203,12 +203,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "378fbe199f750218",
+  "active": "c8a9fcf50013fcb3",
   "lastOpenFiles": [
+    "Software Defined Vehicles/Notiz_V1.md",
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
     "Präsentation/Wortschatz.md",
     "Prog C 1/Code_Beispiele/Flugzeug/Flugzeug.md",
-    "Software Defined Vehicles/Notiz_20250325.md",
     "Software Defined Vehicles",
     "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
     "Theoretische Elektrotechnik/Übung_1.md",
