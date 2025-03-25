@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5a350a6c4dade4de",
+        "id": "cee220af2d503699",
         "type": "tabs",
         "children": [
           {
-            "id": "5a35ab010a724695",
+            "id": "7fa2b802d783f5b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_Vorlesung_1"
+              "title": "New tab"
             }
           }
         ]
@@ -203,10 +199,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5a35ab010a724695",
+  "active": "7fa2b802d783f5b7",
   "lastOpenFiles": [
-    "Theoretische Elektrotechnik/Übung_1.md",
     "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
+    "Theoretische Elektrotechnik/Übung_1.md",
     "Theoretische Elektrotechnik",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
     "3D-Bildverarbeitung/Notiz_ICP.md",
