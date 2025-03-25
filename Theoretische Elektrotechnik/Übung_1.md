@@ -2,9 +2,6 @@
 - a) $\overrightarrow{A}$ und $\overrightarrow{B}$ sind senkrecht (Skalarprodukt ist 0) 
 - b) $\overrightarrow{A}$ und $\overrightarrow{B}$ sind senkrecht (Skalarprodukt ist 0) 
 
-# Aufgabe 11
-- a) 
-
 # Zusatzaufgabe 1
 - Prüfen: Quellenfrei oder Wirbelfrei 
 - $\overrightarrow{F_{1}}(\overrightarrow{r}) = c \cdot r \cdot \overrightarrow{l_{r}}$ 
