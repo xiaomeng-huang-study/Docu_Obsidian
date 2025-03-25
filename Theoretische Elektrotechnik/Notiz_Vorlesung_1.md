@@ -20,3 +20,7 @@
 ## Zylinderkoordinaten 
 - $(\rho, \varphi, z)$  
 
+## Kugelkoordinaten 
+- $(r, \theta, \varphi)$ 
+
+
