@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cee220af2d503699",
+        "id": "9cba07cd6eabe06e",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa2b802d783f5b7",
+            "id": "378fbe199f750218",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,8 +203,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7fa2b802d783f5b7",
+  "active": "378fbe199f750218",
   "lastOpenFiles": [
+    "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
+    "Präsentation/Wortschatz.md",
+    "Prog C 1/Code_Beispiele/Flugzeug/Flugzeug.md",
     "Software Defined Vehicles/Notiz_20250325.md",
     "Software Defined Vehicles",
     "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
@@ -231,9 +234,6 @@
     "3D-Bildverarbeitung/Notiz_20241106.md",
     "Pasted image 20250130210025.png",
     "BMSDM/Notiz_20250117.md",
-    "BMSDM/Notiz_20250110.md",
-    "BMSDM/Notiz_Management-Ansätze.md",
-    "BMSDM/Notiz_20241018.md",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
     "Prog C 1/Klausur/WS1819",
