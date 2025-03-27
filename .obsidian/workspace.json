@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5892c3bd5770607b",
+        "id": "49e1401628250a36",
         "type": "tabs",
         "children": [
           {
-            "id": "c8a9fcf50013fcb3",
+            "id": "b6fda1f33a65cf99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
+                "file": "Mensch Roboter Kollaboration/Notiz_20250327.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_Vorlesung_1"
+              "title": "Notiz_20250327"
             }
           }
         ]
@@ -203,10 +203,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c8a9fcf50013fcb3",
+  "active": "b6fda1f33a65cf99",
   "lastOpenFiles": [
-    "Theoretische Elektrotechnik/Übung_1.md",
+    "Mensch Roboter Kollaboration/Notiz_20250327.md",
+    "Mensch Roboter Kollaboration",
     "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
+    "Theoretische Elektrotechnik/Übung_1.md",
     "Pasted image 20250325165938.png",
     "Software Defined Vehicles/Notiz_V1.md",
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
@@ -241,7 +243,6 @@
     "Prog C 1/Notiz",
     "Prog C 1/Klausur",
     "Prog C 1/Klassen",
-    "Prog C 1/Code_Beispiele",
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Pasted image 20231218145434.png",
