@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49e1401628250a36",
+        "id": "7decf941063cfc42",
         "type": "tabs",
         "children": [
           {
-            "id": "b6fda1f33a65cf99",
+            "id": "1f97553b0269cdb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mensch Roboter Kollaboration/Notiz_20250327.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_20250327"
+              "title": "New tab"
             }
           }
         ]
@@ -203,7 +199,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b6fda1f33a65cf99",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
     "Mensch Roboter Kollaboration/Notiz_20250327.md",
     "Mensch Roboter Kollaboration",
