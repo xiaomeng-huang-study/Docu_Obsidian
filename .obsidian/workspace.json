@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7decf941063cfc42",
+        "id": "5b5d38329261fd18",
         "type": "tabs",
         "children": [
           {
-            "id": "1f97553b0269cdb2",
+            "id": "b24e1baa8c59242d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -199,11 +199,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "b24e1baa8c59242d",
   "lastOpenFiles": [
+    "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
     "Mensch Roboter Kollaboration/Notiz_20250327.md",
     "Mensch Roboter Kollaboration",
-    "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
     "Theoretische Elektrotechnik/Übung_1.md",
     "Pasted image 20250325165938.png",
     "Software Defined Vehicles/Notiz_V1.md",
