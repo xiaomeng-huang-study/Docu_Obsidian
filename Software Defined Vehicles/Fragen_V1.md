@@ -56,10 +56,9 @@
 - Standisierung 
 
 
-# 
-
 # Aufgabe und Funktionsweise von Kalibrierwerkzeugen? Schnittstellen? 
 
 
 # Kalibriervorgang? Arten von Messwerten und Parametern 
-
+1. Messung und Analyse von aktuellen Messwerten aus dem Steuergerät 
+2. Anpassung von Parametern oder Kennfeldern im Steuergerät 
