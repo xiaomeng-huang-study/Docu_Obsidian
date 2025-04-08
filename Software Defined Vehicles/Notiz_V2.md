@@ -30,4 +30,5 @@ Deswegen ist nur die Speicherung von Referenzseite und Offset erforderlich
 - synchron zur Modellausführung: idealerweise -> Funktion ausführen, dann Ergebnis schicken; Funktion ausführen, dann Ergebnis schicken; .... 
 
 
-
+# Adressen in A2L Datei 
+`Linker.map` ist für die Adresse zuständig 
