@@ -14,7 +14,7 @@ void main(){
 ```
 
 # Speicherabbild 
-## Beispiel ACL Datei 
+## Beispiel A2L Datei 
 - Param_ROM: Parameter 
 - Code: 
 - Signals: Messwerte 
@@ -22,4 +22,12 @@ void main(){
 ## Warum nur 3 Bereiche 
 denn der Offset zwischen Referenzseite und Arbeitsseite ist fest 
 Deswegen ist nur die Speicherung von Referenzseite und Offset erforderlich 
+
+# XCP Download / Upload 
+- Kann nur aus Master gestartet werden. 
+
+## Nachteile 
+- synchron zur Modellausführung: idealerweise -> Funktion ausführen, dann Ergebnis schicken; Funktion ausführen, dann Ergebnis schicken; .... 
+
+
 
