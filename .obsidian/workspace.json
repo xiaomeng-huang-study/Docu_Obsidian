@@ -11,10 +11,14 @@
             "id": "9fb197ec894c01ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Software Defined Vehicles/Fragen_V2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fragen_V2"
             }
           }
         ]
@@ -201,6 +205,7 @@
   },
   "active": "9fb197ec894c01ac",
   "lastOpenFiles": [
+    "Software Defined Vehicles/Fragen_V2.md",
     "Software Defined Vehicles/Notiz_V2.md",
     "Software Defined Vehicles/Fragen_V1.md",
     "Software Defined Vehicles/Notiz_V1.md",
@@ -231,7 +236,6 @@
     "3D-Bildverarbeitung/Projekt/Notiz_20241211.md",
     "3D-Bildverarbeitung/Klausurvorbereitung.md",
     "3D-Bildverarbeitung/Notiz_K1.2_Grundlagen_Farbmodelle.md",
-    "3D-Bildverarbeitung/Notiz_KinectFusion.md",
     "Pasted image 20250130210025.png",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
