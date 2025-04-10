@@ -11,10 +11,14 @@
             "id": "f7d5d0df7c29553e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Software Defined Vehicles/Fragen_V2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fragen_V2"
             }
           }
         ]

@@ -23,3 +23,6 @@
 
 
 # XCP Download und XCP Upload? Welche Schwierigkeit ergibt sich, wenn Daten per XCP Upload periodisch ausgetauscht werden sollen? 
+
+
+# DAQ Verfahren 
