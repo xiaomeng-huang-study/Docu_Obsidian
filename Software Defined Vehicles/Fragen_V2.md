@@ -26,3 +26,16 @@
 
 
 # DAQ Verfahren 
+
+
+# A2L-Datei? die Steuergerätespezifischen Teile der A2L-Datei? Warum ist A2L-Datei nötig? 
+
+
+# Arten von Parametern und Messwerten in der A2L-Datei 
+- Messwerte 
+- Parameter 
+- Achsenwerte 
+- (Kennfelder nicht möglich) 
+
+
+# Umrechnungsformeln in der A2L-Datei 
