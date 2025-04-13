@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d06e6cc0604eaf04",
+        "id": "e66d831a778de62d",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d5d0df7c29553e",
+            "id": "5e6abf66cebcc9fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Defined Vehicles/Fragen_V2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fragen_V2"
+              "title": "New tab"
             }
           }
         ]
@@ -203,7 +199,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f7d5d0df7c29553e",
+  "active": "5e6abf66cebcc9fe",
   "lastOpenFiles": [
     "Software Defined Vehicles/Fragen_V2.md",
     "Software Defined Vehicles/Notiz_V2.md",
