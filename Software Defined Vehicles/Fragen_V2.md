@@ -29,6 +29,9 @@
 
 
 # A2L-Datei? die Steuergerätespezifischen Teile der A2L-Datei? Warum ist A2L-Datei nötig? 
+- DAQ-Konfiguration 
+- DAQ-Kommunikation 
+- 
 
 
 # Arten von Parametern und Messwerten in der A2L-Datei 
