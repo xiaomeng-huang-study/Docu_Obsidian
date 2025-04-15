@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e66d831a778de62d",
+        "id": "0ec8390e3bb1e56a",
         "type": "tabs",
         "children": [
           {
-            "id": "5e6abf66cebcc9fe",
+            "id": "6ea70e9e36f86d27",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -199,13 +199,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5e6abf66cebcc9fe",
+  "active": "6ea70e9e36f86d27",
   "lastOpenFiles": [
+    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Software Defined Vehicles/Fragen_V2.md",
     "Software Defined Vehicles/Notiz_V2.md",
     "Software Defined Vehicles/Fragen_V1.md",
     "Software Defined Vehicles/Notiz_V1.md",
-    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Übung_1.md",
     "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
     "Automatisierung technischer Anlagen",
