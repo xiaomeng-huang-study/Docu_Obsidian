@@ -28,7 +28,7 @@ void main(){
 
 	foo();
 
-	myclass = new a;
+	myclass = new f;
 	free();
 }
 ```
