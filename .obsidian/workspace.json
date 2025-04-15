@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Defined Vehicles/Fragen_V2.md",
+                "file": "Software Defined Vehicles/Notiz_V3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fragen_V2"
+              "title": "Notiz_V3"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "6ea70e9e36f86d27",
   "lastOpenFiles": [
-    "Software Defined Vehicles/Notiz_V2.md",
     "Software Defined Vehicles/Fragen_V2.md",
+    "Software Defined Vehicles/Notiz_V3.md",
+    "Software Defined Vehicles/Notiz_V2.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Software Defined Vehicles/Fragen_V1.md",
     "Software Defined Vehicles/Notiz_V1.md",
@@ -235,7 +236,6 @@
     "3D-Bildverarbeitung/Projekt/Notiz_20241218.md",
     "3D-Bildverarbeitung/Projekt/Notiz_20241211.md",
     "3D-Bildverarbeitung/Klausurvorbereitung.md",
-    "3D-Bildverarbeitung/Notiz_K1.2_Grundlagen_Farbmodelle.md",
     "Pasted image 20250130210025.png",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
