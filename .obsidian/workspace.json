@@ -11,10 +11,14 @@
             "id": "6ea70e9e36f86d27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Software Defined Vehicles/Notiz_V2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_V2"
             }
           }
         ]
@@ -201,8 +205,8 @@
   },
   "active": "6ea70e9e36f86d27",
   "lastOpenFiles": [
-    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Software Defined Vehicles/Fragen_V2.md",
+    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Software Defined Vehicles/Notiz_V2.md",
     "Software Defined Vehicles/Fragen_V1.md",
     "Software Defined Vehicles/Notiz_V1.md",

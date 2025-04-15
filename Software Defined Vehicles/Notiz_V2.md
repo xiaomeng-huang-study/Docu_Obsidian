@@ -1,7 +1,7 @@
 # Speicherarchitektur 
 Unterschied: getrennt 
 
-```C
+```C++
 /*Load working page*/ 
 int i = 3; // globale initialisierte Var. Parameter // i in Arbeitsseite in RAM; 3 in Referenzseite in Flash ROM 
 /*Define Messwerte*/ 
@@ -13,6 +13,25 @@ void main(){
 }
 ```
 
+```C++
+int a[50]; 
+int b = 5; 
+
+void foo(){
+	int c[40];
+}
+
+void main(){
+	int d; 
+	int e = 7;
+	d = b; 
+
+	foo();
+
+	myclass = new a;
+	free();
+}
+```
 # Speicherabbild 
 ## Beispiel A2L Datei 
 - Param_ROM: Parameter 
