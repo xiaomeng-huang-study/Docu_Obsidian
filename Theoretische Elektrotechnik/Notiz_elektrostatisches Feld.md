@@ -1,4 +1,5 @@
 # 1. Potentialfunktion $\phi(\vec{r})$ 
+- Für Punktladung $Q$ : $\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}}\frac{Q}{\left|\vec{r} - \vec{r}^{\prime}\right|}$ 
 
 
 # 2. Methoden zur Berechnung elektrostatischer Felder 
@@ -20,6 +21,9 @@
 - $Q^{\prime}=-Q$ , $z=-z^{\prime}$ 
 
 ### 2.4.2 Spiegelung an einer Kugel 
+- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-04-16_14-26-01.png?raw=" width="40%" /> 
+- $p^{\prime}=\frac{a^{2}}{p} \quad$ 
+- $Q^{\prime}=-\frac{a}{p} Q$ 
 
 ### 2.4.3 Spiegelung an einem Zylinder 
 
