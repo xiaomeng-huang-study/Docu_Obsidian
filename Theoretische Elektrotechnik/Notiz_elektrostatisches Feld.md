@@ -10,6 +10,9 @@
 - In einem ladungsfreien Gebiet ($\rho = 0$): **Laplace-Gleichung** $\Delta \phi(\vec{r})=0$ 
 
 ## 2.3 Coulombintegral-Methode/ Überlagerungsprinzip 
+- Für Linienladung $\rho_{S}(\vec{r})$: $\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}} \int_{S} \frac{\rho_{S}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d S^{\prime}$ 
+- Für Flächenladung $\rho_{F}(\vec{r})$: $\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}} \iint_{F} \frac{\rho_{F}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d F^{\prime}$ 
+- Für Volumenladung $\rho_{V}(\vec{r})$: $\phi(\vec{r}) = \frac{1}{4 \pi \varepsilon_{0}} \iiint_{V} \frac{\rho_{V}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d V^{\prime}$ 
 
 ## 2.4 Spiegelungsmethode 
 ### 2.4.1 Spiegelung an einer Ebene 
