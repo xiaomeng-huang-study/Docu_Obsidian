@@ -13,6 +13,8 @@
 
 ## 2.4 Spiegelungsmethode 
 ### 2.4.1 Spiegelung an einer Ebene 
+- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-04-16_12-46-07.png?raw=" width="40%" /> 
+- $Q^{\prime}=-Q$ , $z=-z^{\prime}$ 
 
 ### 2.4.2 Spiegelung an einer Kugel 
 
