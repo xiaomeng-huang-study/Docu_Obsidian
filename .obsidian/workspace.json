@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "256686794c6a95cc",
+        "id": "bc92a7cb197d85ae",
         "type": "tabs",
         "children": [
           {
-            "id": "374a049cba85f3b2",
+            "id": "c7df88e559eea541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
+                "file": "Software Defined Vehicles/Fragen_V3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_elektrostatisches Feld"
+              "title": "Fragen_V3"
             }
           }
         ]
@@ -203,10 +203,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "374a049cba85f3b2",
+  "active": "c7df88e559eea541",
   "lastOpenFiles": [
-    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
+    "Software Defined Vehicles/Fragen_V3.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
+    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Software Defined Vehicles/Notiz_V2.md",
     "Software Defined Vehicles/Fragen_V2.md",
     "Software Defined Vehicles/Notiz_V3.md",
@@ -235,7 +236,6 @@
     "3D-Bildverarbeitung/Notiz_3D Features und Descriptors.md",
     "3D-Bildverarbeitung/Projekt/Prio-Liste.md",
     "3D-Bildverarbeitung/Projekt/Notiz_20241218.md",
-    "3D-Bildverarbeitung/Projekt/Notiz_20241211.md",
     "Pasted image 20250130210025.png",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
