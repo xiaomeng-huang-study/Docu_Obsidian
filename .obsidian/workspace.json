@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc92a7cb197d85ae",
+        "id": "8147c31189cdeaff",
         "type": "tabs",
         "children": [
           {
-            "id": "c7df88e559eea541",
+            "id": "21c1e387663a0cb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Defined Vehicles/Notiz_V3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_V3"
+              "title": "New tab"
             }
           }
         ]
@@ -203,14 +199,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c7df88e559eea541",
+  "active": "21c1e387663a0cb7",
   "lastOpenFiles": [
+    "Software Defined Vehicles/Notiz_V3.md",
     "Software Defined Vehicles/Fragen_V3.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Software Defined Vehicles/Notiz_V2.md",
     "Software Defined Vehicles/Fragen_V2.md",
-    "Software Defined Vehicles/Notiz_V3.md",
     "Software Defined Vehicles/Fragen_V1.md",
     "Software Defined Vehicles/Notiz_V1.md",
     "Theoretische Elektrotechnik/Übung_1.md",
