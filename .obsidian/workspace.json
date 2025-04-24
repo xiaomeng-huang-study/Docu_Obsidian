@@ -11,10 +11,14 @@
             "id": "21c1e387663a0cb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_elektrostatisches Feld"
             }
           }
         ]
@@ -201,10 +205,10 @@
   },
   "active": "21c1e387663a0cb7",
   "lastOpenFiles": [
+    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Software Defined Vehicles/Notiz_V3.md",
     "Software Defined Vehicles/Fragen_V3.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
-    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Software Defined Vehicles/Notiz_V2.md",
     "Software Defined Vehicles/Fragen_V2.md",
     "Software Defined Vehicles/Fragen_V1.md",
