@@ -1,4 +1,3 @@
-
 # 1. Potentialfunktion $\phi(\vec{r})$ 
 - Für Punktladung $Q$ : $\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}}\frac{Q}{\left|\vec{r} - \vec{r}^{\prime}\right|}$ 
 
