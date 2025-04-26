@@ -33,11 +33,11 @@
 
 #### Ersatzanordnung für Lösungsgebiet I 
 - <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-04-26_13-54-40.png?raw=" width="40%" /> 
-- $Q^{\prime}=\frac{\varepsilon_{1}-\varepsilon_{2}}{\varepsilon_{1}+\varepsilon_{2}} \cdot u$ 
+- $Q^{\prime}=\frac{\varepsilon_{1}-\varepsilon_{2}}{\varepsilon_{1}+\varepsilon_{2}} \cdot Q$ 
 - $d_{Q^{\prime}}=-d_{Q}$ 
 
 #### Ersatzanordnung für Lösungsgebiet II 
 - <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-04-26_13-57-02.png?raw=" width="40%" /> 
-- $Q^{\prime}=\frac{2\cdot\varepsilon_{2}}{\varepsilon_{1}+\varepsilon_{2}} \cdot u$ 
+- $Q^{\prime}=\frac{2\cdot\varepsilon_{2}}{\varepsilon_{1}+\varepsilon_{2}} \cdot Q$ 
 - $d_{Q^{\prime}}=d_{Q}$ 
 
