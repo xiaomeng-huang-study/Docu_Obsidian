@@ -45,3 +45,5 @@
 - $Q^{\prime}=\frac{2\cdot\varepsilon_{2}}{\varepsilon_{1}+\varepsilon_{2}} \cdot Q$ 
 - $d_{Q^{\prime}}=d_{Q}$ 
 
+
+# 3. Kondensator und Kapazität 
