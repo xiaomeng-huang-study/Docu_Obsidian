@@ -47,3 +47,15 @@
 
 
 # 3. Kondensator und Kapazität 
+- Kapazität: $C=\frac{\huge\unicode{x222F}_{A} \vec{D} \cdot d \vec{f}}{\int_{1}^{2} \vec{E} \cdot d \vec{s}}$ 
+	- Sonderfall: $C=\frac{\varepsilon_{0} \varepsilon_{r} A}{d}$ 
+
+
+# 4. Energie im elektrischen Feld 
+- $W_{\mathrm{el}}=\iiint_{V} \frac{1}{2} \vec{E}(\vec{r}) \vec{D}(\vec{r}) d V$ 
+- $W_{\mathrm{Kond}}=W_{\mathrm{el}}=\frac{1}{2} C U^{2}=\frac{1}{2} Q U=\frac{1}{2} \frac{1}{C} Q^{2}$ 
+
+
+# Kräfte im elektrostatischen Feld 
+- $d W_{\mathrm{el}}+\vec{F} \cdot d \vec{s}=0$ 
+
