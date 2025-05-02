@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
+                "file": "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_elektrostatisches Feld"
+              "title": "Notiz_Stationäre Felder"
             }
           }
         ]
@@ -203,10 +203,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "21c1e387663a0cb7",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
+    "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
     "Software Defined Vehicles/Notiz_V3.md",
