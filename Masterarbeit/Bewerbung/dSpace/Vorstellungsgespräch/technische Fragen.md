@@ -23,3 +23,30 @@
 ### Wann benutzt man `torch.no_grad()`? 
 - nur Vorhersagen macht 
 
+
+# Scikit-Learn 
+## Grundbegriffe 
+- Estimator: Alles, was `.fit()` kann, ist ein Estimator 
+- Transformer: Objekte, die Daten transformieren können 
+- Predictor: Ein Estimator mit einer `.predict()`-Methode. 
+- Pipeline: Eine verkettete Abfolge von Transformations- und Modellierungsschritten 
+- Cross-Validation: Technik zur Bewertung eines Modells durch Aufteilen der Daten in Trainings- und Testteile in mehreren Durchgängen 
+- Hyperparameter: Parameter, die das Verhalten des Modells vor dem Training steuern 
+- GridSearchCV: Werkzeuge zur automatisierten Suche nach den besten Hyperparametern mit Cross-Validation 
+
+## Typische Fragen 
+### Was ist der Unterschied zwischen `.fit()`, `.transform()` und `.fit_transform()`? 
+- `.fit()` berechnet die notwendigen Parameter aus den Trainingsdaten, z. B. Mittelwert und Standardabweichung bei einem `StandardScaler`.  
+- `.transform()` wendet diese Parameter auf die Daten an.  
+- `.fit_transform()` kombiniert beide Schritte und wird oft direkt auf die Trainingsdaten angewendet. 
+
+### Wie funktioniert eine Pipeline in scikit-learn und warum ist sie nützlich? 
+
+### Was ist Cross-Validation und warum sollte man sie verwenden? 
+- Cross-Validation ist eine Methode zur Bewertung eines Modells, indem die Daten in mehrere Trainings- und Testsets aufgeteilt werden. 
+- um Overfitting zu reduzieren 
+
+### Wie würden Sie Features skalieren und warum ist das wichtig für bestimmte Modelle? 
+- Man kann `StandardScaler` oder `MinMaxScaler` verwenden. 
+- empfindlich auf die Größenordnung 
+
