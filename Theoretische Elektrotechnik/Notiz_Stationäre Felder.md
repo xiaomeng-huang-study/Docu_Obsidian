@@ -21,5 +21,7 @@
 - <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-05-02_09-44-54.png?raw=" width="25%" /> 
 - $\frac{\tan \left(\alpha_{1}\right)}{\tan \left(\alpha_{2}\right)}=\frac{\kappa_{1}}{\kappa_{2}}$ 
 
+## 1.9 Analogie (Dualität) zwischen stationärem Strömungsfeld und Elektrostatik 
 
+## 1.10 Spiegelungsmethode für stationäre Strömungsfelder 
 
