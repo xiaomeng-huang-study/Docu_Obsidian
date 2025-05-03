@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Selbstvorstellung.md",
+                "file": "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selbstvorstellung"
+              "title": "Notiz_Methoden für Klassifikation und Regression"
             }
           }
         ]
@@ -205,8 +205,16 @@
   },
   "active": "879a255060c259d2",
   "lastOpenFiles": [
-    "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch.md",
+    "Data Analysis/Notiz_ML.md",
+    "Data Analysis/Notiz_Regressionsmethoden.md",
+    "Data Analysis/Notiz_Klassifikationsmethoden.md",
+    "Data Analysis/Notiz_Klassifikation_Bewertung.md",
+    "Data Analysis/Notiz_Regression_Bewertung.md",
+    "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+    "Data Analysis/Klausurfragen_Lösung.md",
+    "DLACV/Notiz_K1_FacialLandmarkDetection.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Selbstvorstellung.md",
+    "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch",
     "Masterarbeit/Bewerbung/dSpace",
     "Masterarbeit/Bewerbung",
@@ -232,14 +240,6 @@
     "Software Defined Vehicles",
     "Theoretische Elektrotechnik",
     "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
-    "3D-Bildverarbeitung/Notiz_ICP.md",
-    "3D-Bildverarbeitung/Notiz_Volumenrendering.md",
-    "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
-    "3D-Bildverarbeitung/Notiz_K1.3_Grundlagen_Bildeigenschaften.md",
-    "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
-    "3D-Bildverarbeitung/Notiz_Image Matching.md",
-    "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 2 Kameras.md",
-    "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 1 Kamera.md",
     "Pasted image 20250130210025.png",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
