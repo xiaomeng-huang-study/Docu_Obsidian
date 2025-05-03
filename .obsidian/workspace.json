@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_ML.md",
+                "file": "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/technische Fragen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_ML"
+              "title": "technische Fragen"
             }
           }
         ]
@@ -205,12 +205,13 @@
   },
   "active": "879a255060c259d2",
   "lastOpenFiles": [
-    "Data Analysis/Notiz_Klassifikation_Bewertung.md",
     "Data Analysis/Notiz_ML.md",
+    "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/technische Fragen.md",
+    "Data Analysis/Notiz_Regularisierung.md",
+    "Data Analysis/Notiz_Klassifikation_Bewertung.md",
     "Data Analysis/Notiz_Regression_Bewertung.md",
     "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
     "Data Analysis/Notiz_Feature-Engineering.md",
-    "Data Analysis/Notiz_Regularisierung.md",
     "Data Analysis/Notiz_Klassifikationsmethoden.md",
     "Data Analysis/Notiz_Regressionsmethoden.md",
     "Data Analysis/Klausurfragen_Lösung.md",
@@ -237,7 +238,6 @@
     "Mensch Roboter Kollaboration",
     "Pasted image 20250325165938.png",
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
-    "Präsentation/Wortschatz.md",
     "Software Defined Vehicles",
     "Theoretische Elektrotechnik",
     "Pasted image 20250130210025.png",
