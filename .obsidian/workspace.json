@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8147c31189cdeaff",
+        "id": "9bb45eb3de26dac6",
         "type": "tabs",
         "children": [
           {
-            "id": "21c1e387663a0cb7",
+            "id": "879a255060c259d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_Stationäre Felder"
+              "title": "New tab"
             }
           }
         ]
@@ -203,10 +199,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "879a255060c259d2",
   "lastOpenFiles": [
-    "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
+    "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
     "Software Defined Vehicles/Notiz_V3.md",
