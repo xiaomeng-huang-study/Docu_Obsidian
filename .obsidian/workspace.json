@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+                "file": "Data Analysis/Notiz_ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_Methoden für Klassifikation und Regression"
+              "title": "Notiz_ML"
             }
           }
         ]
@@ -205,12 +205,14 @@
   },
   "active": "879a255060c259d2",
   "lastOpenFiles": [
-    "Data Analysis/Notiz_ML.md",
-    "Data Analysis/Notiz_Regressionsmethoden.md",
-    "Data Analysis/Notiz_Klassifikationsmethoden.md",
     "Data Analysis/Notiz_Klassifikation_Bewertung.md",
+    "Data Analysis/Notiz_ML.md",
     "Data Analysis/Notiz_Regression_Bewertung.md",
     "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
+    "Data Analysis/Notiz_Feature-Engineering.md",
+    "Data Analysis/Notiz_Regularisierung.md",
+    "Data Analysis/Notiz_Klassifikationsmethoden.md",
+    "Data Analysis/Notiz_Regressionsmethoden.md",
     "Data Analysis/Klausurfragen_Lösung.md",
     "DLACV/Notiz_K1_FacialLandmarkDetection.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Selbstvorstellung.md",
@@ -236,10 +238,8 @@
     "Pasted image 20250325165938.png",
     "Praktikum/AGCO/Abschlussbericht/01_Abstraktion des Traktors als Modell.md",
     "Präsentation/Wortschatz.md",
-    "Prog C 1/Code_Beispiele/Flugzeug/Flugzeug.md",
     "Software Defined Vehicles",
     "Theoretische Elektrotechnik",
-    "3D-Bildverarbeitung/Notiz_Structure from Motion.md",
     "Pasted image 20250130210025.png",
     "ROS/ROS2/C 1",
     "ROS/ROS1/C 1",
