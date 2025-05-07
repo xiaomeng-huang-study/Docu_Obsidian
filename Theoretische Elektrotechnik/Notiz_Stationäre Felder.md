@@ -41,7 +41,7 @@
 ## 2.3 Das magnetische Vektorpotential $\vec{A}$ und das Biot-Savartsche Gesetz 
 ### Vektorpotential 
 - $\vec{A}(\vec{r})=\frac{\mu}{4 \pi} \iiint_{V^{\prime}} \frac{\vec{J}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\overrightarrow{r^{\prime}}\right|} d V^{\prime}$ 
-- $\vec{A}(\vec{r})=\frac{\mu I}{4 \pi} \int \frac{d \vec{s}^{\prime}}{\left|\vec{r}-\vec{r}^{\prime}\right|}$ 
+- für linienförmige Leiter: $\vec{A}(\vec{r})=\frac{\mu I}{4 \pi} \int \frac{d \vec{s}^{\prime}}{\left|\vec{r}-\vec{r}^{\prime}\right|}$ 
 
 ### Das Biot-Savartsche Gesetz 
 - $\vec{B}(\vec{r})=\frac{\mu I}{4 \pi} \int_{C} \frac{d \vec{s}^{\prime} \times\left(\vec{r}-\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|^{3}}$ 
