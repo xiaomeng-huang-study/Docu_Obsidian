@@ -5,6 +5,12 @@
 - R: Das Prinzip basiert auf der Farbe und Größe des Objekts, die von einer Kamera ermittelt werden. Dabei geht es um die Umwandlung von RGB-, Graustufen- und HSV-Bildern in der Bildverarbeitung. Die Kontrolle erfolgt über einen PI-Regler. Dabei ist die Regelungstechnik auch relevant. 
 - M: 
 
+# Praktikum 
+- ROS System kennenzulernen 
+- Umgebung in Unity zu entwickeln 
+- Nav2 zu integrieren 
+- Schnittstelle zu benutzen: Sensorsignalen -> Bewegungsbefehle 
+
 
 # Bachelorarbeit 
 - S: Das Ziel ist, ein Reinforcement Learning basierten Agent zur Automatisierung landwirtschaftlicher Prozesse am Beispiel der Bodenbearbeitung zu entwickeln. 
