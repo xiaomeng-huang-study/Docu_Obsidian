@@ -31,3 +31,19 @@
 ### Spiegelung an einer Ebene $\kappa = 0$ 
 - <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-05-03_15-08-43.png?raw=" width="70%" /> 
 
+
+# 2. Magnetische Felder stationärer Ströme 
+## 2.1 Maxwellsche Gleichungen fur¨ das zeitlich konstante Magnetfeld 
+
+## 2.2 Das Durchflutungsgesetz 
+- $\oint_{C(F)} \vec{H} \cdot d \vec{s}=\iint_{F} \vec{J} \cdot d \vec{f}$ 
+
+## 2.3 Das magnetische Vektorpotential $\vec{A}$ und das Biot-Savartsche Gesetz 
+### Vektorpotential 
+- $\vec{A}(\vec{r})=\frac{\mu}{4 \pi} \iiint_{V^{\prime}} \frac{\vec{J}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\overrightarrow{r^{\prime}}\right|} d V^{\prime}$ 
+- $\vec{A}(\vec{r})=\frac{\mu I}{4 \pi} \int \frac{d \vec{s}^{\prime}}{\left|\vec{r}-\vec{r}^{\prime}\right|}$ 
+
+### Das Biot-Savartsche Gesetz 
+- $\vec{B}(\vec{r})=\frac{\mu I}{4 \pi} \int_{C} \frac{d \vec{s}^{\prime} \times\left(\vec{r}-\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|^{3}}$ 
+
+## 2.4 
