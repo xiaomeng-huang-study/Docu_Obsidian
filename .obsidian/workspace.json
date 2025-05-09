@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f681bf8e783bb49",
+        "id": "ae9d95f3c21ae801",
         "type": "tabs",
         "children": [
           {
-            "id": "49f8c92f40c24018",
+            "id": "a54709bb38f69ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,13 +203,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "49f8c92f40c24018",
+  "active": "a54709bb38f69ddf",
   "lastOpenFiles": [
+    "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Projekte.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/technische Fragen.md",
     "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
-    "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Data Analysis/Notiz_ML.md",
