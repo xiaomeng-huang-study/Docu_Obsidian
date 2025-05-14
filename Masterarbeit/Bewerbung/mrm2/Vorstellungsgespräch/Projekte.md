@@ -34,3 +34,7 @@
 - M: wenn das Modell stark genug 
 
 
+# Praktikum Steuerungstechnik 
+In einem Projekt an der Hochschule habe ich eine SPS-gesteuerte Anlage zur Bohrung und Klassifizierung von Werkstücken umgesetzt. 
+- S: Ziel war es, einen Prozess zu entwickeln, bei dem Werkstücke automatisch gebohrt und anschließend nach Farben sortiert werden. 
+- R: 
