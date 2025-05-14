@@ -21,3 +21,9 @@
 ## Zähler 
 <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Steuerungstechnik/refs/heads/main/Scrennshot_2025-05-14_21-54-00.png?raw=" width="80%" /> 
 
+## Ablaufsteuerung 
+### Aktionen 
+<img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Steuerungstechnik/refs/heads/main/Scrennshot_2025-05-14_22-09-16.png?raw=" width="80%" /> 
+
+### Verzweigung 
+<img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Steuerungstechnik/refs/heads/main/Scrennshot_2025-05-14_22-06-14.png?raw=" width="80%" /> 
