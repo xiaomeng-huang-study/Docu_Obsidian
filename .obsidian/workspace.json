@@ -11,10 +11,14 @@
             "id": "1abc817dc2d0a256",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_Grundlagen der Feldtheorie"
             }
           }
         ]
@@ -202,10 +206,10 @@
   "active": "1abc817dc2d0a256",
   "lastOpenFiles": [
     "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
+    "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Projekte.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/technische Fragen.md",
-    "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Data Analysis/Notiz_ML.md",
