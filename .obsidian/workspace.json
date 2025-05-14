@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13c99e8dbceb75e7",
+        "id": "323c0dac4af7b65c",
         "type": "tabs",
         "children": [
           {
-            "id": "1abc817dc2d0a256",
+            "id": "0ad3ee273ef05a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
+                "file": "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/Projekte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_Grundlagen der Feldtheorie"
+              "title": "Projekte"
             }
           }
         ]
@@ -203,14 +203,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1abc817dc2d0a256",
+  "active": "0ad3ee273ef05a3e",
   "lastOpenFiles": [
+    "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/Selbstvorstellung.md",
+    "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/Projekte.md",
+    "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch",
+    "Masterarbeit/Bewerbung/mrm2",
+    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
     "Theoretische Elektrotechnik/Notiz_Vorlesung_1.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Projekte.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/technische Fragen.md",
-    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Data Analysis/Notiz_ML.md",
     "Data Analysis/Notiz_Regularisierung.md",
@@ -233,16 +237,12 @@
     "Software Defined Vehicles/Fragen_V2.md",
     "Software Defined Vehicles/Fragen_V1.md",
     "Software Defined Vehicles/Notiz_V1.md",
-    "Theoretische Elektrotechnik/Übung_1.md",
     "Automatisierung technischer Anlagen",
-    "Mensch Roboter Kollaboration/Notiz_20250327.md",
     "Mensch Roboter Kollaboration",
     "Pasted image 20250325165938.png",
     "Software Defined Vehicles",
     "Theoretische Elektrotechnik",
     "Pasted image 20250130210025.png",
-    "ROS/ROS2/C 1",
-    "ROS/ROS1/C 1",
     "Pasted image 20240706191351.png",
     "photo.svg",
     "Pasted image 20231218145434.png",
