@@ -18,4 +18,6 @@
 ## Zeit 
 <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Steuerungstechnik/refs/heads/main/Scrennshot_2025-05-14_21-28-55.png?raw=" width="80%" /> 
 
-## 
+## Zähler 
+<img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Steuerungstechnik/refs/heads/main/Scrennshot_2025-05-14_21-54-00.png?raw=" width="80%" /> 
+
