@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/Projekte.md",
+                "file": "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/technische Fragen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projekte"
+              "title": "technische Fragen"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "0ad3ee273ef05a3e",
   "lastOpenFiles": [
-    "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/Projekte.md",
+    "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/technische Fragen.md",
+    "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch",
     "Masterarbeit/Bewerbung/mrm2",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
@@ -236,7 +237,6 @@
     "Software Defined Vehicles/Notiz_V2.md",
     "Software Defined Vehicles/Fragen_V2.md",
     "Software Defined Vehicles/Fragen_V1.md",
-    "Software Defined Vehicles/Notiz_V1.md",
     "Automatisierung technischer Anlagen",
     "Mensch Roboter Kollaboration",
     "Pasted image 20250325165938.png",
