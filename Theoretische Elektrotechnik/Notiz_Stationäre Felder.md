@@ -47,6 +47,7 @@
 - allgemein: $\vec{B}=\frac{\mu}{4 \pi} \iiint \frac{\vec{J}\left(\vec{r}^{\prime}\right) \times\left(\vec{r}-\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|^{3}} d V^{\prime}$ 
 - für dünne Leitbahn: $\vec{B}=\frac{\mu}{4 \pi} \iint \frac{\vec{J}_{F}\left(\vec{r}^{\prime}\right) \times\left(\vec{r}-\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|^{3}} d f^{\prime}$ 
 - für linienförmige Leiter: $\vec{B}(\vec{r})=\frac{\mu I}{4 \pi} \int_{C} \frac{d \vec{s}^{\prime} \times\left(\vec{r}-\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|^{3}}$ 
+- ($\vec{B}(\vec{r}) = \frac{\mu I}{2\pi R} \cdot \vec{e_{\varphi}}$) 
 
 ## 2.4 Kräfte im Magnetfeld 
 ### 1. Amperesches Gesetz 
