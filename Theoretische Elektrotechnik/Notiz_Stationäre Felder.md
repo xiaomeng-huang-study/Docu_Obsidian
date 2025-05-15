@@ -48,4 +48,18 @@
 - für dünne Leitbahn: $\vec{B}=\frac{\mu}{4 \pi} \iint \frac{\vec{J}_{F}\left(\vec{r}^{\prime}\right) \times\left(\vec{r}-\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|^{3}} d f^{\prime}$ 
 - für linienförmige Leiter: $\vec{B}(\vec{r})=\frac{\mu I}{4 \pi} \int_{C} \frac{d \vec{s}^{\prime} \times\left(\vec{r}-\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|^{3}}$ 
 
-## 2.4 
+## 2.4 Kräfte im Magnetfeld 
+### 1. Amperesches Gesetz 
+- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-05-15_19-28-59.png?raw=" width="20%" /> 
+- $\vec{F}=i \cdot(\vec{l} \times \vec{B})$ 
+
+### 2. Lorentz-Kraft (auf bewegte Ladung) 
+- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-05-15_19-29-41.png?raw=" width="20%" /> 
+- $\vec{F}=Q(\vec{v} \times \vec{B})=Q(\vec{E}+\vec{v} \times \vec{B})$ 
+
+### 3. Kraft auf $\vec{J}$ im $\vec{B}-Feld$ 
+- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-05-15_19-30-25.png?raw=" width="20%" /> 
+- $\vec{F}=\iiint_{V} \vec{f}(\vec{r}) d v=\iiint_{V}(\vec{J}(\vec{r}) \times \vec{B}(\vec{r})) d v$ 
+- für linienförmige Leiter: $\vec{F}=\int_{C} i(d \vec{s} \times \vec{B}(\vec{r}))$ 
+- Falls $\vec{J}$ und $\vec{B}$ homogen im Volumen $V$ sind: $\vec{F}=(\vec{J} \times \vec{B}) V$ 
+
