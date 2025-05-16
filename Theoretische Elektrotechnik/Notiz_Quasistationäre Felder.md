@@ -13,4 +13,4 @@
 
 ### Falls Leiterschleife gebrochen 
 - $\vec{J}=\kappa(\vec{E}+\vec{v} \times \vec{B})=0$ 
-
+- $u = \int{\vec{E}\cdot d\vec{s}}$ 
