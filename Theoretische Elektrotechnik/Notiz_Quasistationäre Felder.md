@@ -11,3 +11,6 @@
 ## 2.3 Bewegte Leiterschleife 
 - $\begin{align}u_{i n d} & = -\iint_{A} \frac{\partial \vec{B}(\vec{r}, t)}{\partial t} \cdot d \vec{f} + \oint_{C(A)}(\vec{v} \times \vec{B}) \cdot d \vec{s} \\& = R \cdot i_{i n d} \\\end{align}$ 
 
+### Falls Leiterschleife gebrochen 
+- $\vec{J}=\kappa(\vec{E}+\vec{v} \times \vec{B})=0$ 
+
