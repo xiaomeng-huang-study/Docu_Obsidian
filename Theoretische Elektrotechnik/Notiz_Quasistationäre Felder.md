@@ -18,6 +18,9 @@
 
 # 3. Induktionskoeffizienten 
 - magnetische Feldenergie: $W_{m}=\frac{1}{2} \iiint_{V} \vec{H} \cdot \vec{B} ~d V=\frac{1}{2} \iiint_{V} \vec{A} \cdot \vec{J} ~ d V$ 
+- $\phi_{\mathrm{m}}=\iint_{F} \vec{B}\left(\vec{r}\right) \cdot d \vec{f}$ 
+- Koeffizient: $L =\frac{\phi_{\mathrm{m}}}{I}$ 
+- $W_{m}=\frac{1}{2} L I^{2}$ 
 
 ## Spezialfall: zwei verkoppelte Leiterschleifen 
 - der magnetische Fluss, der von Leiterkreis 2 herrührend Leiterkreis 1 durchsetzt: $\phi_{\mathrm{m}, 12}=\iint_{F_{1}} \vec{B}_{2}\left(\vec{r}_{1}\right) \cdot d \vec{f}$ 
