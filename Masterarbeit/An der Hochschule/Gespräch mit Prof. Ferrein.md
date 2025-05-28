@@ -12,5 +12,9 @@
 
 - Gibt es bei Ihnen eine Frist, bis wann ich mich entscheiden sollte?  
 - Ich möchte keine wichtigen Termine oder Möglichkeiten verpassen.  
-- Wenn ich bis zu diesem Zeitpunkt keine Zusage von einer Firma habe, dann melde ich mich bei Ihnen. 
+- Wenn ich bis zu diesem Zeitpunkt keine Zusage von einer Firma habe, dann habe ich noch eine Möglichkeit, mich bei Ihnen zu melden. 
+
+Warum unbedingt Firma: 
+- im Unternehmen direkt mit wirtschaftlichen Prozessen und realen Kundenanforderungen 
+- eine berufliche Einstiegsmöglichkeit 
 
