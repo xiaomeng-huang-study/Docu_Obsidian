@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5e060787d545fffc",
+        "id": "becdbf411c31df10",
         "type": "tabs",
         "children": [
           {
-            "id": "311aa5de3cf3496d",
+            "id": "74598ca4be54194a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -203,18 +203,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "311aa5de3cf3496d",
+  "active": "74598ca4be54194a",
   "lastOpenFiles": [
-    "Theoretische Elektrotechnik/Übungen/Übung_1.md",
-    "Theoretische Elektrotechnik/Übungen",
-    "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
-    "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
-    "Theoretische Elektrotechnik/Notiz_Quasistationäre Felder.md",
-    "Masterarbeit/An der Hochschule/Gespräch mit Prof. Ferrein.md",
-    "Masterarbeit/An der Hochschule",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
+    "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
+    "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
+    "Theoretische Elektrotechnik/Notiz_Quasistationäre Felder.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
+    "Theoretische Elektrotechnik/Übungen/Übung_1.md",
+    "Theoretische Elektrotechnik/Übungen",
+    "Masterarbeit/An der Hochschule/Gespräch mit Prof. Ferrein.md",
+    "Masterarbeit/An der Hochschule",
     "Mensch Roboter Kollaboration/Notiz_20250522.md",
     "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/allgemeine Fragen.md",
     "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch/Selbstvorstellung.md",
