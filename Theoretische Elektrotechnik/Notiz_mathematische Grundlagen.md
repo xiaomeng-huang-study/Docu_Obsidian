@@ -27,7 +27,7 @@
 
 # Gradient, Divergenz, Rotation
 ## Gradient 
-- Definition: Der Gradient ist eine vektorielle Ableitung einer skalaren Funktion. Er beschreibt die **Richtung** und die **Größe** der **stärksten Zunahme** dieser Funktion. 
+- Definition: Der Gradient ist eine <ins>vektorielle</ins> Ableitung einer skalaren Funktion. Er beschreibt die **Richtung** und die **Größe** der **stärksten Zunahme** dieser Funktion. 
 - Mathematische Definition: $\operatorname{grad}f = \nabla f=\frac{\partial f}{\partial x}\vec{e}_x + \frac{\partial f}{\partial y}\vec{e}_y + \frac{\partial f}{\partial z}\vec{e}_z$ 
 	- Bedeutung 
 		- Der Gradient zeigt in die **Richtung**, in der die Funktion am stärksten wächst. 
