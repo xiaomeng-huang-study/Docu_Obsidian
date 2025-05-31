@@ -36,7 +36,7 @@
 	- $\operatorname{grad} \phi(x, y, z)= \nabla \phi(x, y, z)= \frac{\partial \phi(x, y, z)}{\partial x} \vec{e}_x + \frac{\partial \phi(x, y, z)}{\partial y} \vec{e}_y + \frac{\partial \phi(x, y, z)}{\partial z} \vec{e}_z$ 
 
 ## Divergenz 
-- Definition: Die Divergenz eines Vektorfeldes ist eine skalare Größe, die beschreibt, **wie stark** ein Vektorfeld an einem Punkt **eine Quelle** (Ausstrom) **oder** **eine Senke** (Einstrom) ist. 
+- Definition: Die Divergenz eines Vektorfeldes ist eine <ins>skalare Größe</ins>, die beschreibt, **wie stark** ein Vektorfeld an einem Punkt **eine Quelle** (Ausstrom) **oder** **eine Senke** (Einstrom) ist. 
 - Mathematische Definition: $\operatorname{div} \mathbf{F}=\nabla \cdot \mathbf{F}=\frac{\partial F_{x}}{\partial x}+\frac{\partial F_{y}}{\partial y}+\frac{\partial F_{z}}{\partial z}$ 
 	- Bedeutung 
 		- **Positive** Divergenz bedeutet, dass das Vektorfeld an diesem Punkt eine **Quelle** ist, also „auseinanderströmt“ (z. B. eine Luftquelle). 
