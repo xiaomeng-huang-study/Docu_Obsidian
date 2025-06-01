@@ -47,11 +47,11 @@
 
 ## Rotation 
 - Definition: Die Rotation eines Vektorfeldes (auch Curl genannt) ist ein Maß für die lokale **Drehbewegung** des Feldes um einen Punkt. 
-- Mathematische Definition: $\begin{array}{l}\operatorname{rot} \vec{A}(x, y, z) & = \nabla \times \mathbf{F} \\& = \left|\begin{array}{ccc}\vec{e}_{x} & \vec{e}_{y} & \vec{e}_{z} \\\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\A_{x} & A_{y} & A_{z}\end{array}\right| \\& = \left(\frac{\partial F_{z}}{\partial y}-\frac{\partial F_{y}}{\partial z}, \quad \frac{\partial F_{x}}{\partial z}-\frac{\partial F_{z}}{\partial x}, \quad \frac{\partial F_{y}}{\partial x}-\frac{\partial F_{x}}{\partial y}\right)\end{array}$ 
+- Mathematische Definition: $\begin{array}{l}\operatorname{rot} \vec{A}(x, y, z) & = \nabla \times \mathbf{F} \\& = \left|\begin{array}{ccc}\vec{e}_{x} & \vec{e}_{y} & \vec{e}_{z} \\\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\A_{x} & A_{y} & A_{z}\end{array}\right| \\&=\left(\begin{array}{l}\partial / \partial x \\\partial / \partial y \\\partial / \partial z\end{array}\right) \times\left(\begin{array}{l}x \\y \\z\end{array}\right)\\& = (\frac{\partial F_{z}}{\partial y}-\frac{\partial F_{y}}{\partial z}) \vec{e}_x+ (\frac{\partial F_{x}}{\partial z}-\frac{\partial F_{z}}{\partial x}) \vec{e}_y+ (\frac{\partial F_{y}}{\partial x}-\frac{\partial F_{x}}{\partial y})\vec{e}_z+\end{array}$ 
 	- Bedeutung 
 		- **Null** bedeutet, dass das Vektorfeld **wirbelfrei** ist. 
 - In kartesischen Koordinaten 
-	- $\operatorname{rot} \vec{A}(x, y, z)=\nabla \times \vec{A}(x, y, z)=\left(\frac{\partial A_{z}}{\partial y}-\frac{\partial A_{y}}{\partial z},~~\frac{\partial A_{x}}{\partial z}-\frac{\partial A_{z}}{\partial x},~~\frac{\partial A_{y}}{\partial x}-\frac{\partial A_{x}}{\partial y}\right)$ 
+	- $\operatorname{rot} \vec{A}(x, y, z)=\nabla \times \vec{A}(x, y, z)=(\frac{\partial A_{z}}{\partial y}-\frac{\partial A_{y}}{\partial z})\vec{e}_x+(\frac{\partial A_{x}}{\partial z}-\frac{\partial A_{z}}{\partial x})\vec{e}_y+(\frac{\partial A_{y}}{\partial x}-\frac{\partial A_{x}}{\partial y})\vec{e}_z$ 
 
 ## Nabla-Operator $\nabla$ und Laplace-Operator $\Delta$ 
 - Nabla-Operator $\nabla=\frac{\partial}{\partial x} \vec{e}_{x}+\frac{\partial}{\partial y} \vec{e}_{y}+\frac{\partial}{\partial z} \vec{e}_{z}$ 
