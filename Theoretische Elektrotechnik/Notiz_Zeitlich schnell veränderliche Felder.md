@@ -25,3 +25,11 @@
 - $\vec{S}=\left(\vec{E}_{l}+\vec{E}_{t}\right) \times \vec{H}$ $\Rightarrow$ $\vec{S}_{l} < \vec{S}$ 
 - $\begin{array}{l}P_{\text {load }}&= \unicode{x222F}_{F} \vec{S} \cdot d \vec{f} \\&= |\vec{S}_{l}|  \cdot ab \\&< \mathrm{UI} \\\end{array}$ 
 
+
+## 1.3 Phasoren für zeitharmonische Felder 
+
+
+## 1.4 Maxwellsche Gleichungen in Phasorschreibweise 
+
+
+## 1.5 Energieerhaltungssatz für komplexe Vektoren 
