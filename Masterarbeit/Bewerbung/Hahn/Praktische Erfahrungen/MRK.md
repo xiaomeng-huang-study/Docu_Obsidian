@@ -54,3 +54,4 @@ Roboterprogrammierung
 - Kapselung: Daten und Funktionen werden in einer Klasse zusammengefasst. 
 - Vererbung: Eigenschaften und Methoden einer anderen Klasse übernehmen $\Rightarrow$ spart Wiederholungen 
 - Polymorphie: Eine Methode kann unterschiedliche Implementierungen haben $\Rightarrow$ Schnittstelle 
+
