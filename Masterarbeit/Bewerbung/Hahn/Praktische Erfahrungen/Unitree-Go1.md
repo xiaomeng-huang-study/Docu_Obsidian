@@ -4,16 +4,16 @@ Das Ziel ist, dass der Roboter **Unitree Go1** ein **rotes Objekt (ein Würfel)*
 
 ## Messbar 
 Die Zuverlässigkeit des Systems wurde daran gemessen, wie **gut** der Roboter einem Objekt folgen konnte- besonders in Abhängigkeit von der **ursprünglichen Entfernung** zwischen Roboter und Objekt.
-Wenn das Umgebungslicht richtig gesteuert werden kann, kann der Roboter die meisten Aufgaben erledigen.
+Wenn das Umgebungslicht angemessen gesteuert werden kann, kann der Roboter die meisten Aufgaben erledigen. 
 
 ## Attraktiv 
-Das Projekt ist besonders relevant für Anwendungen in der **Such- und Rettungsrobotik**.  
-Gleichzeitig verbindet es zwei wichtige technische Bereiche: **Bildverarbeitung** und **Regelungstechnik** – das sind Schlüsselfelder für viele **automatisierte Systeme** in der Industrie und Robotik. 
+Das Projekt ist besonders **relevant** für Anwendungen in der **Such- und Rettungsrobotik**.  
+Gleichzeitig sind **Bildverarbeitung** und **Regelungstechnik** Schlüsselfelder für viele **automatisierte Systeme** in der Industrie und Robotik. 
 
 ## Realistisch 
 Die Umsetzung erfolgte mit **C++ und OpenCV** zur Bildverarbeitung. 
 Für die Steuerung und Kommunikation wurde **ROS (Robot Operating System)** eingesetzt. 
-Auf Hardware-Seite wurde das System direkt auf dem im Roboter integrierten **Jetson Nano** ausgeführt, was eine **ausreichend schnelle Verarbeitung** der Bilddaten ermöglichte. 
+Auf dem Roboter wurde ein **Jetson Nano** integriert, was eine **ausreichend schnelle Verarbeitung** der Bilddaten ermöglichte. 
 
 ## Terminiert 
 - 3 Personen 
