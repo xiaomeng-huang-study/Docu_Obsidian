@@ -19,3 +19,25 @@ Dabei wurden verschiedene Punktwolken **zeitlich miteinander verglichen**, um zu
 - "3D-Bildverarbeitung" 
 - 3 Monaten 
 
+
+# Fragen 
+## Funktionsweise 
+- Zuerst habe ich die Punktwolken mit **ICP (Iterative Closest Point)** registriert, um eine globale Referenz herzustellen. 
+- Dann habe ich die **Differenzen der Punkte analysiert**. 
+- Dann habe ich **DBSCAN** verwendet, um die Punkte mit signifikanter Bewegung in verschiedene Cluster zu klassifizieren und die sich bewegenden Objekte weiter auszuwählen. 
+
+## DBSCAN 
+- keine feste Anzahl von Clustern, und DBSCAN basiert auf Dichte. 
+- gegen Rauschen 
+
+## Visualisierung 
+die Ergebnisse wurden mit **Open3D** visualisiert. 
+Ich habe die bewegten Punkte **farblich** hervorgehoben, sodass man die Bewegungsrichtung und -intensität leicht erkennen konnte. 
+
+## in der Praxis 
+- Sicherheits- oder Überwachungssysteme 
+
+## Herausforderungen 
+### Rauschen in den Daten 
+Schwellenwerte anzupassen 
+

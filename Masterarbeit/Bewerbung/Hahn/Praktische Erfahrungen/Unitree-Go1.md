@@ -28,8 +28,9 @@ Die Position wurde anschließend an den PID-Regler weitergegeben, um Bewegungsbe
 
 ## PID-Regler 
 
-## Problem mit Lichtverhältnissen 
-eine Herausforderung. Besonders bei **starkem Schatten oder Reflexion** 
+## Herausforderungen 
+### Lichtverhältnissen 
+bei **starkem Schatten oder Reflexion** 
 - ein breiteres HSV-Spektrum, Toleranzbereich 
 - **Filter** 
 
