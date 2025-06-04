@@ -31,6 +31,6 @@ Die Position wurde anschließend an den PID-Regler weitergegeben, um Bewegungsbe
 ## Herausforderungen 
 ### Lichtverhältnissen 
 bei **starkem Schatten oder Reflexion** 
-- ein breiteres HSV-Spektrum, Toleranzbereich 
+- ein breiteres HSV-Spektrum, **Toleranzbereich** 
 - **Filter** 
 
