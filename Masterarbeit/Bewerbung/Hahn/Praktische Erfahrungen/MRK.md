@@ -2,7 +2,7 @@ In diesem Projekt habe ich mit zwei Kommilitonen eine Mensch-Roboter-Kollaborati
 
 # SMART 
 ## Spezifisch 
-Ziel ist, dass der Roboter eine Leiterplatte aus dem Lager holt, sie während des Lötvorgangs hält und danach auf ein Förderband legt.  
+Ziel ist, dass der Roboter eine **Leiterplatte** aus dem Lager **holt**, sie während des Lötvorgangs **hält** und danach auf ein Förderband **legt**.  
 Der Mensch ist für die Platzierung der Platine, Lötarbeit, Qualitätskontrolle zuständig. 
 
 
@@ -12,12 +12,12 @@ Dabei steht die Sicherheit im Vordergrund.
 
 
 ## Attraktiv: Warum war das Projekt wichtig oder sinnvoll? 
-Dieses Projekt ist sehr praxisrelevant für die Industrie. Menschen können komplexe Aufgaben wie Löten und Qualitätskontrolle besser durchführen, während der Roboter einfache, aber wiederholende Aufgaben übernimmt. Das spart Zeit und erhöht die Effizienz in der Produktion. 
+Dieses Projekt ist sehr praxisrelevant für die Industrie. **Menschen** können **komplexe Aufgaben** wie Löten und Qualitätskontrolle besser durchführen, während der **Roboter** **einfache**, aber **wiederholende** Aufgaben übernimmt. Das spart Zeit und erhöht die Effizienz in der Produktion. 
 
 
 ## Realistisch 
-Im Labor wird ein KUKA iiwa angeboten. 
-Für die Aufgabe haben wir auch einen eigenen Greifer entworfen und mit dem 3D-Drucker produziert – so konnte der Roboter die Leiterplatte sicher greifen. 
+Im Labor wird ein **KUKA iiwa** angeboten. 
+Für die Aufgabe haben wir auch einen **eigenen Greifer** entworfen und mit dem 3D-Drucker produziert – so konnte der Roboter die Leiterplatte sicher greifen. 
 
 
 ## Terminiert 

@@ -4,7 +4,7 @@ Das Ziel ist, dass der Roboter **Unitree Go1** ein **rotes Objekt (ein Würfel)*
 
 ## Messbar 
 Die Zuverlässigkeit des Systems wurde daran gemessen, wie **gut** der Roboter einem Objekt folgen konnte- besonders in Abhängigkeit von der **ursprünglichen Entfernung** zwischen Roboter und Objekt.
-Wenn das Umgebungslicht angemessen gesteuert werden kann, kann der Roboter die meisten Aufgaben erledigen. 
+Wenn das **Umgebungslicht** angemessen **gesteuert** werden kann, kann der Roboter die meisten Aufgaben **erledigen**. 
 
 ## Attraktiv 
 Das Projekt ist besonders **relevant** für Anwendungen in der **Such- und Rettungsrobotik**.  

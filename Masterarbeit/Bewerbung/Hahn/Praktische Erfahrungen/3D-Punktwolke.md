@@ -1,6 +1,6 @@
 # SMART 
 ## Spezifisch 
-Ziel des Projekts war es, in einer **Abfolge von 3D-Punktwolken** bewegte Objekte zuverlässig zu erkennen. 
+Ziel des Projekts ist es, in einer **Abfolge von 3D-Punktwolken** **bewegte Objekte** zu erkennen. 
 Dabei wurden verschiedene Punktwolken **zeitlich miteinander verglichen**, um zu analysieren, welche Punkte sich **signifikant verändert oder bewegt** haben. 
 
 ## (Messbar) 
@@ -24,7 +24,7 @@ Dabei wurden verschiedene Punktwolken **zeitlich miteinander verglichen**, um zu
 ## Funktionsweise 
 - Zuerst habe ich die Punktwolken mit **ICP (Iterative Closest Point)** registriert, um eine globale Referenz herzustellen. 
 - Dann habe ich die **Differenzen der Punkte analysiert**. 
-- Dann habe ich **DBSCAN** verwendet, um die Punkte mit signifikanter Bewegung in verschiedene Cluster zu klassifizieren und die sich bewegenden Objekte weiter auszuwählen. 
+- Danach habe ich **DBSCAN** verwendet, um die Punkte mit signifikanter Bewegung in verschiedene **Cluster** zu **klassifizieren** und die sich bewegenden Objekte weiter auszuwählen. 
 
 ## DBSCAN 
 - keine feste Anzahl von Clustern, und DBSCAN basiert auf Dichte. 

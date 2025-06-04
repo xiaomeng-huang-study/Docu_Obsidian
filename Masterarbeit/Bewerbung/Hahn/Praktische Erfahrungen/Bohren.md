@@ -1,6 +1,6 @@
 # SMART 
 ## Spezifisch 
-Das Ziel des Projekts ist, dass das Programm mit Hilfe von Lichtschranken und Kamera die Position und die Farbe des Objekts erkennen soll, um die Bearbeitung und Sortierung der Werkstücke - in unserem Fall kleine farbige Würfel - vollständig zu automatisieren. 
+Das Ziel des Projekts ist, dass das Programm mit Hilfe von **Lichtschranken und Kamera** die **Position und die Farbe** des Objekts erkennen soll, um die **Bearbeitung und Sortierung** der Werkstücke - in unserem Fall kleine farbige Würfel - vollständig zu **automatisieren**. 
 
 Zusätzlich wurde eine **Sicherheitslogik** integriert, um Eingriffe in den automatisierten Ablauf sicher zu erkennen und darauf zu reagieren. 
 
@@ -13,7 +13,7 @@ Auch die Umsetzung mit **Siemens S7** macht das Projekt sehr praxisnah.
 
 ## Realistisch 
 Die Steuerung wurde mit einer **Siemens S7** realisiert, programmiert mit **TIA Portal**. 
-FBS (Funktionsbausteinsprache) und S7-Graph wurden benutzt. 
+**FBS** (Funktionsbausteinsprache) und **S7-Graph** wurden benutzt. 
 
 ## Terminiert 
 - 2 Personen 
