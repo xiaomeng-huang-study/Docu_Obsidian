@@ -2,7 +2,7 @@ Guten Tag und vielen Dank für die Einladung zum Gespräch.
 
 Mein Name ist Xiaomeng Huang und ich komme ursprünglich aus China. 
 
-Zurzeit studiere ich den Masterstudiengang Elektrotechnik im zweiten Semester im Master an der Fachhochschule Aachen, mit dem Schwerpunkt Automatisierungstechnik. 
+Zurzeit studiere ich den Masterstudiengang Elektrotechnik im zweiten Semester an der Fachhochschule Aachen, mit dem Schwerpunkt Automatisierungstechnik. 
 
 In meinem Studium habe ich bereits praktische **Erfahrungen** mit SPS **gesammelt**, vor allem mit Siemens S7. Außerdem habe ich **mich mit** verschiedenen Sensoren **beschäftigt** – zum Beispiel mit Kameras und LiDAR-Systemen. 
 

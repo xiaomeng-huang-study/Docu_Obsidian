@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f06c506ab61c2a4",
+        "id": "b7d8dda31d9d4d73",
         "type": "tabs",
         "children": [
           {
-            "id": "def27af4fe96ea3d",
+            "id": "05c5337c4870a966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mensch Roboter Kollaboration/Notiz_Sicherheit.md",
-                "mode": "source",
+                "file": "Masterarbeit/Bewerbung/Praktische Erfahrungen/Bohren.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_Sicherheit"
+              "title": "Bohren"
             }
           }
         ]
@@ -203,28 +203,27 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "def27af4fe96ea3d",
+  "active": "05c5337c4870a966",
   "lastOpenFiles": [
-    "Mensch Roboter Kollaboration/Notiz_20250522.md",
+    "Masterarbeit/Bewerbung/Praktische Erfahrungen/3D-Punktwolke.md",
+    "Masterarbeit/Bewerbung/Hahn/Selbstvorstellung.md",
+    "Masterarbeit/Bewerbung/Hahn/Über die Firma.md",
     "Mensch Roboter Kollaboration/Notiz_Sicherheit.md",
+    "Mensch Roboter Kollaboration/Notiz_20250522.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/Praktikum.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/Unitree-Go1.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/MRK.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/Gussprodukten.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/Bohren.md",
-    "Masterarbeit/Bewerbung/Praktische Erfahrungen/3D-Punktwolke.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen",
-    "Masterarbeit/Bewerbung/Hahn/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Selbstvorstellung.md",
     "Prog CS/Vererbung.md",
     "Prog CS/Struct_Class.md",
-    "Masterarbeit/Bewerbung/Hahn/Über die Firma.md",
     "Masterarbeit/Bewerbung/Hahn",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
     "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
-    "Mensch Roboter Kollaboration/Notiz_Sicherheit.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Theoretische Elektrotechnik/Notiz_Quasistationäre Felder.md",
     "Theoretische Elektrotechnik/Übungen/Übung_1.md",
