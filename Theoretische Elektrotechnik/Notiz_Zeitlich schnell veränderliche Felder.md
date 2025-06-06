@@ -56,7 +56,7 @@
 - Feldwellenimpedanzen $Z$ 
 	- $Z=Z_{0} e^{j \phi}$ 
 		- Amplituden: $Z_0$ 
-		- Phase: $\phi = \frac{\pi}{2}$ 
+		- Phase: $\phi = \pm \frac{\pi}{2}$ 
 - Merkmalen 
 	- Entsteht durch die **Überlagerung** zweier gegenläufiger, gleichartiger fortschreitender Wellen. 
 	- Die Welle **bleibt räumlich fixiert**, schwingt aber zeitlich. 
