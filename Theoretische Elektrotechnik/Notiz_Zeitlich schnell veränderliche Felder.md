@@ -33,3 +33,25 @@
 
 
 ## 1.5 Energieerhaltungssatz für komplexe Vektoren 
+
+
+## 1.7 Homogene ebene Welle (HEW) 
+### Fortschreitende Welle (Dielektrikum mit Open-End) 
+- $\vec{E}(z)= \vec{e}_x E_{0} e^{-j k_1 z}$, $\vec{H}(z)=\vec{e}_y H_{0} e^{-j k_1 z}$ 
+- Amplituden: konstant über $z$ 
+- Phase: linear fallend entlang der z-Achse, $\varphi = j \cdot (- k_1) z$ 
+- Real- & Imaginärteil 
+	- $\text{Re}\{E(z)\}$ ist eine laufende Sinuswelle, verschoben mit Ort und Zeit. 
+	- $\text{Im}\{E(z)\}$ ist um 90° phasenverschoben. 
+- E- und H-Feld: Stehen in Phase. 
+- Die Welle bewegt sich durch den Raum, transportiert also Energie von einem Ort zum anderen 
+
+### Stehende Welle (mit elektrischem Ende) 
+- $\vec{E}(z)=\vec{e}_x E_{0}\left(e^{-j k_1 z}-e^{j k_1 z}\right)=\vec{e}_x \cdot (-2) j E_{0} \sin (k_1 z)$, $\vec{H}(z)=\vec{e}_y \frac{E_{0}}{Z}\left(e^{-j k_1 z}+e^{j k_1 z}\right)=\vec{e}_x \cdot2 \frac{E_{0}}{Z} \cos (k_1 z)$ 
+- Amplituden 
+	- $E(z)$: sinusförmiger Verlauf mit Knoten bei $E=0$. 
+	- $H(z)$: cosinusförmig, mit Bäuchen dort, wo $E$ Knoten hat. 
+- Phase: $E$ und $H$ sind 90° phasenverschoben im Ort (nicht in der Zeit!). 
+- Real- & Imaginärteil: Beide oszillieren synchron, aber nicht wandernd – keine laufende Phase! 
+- E- und H-Feld 
+	- Im gleichen Ortspunkt: E und H nicht in Phase. 
