@@ -17,7 +17,7 @@
 - Für Volumenladung $\rho_{V}(\vec{r})$: $\phi(\vec{r}) = \frac{1}{4 \pi \varepsilon_{0}} \iiint_{V} \frac{\rho_{V}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d V^{\prime}$ 
 
 ### Überlagerungsprinzip 
-
+$\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}} \sum_{i}  \frac{Q_i}{\left|\vec{r}-\vec{r_i}^{\prime}\right|}$ 
 
 ## 2.4 Spiegelungsmethode 
 ### 2.4.1 Spiegelung an einer Ebene 
