@@ -26,8 +26,8 @@
 
 ### 2.4.2 Spiegelung an einer Kugel 
 - <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-04-16_14-26-01.png?raw=" width="40%" /> 
-- $p^{\prime}=\frac{a^{2}}{p} \quad$ 
-- $Q^{\prime}=-\frac{a}{p} Q$ 
+- $r_2^{\prime}=\frac{r_0^{2}}{r_1^{\prime}} \quad$ 
+- $Q^{\prime}=-\frac{r_0}{r_1^{\prime}} Q$ 
 
 ### 2.4.3 Spiegelung an einem Zylinder 
 
