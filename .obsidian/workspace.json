@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "742ab413926711f3",
+        "id": "aec4c1e7bf7a455a",
         "type": "tabs",
         "children": [
           {
-            "id": "1f617e3908bb5173",
+            "id": "b3a930b38f2a581f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_elektrostatisches Feld"
+              "title": "New tab"
             }
           }
         ]
@@ -203,10 +199,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1f617e3908bb5173",
+  "active": "b3a930b38f2a581f",
   "lastOpenFiles": [
-    "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
+    "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
