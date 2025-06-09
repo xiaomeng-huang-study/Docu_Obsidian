@@ -28,7 +28,7 @@
 ### 2.4.2 Spiegelung an einer Kugel 
 - <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-04-16_14-26-01.png?raw=" width="40%" /> 
 - $r_2^{\prime} \cdot {r_1^{\prime}} = r_0^{2}$ 
-- $\begin{array}{ll}\frac{Q^{\prime}}{Q} & =-\frac{r_0}{r_1^{\prime}} \\& =-\frac{r_2^{\prime}}{r_0} \\\end{array}$ 
+- $\begin{array}{ll}\frac{Q_2}{Q_1} & =-\frac{r_0}{r_1^{\prime}} \\& =-\frac{r_2^{\prime}}{r_0} \\\end{array}$ 
 
 ### 2.4.3 Spiegelung an einem Zylinder 
 
