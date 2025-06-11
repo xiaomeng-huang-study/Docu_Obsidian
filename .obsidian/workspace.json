@@ -11,10 +11,14 @@
             "id": "32b6ec029ee759b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Masterarbeit/Bewerbung/Praktische Erfahrungen/3D-Punktwolke.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3D-Punktwolke"
             }
           }
         ]
@@ -199,8 +203,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8c6a37a0aafca059",
+  "active": "32b6ec029ee759b7",
   "lastOpenFiles": [
+    "Masterarbeit/Bewerbung/Hella/Selbstvorstellung.md",
+    "Masterarbeit/Bewerbung/Praktische Erfahrungen/Bachelorarbeit.md",
+    "Masterarbeit/Bewerbung/Praktische Erfahrungen/Praktikum.md",
+    "Masterarbeit/Bewerbung/Praktische Erfahrungen/Unitree-Go1.md",
+    "Masterarbeit/Bewerbung/Praktische Erfahrungen/3D-Punktwolke.md",
     "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 2 Kameras.md",
     "3D-Bildverarbeitung/Notiz_Image Matching.md",
     "3D-Bildverarbeitung/Notiz_ICP.md",
@@ -210,13 +219,9 @@
     "3D-Bildverarbeitung/Notiz_KinectFusion.md",
     "3D-Bildverarbeitung/Notiz_K1.2_Grundlagen_Farbmodelle.md",
     "3D-Bildverarbeitung/Notiz_K1.1_Grundlagen_Bilddatentypen.md",
-    "Masterarbeit/Bewerbung/Praktische Erfahrungen/Bachelorarbeit.md",
     "3D-Bildverarbeitung/Notiz_3D Features und Descriptors.md",
     "3D-Bildverarbeitung/Klausurvorbereitung.md",
-    "Masterarbeit/Bewerbung/Praktische Erfahrungen/Praktikum.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/Gussprodukten.md",
-    "Masterarbeit/Bewerbung/Praktische Erfahrungen/3D-Punktwolke.md",
-    "Masterarbeit/Bewerbung/Hella/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/Hella",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
@@ -224,7 +229,6 @@
     "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Masterarbeit/Bewerbung/Hahn/Selbstvorstellung.md",
-    "Masterarbeit/Bewerbung/Praktische Erfahrungen/Unitree-Go1.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/Bohren.md",
     "Masterarbeit/Bewerbung/Hahn/Über die Firma.md",
     "Mensch Roboter Kollaboration/Notiz_Sicherheit.md",

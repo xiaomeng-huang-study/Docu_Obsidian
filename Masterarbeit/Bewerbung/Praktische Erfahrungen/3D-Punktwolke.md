@@ -34,9 +34,6 @@ Dabei wurden verschiedene Punktwolken **zeitlich miteinander verglichen**, um zu
 die Ergebnisse wurden mit **Open3D** visualisiert. 
 Ich habe die bewegten Punkte **farblich** hervorgehoben, sodass man die Bewegungsrichtung und -intensität leicht erkennen konnte. 
 
-## in der Praxis 
-- Sicherheits- oder Überwachungssysteme 
-
 ## Herausforderungen 
 ### Rauschen in den Daten 
 Schwellenwerte anzupassen 
