@@ -11,10 +11,14 @@
             "id": "f6931b805c9eb11a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Masterarbeit/Bewerbung/ZeroClamp/Selbstvorstellung.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Selbstvorstellung"
             }
           }
         ]
@@ -84,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5024719238281
+    "width": 354.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -201,6 +206,10 @@
   },
   "active": "f6931b805c9eb11a",
   "lastOpenFiles": [
+    "Masterarbeit/Bewerbung/Hahn/Selbstvorstellung.md",
+    "Masterarbeit/Bewerbung/ZeroClamp/Selbstvorstellung.md",
+    "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Selbstvorstellung.md",
+    "Masterarbeit/Bewerbung/ZeroClamp",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/3D-Punktwolke.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/Gussprodukten.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/Bachelorarbeit.md",
@@ -224,10 +233,7 @@
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
-    "Masterarbeit/Bewerbung/Hahn/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/Bohren.md",
-    "Masterarbeit/Bewerbung/Hahn/Über die Firma.md",
-    "Mensch Roboter Kollaboration/Notiz_Sicherheit.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen",
     "Masterarbeit/Bewerbung/Hahn",
     "Theoretische Elektrotechnik/Übungen",
@@ -236,7 +242,6 @@
     "Masterarbeit/Bewerbung/mrm2",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch",
     "Masterarbeit/Bewerbung/dSpace",
-    "Masterarbeit/Bewerbung",
     "Pasted image 20250325165938.png",
     "Pasted image 20250130210025.png",
     "Pasted image 20240706191351.png",
