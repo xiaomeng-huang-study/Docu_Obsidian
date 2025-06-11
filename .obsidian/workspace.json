@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masterarbeit/Bewerbung/ZeroClamp/Selbstvorstellung.md",
+                "file": "Masterarbeit/Bewerbung/Allgemeine Fragen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selbstvorstellung"
+              "title": "Allgemeine Fragen"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5024719238281,
-    "collapsed": true
+    "width": 354.5024719238281
   },
   "right": {
     "id": "f20dd8ed232d0546",
@@ -206,8 +205,10 @@
   },
   "active": "f6931b805c9eb11a",
   "lastOpenFiles": [
-    "Masterarbeit/Bewerbung/Hahn/Selbstvorstellung.md",
+    "Masterarbeit/Bewerbung/ZeroClamp/über die Firma.md",
+    "Masterarbeit/Bewerbung/Allgemeine Fragen.md",
     "Masterarbeit/Bewerbung/ZeroClamp/Selbstvorstellung.md",
+    "Masterarbeit/Bewerbung/Hahn/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch/Selbstvorstellung.md",
     "Masterarbeit/Bewerbung/ZeroClamp",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen/3D-Punktwolke.md",
@@ -232,8 +233,6 @@
     "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
-    "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
-    "Masterarbeit/Bewerbung/Praktische Erfahrungen/Bohren.md",
     "Masterarbeit/Bewerbung/Praktische Erfahrungen",
     "Masterarbeit/Bewerbung/Hahn",
     "Theoretische Elektrotechnik/Übungen",

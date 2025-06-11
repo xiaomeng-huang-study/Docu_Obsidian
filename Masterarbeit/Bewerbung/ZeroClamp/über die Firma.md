@@ -1,0 +1,4 @@
+- innovative Lösungen im Bereich der Spanntechnik und Automatisierung 
+- Fokus: Reduzierung von Rüst- und Nebenzeiten in der Fertigung 
+- Produkte: Produkten wie dem ZEROBOT und dem ZEROCOB 
+- 
