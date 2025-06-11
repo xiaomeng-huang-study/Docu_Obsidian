@@ -18,4 +18,3 @@
 
 # Motivation 
 - Umsetzung von Wissen 
-
