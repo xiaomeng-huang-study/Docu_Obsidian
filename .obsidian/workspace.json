@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masterarbeit/Bewerbung/Krone/Selbstvorstellung.md",
+                "file": "Masterarbeit/bei einer Firma/technische Fragen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selbstvorstellung"
+              "title": "technische Fragen"
             }
           }
         ]
@@ -203,11 +203,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2f27fdc91f78eb5d",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "Masterarbeit/Bewerbung/Krone",
-    "Masterarbeit/Bewerbung/ZeroClamp/Selbstvorstellung.md",
-    "Masterarbeit/Bewerbung/Krone/Selbstvorstellung.md",
+    "Masterarbeit/bei einer Firma/dSpace/Selbstvorstellung.md",
+    "Masterarbeit/bei einer Firma/Krone/Selbstvorstellung.md",
+    "Masterarbeit/bei einer Firma/dSpace/Vorstellungsgespräch/Projekte.md",
+    "Masterarbeit/bei einer Firma/Krone",
+    "Masterarbeit/bei einer Firma/ZeroClamp/Selbstvorstellung.md",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
@@ -230,17 +232,15 @@
     "Softwarearchitekturen/Notiz_Kapitel_2_GoogLe-Net.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Problem.md",
     "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Einschube.md",
-    "Softwarearchitekturen/Notiz_Kapitel_2_CNN_Beispiel.md",
-    "Masterarbeit/Bewerbung/ZeroClamp",
-    "Masterarbeit/Bewerbung/Hella",
-    "Masterarbeit/Bewerbung/Praktische Erfahrungen",
-    "Masterarbeit/Bewerbung/Hahn",
+    "Masterarbeit/bei einer Firma/ZeroClamp",
+    "Masterarbeit/bei einer Firma/Hella",
+    "Masterarbeit/bei einer Firma/Praktische Erfahrungen",
+    "Masterarbeit/bei einer Firma/Hahn",
     "Theoretische Elektrotechnik/Übungen",
     "Masterarbeit/An der Hochschule",
-    "Masterarbeit/Bewerbung/mrm2/Vorstellungsgespräch",
-    "Masterarbeit/Bewerbung/mrm2",
-    "Masterarbeit/Bewerbung/dSpace/Vorstellungsgespräch",
-    "Masterarbeit/Bewerbung/dSpace",
+    "Masterarbeit/bei einer Firma/mrm2/Vorstellungsgespräch",
+    "Masterarbeit/bei einer Firma/mrm2",
+    "Masterarbeit/bei einer Firma/dSpace/Vorstellungsgespräch",
     "Pasted image 20250325165938.png",
     "Pasted image 20250130210025.png",
     "Pasted image 20240706191351.png",

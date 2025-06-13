@@ -1,4 +1,4 @@
-# Hundroboter 
+ Hundroboter 
 - S: Ziel des Projekts ist es, einem Roboterhund die Fähigkeit zu geben, Objekte zu verfolgen. 
 - T: Die für das Projekt zur Verfügung stehende Zeit beträgt drei Monate. 
 - A: Aus Zeitgründen wurden neuronale Netze usw. nicht eingeführt. Das Objekt, das zu verfolgen ist, wurde als ein rotes Kästchen identifiziert. 
