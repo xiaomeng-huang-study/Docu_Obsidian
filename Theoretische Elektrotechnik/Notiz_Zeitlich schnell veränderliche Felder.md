@@ -27,6 +27,7 @@
 
 
 ## 1.3 Phasoren für zeitharmonische Felder 
+- $\begin{array}{llll}&               & E_{1}(\vec{r}, t) &=& E_{1}(\vec{r}) \cos \left(\omega t-\frac{\pi}{2}\right) \\&\Longrightarrow& \underline{E}_{1}(\vec{r}) &=&E_{1}(\vec{r}) e^{-j \frac{\pi}{2}} \\ &&& =&-j E_{1}(\vec{r}) \\\end{array}$ 
 
 
 ## 1.4 Maxwellsche Gleichungen in Phasorschreibweise 
