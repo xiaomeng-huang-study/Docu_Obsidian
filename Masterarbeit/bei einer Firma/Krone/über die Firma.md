@@ -1,0 +1,2 @@
+- Herstellung von **Landmaschinen** und **Nutzfahrzeugen** 
+- Fokus: **Zuverlässigkeit und Langlebigkeit** der Krone-Maschinen sowie die **fortschrittliche Technologie** 
