@@ -37,6 +37,10 @@
 
 
 ## 1.7 Homogene ebene Welle (HEW) 
+- Phasenfläche: die Fläche, auf der alle Punkte die **gleiche Phase** einer Welle besitzen. In einer ebenen Welle sind die Phasenflächen Ebenen, die senkrecht zur Ausbreitungsrichtung der Welle stehen. 
+- Ebene Welle: eine Welle, deren Phasenflächen Ebenen sind. Die Wellenfronten sind also unendlich große, parallele Ebenen. Die Amplitude und Richtung der Welle ändern sich in der Ebene nicht, sondern nur in Ausbreitungsrichtung. 
+- Homogene Ebene Welle: eine spezielle Form der ebenen Welle, bei der die Amplitude über die gesamte Phasenfläche konstant ist. Die Welle breitet sich ohne Dämpfung und ohne Richtungsänderung in einem homogenen Medium aus. 
+
 ### Fortschreitende Welle und Stehende Welle 
 #### Fortschreitende Welle (Dielektrikum mit Open-End) 
 - $\vec{E}(z)= \vec{e}_x E_{0} e^{-j k_1 z}$, $\vec{H}(z)=\vec{e}_y H_{0} e^{-j k_1 z}$ 
@@ -49,6 +53,7 @@
 		- Phase: $\phi = 0$ 
 - Merkmalen 
 	- Die Welle **bewegt sich durch den Raum**, transportiert also **Energie** von einem Ort zum anderen 
+- Wellenzahl: $\begin{array}{l}k& =\frac{w}{v} \\& =\frac{2 \pi}{\lambda} \\& =k_{0} \sqrt{\varepsilon_{r} \mu_{r}} \quad |~~ k_{0}= \frac{w}{c_{0}} \\\end{array}$ 
 
 #### Stehende Welle (Dielektrikum mit elektrischem Ende) 
 - $\vec{E}(z)=\vec{e}_x E_{0}\left(e^{-j k_1 z}-e^{j k_1 z}\right)=\vec{e}_x \cdot (-2) j E_{0} \sin (k_1 z)$, $\vec{H}(z)=\vec{e}_y \frac{E_{0}}{Z}\left(e^{-j k_1 z}+e^{j k_1 z}\right)=\vec{e}_x \cdot2 \frac{E_{0}}{Z} \cos (k_1 z)$ 
@@ -65,6 +70,5 @@
 	- Es entstehen feste Punkte, die **nicht schwingen** (Knoten), und Punkte mit **maximaler Auslenkung** (Bauch). 
 
 
-- Wellenzahl: $\begin{array}{l}k& =\frac{w}{v} \\& =\frac{2 \pi}{\lambda} \\& =k_{0} \sqrt{\varepsilon_{r} \mu_{r}} \quad |~~ k_{0}= \frac{w}{c_{0}} \\\end{array}$ 
 
 ## 1.8 HEW mit beliebiger Ausbreitungsrichtung 
