@@ -63,3 +63,4 @@
 	- Die Welle **bleibt räumlich fixiert**, schwingt aber zeitlich. 
 	- Es entstehen feste Punkte, die **nicht schwingen** (Knoten), und Punkte mit **maximaler Auslenkung** (Bauch). 
 
+## 1.8 HEW mit beliebiger Ausbreitungsrichtung 
