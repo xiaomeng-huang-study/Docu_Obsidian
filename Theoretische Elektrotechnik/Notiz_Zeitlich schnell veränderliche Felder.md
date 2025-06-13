@@ -46,6 +46,9 @@
 
 - Wellenzahl: $$\begin{array}{l}k& =\frac{w}{v} \\& =\frac{2 \pi}{\lambda} \\& =k_{0} \sqrt{\varepsilon_{r} \mu_{r}} \quad |~~ k_{0}= \frac{w}{c_{0}} \\\end{array}$$ 
 - Feldwellenwiderstand: $$\begin{array}{ll}Z& =\sqrt{\frac{\mu}{\varepsilon}}\\& =\sqrt{\frac{\mu_{r}}{\varepsilon_{r}}} Z_{0} \quad|~~ Z_0 = 120\pi \Omega\\\end{array}$$ 
+- vereinfachte MWGs für HEW 
+	- 1. MWG: $\vec{E} = - Z \cdot (\vec{n} \times \vec{H})$ 
+	- 2. MWG: $\vec{H} = \frac{1}{Z} \cdot (\vec{n} \times \vec{E})$ 
 
 ### Fortschreitende Welle und Stehende Welle 
 #### Fortschreitende Welle (Dielektrikum mit Open-End) 
