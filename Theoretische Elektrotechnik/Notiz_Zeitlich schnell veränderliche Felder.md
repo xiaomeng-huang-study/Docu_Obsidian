@@ -37,7 +37,8 @@
 
 
 ## 1.7 Homogene ebene Welle (HEW) 
-### Fortschreitende Welle (Dielektrikum mit Open-End) 
+### Fortschreitende Welle und Stehende Welle 
+#### Fortschreitende Welle (Dielektrikum mit Open-End) 
 - $\vec{E}(z)= \vec{e}_x E_{0} e^{-j k_1 z}$, $\vec{H}(z)=\vec{e}_y H_{0} e^{-j k_1 z}$ 
 	- Amplituden: $E_0$, $H_0$ (konstant über $z$) 
 	- Phase: linear fallend entlang der z-Achse, $\varphi = j \cdot (- k_1) z$ 
@@ -49,7 +50,7 @@
 - Merkmalen 
 	- Die Welle **bewegt sich durch den Raum**, transportiert also **Energie** von einem Ort zum anderen 
 
-### Stehende Welle (Dielektrikum mit elektrischem Ende) 
+#### Stehende Welle (Dielektrikum mit elektrischem Ende) 
 - $\vec{E}(z)=\vec{e}_x E_{0}\left(e^{-j k_1 z}-e^{j k_1 z}\right)=\vec{e}_x \cdot (-2) j E_{0} \sin (k_1 z)$, $\vec{H}(z)=\vec{e}_y \frac{E_{0}}{Z}\left(e^{-j k_1 z}+e^{j k_1 z}\right)=\vec{e}_x \cdot2 \frac{E_{0}}{Z} \cos (k_1 z)$ 
 	- Amplituden: $2 E_{0}|\sin (k_1 z)|$, $2 H_{0}|\cos (k_1 z)|$ 
 	- Phase: mit Phasenverschiebung $\frac{\pi}{2}$ 
@@ -62,5 +63,8 @@
 	- Entsteht durch die **Überlagerung** zweier gegenläufiger, gleichartiger fortschreitender Wellen. 
 	- Die Welle **bleibt räumlich fixiert**, schwingt aber zeitlich. 
 	- Es entstehen feste Punkte, die **nicht schwingen** (Knoten), und Punkte mit **maximaler Auslenkung** (Bauch). 
+
+
+- Wellenzahl: $\begin{array}{l}k& =\frac{w}{v} \\& =\frac{2 \pi}{\lambda} \\& =k_{0} \sqrt{\varepsilon_{r} \mu_{r}} \quad |~~ k_{0}= \frac{w}{c_{0}} \\\end{array}$ 
 
 ## 1.8 HEW mit beliebiger Ausbreitungsrichtung 
