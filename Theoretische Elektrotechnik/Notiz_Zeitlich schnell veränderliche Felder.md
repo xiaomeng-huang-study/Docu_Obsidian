@@ -72,3 +72,6 @@
 
 
 ## 1.8 HEW mit beliebiger Ausbreitungsrichtung 
+- zeitlich gemittelter Poynting-Vektor: $\overline{\vec{S}}=\frac{1}{2} \operatorname{Re}\left\{\underline{\vec{E}} \times \underline{\vec{H}}^{*}\right\}$ 
+	- für HEW: $\overline{\vec{S}}=\frac{1}{2} \frac{|\vec{E}|^{2}}{Z} \vec{n}$ 
+

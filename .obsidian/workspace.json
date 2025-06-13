@@ -11,10 +11,14 @@
             "id": "2bb173358a6fa56e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_Zeitlich schnell veränderliche Felder"
             }
           }
         ]
