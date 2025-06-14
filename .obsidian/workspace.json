@@ -11,10 +11,14 @@
             "id": "34bdc0def24db519",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Software Defined Vehicles/Fragen_V2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fragen_V2"
             }
           }
         ]
@@ -201,6 +205,10 @@
   },
   "active": "34bdc0def24db519",
   "lastOpenFiles": [
+    "Software Defined Vehicles/Fragen_V1.md",
+    "Software Defined Vehicles/Notiz_V1.md",
+    "Software Defined Vehicles/Fragen_V3.md",
+    "Software Defined Vehicles/Fragen_V2.md",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Masterarbeit/bei einer Firma/Krone/über die Firma.md",
     "Masterarbeit/bei einer Firma/ZeroClamp/über die Firma.md",
@@ -224,10 +232,6 @@
     "Data Analysis/Notiz_Klassifikation_Bewertung.md",
     "Data Analysis/Notiz_Methoden für Klassifikation und Regression.md",
     "Data Analysis/Notiz_Regressionsmethoden.md",
-    "Data Analysis/Notiz_Regression_Bewertung.md",
-    "Data Analysis/Notiz_PCA.md",
-    "Data Analysis/Notiz_NN.md",
-    "Softwarearchitekturen/Notiz_Kapitel_6_ObjectDetection_SemSeg.md",
     "Masterarbeit/bei einer Firma/ZeroClamp",
     "Masterarbeit/bei einer Firma/Hella",
     "Masterarbeit/bei einer Firma/Praktische Erfahrungen",
