@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5ff56423fb60575b",
+        "id": "160dd5b73bec3762",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb173358a6fa56e",
+            "id": "34bdc0def24db519",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_Zeitlich schnell veränderliche Felder"
+              "title": "New tab"
             }
           }
         ]
@@ -203,8 +199,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2bb173358a6fa56e",
+  "active": "34bdc0def24db519",
   "lastOpenFiles": [
+    "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Masterarbeit/bei einer Firma/Krone/über die Firma.md",
     "Masterarbeit/bei einer Firma/ZeroClamp/über die Firma.md",
     "Masterarbeit/bei einer Firma/Hahn/Über die Firma.md",
@@ -216,7 +213,6 @@
     "Masterarbeit/bei einer Firma/dSpace/Vorstellungsgespräch/Projekte.md",
     "Masterarbeit/bei einer Firma/Krone",
     "Masterarbeit/bei einer Firma/ZeroClamp/Selbstvorstellung.md",
-    "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Data Analysis/Notiz_ML.md",
