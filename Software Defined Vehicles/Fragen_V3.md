@@ -11,3 +11,9 @@
 
 ## physikalische 
 
+| Element        | Mathematische Formel               | Simulink-Block           |
+| -------------- | ---------------------------------- | ------------------------ |
+| Differentiator | $g(n)=\frac{1}{T} [f(n) - f(n-1)]$ | Discrete Derivative      |
+| Integrator     | $g(n) = g(n-1) + T \cdot f(n-1)$   | Discrete-Time Integrator |
+
+
