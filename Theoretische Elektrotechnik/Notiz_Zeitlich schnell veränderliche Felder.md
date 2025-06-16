@@ -82,7 +82,7 @@
 
 ## 1.8 HEW mit beliebiger Ausbreitungsrichtung 
 - zeitlich gemittelter Poynting-Vektor: $\overline{\vec{S}}=\frac{1}{2} \operatorname{Re}\left\{\underline{\vec{E}} \times \underline{\vec{H}}^{*}\right\}$ 
-	- für HEW: $\overline{\vec{S}}=\frac{1}{2} \frac{|\vec{E}|^{2}}{Z} \vec{n}$ 
+	- für HEW: $\begin{array}{ll}\overline{\vec{S}}& =\frac{1}{2} \frac{|\vec{E}|^{2}}{Z} \cdot \vec{n} \\& =\frac{1}{2} |\vec{H}|^2 Z \cdot \vec{n} \\ \end{array}$ 
 ## 1.9 Polarisation von HEW 
 $\begin{array}{ll}\underline{\vec{E}}(\vec{r}) & =\left(\underline{E}_{1} \vec{e}_{1}+\underline{E}_{2} \vec{e}_{2}\right) e^{-j \vec{k} \cdot \vec{r}} \\& =\left(\left|\underline{E}_{1}\right| e^{j \varphi_{1}} \vec{e}_{1}+\left|\underline{E}_{2}\right| e^{j \varphi_{2}} \vec{e}_{2}\right) e^{-j \vec{k} \cdot \vec{r}} \\\end{array}$ 
 1) linear polarisierte Welle ($\varphi_1 = \varphi_2$) 
