@@ -101,3 +101,5 @@
 - Leistung $P$ 
 	- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-06-16_20-08-24.png?raw=" width="25%" /> 
 	- $P=\iint_{F} \overline{\vec{S}} \cdot d \vec{f}$ 
+
+## 7.11 HEW in speziellen Medien 
