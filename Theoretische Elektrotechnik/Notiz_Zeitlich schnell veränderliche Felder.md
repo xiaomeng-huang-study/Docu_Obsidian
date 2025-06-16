@@ -27,7 +27,7 @@
 
 
 ## 1.3 Phasoren für zeitharmonische Felder 
-- $\begin{array}{ll}E_{1}(\vec{r}) &= x\cdot \vec{e}_x + y\cdot \vec{e}_y + z \cdot \vec{e}_z \\E_{1}(\vec{r}, t) &= E_{1}(\vec{r}) \cos \left(\omega t-\varphi\right) \\\underline{E}_{1}(\vec{r}) &= E_{1}(\vec{r}) e^{-j \varphi} \\ \end{array}$ 
+- $\begin{array}{ll}\vec{E}(\vec{r}) &= x\cdot \vec{e}_x + y\cdot \vec{e}_y + z \cdot \vec{e}_z \\\vec{E}(\vec{r}, t) &= \vec{E}(\vec{r}) \cos \left(\omega t-\varphi\right) \\\vec{\underline{E}}(\vec{r}) &= \vec{E}(\vec{r}) e^{-j \varphi} \quad \left(\vec{E}(\vec{r}, t) = \operatorname{Re}\left\{\vec{\underline{E}}(\vec{r}) \cdot e^{j\omega t}\right\} \right) \\ \end{array}$ 
 
 
 ## 1.4 Maxwellsche Gleichungen in Phasorschreibweise 
@@ -46,9 +46,7 @@
 
 - Wellenzahl: $$\begin{array}{l}k& =\frac{w}{v} \\& =\frac{2 \pi}{\lambda} \\& =k_{0} \sqrt{\varepsilon_{r} \mu_{r}} \quad |~~ k_{0}= \frac{w}{c_{0}} \\\end{array}$$ 
 - Feldwellenwiderstand: $$\begin{array}{ll}Z& =\sqrt{\frac{\mu}{\varepsilon}}\\& =\sqrt{\frac{\mu_{r}}{\varepsilon_{r}}} Z_{0} \quad|~~ Z_0 = 120\pi \Omega\\\end{array}$$ 
-- vereinfachte MWGs für HEW 
-	- 1. MWG: $\vec{E} = - Z \cdot (\vec{n} \times \vec{H})$ 
-	- 2. MWG: $\vec{H} = \frac{1}{Z} \cdot (\vec{n} \times \vec{E})$ 
+
 
 ### Fortschreitende Welle und Stehende Welle 
 #### Fortschreitende Welle (Dielektrikum mit Open-End) 
@@ -81,8 +79,10 @@
 
 
 ## 1.8 HEW mit beliebiger Ausbreitungsrichtung 
-- zeitlich gemittelter Poynting-Vektor: $\overline{\vec{S}}=\frac{1}{2} \operatorname{Re}\left\{\underline{\vec{E}} \times \underline{\vec{H}}^{*}\right\}$ 
-	- für HEW: $\begin{array}{ll}\overline{\vec{S}}& =\frac{1}{2} \frac{|\vec{E}|^{2}}{Z} \cdot \vec{n} \\& =\frac{1}{2} |\vec{H}|^2 Z \cdot \vec{n} \\ \end{array}$ 
+- vereinfachte MWGs für HEW 
+	- 1. MWG: $\vec{E} = - Z \cdot (\vec{n} \times \vec{H})$ 
+	- 2. MWG: $\vec{H} = \frac{1}{Z} \cdot (\vec{n} \times \vec{E})$ 
+
 ## 1.9 Polarisation von HEW 
 $\begin{array}{ll}\underline{\vec{E}}(\vec{r}) & =\left(\underline{E}_{1} \vec{e}_{1}+\underline{E}_{2} \vec{e}_{2}\right) e^{-j \vec{k} \cdot \vec{r}} \\& =\left(\left|\underline{E}_{1}\right| e^{j \varphi_{1}} \vec{e}_{1}+\left|\underline{E}_{2}\right| e^{j \varphi_{2}} \vec{e}_{2}\right) e^{-j \vec{k} \cdot \vec{r}} \\\end{array}$ 
 1) linear polarisierte Welle ($\varphi_1 = \varphi_2$) 
@@ -93,3 +93,9 @@ $\begin{array}{ll}\underline{\vec{E}}(\vec{r}) & =\left(\underline{E}_{1} \vec{e
 	- $\begin{aligned}\vec{E}(\vec{r}, t) & =\operatorname{Re}\left\{\underline{\vec{E}}(\vec{r}) e^{j \omega t}\right\} \\& =\left|\underline{E}_{1}\right|\left(\operatorname{Re}\left\{e^{j\left(\varphi_{1}-\vec{k} \cdot \vec{r}+\omega t\right)}\right\} \vec{e}_{1} \pm \operatorname{Re}\left\{j e^{j\left(\varphi_{1}-\vec{k} \cdot \vec{r}+\omega t\right)}\right\} \vec{e}_{2}\right) \\& =\left|E_{1}\right|\left[\cos \left(\omega t-\vec{k} \cdot \vec{r}+\varphi_{1}\right) \vec{e}_{1} \mp \sin \left(\omega t-\vec{k} \cdot \vec{r}+\varphi_{1}\right) \vec{e}_{2}\right] \end{aligned}$ 
 3) allgemeiner Fall: elliptisch polarisierte Welle 
 
+## 7.10 Poynting-Vektor einer HEW 
+- zeitlich gemittelter Poynting-Vektor: $\overline{\vec{S}}=\frac{1}{2} \operatorname{Re}\left\{\underline{\vec{E}} \times \underline{\vec{H}}^{*}\right\}$ 
+	- für HEW: $\begin{array}{ll}\overline{\vec{S}}& =\frac{1}{2} \frac{|\vec{E}|^{2}}{Z} \cdot \vec{n} \\& =\frac{1}{2} |\vec{H}|^2 Z \cdot \vec{n} \\ \end{array}$ 
+- Leistung $P$ 
+	- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-06-16_20-08-24.png?raw=" width="25%" /> 
+	- $P=\iint_{F} \overline{\vec{S}} \cdot d \vec{f}$ 
