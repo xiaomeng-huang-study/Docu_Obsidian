@@ -103,3 +103,9 @@
 	- $P=\iint_{F} \overline{\vec{S}} \cdot d \vec{f}$ 
 
 ## 7.11 HEW in speziellen Medien 
+- komplexe Wellenzahl: $k=\beta - j\alpha$, $\vec{k}= \vec{k}^{\prime} - j \cdot \vec{k}^{\prime \prime}$ 
+	- Phasenkonstante $\beta = |\vec{k}^{\prime}|$ 
+	- Dämpfungskonstante $\alpha = |\vec{k}^{\prime \prime}|$ 
+- $\begin{array}{ll}\vec{\underline{E}}(\vec{r}) &= \vec{E}(\vec{r}) e^{-j \vec{k} \cdot \vec{r}} \\&= \vec{E}(\vec{r}) e^{-j (\vec{k}^{\prime} - j\vec{k}^{\prime \prime}) \cdot \vec{r}} \\&= \vec{E}(\vec{r}) e^{-\vec{k}^{\prime \prime} \cdot \vec{r}} \cdot e^{-j \cdot \vec{k}^{\prime} \cdot \vec{r}} \\\end{array}$ 
+	- Dämpfung: $e^{-\vec{k}^{\prime \prime} \cdot \vec{r}}$ 
+
