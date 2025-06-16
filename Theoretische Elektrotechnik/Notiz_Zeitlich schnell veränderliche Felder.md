@@ -27,7 +27,7 @@
 
 
 ## 1.3 Phasoren für zeitharmonische Felder 
-- $\begin{array}{ll}\vec{E}(\vec{r}) &= x\cdot \vec{e}_x + y\cdot \vec{e}_y + z \cdot \vec{e}_z \\\vec{E}(\vec{r}, t) &= \vec{E}(\vec{r}) \cos \left(\omega t-\varphi\right) \\\vec{\underline{E}}(\vec{r}) &= \vec{E}(\vec{r}) e^{-j \varphi} \quad \left(\vec{E}(\vec{r}, t) = \operatorname{Re}\left\{\vec{\underline{E}}(\vec{r}) \cdot e^{j\omega t}\right\} \right) \\ \end{array}$ 
+- $\begin{array}{ll}\vec{E}(\vec{r}) &= x\cdot \vec{e}_x + y\cdot \vec{e}_y + z \cdot \vec{e}_z \\\vec{E}(\vec{r}, t) &= \vec{E}(\vec{r}) \cos \left(\omega t-\varphi\right) \\\vec{\underline{E}}(\vec{r}) &= \vec{E}(\vec{r}) e^{-j \varphi}  \\ \end{array}$ 
 
 
 ## 1.4 Maxwellsche Gleichungen in Phasorschreibweise 
@@ -84,7 +84,9 @@
 	- 2. MWG: $\vec{H} = \frac{1}{Z} \cdot (\vec{n} \times \vec{E})$ 
 
 ## 1.9 Polarisation von HEW 
-$\begin{array}{ll}\underline{\vec{E}}(\vec{r}) & =\left(\underline{E}_{1} \vec{e}_{1}+\underline{E}_{2} \vec{e}_{2}\right) e^{-j \vec{k} \cdot \vec{r}} \\& =\left(\left|\underline{E}_{1}\right| e^{j \varphi_{1}} \vec{e}_{1}+\left|\underline{E}_{2}\right| e^{j \varphi_{2}} \vec{e}_{2}\right) e^{-j \vec{k} \cdot \vec{r}} \\\end{array}$ 
+- $\begin{array}{ll}\underline{\vec{E}}(\vec{r}) & =\left(\underline{E}_{1} \vec{e}_{1}+\underline{E}_{2} \vec{e}_{2}\right) e^{-j \vec{k} \cdot \vec{r}} \\& =\left(\left|\underline{E}_{1}\right| e^{j \varphi_{1}} \vec{e}_{1}+\left|\underline{E}_{2}\right| e^{j \varphi_{2}} \vec{e}_{2}\right) e^{-j \vec{k} \cdot \vec{r}} \\\end{array}$ 
+- Momentanwert: $\vec{E}(\vec{r}, t) = \operatorname{Re}\left\{\vec{\underline{E}}(\vec{r}) \cdot e^{j\omega t}\right\}$ 
+
 1) linear polarisierte Welle ($\varphi_1 = \varphi_2$) 
 	- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-06-13_21-39-27.png?raw=" width="30%" /> 
 	- $\underline{\vec{E}}(\vec{r})=\left(\left|\underline{E}_{1}\right| \vec{e}_{1}+\left|\underline{E}_{2}\right| \vec{e}_{2}\right) e^{j \varphi_{1}} e^{-j \vec{k} \cdot \vec{r}}$ 
