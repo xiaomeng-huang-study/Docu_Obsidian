@@ -44,7 +44,8 @@
 - Ebene Welle: eine Welle, deren Phasenflächen Ebenen sind. Die Wellenfronten sind also unendlich große, parallele Ebenen. Die Amplitude und Richtung der Welle ändern sich in der Ebene nicht, sondern nur in Ausbreitungsrichtung. 
 - Homogene Ebene Welle: eine spezielle Form der ebenen Welle, bei der die Amplitude über die gesamte Phasenfläche konstant ist. Die Welle breitet sich ohne Dämpfung und ohne Richtungsänderung in einem homogenen Medium aus. 
 
-- Wellenzahl: $$\begin{array}{l}k& =\frac{w}{v} \\& =\frac{2 \pi}{\lambda} \\& =k_{0} \sqrt{\varepsilon_{r} \mu_{r}} \quad |~~ k_{0}= \frac{w}{c_{0}} \\\end{array}$$ 
+- Wellengeschwindigkeit: $$\begin{array}{ll}v& =\frac{1}{\sqrt{\varepsilon \mu}} \\& =\frac{1}{\sqrt{\varepsilon_{r} \mu_{r}}} c_{0} \quad | \quad c_0 = \frac{1}{\sqrt{\varepsilon_{0} \mu_{0}}} \\\end{array}$$ 
+- Wellenzahl: $$\begin{array}{l}k& =\frac{w}{v} \\& =\frac{2 \pi}{\lambda} \quad |\quad v = \lambda f \\& =\frac{w}{c_{0}} \sqrt{\varepsilon_{r} \mu_{r}} \\\end{array}$$ 
 - Feldwellenwiderstand: $$\begin{array}{ll}Z& =\sqrt{\frac{\mu}{\varepsilon}}\\& =\sqrt{\frac{\mu_{r}}{\varepsilon_{r}}} Z_{0} \quad|~~ Z_0 = 120\pi \Omega\\\end{array}$$ 
 
 
