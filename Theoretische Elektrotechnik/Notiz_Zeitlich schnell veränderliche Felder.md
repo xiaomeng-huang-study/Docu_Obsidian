@@ -46,9 +46,8 @@
 
 - Wellengeschwindigkeit: $$\begin{array}{ll}v& =\frac{1}{\sqrt{\varepsilon \mu}} \\& =\frac{1}{\sqrt{\varepsilon_{r} \mu_{r}}} c_{0} \quad | \quad c_0 = \frac{1}{\sqrt{\varepsilon_{0} \mu_{0}}} \\\end{array}$$ 
 - Wellenzahl: $$\begin{array}{l}k& =\frac{w}{v} \\& =\frac{2 \pi}{\lambda} \quad |\quad v = \lambda f \\& =\frac{w}{c_{0}} \sqrt{\varepsilon_{r} \mu_{r}} \\\end{array}$$ 
-- Feldwellenwiderstand: $$\begin{array}{ll}Z& =\sqrt{\frac{\mu}{\varepsilon}}\\& =\sqrt{\frac{\mu_{r}}{\varepsilon_{r}}} Z_{0} \quad|~~ Z_0 = 120\pi \Omega\\\end{array}$$ 
-
-
+- Feldwellenwiderstand: $$\begin{array}{ll}Z& =\sqrt{\frac{\mu}{\varepsilon}}\\& =\sqrt{\frac{\mu_{r}}{\varepsilon_{r}}} Z_{0} \quad|~~ Z_0 = 120\pi \Omega\\&= v \cdot \mu = \frac{\omega \mu}{k} \\\end{array}$$ 
+ 
 ### Fortschreitende Welle und Stehende Welle 
 #### Fortschreitende Welle (Dielektrikum mit Open-End) 
 - $\vec{E}(z)= \vec{e}_x E_{0} e^{-j k_1 z}$, $\vec{H}(z)=\vec{e}_y H_{0} e^{-j k_1 z}$ 
