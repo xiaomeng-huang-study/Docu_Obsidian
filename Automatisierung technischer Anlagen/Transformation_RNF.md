@@ -6,4 +6,4 @@
 6) $\underline{T}^{-1}$ 
 7) $\begin{array}{ll}\underline{A}_S = \underline{T} \cdot \underline{A} \cdot \underline{T}^{-1} \\\underline{B}_S = \underline{T} \cdot \underline{B} \\ \underline{C}_S = \underline{C}^{T}\underline{T}^{-1} \\\underline{D}_S = \underline{D}  \\ \end{array}$ 
 
-<img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Automatisierung_Technischer_Anlagen/refs/heads/main/Scrennshot_2025-06-19_00-00-02.png?raw=" width="100%" /> 
+<img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Automatisierung_Technischer_Anlagen/refs/heads/main/Scrennshot_2025-06-19_00-00-03.png?raw=" width="100%" /> 
