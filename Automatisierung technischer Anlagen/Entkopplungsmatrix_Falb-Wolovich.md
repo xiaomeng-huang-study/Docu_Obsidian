@@ -11,7 +11,7 @@
 - 1. Bedingung: Summe der relativen Grade $\delta$  ≤ Systemordnung $n$ 
 	- Summe der relativen Grade $\delta = \sum_{i}\delta_i$ 
 - 2. Bedingung: Die Entkopplungsmatrix $\underline{D}^{\star}$ ist invertierbar ($\operatorname{det.}(\underline{D}^{\star}) \neq 0$) 
-	- Entkopplungsmatrix: $\underline{D}^{\star} = \begin{bmatrix} \underline{C}_1 \underline{A}^{\delta_1-1} \underline{B} \\ \underline{C}_2 \underline{A}^{\delta_2-1} \underline{B} \\ \vdots \\ \underline{C}_p \underline{A}^{\delta_p-1} \underline{B} \end{bmatrix}$ 
+	- Entkopplungsmatrix: $\underline{D}^{\star} = \begin{bmatrix} \underline{C}_1^{T} \underline{A}^{\delta_1-1} \underline{B} \\ \underline{C}_2^{T} \underline{A}^{\delta_2-1} \underline{B} \\ \vdots \\ \underline{C}_p^{T} \underline{A}^{\delta_p-1} \underline{B} \end{bmatrix}$ 
 
 
 # 3. Vorfilter $\underline{V}$ 
