@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatisierung technischer Anlagen/Polvergabe_Ackermann.md",
+                "file": "Automatisierung technischer Anlagen/Entkopplungsmatrix(Falb-Wolovich).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polvergabe_Ackermann"
+              "title": "Entkopplungsmatrix(Falb-Wolovich)"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "c8d3b964cfff20d6",
   "lastOpenFiles": [
-    "Automatisierung technischer Anlagen/Transformation_RNF.md",
     "Automatisierung technischer Anlagen/Polvergabe_Ackermann.md",
+    "Automatisierung technischer Anlagen/Entkopplungsmatrix(Falb-Wolovich).md",
+    "Automatisierung technischer Anlagen/Transformation_RNF.md",
     "Automatisierung technischer Anlagen/Transformation_BNF.md",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Email/Email_20221230_FANUC.md",
@@ -230,7 +231,6 @@
     "Masterarbeit/bei einer Firma/Hahn/Über die Firma.md",
     "Masterarbeit/bei einer Firma/Hella/Selbstvorstellung.md",
     "Masterarbeit/bei einer Firma/Allgemeine Fragen.md",
-    "Masterarbeit/bei einer Firma/technische Fragen.md",
     "Masterarbeit/bei einer Firma/Krone",
     "Masterarbeit/bei einer Firma/ZeroClamp",
     "Masterarbeit/bei einer Firma/Hella",
