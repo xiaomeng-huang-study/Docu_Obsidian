@@ -5,6 +5,7 @@
 		- Falls $C_i A^k B \neq 0$ → $\delta_i = k+1$ 
 		- Falls $C_i A^k B = 0$ → weiter zu $k+1$ 
 
+
 # 2. Entkoppelbarkeit 
 - 0. Bedingung: Alle relativen Grade $\delta_i$ existieren (endlich sind) 
 - 1. Bedingung: Summe der relativen Grade $\delta$  ≤ Systemordnung $n$ 
@@ -17,4 +18,8 @@
  - $\operatorname{inv}(\underline{D}^{\star}) = {\underline{D}^{\star}}^{-1}$ 
 - $\underline{V} = {\underline{D}^{\star}}^{-1} \cdot \operatorname{diag.}(k_1, ~k_2, ~\cdots~, k_p)$ 
 
+
 # 4. Rückführmatrix $\underline{R}$ 
+- $\underline{R}={\underline{D}^{\star}}^{-1} \cdot \left[\begin{array}{c}\underline{C}_{1}^{T} \underline{A}^{\delta_{1}}+\sum_{k=0}^{\delta_{1}-1} q_{1, k} \underline{C}_{1}^{T} A^{k} \\\vdots \\\underline{C}_{p}^{T} \underline{A}^{\delta_{p}}+\sum_{k=0}^{\delta_{p}-1} q_{p, k} \underline{C}_{p}^{T} A^{k} \\\end{array}\right]$ 
+	- Für $y_1 ~(i=1)$ : $s^{2} + q_{1,1}\cdot s + q_{1,0}$ 
+
