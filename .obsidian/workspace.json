@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatisierung technischer Anlagen/Entkopplungsmatrix(Falb-Wolovich).md",
+                "file": "Automatisierung technischer Anlagen/Entkopplungsmatrix_Falb-Wolovich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entkopplungsmatrix(Falb-Wolovich)"
+              "title": "Entkopplungsmatrix_Falb-Wolovich"
             }
           }
         ]
@@ -203,10 +203,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c8d3b964cfff20d6",
+  "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
     "Automatisierung technischer Anlagen/Polvergabe_Ackermann.md",
-    "Automatisierung technischer Anlagen/Entkopplungsmatrix(Falb-Wolovich).md",
+    "Automatisierung technischer Anlagen/Entkopplungsmatrix_Falb-Wolovich.md",
     "Automatisierung technischer Anlagen/Transformation_RNF.md",
     "Automatisierung technischer Anlagen/Transformation_BNF.md",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
