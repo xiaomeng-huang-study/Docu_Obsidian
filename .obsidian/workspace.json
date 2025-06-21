@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "48e794d333af0112",
+        "id": "2148750c9f2c436f",
         "type": "tabs",
         "children": [
           {
-            "id": "4befdb21570b5ce0",
+            "id": "23a6bf71f17cd189",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_elektrostatisches Feld"
             }
           }
         ]
@@ -201,8 +205,10 @@
   },
   "active": "8c6a37a0aafca059",
   "lastOpenFiles": [
-    "Automatisierung technischer Anlagen/Polvergabe_Ackermann.md",
+    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
+    "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
     "Automatisierung technischer Anlagen/Entkopplungsmatrix_Falb-Wolovich.md",
+    "Automatisierung technischer Anlagen/Polvergabe_Ackermann.md",
     "Automatisierung technischer Anlagen/Transformation_RNF.md",
     "Automatisierung technischer Anlagen/Transformation_BNF.md",
     "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
@@ -217,7 +223,6 @@
     "Masterarbeit/bei einer Firma/Praktische Erfahrungen/Bachelorarbeit.md",
     "Masterarbeit/bei einer Firma/Krone/Selbstvorstellung.md",
     "Masterarbeit/bei einer Firma/Krone/über die Firma.md",
-    "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Software Defined Vehicles/Fragen_V3.md",
     "Software Defined Vehicles/Notiz_V3.md",
     "Software Defined Vehicles/Fragen_V2.md",
@@ -226,7 +231,6 @@
     "Masterarbeit/bei einer Firma/ZeroClamp/über die Firma.md",
     "Masterarbeit/bei einer Firma/Hahn/Über die Firma.md",
     "Masterarbeit/bei einer Firma/Hella/Selbstvorstellung.md",
-    "Masterarbeit/bei einer Firma/Allgemeine Fragen.md",
     "Masterarbeit/bei einer Firma/Krone",
     "Masterarbeit/bei einer Firma/ZeroClamp",
     "Masterarbeit/bei einer Firma/Hella",

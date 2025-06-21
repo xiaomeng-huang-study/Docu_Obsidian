@@ -12,9 +12,9 @@
 
 ## 2.3 Coulombintegral-Methode/ Überlagerungsprinzip 
 ### Coulombintegral-Methode 
-- Für Linienladung $\rho_{S}(\vec{r})$: $\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}} \int_{S} \frac{\rho_{S}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d S^{\prime}$ 
-- Für Flächenladung $\rho_{F}(\vec{r})$: $\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}} \iint_{F} \frac{\rho_{F}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d F^{\prime}$ 
-- Für Volumenladung $\rho_{V}(\vec{r})$: $\phi(\vec{r}) = \frac{1}{4 \pi \varepsilon_{0}} \iiint_{V} \frac{\rho_{V}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d V^{\prime}$ 
+- Für Linienladung $\rho_{S}(\vec{r}^{\prime})$: $\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}} \int_{S} \frac{\rho_{S}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d S^{\prime}$ 
+- Für Flächenladung $\rho_{F}(\vec{r}^{\prime})$: $\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}} \iint_{F} \frac{\rho_{F}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d F^{\prime}$ 
+- Für Volumenladung $\rho_{V}(\vec{r}^{\prime})$: $\phi(\vec{r}) = \frac{1}{4 \pi \varepsilon_{0}} \iiint_{V} \frac{\rho_{V}\left(\vec{r}^{\prime}\right)}{\left|\vec{r}-\vec{r}^{\prime}\right|} d V^{\prime}$ 
 
 ### Überlagerungsprinzip 
 - $\phi(\vec{r})=\frac{1}{4 \pi \varepsilon_{0}} \sum_{i}  \frac{Q_i}{\left|\vec{r}-\vec{r_i}^{\prime}\right|}$ 
