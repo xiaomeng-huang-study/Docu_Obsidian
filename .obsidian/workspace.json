@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ae6f69d45cda512",
+        "id": "48e794d333af0112",
         "type": "tabs",
         "children": [
           {
-            "id": "c8d3b964cfff20d6",
+            "id": "4befdb21570b5ce0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automatisierung technischer Anlagen/Entkopplungsmatrix_Falb-Wolovich.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Entkopplungsmatrix_Falb-Wolovich"
+              "title": "New tab"
             }
           }
         ]
