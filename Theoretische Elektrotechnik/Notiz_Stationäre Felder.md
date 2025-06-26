@@ -23,6 +23,9 @@
 
 ## 1.9 Analogie (Dualität) zwischen stationärem Strömungsfeld und Elektrostatik 
 - <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-05-03_15-00-39.png?raw=" width="80%" /> 
+- $\begin{array}{rl}\huge\unicode{x222F}_{F(v)} \vec{J} \cdot d \vec{f}+\frac{\partial}{\partial t} \iiint_{v} \rho d v & =0 \\\operatorname{div} \vec{J}+\frac{\partial}{\partial t} \rho &=0 \\\operatorname{div} \vec{J} &=0 \quad | ~ \frac{\partial}{\partial t} \rho = 0 \\\operatorname{div}(\kappa  \vec{E}) & =0 \quad | ~ \vec{J} = \kappa  \vec{E}\\-\kappa  \operatorname{div} \operatorname{grad} \phi & =0 \quad | ~ \vec{E} = -\operatorname{grad} \phi \\-\kappa  \Delta \phi & =0 \\\Delta \phi & =0 \\\end{array}$ 
+
+
 
 ## 1.10 Spiegelungsmethode für stationäre Strömungsfelder 
 ### Spiegelung an einer Ebene $\kappa \rightarrow \infty$ 
