@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
+                "file": "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_Zeitlich schnell veränderliche Felder"
+              "title": "Notiz_elektrostatisches Feld"
             }
           }
         ]
@@ -205,6 +205,7 @@
   },
   "active": "23a6bf71f17cd189",
   "lastOpenFiles": [
+    "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "Theoretische Elektrotechnik/Notiz_Grundlagen der Feldtheorie.md",
     "Theoretische Elektrotechnik/Notiz_mathematische Grundlagen.md",
@@ -212,7 +213,6 @@
     "Automatisierung technischer Anlagen/Polvergabe_Ackermann.md",
     "Automatisierung technischer Anlagen/Transformation_RNF.md",
     "Automatisierung technischer Anlagen/Transformation_BNF.md",
-    "Theoretische Elektrotechnik/Notiz_Zeitlich schnell veränderliche Felder.md",
     "Email/Email_20221230_FANUC.md",
     "Email/Email_20221213_AGCO.md",
     "3D-Bildverarbeitung/Notiz_Image Matching.md",
