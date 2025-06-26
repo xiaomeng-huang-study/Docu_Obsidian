@@ -96,8 +96,9 @@
 3) allgemeiner Fall: elliptisch polarisierte Welle 
 
 ## 7.10 Poynting-Vektor einer HEW 
+- Komplexer Poynting-Vektor: $\vec{S}=\frac{1}{2} \underline{\vec{E}} \times \underline{\vec{H}}^{*}$ 
 - zeitlich gemittelter Poynting-Vektor: $\overline{\vec{S}}=\frac{1}{2} \operatorname{Re}\left\{\underline{\vec{E}} \times \underline{\vec{H}}^{*}\right\}$ 
-	- für HEW: $\begin{array}{ll}\overline{\vec{S}}& =\frac{1}{2} \frac{|\vec{E}|^{2}}{Z} \cdot \vec{n} \\& =\frac{1}{2} |\vec{H}|^2 Z \cdot \vec{n} \\ \end{array}$ 
+- für HEW: $\begin{array}{ll}\overline{\vec{S}}& =\frac{1}{2} \frac{|\vec{E}|^{2}}{Z} \cdot \vec{n} \\& =\frac{1}{2} |\vec{H}|^2 Z \cdot \vec{n} \\ \end{array}$ 
 - Leistung $P$ 
 	- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-06-16_20-08-24.png?raw=" width="25%" /> 
 	- $P=\iint_{F} \overline{\vec{S}} \cdot d \vec{f}$ 
