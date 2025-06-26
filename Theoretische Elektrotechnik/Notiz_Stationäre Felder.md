@@ -22,9 +22,10 @@
 - $\frac{\tan \left(\alpha_{1}\right)}{\tan \left(\alpha_{2}\right)}=\frac{\kappa_{1}}{\kappa_{2}}$ 
 
 ## 1.9 Analogie (Dualität) zwischen stationärem Strömungsfeld und Elektrostatik 
-- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-05-03_15-00-39.png?raw=" width="80%" /> 
-- $\begin{array}{rl}\huge\unicode{x222F}_{F(v)} \vec{J} \cdot d \vec{f}+\frac{\partial}{\partial t} \iiint_{v} \rho d v & =0 \\\operatorname{div} \vec{J}+\frac{\partial}{\partial t} \rho &=0 \\\operatorname{div} \vec{J} &=0 \quad | ~ \frac{\partial}{\partial t} \rho = 0 \\\operatorname{div}(\kappa  \vec{E}) & =0 \quad | ~ \vec{J} = \kappa  \vec{E}\\-\kappa  \operatorname{div} \operatorname{grad} \phi & =0 \quad | ~ \vec{E} = -\operatorname{grad} \phi \\-\kappa  \Delta \phi & =0 \\\Delta \phi & =0 \\\end{array}$ 
-
+- $$\begin{array}{ccc}\text { Elektrostatik } & & \text { Strömungsfeld } \\\huge\unicode{x222F}_{F(V)} \vec{D} \cdot d \vec{f}=Q & \quad \vec{D} \longleftrightarrow \vec{J} \quad  & \huge\unicode{x222F}_{F(V)} \vec{J} \cdot d \vec{f}=0 \\\vec{D}=\varepsilon \vec{E} & \quad  \varepsilon \longleftrightarrow \kappa \quad  & \vec{J}=\kappa \vec{E} \\\operatorname{div} \vec{D}=\rho &  & \operatorname{div} \vec{J}=0 \\\end{array}$$ 
+- $$\begin{array}{rl}\huge\unicode{x222F}_{F(v)} \vec{J} \cdot d \vec{f}+\frac{\partial}{\partial t} \iiint_{v} \rho d v & =0 \\\operatorname{div} \vec{J}+\frac{\partial}{\partial t} \rho &=0 \\\operatorname{div} \vec{J} &=0 \quad | ~ \frac{\partial}{\partial t} \rho = 0 \\\operatorname{div}(\kappa  \vec{E}) & =0 \quad | ~ \vec{J} = \kappa  \vec{E}\\-\kappa  \operatorname{div} \operatorname{grad} \phi & =0 \quad | ~ \vec{E} = -\operatorname{grad} \phi \\-\kappa  \Delta \phi & =0 \\\Delta \phi & =0 \\\end{array}$$ 
+- $I=\iint \vec{J} \cdot d \vec{f}$ 
+- $R = \frac{\Delta \phi}{I}$ 
 
 
 ## 1.10 Spiegelungsmethode für stationäre Strömungsfelder 
