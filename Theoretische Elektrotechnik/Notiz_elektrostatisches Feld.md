@@ -31,6 +31,9 @@
 - $\begin{array}{ll}\frac{Q_2}{Q_1} & =-\frac{r_0}{r_1^{\prime}} \\& =-\frac{r_2^{\prime}}{r_0} \\\end{array}$ 
 
 ### 2.4.3 Spiegelung an einem Zylinder 
+- <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Theoretische_Elektrotechnik/refs/heads/main/Scrennshot_2025-06-27_21-38-41.png?raw=" width="40%" /> 
+- $\rho_{2}=-\rho_{1}$ 
+- $R_2^{\prime} \cdot {R_1^{\prime}} = R_0^{2}$ 
 
 ### 2.4.4 Spiegelung an der dielektrischen Ebenen 
 - originale Anordnung 
