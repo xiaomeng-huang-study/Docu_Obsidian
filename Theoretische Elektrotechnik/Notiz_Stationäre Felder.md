@@ -37,7 +37,7 @@
 
 
 # 2. Magnetische Felder stationärer Ströme 
-## 2.1 Maxwellsche Gleichungen fur¨ das zeitlich konstante Magnetfeld 
+## 2.1 Maxwellsche Gleichungen für das zeitlich konstante Magnetfeld 
 
 ## 2.2 Das Durchflutungsgesetz 
 - $\oint_{C(F)} \vec{H} \cdot d \vec{s}=\iint_{F} \vec{J} \cdot d \vec{f}$ 
