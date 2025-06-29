@@ -28,5 +28,6 @@
 ## Spezialfall: zwei verkoppelte Leiterschleifen 
 - der magnetische Fluss, der von Leiterkreis 2 herrührend Leiterkreis 1 durchsetzt: $\phi_{\mathrm{m}, 12}=\iint_{F_{1}} \vec{B}_{2}\left(\vec{r}_{1}\right) \cdot d \vec{f}$ 
 - $L_{12} =\frac{\phi_{\mathrm{m}, 12}}{I_{2}}$ 
-- $W_{m}=\frac{1}{2}\left(L_{11} I_{1}^{2}+L_{22} I_{2}^{2}+2 L_{12} I_{1} I_{2}\right)$ 
-
+- $W_{m}=\frac{L_{11}}{2} \cdot I_{1}^{2}+ \frac{L_{22}}{2} \cdot I_{2}^{2}+M \cdot I_{1} I_{2}$ 
+	- $L_1, L_2$: Selbstinduktionskoeffizienten 
+	- $M$: Gegeninduktionskoeffizient 
