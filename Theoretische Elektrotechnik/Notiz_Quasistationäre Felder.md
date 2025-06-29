@@ -20,6 +20,7 @@
 - Verlustleistung: $P_{v}(t)=\iiint \frac{1}{2} \vec{J} \cdot \vec{E} d v$ 
 - zeitlich gemittelte Verlustleistung: $\bar{P}_{v}=\frac{1}{T} \int_{0}^{T} P_{v}(t) d t$ 
 
+
 # 3. Induktionskoeffizienten 
 - magnetische Feldenergie: $\begin{array}{l}W_{m}&=\frac{1}{2} \iiint_{V} \vec{A} \cdot \vec{J} ~ d V  \\&= \frac{1}{2} \iiint_{V} \vec{H} \cdot \vec{B} ~d V\\&= \frac{1}{2} L I^{2} \\\end{array}$ 
 - Induktionskoeffizient: $\begin{array}{l}L &=\frac{\phi_{\mathrm{m}}}{I} = \frac{1}{I}\iint_{F} \vec{B}\left(\vec{r}\right) \cdot d \vec{f}\\&=\frac{2W_{m}}{I^2}\\\end{array}$ 
