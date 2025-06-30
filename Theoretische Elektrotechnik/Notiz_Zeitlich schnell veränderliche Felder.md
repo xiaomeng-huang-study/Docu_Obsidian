@@ -110,4 +110,4 @@
 - $\begin{array}{ll}\vec{\underline{E}}(\vec{r}) &= \vec{E}(\vec{r}) e^{-j \vec{k} \cdot \vec{r}} \\&= \vec{E}(\vec{r}) e^{-j (\vec{k}^{\prime} - j\vec{k}^{\prime \prime}) \cdot \vec{r}} \\&= \vec{E}(\vec{r}) e^{-\vec{k}^{\prime \prime} \cdot \vec{r}} \cdot e^{-j \cdot \vec{k}^{\prime} \cdot \vec{r}} \\\end{array}$ 
 	- Dämpfung: $e^{-\vec{k}^{\prime \prime} \cdot \vec{r}}$ 
 - Spezialfall ($\vec{n} = \vec{z}$): 
-		- $\begin{array}{ll}\vec{\underline{E}}(\vec{r}) &= \vec{E}(\vec{r}) e^{-j k \cdot z} \\&= \vec{E}(\vec{r}) e^{-j (\beta - j\alpha) \cdot z} \\&= \vec{E}(\vec{r}) e^{-j \beta \cdot z} \cdot e^{-j \alpha \cdot z} \\\end{array}$ 
+		- $\begin{array}{ll}\vec{\underline{E}}(\vec{r}) &= \vec{E}(\vec{r}) e^{-j k \cdot z} \\&= \vec{E}(\vec{r}) e^{-j (\beta - j\alpha) \cdot z} \\&= \vec{E}(\vec{r}) e^{-j \beta \cdot z} \cdot e^{- \alpha \cdot z} \\\end{array}$ 
