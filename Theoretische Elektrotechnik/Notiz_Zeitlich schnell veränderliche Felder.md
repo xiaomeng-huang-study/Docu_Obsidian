@@ -45,7 +45,7 @@
 - Homogene Ebene Welle: eine spezielle Form der ebenen Welle, bei der die Amplitude über die gesamte Phasenfläche konstant ist. Die Welle breitet sich ohne Dämpfung und ohne Richtungsänderung in einem homogenen Medium aus. 
 
 - Wellengeschwindigkeit: $$\begin{array}{ll}v& =\frac{1}{\sqrt{\varepsilon \mu}} \\& =\frac{1}{\sqrt{\varepsilon_{r} \mu_{r}}} c_{0} \quad | \quad c_0 = \frac{1}{\sqrt{\varepsilon_{0} \mu_{0}}} \\\end{array}$$ 
-- Wellenzahl: $$\begin{array}{l}k& =\frac{w}{v} \\& =\frac{2 \pi}{\lambda} \quad |\quad v = \lambda f \\& =\sqrt{\varepsilon_{r} \mu_{r}} \cdot k_0 \quad |\quad k_0 = \frac{w}{c_{0}}\\\end{array}$$ 
+- Wellenzahl: $$\begin{array}{l}k& =\frac{2\pi f}{v} \\& =\frac{2 \pi}{\lambda} \quad |\quad \lambda = \frac{v}{f}  \\& =\sqrt{\varepsilon_{r} \mu_{r}} \cdot \frac{2\pi f}{c_{0}} \quad |\quad k_0 = \frac{2\pi f}{c_{0}}\\\end{array}$$ 
 - Feldwellenwiderstand: $$\begin{array}{ll}Z& =\sqrt{\frac{\mu}{\varepsilon}}\\& =\sqrt{\frac{\mu_{r}}{\varepsilon_{r}}} Z_{0} \quad|~~ Z_0 = 120\pi ~ \Omega\\&= v \cdot \mu = \frac{\omega \mu}{k} \\\end{array}$$ 
  
 ### Fortschreitende Welle und Stehende Welle 
