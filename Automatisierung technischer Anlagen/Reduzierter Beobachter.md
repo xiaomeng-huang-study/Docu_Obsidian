@@ -1,0 +1,7 @@
+1) System-Matrix $\underline{A}$ in $\underline{A}_{11}$, $\underline{A}_{12}$, $\underline{A}_{21}$, $\underline{A}_{22}$ unterteilen 
+2) $\underline{A}_{BEO} = (\underline{A}_{22}- \underline{L} \cdot \underline{A}_{12})$ 
+3) $\operatorname{det.} \left(s \cdot \underline{I} - \underline{A}_{BEO}\right)$ 
+4) Polvergabe (z.B. Koeffizienten-Vergleich) $\Rightarrow$ $\underline{L}$ 
+5) $\underline{A}_{BEO} = (\underline{A}_{22}- \underline{L} \cdot \underline{A}_{12})$ 
+6) $\underline{H}= (\underline{A}_{22}- \underline{L} \cdot \underline{A}_{12})\underline{L} + \underline{A}_{21} - \underline{L} \cdot \underline{A}_{11}$ 
+7) $\underline{B}_{BEO} = \underline{B}_{2} - \underline{L} \cdot \underline{B}_{1}$ 
