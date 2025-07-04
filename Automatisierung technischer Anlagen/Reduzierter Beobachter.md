@@ -1,4 +1,4 @@
-1) System-Matrix $\underline{A}$ in $\underline{A}_{11}$, $\underline{A}_{12}$, $\underline{A}_{21}$, $\underline{A}_{22}$ unterteilen 
+1) System-Matrix $\underline{A}$ in $\underline{A}_{11}$, $\underline{A}_{12}$, $\underline{A}_{21}$, $\underline{A}_{22}$ unterteilen; Eingangsmatrix $\underline{B}$ in $\underline{B}_1$, $\underline{B}_2$ unterteilen 
 2) $\underline{A}_{BEO} = (\underline{A}_{22}- \underline{L} \cdot \underline{A}_{12})$ 
 3) $\operatorname{det.} \left(s \cdot \underline{I} - \underline{A}_{BEO}\right)$ 
 4) Polvergabe (z.B. Koeffizienten-Vergleich) $\Rightarrow$ $\underline{L}$ 
