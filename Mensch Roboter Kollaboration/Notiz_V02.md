@@ -20,7 +20,17 @@
 	- Prinzip: Kollisionen sind erlaubt, Kraft/Leistung sicher beschränkt 
 	- Biomechanische Grenzwerte: Einhalten der Limits nach ISO/TS 15066 
 	- Kontaktarten: Quasi-statischer Kontakt, Transienter Kontakt 
-	- Biomechanische Grenzen 
 
 
-# Relevante Normen und Standards 
+# Integration von MRK-Anlagen 
+## Schritte zum Inverkehrbringen 
+- Anwendungsanalyse 
+- Risikobeurteilung 
+- Sicherheits- und Automatisierungskonzept 
+	- Automatisierung: Stärken von Menschen und Robotern 
+	- Sicherheitskonzept 
+- Systemintegration 
+- Validierung der Sicherheitsfunktionen 
+- Konformitätsbewertung (CE) 
+
+## Applikationen: Brownfield vs. Greenfield 
