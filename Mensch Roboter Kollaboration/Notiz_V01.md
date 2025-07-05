@@ -41,11 +41,11 @@
 #### DIN EN ISO 13849-1 (Typ B) 
 - Kategorien (Gemäß Kanälen) 
 	- B, 1, 2, 3, 4 
-- Performance Level (Gemäß Wahrscheinlichkeit eines gefährlichen Ausfalls) 
+- Performance Level (Gemäß Schwere des Schadens, Häufigkeit, Möglichkeit zur Abwendung eines gefährlichen Ausfalls) 
 	- a, b, c, d, e 
 
 #### DIN EN ISO 10218 
-- Kategorie 3, PL d 
+- Kategorie 3 (Zweikanalig, mit Fehlererkennung) , PL d ($10^{-7}$ bis $10^{-6}$) 
 
 ##### DIN EN ISO 10218-1 Roboter 
 - Not-Halt-Funktionen 
@@ -58,3 +58,17 @@
 - Dreistufige Zustimmungseinrichtung 
 
 ##### DIN EN ISO 10218-2 Robotersysteme und Integration 
+###### Kernprozess der Risikominderung: Gestaltung der Anordnung (Layout) 
+- Berücksichtigung: Physikalische Grenzen der Zelle; Arbeitsräume, Zugänge, Freiräume usw. 
+- Stoppfunktionen der **gesamten** Roboterzelle 
+	- mindestens eine ist Kategorie 0 oder 1 
+- Betriebsarten 
+	- Manuell 
+	- Automatik 
+- Zustimmungseinrichtungen für **alle Personen**, die sich im geschützten Bereich aufhalten 
+
+###### Äußere Schutzeinrichtungen 
+- Schutzzäune (DIN EN ISO 13857): Fest eingebaut, Mindestsicherheitsabstände 
+- Lichtvorhänge (DIN EN ISO 13855): Nachlaufzeit und Annäherungsgeschwindigkeit 
+- Türsysteme: Geschlossen $\rightarrow$ Automatikbetrieb möglich; Geöffnet $\rightarrow$ nur manueller Betrieb (Lockout-Tagout) 
+
