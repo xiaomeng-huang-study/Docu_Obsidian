@@ -1,4 +1,16 @@
 # Greifer 
+## Bedeutung Endeffektoren / Greifsysteme 
+- Endeffektoren oder Greifsysteme bilden die Schnittstelle zwischen Roboter und Werkstück. 
+- Gehören zur Peripherie des Roboters 
+- Letztes Glied der kinematischen Kette 
+- Beispiele 
+	- Greifsysteme 
+	- Schweißwerkzeuge 
+	- Dosiersysteme 
+	- Messsysteme 
+	- Schraubsysteme 
+	- etc. 
+
 ## Konventionelle Greiftechnik 
 - 2-Backen 
 - 3-Backen 
