@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mensch Roboter Kollaboration/Notiz_V03.md",
+                "file": "Mensch Roboter Kollaboration/Notiz_Ü02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notiz_V03"
+              "title": "Notiz_Ü02"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "e0974fa4b6fefdf0",
   "lastOpenFiles": [
-    "Mensch Roboter Kollaboration/Notiz_V01.md",
     "Mensch Roboter Kollaboration/Notiz_V03.md",
+    "Mensch Roboter Kollaboration/Notiz_Ü02.md",
+    "Mensch Roboter Kollaboration/Notiz_V01.md",
     "Mensch Roboter Kollaboration/Notiz_V04.md",
     "Mensch Roboter Kollaboration/Notiz_V02.md",
     "Mensch Roboter Kollaboration/Notiz_Sicherheit.md",
@@ -230,7 +231,6 @@
     "3D-Bildverarbeitung/Notiz_Optical_Flow.md",
     "3D-Bildverarbeitung/Notiz_3D Features und Descriptors.md",
     "Masterarbeit/bei einer Firma/Praktische Erfahrungen/3D-Punktwolke.md",
-    "Masterarbeit/bei einer Firma/Praktische Erfahrungen/Bachelorarbeit.md",
     "Masterarbeit/bei einer Firma/Krone",
     "Masterarbeit/bei einer Firma/ZeroClamp",
     "Masterarbeit/bei einer Firma/Hella",
