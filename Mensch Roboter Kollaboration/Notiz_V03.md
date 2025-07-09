@@ -1,3 +1,15 @@
+# Greifer 
+## Konventionelle Greiftechnik 
+- 2-Backen 
+- 3-Backen 
+- Sauggreifer 
+
+## Adaptive Greifer 
+- Mehrfingergreifer 
+- Sauggreifer 
+- Flexible Finger 
+
+
 # Greifer zum Einsatz in MRK 
 - Definition: Endeffektoren oder Greifsysteme bilden die Schnittstelle zwischen Roboter, Werkstück und Mensch. 
 - Haupteinsatzgebiet von Cobots: Montage- und Handhabungsaufgaben. 
