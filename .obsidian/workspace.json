@@ -11,10 +11,14 @@
             "id": "e0974fa4b6fefdf0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mensch Roboter Kollaboration/Notiz_V01.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_V01"
             }
           }
         ]
