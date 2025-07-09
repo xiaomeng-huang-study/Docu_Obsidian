@@ -56,6 +56,9 @@
 	- Manuell mit hoher Geschwindigkeit 
 	- Automatik 
 - Dreistufige Zustimmungseinrichtung 
+	- Ruhestellung 
+	- Freigabestellung 
+	- Panikstellung 
 
 ##### DIN EN ISO 10218-2 Robotersysteme und Integration 
 ###### Kernprozess der Risikominderung: Gestaltung der Anordnung (Layout) 
