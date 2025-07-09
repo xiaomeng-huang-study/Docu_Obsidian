@@ -19,7 +19,9 @@
 - Leistungs- und Kraftbegrenzung 
 	- Prinzip: Kollisionen sind erlaubt, Kraft/Leistung sicher beschränkt 
 	- Biomechanische Grenzwerte: Einhalten der Limits nach ISO/TS 15066 
-	- Kontaktarten: Quasi-statischer Kontakt, Transienter Kontakt 
+	- Kontaktarten 
+		- Quasi-statischer Kontakt: Kontakt, bei dem ein Körperteil der Person zwischen dem Roboter und einem festen oder beweglichen Teil eingeklemmt wird 
+		- Transienter Kontakt: Kontakt, bei dem ein Körperteil frei zurückweichen kann (kein Einklemmungsrisiko) 
 
 
 # Integration von MRK-Anlagen 
