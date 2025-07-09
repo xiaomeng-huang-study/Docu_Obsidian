@@ -74,7 +74,9 @@
 - Zustimmungseinrichtungen für **alle Personen**, die sich im geschützten Bereich aufhalten 
 
 ###### Äußere Schutzeinrichtungen 
-- Schutzzäune (DIN EN ISO 13857): Fest eingebaut, Mindestsicherheitsabstände 
-- Lichtvorhänge (DIN EN ISO 13855): Nachlaufzeit und Annäherungsgeschwindigkeit 
+- trennende Schutzeinrichtungen 
+	- Schutzzäune (DIN EN ISO 13857): Fest eingebaut, Mindestsicherheitsabstände 
+- nichttrennende Schutzeinrichtungen 
+	- Lichtvorhänge (DIN EN ISO 13855): Nachlaufzeit und Annäherungsgeschwindigkeit 
 - Türsysteme: Geschlossen $\rightarrow$ Automatikbetrieb möglich; Geöffnet $\rightarrow$ nur manueller Betrieb (Lockout-Tagout) 
 
