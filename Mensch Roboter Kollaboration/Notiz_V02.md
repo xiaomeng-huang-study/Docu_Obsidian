@@ -29,7 +29,7 @@
 - Anwendungsanalyse 
 - Risikobeurteilung 
 - Sicherheits- und Automatisierungskonzept 
-	- Automatisierung: Stärken von Menschen und Robotern 
+	- Automatisierung: Aufgabenteilung zwischen Menschen und Roboter 
 	- Sicherheitskonzept 
 - Systemintegration 
 - Validierung der Sicherheitsfunktionen 
