@@ -61,6 +61,9 @@
 	- Panikstellung 
 
 ##### DIN EN ISO 10218-2 Robotersysteme und Integration 
+###### Definition Integration 
+- Einen Roboter mit anderen Maschinen zusammenzuführen, um ein Maschinesystem zu bilden. 
+
 ###### Kernprozess der Risikominderung: Gestaltung der Anordnung (Layout) 
 - Berücksichtigung: Physikalische Grenzen der Zelle; Arbeitsräume, Zugänge, Freiräume usw. 
 - Stoppfunktionen der **gesamten** Roboterzelle 
