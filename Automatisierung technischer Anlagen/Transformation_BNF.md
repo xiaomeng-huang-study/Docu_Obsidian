@@ -2,8 +2,9 @@
 2) $\underline{Q}_B^{-1}$ 
 3) $\underline{s}_1 =$ die letzte **Spalte** von $\underline{Q}_B^{-1}$ 
 4) $\underline{A} \cdot \underline{s}_1$ ; ...; $\underline{A}^{n-1} \cdot \underline{s}_1$ 
-5) $\underline{T}=\left[\underline{s}_{1}, \underline{A} \underline{s}_{1}, \ldots, \underline{A}^{n-1} \underline{s}_{1}\right]^{-1}$ (mit **Inverse**) 
-6) $\underline{T}^{-1}$ 
-7) $\begin{array}{ll}\underline{A}_B = \underline{T} \cdot \underline{A} \cdot \underline{T}^{-1} \\\underline{B}_B = \underline{T} \cdot \underline{B} \\ \underline{C}_B = \underline{C}^{T}\underline{T}^{-1} \\\underline{D}_B = \underline{D}  \\ \end{array}$ 
+5) $\left[\underline{s}_{1}, \underline{A} \underline{s}_{1}, \ldots, \underline{A}^{n-1} \underline{s}_{1}\right]$ 
+6) $\underline{T}=\left[\underline{s}_{1}, \underline{A} \underline{s}_{1}, \ldots, \underline{A}^{n-1} \underline{s}_{1}\right]^{-1}$ (mit **Inverse**) 
+7) $\underline{T}^{-1}$ 
+8) $\begin{array}{ll}\underline{A}_B = \underline{T} \cdot \underline{A} \cdot \underline{T}^{-1} \\\underline{B}_B = \underline{T} \cdot \underline{B} \\ \underline{C}_B = \underline{C}^{T}\underline{T}^{-1} \\\underline{D}_B = \underline{D}  \\ \end{array}$ 
 
 <img src="https://raw.githubusercontent.com/xiaomeng-huang-study/images_Automatisierung_Technischer_Anlagen/refs/heads/main/Scrennshot_2025-06-18_23-48-17.png?raw=" width="100%" /> 
