@@ -16,7 +16,7 @@
 
 # 3. Vorfilter $\underline{V}$ 
 - Verstärkungsfaktor für jeden Ausgang: $k_1, k_2, ~\cdots~ , k_q$ 
-- $\operatorname{inv}(\underline{D}^{\star}) = {\underline{D}^{\star}}^{-1}$ 
+- ${\underline{D}^{\star}}^{-1}$ 
 - $\underline{V} = {\underline{D}^{\star}}^{-1} \cdot \operatorname{diag.}(k_1, ~k_2, ~\cdots~, k_q)$ 
 
 
@@ -24,4 +24,4 @@
 - Koeffizient $p_{i, k}$ (für den $i$-ten Ausgang und die $k$-te Ordnung) 
 	- Für $y_1 ~(i=1)$ : $s^{2} + p_{1,1}\cdot s + p_{1,0}$ 
 	- Für $y_2 ~(i=2)$ : $s^{2} + p_{2,1}\cdot s + p_{2,0}$ 
-- $\underline{R}={\underline{D}^{\star}}^{-1} \cdot \left[\begin{array}{c}\underline{C}_{1}^{T} \underline{A}^{\delta_{1}}+\sum_{k=0}^{\delta_{1}-1} p_{1, k} \underline{C}_{1}^{T} \underline{A}^{k} \\\vdots \\\underline{C}_{q}^{T} \underline{A}^{\delta_{q}}+\sum_{k=0}^{\delta_{q}-1} p_{q, k} \underline{C}_{q}^{T} \underline{A}^{k} \\\end{array}\right]$ 
+- $\underline{R}={\underline{D}^{\star}}^{-1} \cdot \left[\begin{array}{c}\underline{C}_{1}^{T} \underline{A}^{\delta_{1}}+\sum_{k=0}^{\delta_{1}-1} p_{1, k} \underline{C}_{1}^{T} \underline{A}^{k} \\\vdots \\\underline{C}_{q}^{T} \underline{A}^{\delta_{q}}+\sum_{k=0}^{\delta_{q}-1} p_{q, k} \underline{C}_{q}^{T} \underline{A}^{k} \\\end{array}\right]$ (**Nicht mit $\underline{V}$**) 
