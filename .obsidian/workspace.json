@@ -11,10 +11,14 @@
             "id": "a3f7b64b62fa9d7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Theoretische Elektrotechnik/Notiz_Stationäre Felder.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notiz_Stationäre Felder"
             }
           }
         ]
