@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf9ef95927ab61a0",
+        "id": "df5c7c9086f1a8b1",
         "type": "tabs",
         "children": [
           {
-            "id": "3a3d82ccaec762a6",
+            "id": "fcbf5d0cb629751d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D-Bildverarbeitung/Notiz_Image Matching.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notiz_Image Matching"
+              "title": "New tab"
             }
           }
         ]
@@ -203,8 +199,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3a3d82ccaec762a6",
+  "active": "fcbf5d0cb629751d",
   "lastOpenFiles": [
+    "3D-Bildverarbeitung/Notiz_Image Matching.md",
     "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 2 Kameras.md",
     "3D-Bildverarbeitung/Notiz_Bildaufnahme mit 1 Kamera.md",
     "3D-Bildverarbeitung/Notiz_3D Features und Descriptors.md",
@@ -232,7 +229,6 @@
     "Theoretische Elektrotechnik/Notiz_elektrostatisches Feld.md",
     "WSL/Cuda-Acceleration.md",
     "Email/Email_20221230_FANUC.md",
-    "Email/Email_20221213_AGCO.md",
     "Masterarbeit/Bewerbung/Krone",
     "Masterarbeit/Bewerbung/ZeroClamp",
     "Masterarbeit/Bewerbung/Hella",
